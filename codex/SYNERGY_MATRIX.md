@@ -14,12 +14,18 @@
 
 ## Luck cluster
 
-| Component | Contribution | Interaction |
-|---|---|---|
-| Fate's Favored | +1 to qualifying luck bonuses | Applies after conversion only under campaign ruling |
-| Make Your Own Luck | Converts competence/insight/morale into luck | Opens Fate's Favored but may create non-stacking luck bonuses |
-| Inexplicable Luck (Mythic) | Large emergency d20 bonus | Best on dispel, initiative, save, or decisive skill check |
-| Seven-Pipped Gem / Fortune's Child | Hermes luck burst | Exact wording remains audit target |
+| Component | Contribution | Rules dependency | Verification |
+|---|---|---|---|
+| Fortune's Child | +1 to every applicable luck bonus | CR-01 | Verified Campaign Rule |
+| Fate's Favored | +1 to every applicable luck bonus | CR-02 | Verified Campaign Rule |
+| Separate modifiers | Both +1 modifiers apply to the same bonus | CR-03 | Verified Campaign Rule |
+| Make Your Own Luck | Converts competence/insight/morale; converted value gains +2 | CR-04 | Printed option + Verified Campaign Rule |
+| Seven-Pipped Gem | +10 any d20, +19 Gambling/Sleight of Hand at 17 HD | CR-05 | Verified Campaign Rule |
+| Luckstone | Permanent +3 on covered rolls/checks | CR-06 | Verified Campaign Rule |
+| Eyebrow Piercing of Confidence | +6 luck to all mental ability scores; legendary item | CR-07 | Verified Campaign Rule |
+| Invoke Deity (Luck) | All-day luck package via Ring of Continuation | CR-08 | Campaign use verified; source audit pending |
+| Inexplicable Luck (Mythic) | Large emergency d20 bonus | Printed source | Verified - focused extraction |
+| Bound by Honor | Additional mythic-power fuel | Vow choice | Verified - complete; GM Review |
 
 ## Action-economy cluster
 

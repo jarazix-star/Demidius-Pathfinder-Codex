@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.0.0 - 2026-07-13
+
+### Added
+
+- Canonical Markdown Campaign Rules Appendix with stable CR-01 through CR-14 identifiers.
+- Machine-readable `database/rules.json`.
+- Full top-level Luck Engine chapter documenting the Seven-Pipped Gem, Luckstone, Eyebrow Piercing of Confidence, Invoke Deity (Luck), and Make Your Own Luck interactions.
+- Repository architecture and Markdown-first workflow documentation.
+- YAML dependency metadata for campaign-rule-sensitive chapters.
+
+### Changed
+
+- Promoted the Git repository to the sole canonical source; DOCX/PDF files are exports only.
+- Updated Dispel Engine with the verified +10 Seven-Pipped Gem dispel burst and immediate-action conflicts.
+- Updated Synergy Matrix to replace pending luck questions with verified campaign rulings.
+- Replaced duplicated house-rule prose with links to stable CR identifiers.
+- Updated master codex and README for the 2.0 architecture.
+
 ## 1.1.0 - 2026-07-13
 
 ### Added

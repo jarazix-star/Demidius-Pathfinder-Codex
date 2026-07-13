@@ -1,30 +1,41 @@
+---
+title: Campaign Assumptions and House Rules
+version: 2.0.0
+status: canonical
+depends:
+  - CR-01
+  - CR-02
+  - CR-03
+  - CR-04
+  - CR-05
+  - CR-06
+  - CR-07
+  - CR-08
+  - CR-09
+  - CR-10
+  - CR-11
+  - CR-12
+  - CR-13
+  - CR-14
+---
+
 # Campaign Assumptions and House Rules
 
-## Demidius
+The canonical rule text is maintained in [Campaign Rules Appendix](../appendices/campaign-rules.md).
 
-1. Demidius can cast any wizard spell as a divine spell.
-2. The campaign permits extensive third-party Pathfinder 1e material.
-3. Custom Hermes obedience/divine-power options replace part of the normal obedience framework.
-4. Fate's Favored increases qualifying luck bonuses by +1.
-5. Spell Perfection does not double Fate's Favored, obedience boons, traits, item bonuses, class features, or mythic path abilities merely because a feat is involved in gaining them.
-6. Epic Leadership from the 3.5 Epic Level Handbook is used, including campaign-specific follower calculations and a x3 follower multiplier from items.
-7. The campaign progresses beyond 20th level and uses mythic rules.
+## Core dependencies
 
-## Character role assumptions
-
-- Primary role: magical defense removal, control, tempo, and party enablement.
-- Secondary roles: enchantment, social command, Leadership, utility, and long-duration buffing.
-- The rapier is a thematic backup weapon, not a primary damage engine.
+- Luck Engine: CR-01 through CR-08.
+- Wizard spells as divine spells: CR-09.
+- Spell Perfection interpretation: CR-10.
+- Custom Hermes obedience system: CR-11.
+- Epic Leadership: CR-12.
+- Post-20 and mythic progression: CR-13.
+- Demidius combat-role doctrine: CR-14.
 
 ## Aristea-related rules
 
-- Aristea has campaign-specific crafting acceleration, a x3-time demiplane, and special ray/sneak-attack interactions.
-- Her current soul imprisonment in Tartarus must be solved separately from resurrection magic.
+- Aristea has campaign-specific crafting acceleration, a ×3-time demiplane, and special ray/sneak-attack interactions.
+- Her soul imprisonment in Tartarus must be solved separately from resurrection magic.
 
-## Items requiring explicit GM review
-
-- Make Your Own Luck plus Fate's Favored.
-- Bound by Honor mythic-power conversion and repeated vows.
-- Companion Mythic Ability selections.
-- Monster abilities adapted as custom divine boons.
-- Inspired Spell's reach under the wizard-as-divine ruling.
+These rules will receive stable CR identifiers when their exact table wording is reconfirmed.

@@ -5,6 +5,9 @@ A private, source-backed Pathfinder 1e optimization knowledge base for **Demidiu
 ## Canonical sources
 
 - `codex/MASTER_CODEX.md` - primary human-readable reference
+- `appendices/campaign-rules.md` - canonical numbered campaign rulings
+- `database/rules.json` - machine-readable campaign-rule database
+- `docs/architecture.md` - repository data flow and update workflow
 - `database/options.csv` - searchable option index
 - `database/options.json` - machine-readable option data
 - `codex/SYNERGY_MATRIX.md` - cross-book mechanical relationships
@@ -41,3 +44,8 @@ python scripts/search_spells.py enchantment --tag enchantment
 ## Copyright
 
 This repository contains original analysis, ratings, summaries, source names, and page references. It does **not** include copyrighted Pathfinder PDFs or extensive copied rules text. The archived DOCX files are the user's own research documents and should remain private.
+
+
+## Markdown-first policy
+
+Markdown chapters and structured CSV/JSON data are the repository's source of truth. DOCX and PDF files in `exports/` are generated deliverables only. New campaign rulings are assigned stable `CR-##` identifiers in `appendices/campaign-rules.md`, mirrored in `database/rules.json`, and referenced by every dependent recommendation.

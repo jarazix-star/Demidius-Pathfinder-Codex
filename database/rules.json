@@ -1,0 +1,16 @@
+[
+  {"id":"CR-01","title":"Fortune's Child","status":"Verified Campaign Rule","rule":"Adds +1 to every applicable luck bonus.","depends_on":[]},
+  {"id":"CR-02","title":"Fate's Favored","status":"Verified Campaign Rule","rule":"Adds +1 to every applicable luck bonus and stacks with Fortune's Child.","depends_on":["CR-03"]},
+  {"id":"CR-03","title":"Separate luck modifiers","status":"Verified Campaign Rule","rule":"Fortune's Child and Fate's Favored are separate modifiers to the same qualifying luck bonus.","depends_on":[]},
+  {"id":"CR-04","title":"Make Your Own Luck conversion","status":"Verified Campaign Rule","rule":"Converted luck bonuses receive both +1 modifiers.","depends_on":["CR-01","CR-02","CR-03"]},
+  {"id":"CR-05","title":"Seven-Pipped Gem","status":"Verified Campaign Rule","rule":"At 17 HD grants +10 to any d20 or +19 to Gambling/Sleight of Hand after modifiers; immediate action; post-roll/pre-result; Charisma-bonus uses.","depends_on":["CR-01","CR-02","CR-03"]},
+  {"id":"CR-06","title":"Luckstone","status":"Verified Campaign Rule","rule":"The +1 luckstone bonus becomes +3 where applicable.","depends_on":["CR-01","CR-02","CR-03"]},
+  {"id":"CR-07","title":"Eyebrow Piercing of Confidence","status":"Verified Campaign Rule","rule":"Legendary item grants +6 luck to Intelligence, Wisdom, and Charisma and +5 Fatal Flaws DC.","depends_on":["CR-01","CR-02","CR-03"]},
+  {"id":"CR-08","title":"Invoke Deity (Luck)","status":"Verified Campaign Rule","rule":"Maintained via Ring of Continuation; applicable luck bonuses gain both +1 modifiers.","depends_on":["CR-01","CR-02","CR-03"]},
+  {"id":"CR-09","title":"Wizard spells as divine","status":"Verified Campaign Rule","rule":"Demidius can cast any wizard spell as a divine spell.","depends_on":[]},
+  {"id":"CR-10","title":"Spell Perfection interpretation","status":"Verified Campaign Rule","rule":"Does not automatically double traits, item bonuses, obedience boons, class features, or mythic abilities.","depends_on":[]},
+  {"id":"CR-11","title":"Custom obedience system","status":"Verified Campaign Rule","rule":"Custom Hermes system replaces part of normal obedience access/progression.","depends_on":[]},
+  {"id":"CR-12","title":"Epic Leadership","status":"Verified Campaign Rule","rule":"Campaign uses Epic Leadership and campaign follower multipliers.","depends_on":[]},
+  {"id":"CR-13","title":"Post-20 and mythic progression","status":"Verified Campaign Rule","rule":"Campaign progresses beyond level 20 and uses mythic and compatible 3PP rules.","depends_on":[]},
+  {"id":"CR-14","title":"Combat role doctrine","status":"Verified Build Assumption","rule":"Prioritize certainty, anti-magic, control, enablement, and social command over weapon damage.","depends_on":[]}
+]

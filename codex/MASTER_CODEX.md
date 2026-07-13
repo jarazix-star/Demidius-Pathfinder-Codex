@@ -1,0 +1,227 @@
+# The Demidius Pathfinder Research Codex
+
+**Repository Edition 1.0**  
+**Canonical status:** Active  
+**Last consolidated:** 2026-07-13
+
+## Verification Legend
+
+- **Verified:** underlying option text or an authoritative source index was inspected.
+- **Cross-referenced:** compared against Demidius's role, house rules, and known options.
+- **Recommended:** current optimization recommendation.
+- **GM Review:** verified option with campaign-dependent interpretation.
+- **Pending:** identified but not fully content-extracted.
+
+## Executive Build Doctrine
+
+Demidius should not compete with Maarin, the half-dragon cohort, or Aristea for raw damage. His best contribution is to remove magical protections, control action economy, enable allies, and then exploit exposed enemies with enchantment or battlefield control. The rapier remains a thematic backup weapon.
+
+### Current retraining direction
+
+1. Retrain **Deceitful**.
+2. Retrain **Conceal Spell** unless the campaign enters a sustained intrigue arc.
+3. Retrain **Diverse Obedience** if the custom system fully replaces its unique access/progression benefit.
+4. Strongly consider retraining **Divine Fighting Technique** because the rapier is backup-only.
+
+## Core Engine Recommendations
+
+### Mythic Greater Dispel Magic
+
+- **Type:** Mythic spell
+- **Rating:** S+
+- **Recommendation:** Keep; Spell Perfection target
+- **Verification:** Verified - focused extraction
+- **Source:** *Mythic Spell Compendium* (Legendary Games), PDF p. 75-76
+- **Citation record:** `Source text/page reference preserved in Optimization Codex v1.4`
+- **Tags:** dispel;counterspell;action economy;mythic
+- **GM Review:** No
+
+Roll twice against non-mythic effects, reroll mythic failures with power, automatic non-mythic counterspelling, and immediate-action augment.
+
+### Dispel Synergy (Mythic)
+
+- **Type:** Mythic feat
+- **Rating:** S+
+- **Recommendation:** Take after base Dispel Synergy
+- **Verification:** Verified - focused extraction
+- **Source:** *Mythic Hero's Handbook* (Legendary Games), PDF p. 148
+- **Citation record:** `Mythic Hero's Handbook PDF p. 148`
+- **Tags:** dispel;save penalty;party support
+- **GM Review:** No
+
+Extends Dispel Synergy to allied spells and prolongs the benefit for Demidius.
+
+### Make Your Own Luck
+
+- **Type:** Path ability
+- **Rating:** S+
+- **Recommendation:** Strongly recommended
+- **Verification:** Verified - focused extraction
+- **Source:** *Mythic Hero's Handbook / Mythic Minis Trickster II* (Legendary Games), PDF p. 30
+- **Citation record:** `Source/page preserved in Optimization Codex v1.4`
+- **Tags:** luck;Fate's Favored;bonus conversion
+- **GM Review:** Yes
+
+Converts competence, insight, or morale bonuses into luck bonuses, enabling Fate's Favored synergy under the campaign ruling.
+
+### Inexplicable Luck (Mythic)
+
+- **Type:** Mythic feat
+- **Rating:** A+
+- **Recommendation:** Strong reliability pick
+- **Verification:** Verified - focused extraction
+- **Source:** *Mythic Hero's Handbook* (Legendary Games), PDF p. 186
+- **Citation record:** `Mythic Hero's Handbook PDF p. 186`
+- **Tags:** luck;reroll;dispel;initiative
+- **GM Review:** No
+
+Provides a large emergency bonus before or after a decisive d20 roll.
+
+### High Clerist
+
+- **Type:** Path ability
+- **Rating:** A+
+- **Recommendation:** Recommended for campaign-scale play
+- **Verification:** Verified - focused extraction
+- **Source:** *Mythic Hero's Handbook* (Legendary Games), PDF p. 23
+- **Citation record:** `Mythic Hero's Handbook PDF p. 23`
+- **Tags:** leadership;religion;diplomacy;followers
+- **GM Review:** No
+
+Grants or upgrades Leadership, improves Diplomacy, and supports religious construction and crusades.
+
+### Bound by Honor
+
+- **Type:** Universal path ability
+- **Rating:** S
+- **Recommendation:** Audit vows, then consider
+- **Verification:** Verified - complete
+- **Source:** *Mythic Minis 10: Universal Path Abilities* (Legendary Games), PDF p. 2, printed p. 2
+- **Citation record:** `turn7file0 L26-L49`
+- **Tags:** mythic power;vow;mental defense
+- **GM Review:** Yes
+
+Can convert a monk vow into additional daily mythic power and provides protection against effects that violate vows.
+
+### Ever Ready
+
+- **Type:** Universal path ability
+- **Rating:** A+
+- **Recommendation:** Recommended
+- **Verification:** Verified - complete
+- **Source:** *Mythic Minis 10: Universal Path Abilities* (Legendary Games), PDF p. 2, printed p. 2
+- **Citation record:** `turn7file0 L50-L53`
+- **Tags:** surprise round;defense;initiative
+- **GM Review:** No
+
+Always act in surprise rounds and gain defense against readied actions.
+
+### Contingency Plan
+
+- **Type:** Universal path ability
+- **Rating:** S
+- **Recommendation:** Strongly recommended
+- **Verification:** Verified - complete
+- **Source:** *Mythic Minis 16: Universal Path Abilities II* (Legendary Games), PDF p. 2, printed p. 2
+- **Citation record:** `turn7file1 L68-L77`
+- **Tags:** contingency;action economy;defense;scrolls
+- **GM Review:** No
+
+Uses contingency as a spell-like ability and permits a companion spell from a scroll or other spell-completion item.
+
+### Companion Mythic Ability
+
+- **Type:** Universal path ability
+- **Rating:** S+ ceiling
+- **Recommendation:** Search mythic monster abilities before selection
+- **Verification:** Verified - complete
+- **Source:** *Mythic Minis 16: Universal Path Abilities II* (Legendary Games), PDF p. 2, printed p. 2
+- **Citation record:** `turn7file1 L110-L115`
+- **Tags:** cohort;companion;mythic monster ability
+- **GM Review:** Yes
+
+Grants a companion or cohort one mythic monster special ability appropriate to its creature type.
+
+### Inspired Spell
+
+- **Type:** Hierophant path ability
+- **Rating:** S+
+- **Recommendation:** Strongly recommended under house rule
+- **Verification:** Verified - official source index
+- **Source:** *Pathfinder RPG Mythic Adventures* (Paizo), PDF p. Hierophant section
+- **Citation record:** `Mythic Adventures Content Extraction Reference`
+- **Tags:** spell access;divine casting;wizard-as-divine
+- **GM Review:** Yes
+
+Spend mythic power to cast an unprepared divine spell; uniquely broad under the campaign wizard-as-divine ruling.
+
+### Eldritch Breach
+
+- **Type:** Archmage path ability
+- **Rating:** S
+- **Recommendation:** Recommended if path access permits
+- **Verification:** Verified - official source index
+- **Source:** *Pathfinder RPG Mythic Adventures* (Paizo), PDF p. Archmage section
+- **Citation record:** `Mythic Adventures Content Extraction Reference`
+- **Tags:** dispel;spell resistance;roll twice
+- **GM Review:** No
+
+Roll twice on caster-level checks to dispel, overcome SR, or determine whether magic affects a target.
+
+### Divine Metamastery
+
+- **Type:** Hierophant path ability
+- **Rating:** S
+- **Recommendation:** Core metamagic engine
+- **Verification:** Verified - official source index
+- **Source:** *Pathfinder RPG Mythic Adventures* (Paizo), PDF p. Hierophant section
+- **Citation record:** `Mythic Adventures Content Extraction Reference`
+- **Tags:** metamagic;action economy;quicken
+- **GM Review:** No
+
+Apply selected metamagic without increasing spell level or casting time for a duration.
+
+### Enduring Blessing
+
+- **Type:** Hierophant path ability
+- **Rating:** A+
+- **Recommendation:** Recommended
+- **Verification:** Verified - official source index
+- **Source:** *Pathfinder RPG Mythic Adventures* (Paizo), PDF p. Hierophant section
+- **Citation record:** `Mythic Adventures Content Extraction Reference`
+- **Tags:** buff;duration;24 hours
+- **GM Review:** No
+
+Extends a qualifying willing-target buff to 24 hours.
+
+### Flexible Counterspell
+
+- **Type:** Path ability
+- **Rating:** A+
+- **Recommendation:** Recommended unless redundant with mythic GDM
+- **Verification:** Verified - official source index
+- **Source:** *Pathfinder RPG Mythic Adventures* (Paizo), PDF p. Archmage/Hierophant sections
+- **Citation record:** `Mythic Adventures Content Extraction Reference`
+- **Tags:** counterspell;immediate action
+- **GM Review:** No
+
+Immediate-action counterspell using an identified spell and a slot of sufficient level.
+
+## Tactical Sequence
+
+1. **Identify:** determine active effects, contingencies, immunities, spell resistance, and caster level.
+2. **Strip:** use targeted Mythic Greater Dispel Magic against the key enemy.
+3. **Exploit:** apply Dispel Synergy so allies benefit from the saving-throw penalty.
+4. **Counter:** preserve mythic power or an immediate action for recovery, escape, or encounter-ending magic.
+5. **Lock:** use enchantment, dimensional control, force effects, or battlefield control after defenses fall.
+
+## Problem-Oriented Chapters
+
+- [Dispel and Counterspell](DISPEL_ENGINE.md)
+- [Luck](LUCK_ENGINE.md)
+- [Enchantment and Mental Defenses](ENCHANTMENT_ENGINE.md)
+- [Leadership and Dawnrunner](LEADERSHIP_ENGINE.md)
+- [Planar and Tartarus Operations](PLANAR_OPERATIONS.md)
+- [House Rules](HOUSE_RULES.md)
+- [Synergy Matrix](SYNERGY_MATRIX.md)
+- [Alphabetical Option Index](OPTION_INDEX.md)

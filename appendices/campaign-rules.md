@@ -1,6 +1,6 @@
 ---
 title: Campaign Rules Appendix
-version: 2.0.0
+version: 3.0.0
 status: canonical
 last_updated: 2026-07-13
 ---
@@ -114,6 +114,82 @@ This appendix is the canonical source for campaign-specific rulings used through
 - **Ruling:** Optimize first for certainty, magical defense removal, battlefield control, party enablement, and social command—not personal weapon damage.
 - **Consequence:** The rapier and Divine Fighting Technique are backup tools and retraining candidates.
 
+
+### CR-15 — Steadfast Personality house rule
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** Steadfast Personality adds Demidius's full Charisma modifier to **all Will saves**, replacing the feat's narrower published application.
+- **Build consequences:** Charisma directly improves defense against hostile Will-save effects and Fatal Flaws.
+
+### CR-16 — Demigod Fatal Flaw DC
+
+- **Status:** Verified Campaign Rule
+- **Base DC:** `20 + caster level`.
+- **Legendary-item modifier:** The Eyebrow Piercing of Confidence increases every Fatal Flaw DC by **5**.
+- **Current formula:** `25 + caster level`; at caster level 17, **DC 42**.
+- **Save:** Will, benefiting from CR-15 and any applicable luck effects.
+
+### CR-17 — Demidius's Fatal Flaws
+
+- **Status:** Verified Campaign Rule
+- **Daily gambling:** Demidius must gamble each day.
+- **Battle commitment:** After becoming engaged in a fight, Demidius must succeed at the Fatal Flaw save to voluntarily stop fighting.
+- **Misjudging intentions:** Demidius takes a **-20 penalty** when judging the intentions of women or effeminate men.
+- **Paranoia:** After using the Key of Daedalus, Demidius permanently gains Paranoia. On a failed Fatal Flaw save, he must act on paranoid impulses, such as spying on people or taking excessive precautions.
+
+### CR-18 — Key of Daedalus
+
+- **Status:** Verified Campaign Rule
+- **Item type:** Artifact.
+- **Universal unlocking:** As a full-round action, unlocks any mundane or magical lock. Godly magical locks require a spell-penetration check.
+- **Planar corridor:** Up to three times per day, creates an extradimensional corridor to a plane and location previously visited. The corridor remains for one week and may be used by anyone or anything.
+- **Maze mastery:** The wielder is immune to *maze*. Within the Labyrinth, the wielder may open any door and declare it the exit; the key makes it so.
+- **Permanent cost:** The first use permanently grants the Paranoia Fatal Flaw described in CR-17.
+
+## Strategic assets and artifact rules
+
+### CR-19 — Inherited demiplane access and time
+
+- **Status:** Verified Campaign Rule
+- **Origin:** Formerly owned by Demidius's deceased brother.
+- **Time:** May run three times faster or three times slower than outside time.
+- **Gate:** A stone circle with a 10-foot radius; the key is required to open it.
+- **Dionysian nexus:** Produces one bottle of watered-down Dionysian wine each month because the demiplane is partly built around a bottle of full-strength Dionysian wine.
+
+### CR-20 — Demiplane sleep blessing
+
+- **Status:** Verified Campaign Rule
+- **Effect on every sleep:** Full healing.
+- **First sleep only:** Permanent +50 maximum hit points.
+- **Permanent cost:** Loyalty Fatal Flaw triggered only in relation to the owner.
+
+### CR-21 — Loyalty recipients
+
+- **Status:** Verified Campaign Fact
+- **Demidius:** Has slept in the demiplane; gained +50 maximum hit points and Loyalty toward Demidius.
+- **Aristea:** Has slept in the demiplane; gained +50 maximum hit points and Loyalty toward Demidius.
+
+### CR-22 — Deck of Many Things
+
+- **Status:** Verified Campaign Fact
+- **Version:** Standard Pathfinder Deck of Many Things.
+- **State:** Untouched; no one has drawn from it.
+- **Use:** It is a usable but dangerous strategic resource.
+
+### CR-23 — Hermes's Boots of Speed
+
+- **Status:** Verified Campaign Artifact
+- **Provenance:** Gift from Hermes.
+- **3/day:** As a free action, quicken a spell.
+- **1/day:** Add +5 to the save DC of one spell.
+
+### CR-24 — Glasses of Beaumont
+
+- **Status:** Verified Campaign Artifact
+- **Provenance:** Gift from Queen Lidda Beaumont of Nysia.
+- **3/day:** Reveal a creature's alignment unerringly.
+- **3/day:** Use *true seeing*.
+
 ## Dependency map
 
 | Rule | Primary dependents |
@@ -129,6 +205,13 @@ This appendix is the canonical source for campaign-specific rulings used through
 | CR-12 | Leadership Engine |
 | CR-13 | Post-20 and mythic planning |
 | CR-14 | Recommendation and retraining priorities |
+| CR-15 | Charisma Dependency Map, Will saves, Fatal Flaw Defense |
+| CR-16–CR-17 | Fatal Flaw Defense, risk management, party procedures |
+| CR-18 | Artifact Compendium, planar operations, Fatal Flaw Defense |
+| CR-19–CR-21 | Infrastructure Engine, inherited demiplane, Loyalty registry |
+| CR-22 | Risk Management Engine, Deck ledger |
+| CR-23 | Action Economy and Magical Supremacy Engines |
+| CR-24 | Influence and Magical Supremacy Engines, campaign timeline |
 
 ## Change control
 

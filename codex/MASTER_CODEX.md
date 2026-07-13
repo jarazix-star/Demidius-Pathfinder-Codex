@@ -1,10 +1,33 @@
+---
+title: The Demidius Pathfinder Research Codex
+version: 3.0.0
+status: canonical
+---
+
 # The Demidius Pathfinder Research Codex
 
-**Repository Edition 2.0**  
-**Canonical status:** Active  
-**Last consolidated:** 2026-07-13
+**Repository Edition 3.0**  
+**Architecture:** Pillars → Engines → Systems → Databases → Research
 
-**Canonical campaign rules:** [Campaign Rules Appendix](../appendices/campaign-rules.md)
+Start here: [The Five Pillars of Demidius](01_PILLARS_OF_DEMIDIUS.md)
+
+## Navigation
+
+- [Preface](00_PREFACE.md)
+- [Pillars of Demidius](01_PILLARS_OF_DEMIDIUS.md)
+- [Build Philosophy](02_BUILD_PHILOSOPHY.md)
+- [Campaign Assumptions](03_CAMPAIGN_ASSUMPTIONS.md)
+- [Probability Engine](../engines/01_PROBABILITY_ENGINE.md)
+- [Magical Supremacy Engine](../engines/02_MAGICAL_SUPREMACY_ENGINE.md)
+- [Influence Engine](../engines/03_INFLUENCE_ENGINE.md)
+- [Infrastructure Engine](../engines/04_INFRASTRUCTURE_ENGINE.md)
+- [Divine Progression Engine](../engines/05_DIVINE_PROGRESSION_ENGINE.md)
+- [Action Economy Engine](../engines/06_ACTION_ECONOMY_ENGINE.md)
+- [Charisma Engine](../engines/07_CHARISMA_ENGINE.md)
+- [Risk Management Engine](../engines/08_RISK_MANAGEMENT_ENGINE.md)
+- [Campaign Rules](../appendices/campaign-rules.md)
+- [Fatal Flaws](../appendices/fatal_flaws.md)
+- [Artifact Compendium](ARTIFACT_COMPENDIUM.md)
 
 ## Verification Legend
 
@@ -16,7 +39,7 @@
 
 ## Executive Build Doctrine
 
-Under CR-14, Demidius should not compete with Maarin, the half-dragon cohort, or Aristea for raw damage. His best contribution is to remove magical protections, control action economy, enable allies, and then exploit exposed enemies with enchantment or battlefield control. The rapier remains a thematic backup weapon.
+Under CR-14, Demidius should not compete with Maarin, the half-dragon cohort, or Aristea for raw damage. His best contribution is to remove magical protections, control action economy, enable allies, and then exploit exposed enemies with enchantment or battlefield control. CR-15 makes Charisma a universal Will-save statistic, so Charisma investment also anchors his Fatal Flaw defense and daily luck-resource economy. The rapier remains a thematic backup weapon.
 
 ### Current retraining direction
 

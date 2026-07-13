@@ -1,0 +1,22 @@
+{
+  "probability": {
+    "name": "Probability",
+    "motto": "Control the die."
+  },
+  "magical_supremacy": {
+    "name": "Magical Supremacy",
+    "motto": "Control magic."
+  },
+  "influence": {
+    "name": "Influence",
+    "motto": "Control people and organizations."
+  },
+  "infrastructure": {
+    "name": "Infrastructure",
+    "motto": "Control conditions before combat."
+  },
+  "divinity": {
+    "name": "Divinity",
+    "motto": "Grow toward apotheosis."
+  }
+}

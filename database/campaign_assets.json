@@ -1,0 +1,16 @@
+[
+  {
+    "id": "SA-01",
+    "name": "Inherited Demiplane",
+    "status": "active",
+    "origin": "Demidius's deceased brother",
+    "file": "systems/campaign_assets/INHERITED_DEMIPLANE.md"
+  },
+  {
+    "id": "SA-02",
+    "name": "Dawnrunner",
+    "status": "active",
+    "origin": "Campaign ship",
+    "file": null
+  }
+]

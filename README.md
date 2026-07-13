@@ -1,51 +1,49 @@
 # The Demidius Pathfinder Research Codex
 
-A private, source-backed Pathfinder 1e optimization knowledge base for **Demidius Thorne**, the Dawnrunner campaign, mythic play, extensive third-party material, and progression beyond level 20.
+A private, source-backed Pathfinder 1e knowledge base and campaign operating manual for Demidius Thorne, the Dawnrunner campaign, mythic play, extensive third-party material, and post-20 progression.
 
-## Canonical sources
+## Start here
 
-- `codex/MASTER_CODEX.md` - primary human-readable reference
-- `appendices/campaign-rules.md` - canonical numbered campaign rulings
-- `database/rules.json` - machine-readable campaign-rule database
-- `docs/architecture.md` - repository data flow and update workflow
-- `database/options.csv` - searchable option index
-- `database/options.json` - machine-readable option data
-- `codex/SYNERGY_MATRIX.md` - cross-book mechanical relationships
-- `research/SOURCE_PROCESSING_LOG.md` - evidence and extraction status
-- `CHANGELOG.md` - repository history
+1. [`codex/01_PILLARS_OF_DEMIDIUS.md`](codex/01_PILLARS_OF_DEMIDIUS.md)
+2. [`codex/MASTER_CODEX.md`](codex/MASTER_CODEX.md)
+3. [`appendices/campaign-rules.md`](appendices/campaign-rules.md)
 
+## Architecture
 
-## Spell research datasets
+- **Pillars** explain why the build exists.
+- **Engines** explain how the strategy works.
+- **Systems** record artifacts, divine abilities, spells, leadership, and campaign assets.
+- **Databases** provide searchable structured data.
+- **Campaign** preserves timeline, notable figures, and strategic assets.
+- **Research** tracks extraction status and unresolved questions.
+- **Exports** are generated deliverables, never the canonical source.
 
-- `reference/spells/mythic_spell_compendium_demidius_sweep.csv` - full 2,100-entry spell-by-spell Demidius relevance sweep.
-- `reference/spells/mythic_spell_compendium_demidius_sweep.json` - machine-readable spell dataset.
-- `reference/spells/mythic_magic_core_spells_demidius_sweep.csv` - full 393-entry Core Spells sweep.
-- `reference/spells/mythic_magic_core_vs_compendium_difference_audit.csv` - version-difference audit.
-- `reference/spells/MYTHIC_SPELL_COMPENDIUM_SWEEP.md` - findings and top recommendations.
-- `reference/spells/CORE_SPELLS_DIFFERENCE_AUDIT.md` - comparison methodology and flagged changes.
+## Five pillars
 
-Search them with:
+- Probability — control the die.
+- Magical Supremacy — control magic.
+- Influence — control people and organizations.
+- Infrastructure — control conditions before combat.
+- Divinity — grow toward apotheosis.
+
+## Key canonical files
+
+- `database/options.csv` and `database/options.json`
+- `database/rules.json`
+- `database/artifacts.json`
+- `database/divine_abilities.json`
+- `database/campaign_assets.json`
+- `database/pillars.json`
+- `reference/spells/` complete mythic spell sweeps and difference audit
+
+## Validation
 
 ```bash
-python scripts/search_spells.py dispel
-python scripts/search_spells.py --rating S
-python scripts/search_spells.py enchantment --tag enchantment
+python scripts/validate_options.py
+python scripts/validate_rules.py
+python scripts/validate_repository.py
 ```
-
-## Verification statuses
-
-- **Verified - complete:** entire short source or relevant mechanical section read and evaluated.
-- **Verified - focused extraction:** source was available, but only Demidius-relevant options were promoted.
-- **Verified - official source index:** official source fully indexed; promoted option still needs final character-sheet cross-check.
-- **Partial comparison:** selected entries compared, not a complete source audit.
-- **Archive-level index:** filenames and product lines identified only.
-- **GM Review:** mechanically verified, but interpretation or selection depends on campaign rulings.
 
 ## Copyright
 
-This repository contains original analysis, ratings, summaries, source names, and page references. It does **not** include copyrighted Pathfinder PDFs or extensive copied rules text. The archived DOCX files are the user's own research documents and should remain private.
-
-
-## Markdown-first policy
-
-Markdown chapters and structured CSV/JSON data are the repository's source of truth. DOCX and PDF files in `exports/` are generated deliverables only. New campaign rulings are assigned stable `CR-##` identifiers in `appendices/campaign-rules.md`, mirrored in `database/rules.json`, and referenced by every dependent recommendation.
+The repository contains original analysis, ratings, summaries, source names, and page references. It does not redistribute copyrighted Pathfinder PDFs or extensive copied rules text.

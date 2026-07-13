@@ -1,0 +1,9 @@
+[
+  {
+    "id": "DA-01",
+    "name": "Seven-Pipped Gem",
+    "type": "Divine Ability",
+    "source": "Hermes custom divine progression",
+    "file": "systems/divine_abilities/SEVEN_PIPPED_GEM.md"
+  }
+]

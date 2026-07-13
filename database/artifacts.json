@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A-01",
+    "name": "Eyebrow Piercing of Confidence",
+    "status": "active",
+    "type": "Artifact / Legendary Item",
+    "provenance": "Legendary item",
+    "file": "systems/artifacts/EYEBROW_PIERCING_OF_CONFIDENCE.md"
+  },
+  {
+    "id": "A-02",
+    "name": "Key of Daedalus",
+    "status": "active",
+    "type": "Artifact",
+    "provenance": "Campaign acquisition",
+    "file": "systems/artifacts/KEY_OF_DAEDALUS.md"
+  },
+  {
+    "id": "A-03",
+    "name": "Deck of Many Things",
+    "status": "untouched",
+    "type": "Major Artifact",
+    "provenance": "Campaign acquisition",
+    "file": "systems/artifacts/DECK_OF_MANY_THINGS.md"
+  },
+  {
+    "id": "A-04",
+    "name": "Hermes's Boots of Speed",
+    "status": "active",
+    "type": "Divine Artifact Gift",
+    "provenance": "Gift from Hermes",
+    "file": "systems/artifacts/HERMES_BOOTS_OF_SPEED.md"
+  },
+  {
+    "id": "A-05",
+    "name": "Glasses of Beaumont",
+    "status": "active",
+    "type": "Artifact Gift",
+    "provenance": "Gift from Queen Lidda Beaumont",
+    "file": "systems/artifacts/GLASSES_OF_BEAUMONT.md"
+  }
+]

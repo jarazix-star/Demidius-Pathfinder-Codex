@@ -1,5 +1,36 @@
 # Change Log
 
+## 3.0.0 — Pillars architecture and campaign asset integration
+
+- Added the Five Pillars of Demidius as the codex front door.
+- Renamed Luck Engine to Probability Engine and Dispel Engine to Magical Supremacy Engine.
+- Added Influence, Infrastructure, Divine Progression, Action Economy, Charisma, and Risk Management engines.
+- Corrected Seven-Pipped Gem from artifact to divine ability.
+- Added canonical artifact entries for the Eyebrow Piercing, Key of Daedalus, Deck of Many Things, Hermes's Boots, and Glasses of Beaumont.
+- Added the inherited demiplane, blessing registry, time control, Dionysian wine generation, and Loyalty Fatal Flaw.
+- Added CR-19 through CR-24 and synchronized `database/rules.json`.
+- Added campaign timeline entry for Queen Lidda Beaumont slaying Ares during the Culling.
+- Added pillar-impact, artifact, divine-ability, and campaign-asset databases.
+- Added v3 repository validation and compatibility pointers for renamed chapters.
+
+## 2.1.0 - 2026-07-13
+
+### Added
+
+- Canonical Charisma Dependency Map with direct, indirect, and legendary-item dependencies.
+- Fatal Flaw Defense chapter with DC formula, flaw matrix, and party procedures.
+- Artifact Compendium entries for the Eyebrow Piercing of Confidence and Key of Daedalus.
+- Campaign rules CR-15 through CR-18 for Steadfast Personality, Fatal Flaw DCs, Demidius's flaws, and the Key of Daedalus.
+- Charisma and Fatal Flaw clusters in the Synergy Matrix.
+
+### Corrected
+
+- Clarified that the Eyebrow Piercing grants +6 to the Charisma **score**, ordinarily increasing the Charisma modifier and Charisma-linked rolls by +3—not +6 directly.
+
+### Changed
+
+- Updated Master Codex, Luck Engine, House Rules, README, and documentation index with stable links and rule dependencies.
+
 ## 2.0.0 - 2026-07-13
 
 ### Added

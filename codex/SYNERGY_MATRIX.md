@@ -56,3 +56,42 @@
 | Planar Savant | Anti-banishment, navigation, divinations | Survive and navigate Tartarus |
 | Contingency Plan | Emergency extraction or survival response | Protect mission-critical characters |
 | Mythic resurrection | Efficient restoration | Only after Aristea's soul is released |
+
+
+## Charisma infrastructure cluster
+
+| Component | Contribution | Rules dependency | Verification |
+|---|---|---|---|
+| Eyebrow Piercing of Confidence | +6 Charisma score, ordinarily +3 to the modifier | CR-07 | Verified Campaign Rule |
+| Steadfast Personality | Full Charisma modifier to every Will save | CR-15 | Verified Campaign Rule |
+| Seven-Pipped Gem | Uses/day equal Charisma bonus | CR-05 | Verified Campaign Rule |
+| Leadership | Charisma increases Leadership score | CR-12 | Verified Campaign Rule |
+| Fatal Flaw resistance | Charisma-enhanced Will save against DC 25 + CL | CR-15, CR-16 | Verified Campaign Rule |
+
+## Fatal Flaw risk cluster
+
+| Risk | Mechanical effect | Countermeasure |
+|---|---|---|
+| Daily gambling | Mandatory daily behavior | Controlled scheduled wager |
+| Battle commitment | Save required to stop fighting | Preplanned extraction and ally authority |
+| Misjudging intentions | -20 against women or effeminate men | Independent verification and divination |
+| Paranoia | Spying/excessive precautions on failed save | Trusted-officer review and decision protocol |
+
+
+## Pillar-level synergy additions (v3.0)
+
+### Seven-Pipped Gem → Mythic Greater Dispel
+
+Divine ability provides a post-roll +10 luck burst at 17 HD, but competes for the immediate action with reactive counterspelling.
+
+### Hermes's Boots → Magical Supremacy
+
+Free-action quicken 3/day allows a dispel-plus-control turn while preserving the normal action and swift action. The 1/day +5 DC effect is reserved for the decisive follow-up spell.
+
+### Glasses of Beaumont → Influence and Magical Supremacy
+
+Unerring alignment information and true seeing reduce the risk of magical deception before negotiation or combat.
+
+### Inherited Demiplane → Infrastructure and Influence
+
+Time control, full healing, permanent +50 maximum HP, and Loyalty create extraordinary strategic value and ethical responsibility.

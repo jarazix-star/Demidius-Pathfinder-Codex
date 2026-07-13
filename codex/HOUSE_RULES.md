@@ -17,6 +17,10 @@ depends:
   - CR-12
   - CR-13
   - CR-14
+  - CR-15
+  - CR-16
+  - CR-17
+  - CR-18
 ---
 
 # Campaign Assumptions and House Rules
@@ -32,6 +36,9 @@ The canonical rule text is maintained in [Campaign Rules Appendix](../appendices
 - Epic Leadership: CR-12.
 - Post-20 and mythic progression: CR-13.
 - Demidius combat-role doctrine: CR-14.
+- Steadfast Personality and Charisma-to-Will: CR-15.
+- Fatal Flaw DC and flaw definitions: CR-16–CR-17.
+- Key of Daedalus: CR-18.
 
 ## Aristea-related rules
 

@@ -1,16 +1,146 @@
 [
-  {"id":"CR-01","title":"Fortune's Child","status":"Verified Campaign Rule","rule":"Adds +1 to every applicable luck bonus.","depends_on":[]},
-  {"id":"CR-02","title":"Fate's Favored","status":"Verified Campaign Rule","rule":"Adds +1 to every applicable luck bonus and stacks with Fortune's Child.","depends_on":["CR-03"]},
-  {"id":"CR-03","title":"Separate luck modifiers","status":"Verified Campaign Rule","rule":"Fortune's Child and Fate's Favored are separate modifiers to the same qualifying luck bonus.","depends_on":[]},
-  {"id":"CR-04","title":"Make Your Own Luck conversion","status":"Verified Campaign Rule","rule":"Converted luck bonuses receive both +1 modifiers.","depends_on":["CR-01","CR-02","CR-03"]},
-  {"id":"CR-05","title":"Seven-Pipped Gem","status":"Verified Campaign Rule","rule":"At 17 HD grants +10 to any d20 or +19 to Gambling/Sleight of Hand after modifiers; immediate action; post-roll/pre-result; Charisma-bonus uses.","depends_on":["CR-01","CR-02","CR-03"]},
-  {"id":"CR-06","title":"Luckstone","status":"Verified Campaign Rule","rule":"The +1 luckstone bonus becomes +3 where applicable.","depends_on":["CR-01","CR-02","CR-03"]},
-  {"id":"CR-07","title":"Eyebrow Piercing of Confidence","status":"Verified Campaign Rule","rule":"Legendary item grants +6 luck to Intelligence, Wisdom, and Charisma and +5 Fatal Flaws DC.","depends_on":["CR-01","CR-02","CR-03"]},
-  {"id":"CR-08","title":"Invoke Deity (Luck)","status":"Verified Campaign Rule","rule":"Maintained via Ring of Continuation; applicable luck bonuses gain both +1 modifiers.","depends_on":["CR-01","CR-02","CR-03"]},
-  {"id":"CR-09","title":"Wizard spells as divine","status":"Verified Campaign Rule","rule":"Demidius can cast any wizard spell as a divine spell.","depends_on":[]},
-  {"id":"CR-10","title":"Spell Perfection interpretation","status":"Verified Campaign Rule","rule":"Does not automatically double traits, item bonuses, obedience boons, class features, or mythic abilities.","depends_on":[]},
-  {"id":"CR-11","title":"Custom obedience system","status":"Verified Campaign Rule","rule":"Custom Hermes system replaces part of normal obedience access/progression.","depends_on":[]},
-  {"id":"CR-12","title":"Epic Leadership","status":"Verified Campaign Rule","rule":"Campaign uses Epic Leadership and campaign follower multipliers.","depends_on":[]},
-  {"id":"CR-13","title":"Post-20 and mythic progression","status":"Verified Campaign Rule","rule":"Campaign progresses beyond level 20 and uses mythic and compatible 3PP rules.","depends_on":[]},
-  {"id":"CR-14","title":"Combat role doctrine","status":"Verified Build Assumption","rule":"Prioritize certainty, anti-magic, control, enablement, and social command over weapon damage.","depends_on":[]}
+  {
+    "id": "CR-01",
+    "title": "Fortune's Child",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Fortune's Child increases every applicable luck bonus Demidius receives by **+1**. - **Affected systems:** Luck Engine, Dispel Engine, ability scores, saves, skills, caster-level checks, and converted luck bonuses."
+  },
+  {
+    "id": "CR-02",
+    "title": "Fate's Favored",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Fate's Favored increases every applicable luck bonus Demidius receives by **+1**. - **Stacking:** It stacks with Fortune's Child under CR-03."
+  },
+  {
+    "id": "CR-03",
+    "title": "Separate modifiers to the same luck bonus",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Fortune's Child and Fate's Favored are separate modifiers. Both increase the same qualifying luck bonus. - **Standard formula:** `final luck bonus = base luck bonus + 1 (Fortune's Child) + 1 (Fate's Favored)`."
+  },
+  {
+    "id": "CR-04",
+    "title": "Make Your Own Luck conversion",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** When Make Your Own Luck converts a competence, insight, or morale bonus into a luck bonus, both Fortune's Child and Fate's Favored increase the converted bonus by **+1 each**. - **Net effect:** A converted bonus is normally **2 points larger** than its original value, subject to ordinary non-stacking rules for multiple luck bonuses."
+  },
+  {
+    "id": "CR-05",
+    "title": "Seven-Pipped Gem",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Base effect at 17 HD:** **+8 luck** to any d20 roll, equal to one-half Hit Dice. - **Gambling or Sleight of Hand:** **+17 luck**, equal to full Hit Dice. - **After CR-01 and CR-02:**   - Standard d20 roll: **+10 luck**.   - Gambling or Sleight of Hand: **+19 luck**. - **Timing:** May be declared before or after seeing the die, but before the GM announces success or failure. - **Action:** Immediate action; therefore normally once per round. - **Uses:** Up to Demidius's Charisma-bonus uses. - **Scope:** Any d20 roll, including caster-level and dispel checks."
+  },
+  {
+    "id": "CR-06",
+    "title": "Luckstone",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** The luckstone's base **+1 luck bonus** is increased by Fortune's Child and Fate's Favored. - **Final value:** **+3 luck** to each roll or check covered by the item."
+  },
+  {
+    "id": "CR-07",
+    "title": "Eyebrow Piercing of Confidence",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Item type:** Artifact and Demidius's **legendary item**. - **Base effect:** **+4 luck bonus** to Intelligence, Wisdom, and Charisma. - **After CR-01 and CR-02:** **+6 luck bonus** to all three mental ability scores. - **Additional effect:** Increases the DC of Fatal Flaws by **5**. - **Build consequences:** Raises oracle DCs, bonus spells, Charisma-based features and skills, Leadership, and Seven-Pipped Gem uses."
+  },
+  {
+    "id": "CR-08",
+    "title": "Invoke Deity (Luck) and Ring of Continuation",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Demidius commonly casts Invoke Deity (Luck) and uses a Ring of Continuation to maintain it as an all-day effect. - **Luck interaction:** Applicable luck bonuses granted by the spell are increased by CR-01 and CR-02. - **Audit note:** Record the exact spell version and each granted bonus in the option database when source text is reverified. ## Spellcasting rules"
+  },
+  {
+    "id": "CR-09",
+    "title": "Wizard spells as divine spells",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Demidius can cast any wizard spell as a divine spell. - **Optimization effect:** Wizard spells are valid recommendations and may interact with divine-only class features where the table permits."
+  },
+  {
+    "id": "CR-10",
+    "title": "Spell Perfection interpretation",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Spell Perfection does not double Fate's Favored, obedience boons, traits, item bonuses, class features, or mythic path abilities merely because a feat participates in obtaining them. - **Application:** Only bonuses that qualify under Spell Perfection's own wording are doubled. ## Character and campaign rules"
+  },
+  {
+    "id": "CR-11",
+    "title": "Custom obedience system",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Custom Hermes obedience/divine-power options replace part of the normal obedience framework. - **Build consequence:** Diverse Obedience is retrainable if its remaining +2 effective boon progression is not uniquely needed."
+  },
+  {
+    "id": "CR-12",
+    "title": "Epic Leadership",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** The campaign uses Epic Leadership from the 3.5 Epic Level Handbook, including campaign-specific follower calculations and item-based follower multipliers."
+  },
+  {
+    "id": "CR-13",
+    "title": "Post-20 and mythic progression",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** The campaign progresses beyond level 20 and uses mythic rules and compatible 3PP material."
+  },
+  {
+    "id": "CR-14",
+    "title": "Demidius's combat role",
+    "status": "Verified Build Assumption",
+    "text": "- **Status:** Verified Build Assumption - **Ruling:** Optimize first for certainty, magical defense removal, battlefield control, party enablement, and social command—not personal weapon damage. - **Consequence:** The rapier and Divine Fighting Technique are backup tools and retraining candidates."
+  },
+  {
+    "id": "CR-15",
+    "title": "Steadfast Personality house rule",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Ruling:** Steadfast Personality adds Demidius's full Charisma modifier to **all Will saves**, replacing the feat's narrower published application. - **Build consequences:** Charisma directly improves defense against hostile Will-save effects and Fatal Flaws."
+  },
+  {
+    "id": "CR-16",
+    "title": "Demigod Fatal Flaw DC",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Base DC:** `20 + caster level`. - **Legendary-item modifier:** The Eyebrow Piercing of Confidence increases every Fatal Flaw DC by **5**. - **Current formula:** `25 + caster level`; at caster level 17, **DC 42**. - **Save:** Will, benefiting from CR-15 and any applicable luck effects."
+  },
+  {
+    "id": "CR-17",
+    "title": "Demidius's Fatal Flaws",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Daily gambling:** Demidius must gamble each day. - **Battle commitment:** After becoming engaged in a fight, Demidius must succeed at the Fatal Flaw save to voluntarily stop fighting. - **Misjudging intentions:** Demidius takes a **-20 penalty** when judging the intentions of women or effeminate men. - **Paranoia:** After using the Key of Daedalus, Demidius permanently gains Paranoia. On a failed Fatal Flaw save, he must act on paranoid impulses, such as spying on people or taking excessive precautions."
+  },
+  {
+    "id": "CR-18",
+    "title": "Key of Daedalus",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Item type:** Artifact. - **Universal unlocking:** As a full-round action, unlocks any mundane or magical lock. Godly magical locks require a spell-penetration check. - **Planar corridor:** Up to three times per day, creates an extradimensional corridor to a plane and location previously visited. The corridor remains for one week and may be used by anyone or anything. - **Maze mastery:** The wielder is immune to *maze*. Within the Labyrinth, the wielder may open any door and declare it the exit; the key makes it so. - **Permanent cost:** The first use permanently grants the Paranoia Fatal Flaw described in CR-17. ## Strategic assets and artifact rules"
+  },
+  {
+    "id": "CR-19",
+    "title": "Inherited demiplane access and time",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Origin:** Formerly owned by Demidius's deceased brother. - **Time:** May run three times faster or three times slower than outside time. - **Gate:** A stone circle with a 10-foot radius; the key is required to open it. - **Dionysian nexus:** Produces one bottle of watered-down Dionysian wine each month because the demiplane is partly built around a bottle of full-strength Dionysian wine."
+  },
+  {
+    "id": "CR-20",
+    "title": "Demiplane sleep blessing",
+    "status": "Verified Campaign Rule",
+    "text": "- **Status:** Verified Campaign Rule - **Effect on every sleep:** Full healing. - **First sleep only:** Permanent +50 maximum hit points. - **Permanent cost:** Loyalty Fatal Flaw triggered only in relation to the owner."
+  },
+  {
+    "id": "CR-21",
+    "title": "Loyalty recipients",
+    "status": "Verified Campaign Fact",
+    "text": "- **Status:** Verified Campaign Fact - **Demidius:** Has slept in the demiplane; gained +50 maximum hit points and Loyalty toward Demidius. - **Aristea:** Has slept in the demiplane; gained +50 maximum hit points and Loyalty toward Demidius."
+  },
+  {
+    "id": "CR-22",
+    "title": "Deck of Many Things",
+    "status": "Verified Campaign Fact",
+    "text": "- **Status:** Verified Campaign Fact - **Version:** Standard Pathfinder Deck of Many Things. - **State:** Untouched; no one has drawn from it. - **Use:** It is a usable but dangerous strategic resource."
+  },
+  {
+    "id": "CR-23",
+    "title": "Hermes's Boots of Speed",
+    "status": "Verified Campaign Artifact",
+    "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Hermes. - **3/day:** As a free action, quicken a spell. - **1/day:** Add +5 to the save DC of one spell."
+  },
+  {
+    "id": "CR-24",
+    "title": "Glasses of Beaumont",
+    "status": "Verified Campaign Artifact",
+    "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Queen Lidda Beaumont of Nysia. - **3/day:** Reveal a creature's alignment unerringly. - **3/day:** Use *true seeing*."
+  }
 ]

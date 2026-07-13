@@ -1,40 +1,28 @@
-# Repository Architecture
-
-## Single source of truth
-
-Markdown and structured database files are canonical. DOCX and PDF files are exports only.
+# Repository Architecture v3.0
 
 ```text
-Source PDFs and campaign rulings
+Campaign facts and source PDFs
             ↓
-Content extraction and verification
+Verified rules and extraction notes
             ↓
-Structured data (CSV / JSON)
+Pillars (why)
             ↓
-Canonical Markdown chapters
+Engines (how)
             ↓
-Generated DOCX / PDF / website exports
+Systems (what/source category)
+            ↓
+Structured databases
+            ↓
+Generated indexes and exports
 ```
 
-## Canonical areas
+## Update protocol
 
-- `codex/` — problem-oriented build chapters.
-- `appendices/` — campaign rules and reference appendices.
-- `database/` — machine-readable options, sources, and rules.
-- `reference/` — comprehensive extraction datasets.
-- `research/` — processing state, open questions, and methodology.
-- `exports/` — generated artifacts; never the authoritative source.
-
-## Change workflow
-
-1. Verify source text or confirm a campaign ruling.
-2. Update the structured data.
-3. Update the relevant Markdown chapter.
-4. Update dependency links and processing status.
-5. Run validation scripts.
-6. Add a changelog entry.
-7. Commit with a focused message.
-
-## Campaign rule dependency workflow
-
-Rules use stable identifiers such as `CR-05`. Chapters list dependencies in YAML front matter and inline links. When a rule changes, repository-wide search identifies every affected recommendation.
+1. Add or revise the canonical campaign rule first.
+2. Update the matching JSON database.
+3. Add or revise the relevant system entry.
+4. Update every affected engine.
+5. Add pillar-impact metadata.
+6. Update the campaign timeline where provenance matters.
+7. Run validators.
+8. Record the change in `CHANGELOG.md`.

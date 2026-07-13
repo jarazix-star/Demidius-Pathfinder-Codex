@@ -11,6 +11,24 @@ A private, source-backed Pathfinder 1e optimization knowledge base for **Demidiu
 - `research/SOURCE_PROCESSING_LOG.md` - evidence and extraction status
 - `CHANGELOG.md` - repository history
 
+
+## Spell research datasets
+
+- `reference/spells/mythic_spell_compendium_demidius_sweep.csv` - full 2,100-entry spell-by-spell Demidius relevance sweep.
+- `reference/spells/mythic_spell_compendium_demidius_sweep.json` - machine-readable spell dataset.
+- `reference/spells/mythic_magic_core_spells_demidius_sweep.csv` - full 393-entry Core Spells sweep.
+- `reference/spells/mythic_magic_core_vs_compendium_difference_audit.csv` - version-difference audit.
+- `reference/spells/MYTHIC_SPELL_COMPENDIUM_SWEEP.md` - findings and top recommendations.
+- `reference/spells/CORE_SPELLS_DIFFERENCE_AUDIT.md` - comparison methodology and flagged changes.
+
+Search them with:
+
+```bash
+python scripts/search_spells.py dispel
+python scripts/search_spells.py --rating S
+python scripts/search_spells.py enchantment --tag enchantment
+```
+
 ## Verification statuses
 
 - **Verified - complete:** entire short source or relevant mechanical section read and evaluated.

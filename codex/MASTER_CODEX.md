@@ -225,3 +225,34 @@ Immediate-action counterspell using an identified spell and a slot of sufficient
 - [House Rules](HOUSE_RULES.md)
 - [Synergy Matrix](SYNERGY_MATRIX.md)
 - [Alphabetical Option Index](OPTION_INDEX.md)
+
+
+## Full Mythic Spell Research
+
+The repository now contains a complete structured relevance sweep for the two major Legendary Games mythic spell sources:
+
+- **2,100 unique entries** from *Mythic Spell Compendium*.
+- **393 entries** from *Mythic Magic: Core Spells*.
+- **392 exact-name matches** between the books.
+- **1 Core-only exact-name entry:** *Charm Persona*.
+- **Approximately 1,708 Compendium entries** without an exact-name Core counterpart.
+
+The canonical spell dataset is `reference/spells/mythic_spell_compendium_demidius_sweep.csv`. Every row includes a Demidius-specific rating, score, tags, rules summary, recommendation, verification status, and full source citation.
+
+### Source preference
+
+When a spell appears in both books, use the later *Mythic Spell Compendium* text unless the GM explicitly adopted the earlier *Core Spells* wording. The difference audit identifies unchanged, editorially revised, minor-revision, substantive-revision, and manual-review entries.
+
+### Search examples
+
+```bash
+python scripts/search_spells.py dispel
+python scripts/search_spells.py --rating S
+python scripts/search_spells.py luck --tag luck
+python scripts/search_spells.py "mind blank"
+```
+
+See:
+
+- [Full Spell Sweep](../reference/spells/MYTHIC_SPELL_COMPENDIUM_SWEEP.md)
+- [Core vs. Compendium Difference Audit](../reference/spells/CORE_SPELLS_DIFFERENCE_AUDIT.md)

@@ -1,5 +1,23 @@
 # Change Log
 
+## 1.1.0 - 2026-07-13
+
+### Added
+
+- Full spell-by-spell Demidius relevance sweep for all 2,100 unique entries extracted from *Mythic Spell Compendium*.
+- Full 393-entry relevance sweep for *Mythic Magic: Core Spells*.
+- Structured CSV and JSON datasets with rating, relevance score, tags, summaries, verification status, and exact book/PDF-page citations.
+- Complete exact-name and normalized-text difference audit between the two books.
+- Search utility: `scripts/search_spells.py`.
+- Manual-review queue for substantive differences, low-overlap comparisons, and the Core-only *Charm Persona* entry.
+
+### Changed
+
+- *Mythic Spell Compendium* source status upgraded from focused extraction to complete full-text spell extraction.
+- *Mythic Magic: Core Spells* status upgraded from partial comparison to complete spell extraction and difference audit.
+- Source preference standardized: use the later *Mythic Spell Compendium* wording when both books contain the same spell, absent a campaign-specific ruling.
+
+
 ## 1.0.0 - 2026-07-13
 
 ### Added

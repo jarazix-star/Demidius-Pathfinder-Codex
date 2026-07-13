@@ -1,6 +1,6 @@
 # Alphabetical Option Index
 
-This index is generated from `database/options.csv`. Search this file or the CSV/JSON database.
+Generated from `database/options.csv`.
 
 - **Ability Focus (Mythic)** - Monster feat - **Contextual S for custom abilities** - Mythic Minis 1: Monster Feats - `Verified - complete`
 - **Ascendant Spell-like Ability (Mythic)** - Monster feat - **Contextual A** - Mythic Minis 5: Feats of Monstrous Magic - `Verified - complete`

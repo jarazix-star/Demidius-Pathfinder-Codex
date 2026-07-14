@@ -1,0 +1,60 @@
+[
+  {
+    "publisher": "Super Genius Games",
+    "title": "Advanced Options: Fight Like a Pirate",
+    "year": 2012,
+    "pages": 10,
+    "status": "Complete content-level extraction",
+    "options_extracted": 14,
+    "high_value": [
+      "Navigator",
+      "Ship's Officer",
+      "Crown Privateer",
+      "Lookout"
+    ]
+  },
+  {
+    "publisher": "Super Genius Games",
+    "title": "Advanced Options: Oracle's Curses",
+    "year": 2010,
+    "pages": 6,
+    "status": "Complete content-level extraction",
+    "options_extracted": 17,
+    "high_value": [
+      "Addict",
+      "Drunkard",
+      "Provocative",
+      "Second Curse"
+    ]
+  },
+  {
+    "publisher": "Super Genius Games",
+    "title": "Advanced Options: Witches' Hexes",
+    "year": 2010,
+    "pages": 7,
+    "status": "Complete content-level extraction",
+    "options_extracted": 33,
+    "high_value": [
+      "Doom Gaze",
+      "Mock",
+      "Rune Hex",
+      "Wish Giver",
+      "Retainers",
+      "Whispers"
+    ]
+  },
+  {
+    "publisher": "Super Genius Games",
+    "title": "Advanced Options: Alchemists' Discoveries",
+    "year": 2011,
+    "pages": 9,
+    "status": "Complete content-level extraction",
+    "options_extracted": 33,
+    "high_value": [
+      "Spagyric Devices",
+      "Mass Production",
+      "Esoteric Studies",
+      "Homunculus"
+    ]
+  }
+]

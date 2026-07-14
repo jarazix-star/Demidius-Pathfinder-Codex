@@ -1,54 +1,5 @@
 # Change Log
 
-## 3.0.0 — Pillars architecture and campaign asset integration
-
-- Added the Five Pillars of Demidius as the codex front door.
-- Renamed Luck Engine to Probability Engine and Dispel Engine to Magical Supremacy Engine.
-- Added Influence, Infrastructure, Divine Progression, Action Economy, Charisma, and Risk Management engines.
-- Corrected Seven-Pipped Gem from artifact to divine ability.
-- Added canonical artifact entries for the Eyebrow Piercing, Key of Daedalus, Deck of Many Things, Hermes's Boots, and Glasses of Beaumont.
-- Added the inherited demiplane, blessing registry, time control, Dionysian wine generation, and Loyalty Fatal Flaw.
-- Added CR-19 through CR-24 and synchronized `database/rules.json`.
-- Added campaign timeline entry for Queen Lidda Beaumont slaying Ares during the Culling.
-- Added pillar-impact, artifact, divine-ability, and campaign-asset databases.
-- Added v3 repository validation and compatibility pointers for renamed chapters.
-
-## 2.1.0 - 2026-07-13
-
-### Added
-
-- Canonical Charisma Dependency Map with direct, indirect, and legendary-item dependencies.
-- Fatal Flaw Defense chapter with DC formula, flaw matrix, and party procedures.
-- Artifact Compendium entries for the Eyebrow Piercing of Confidence and Key of Daedalus.
-- Campaign rules CR-15 through CR-18 for Steadfast Personality, Fatal Flaw DCs, Demidius's flaws, and the Key of Daedalus.
-- Charisma and Fatal Flaw clusters in the Synergy Matrix.
-
-### Corrected
-
-- Clarified that the Eyebrow Piercing grants +6 to the Charisma **score**, ordinarily increasing the Charisma modifier and Charisma-linked rolls by +3—not +6 directly.
-
-### Changed
-
-- Updated Master Codex, Luck Engine, House Rules, README, and documentation index with stable links and rule dependencies.
-
-## 2.0.0 - 2026-07-13
-
-### Added
-
-- Canonical Markdown Campaign Rules Appendix with stable CR-01 through CR-14 identifiers.
-- Machine-readable `database/rules.json`.
-- Full top-level Luck Engine chapter documenting the Seven-Pipped Gem, Luckstone, Eyebrow Piercing of Confidence, Invoke Deity (Luck), and Make Your Own Luck interactions.
-- Repository architecture and Markdown-first workflow documentation.
-- YAML dependency metadata for campaign-rule-sensitive chapters.
-
-### Changed
-
-- Promoted the Git repository to the sole canonical source; DOCX/PDF files are exports only.
-- Updated Dispel Engine with the verified +10 Seven-Pipped Gem dispel burst and immediate-action conflicts.
-- Updated Synergy Matrix to replace pending luck questions with verified campaign rulings.
-- Replaced duplicated house-rule prose with links to stable CR identifiers.
-- Updated master codex and README for the 2.0 architecture.
-
 ## 1.1.0 - 2026-07-13
 
 ### Added
@@ -89,3 +40,28 @@
 - Mythic Adventures extraction references.
 - PF1e Mythic Optimization Encyclopedia.
 - Demidius field/reference guide.
+
+
+## v3.2 — Super Genius Advanced Options
+
+- Completed content-level extraction of four Super Genius Games PDFs.
+- Added 97 indexed options with page citations, ratings, tags, pillar impacts, and campaign relevance.
+- Added four book reports, source registry, and high-value index.
+- Elevated Navigator, Doom Gaze, Wish Giver, Rune Hex, Spagyric Devices, Mass Production, and Esoteric Studies for further review.
+
+
+## v3.3 — Super Genius Batch 2
+
+- Completed content-level extraction of 6 additional books.
+- Added 126 indexed options with page references, ratings, tags, and pillar relevance.
+- Added per-book reports, a batch high-value index, and a combined Super Genius database.
+
+## v3.4 — Integrated Codex Update
+
+- Promoted high-value extracted material into active Codex recommendations.
+- Added a Super Genius/Rogue Genius integration chapter.
+- Added Magical Supremacy and Infrastructure engine addenda.
+- Added Dawnrunner officer and follower recommendations.
+- Added a cross-Pillar synergy matrix.
+- Added individual recommendation pages with source, page, verification, and acquisition status.
+- Distinguished source verification from campaign legality and acquisition.

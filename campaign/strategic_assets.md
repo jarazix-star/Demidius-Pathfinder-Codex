@@ -96,7 +96,7 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - Acquire *wandering weather* for Demidius as soon as possible and verify its source and ship-speed interaction; it could tremendously accelerate the Dawnrunner.
 - Reserve daily artifact uses according to mission priority.
 - Keep the Deck untouched unless the campaign situation justifies irreducible risk.
-- Secure Declan's Wayfinder and identify his former second-in-command and the paired Wayfinder.
+- Secure Declan's Wayfinder and determine who controls the Wayfinder associated with Sly, his deceased second-in-command.
 - Define Sounon's anchorage, defenses, governance, and supply routes before treating it as a secure base.
 - Decide whether to approve Maarin's proposed transfer of the Sunlit Chain claim to Dame Mathilda.
 

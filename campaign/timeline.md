@@ -21,9 +21,9 @@ Approximately one hundred years after the previous campaign, the heroes began on
 
 By 150 P.A., the Lodingen Republic had become the Lodingen Empire, the Fye Empire had fallen, Nysia had risen as a semi-constitutional monarchy, and the Isles of Berres had expanded.
 
-### CY-2026-06-28 — The Culling: Beaumont Slays Ares
+### CY-2026-06-28 — The Culling begins: Beaumont slays Ares
 
-Outside the port of Tradegulf, Ares challenged Queen Lidda Beaumont of Nysia. Beaumont offered him a final opportunity to withdraw and seek reconciliation with the New Gods. Ares refused and attacked.
+The 55 deaths at the Battle for Tradegulf triggered the Culling early. Immediately after Declan died, the world shook, the ocean split open, Maarin's storm faded, and the heavens broke. Outside the port of Tradegulf, Ares then challenged Queen Lidda Beaumont of Nysia. Beaumont offered him a final opportunity to withdraw and seek reconciliation with the New Gods. Ares refused and attacked.
 
 Beaumont drew a longsword with red tassels, referred to it as “our blade” while addressing Perlot, and decapitated Ares in one blow.
 
@@ -38,13 +38,33 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 
 ## Verified milestones — date not yet recorded
 
+### Philomela escapes Lodingen with Demidius
+
+During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the Tagata Fetu on Motu Leilani.
+
+### Demidius leaves Motu Leilani
+
+Ten years before the present account, the Tagata Fetu lorekeeper Fetu’mana received a vision that Demidius must leave the island and seek his scattered siblings. Philomela revealed the craft she had hidden and entrusted him with what she knew of some of his kin. Demidius began searching the Isles for Siopi, Paradox, and others still unknown.
+
+### Demidius recovers a long-lost vessel
+
+After years of wandering, Demidius recently recovered a vessel that had vanished at sea a decade earlier. The backstory does not explicitly name the vessel, so its identification with the Dawnrunner remains unconfirmed.
+
 ### The divine schism
 
 Cronus escaped the Underworld and the old pantheon fractured into the New Gods, Lords of Order, Neutral Immortal Alliance, Titans of the Golden Court, Dogs of War, and primordial or undecided powers. The group fights for the New Gods and has fought the Lords of Order and Dogs of War.
 
 ### The Battle for Tradegulf
 
-The heroes fought for Tradegulf in Old Nysia. Maarin killed Sea Serpent Declan, one of the seven Pirate Kings, and the party took possession of his Wayfinder. Aristea died during the same battle, and her soul was subsequently imprisoned in Tartarus.
+The heroes fought for Tradegulf in Old Nysia. Maarin killed Sea Serpent Declan, one of the seven Pirate Kings, and the party took possession of his Wayfinder. Declan's second-in-command was Sly. Eris used *death knell* to kill both Sly and Aristea, made Aristea appear alive but unconscious, and pulled Aristea's soul into Tartarus.
+
+Immediately after Declan fell, Pat stood, assumed the appearance of a six-foot-tall woman, and revealed Eris's presence. Eris addressed Amparo as her future champion and declared the battle Amparo's first trial. After Eris vanished in a blinding flash, the party discovered that Aristea and Sly were dead. Eris then whispered to Amparo that they would meet again. The Dungeon Master's summary confirms that Amparo helped sow discord and completed the first trial toward becoming Eris's champion.
+
+During the associated auction, Odysseus lied to the party about the permitted death limit. The Dungeon Master's account states that the true limit was 40, while Eris told the auction participants it was 100. Participants used the apparent allowance to settle old debts, and the final kill count was 55.
+
+Those 55 deaths were sufficient to trigger the Culling early. It began immediately after the battle, leading directly into Queen Beaumont's confrontation with Ares.
+
+The witnessed onset occurred as soon as Declan died: the world shook, the ocean split open, Maarin's storm faded, and the heavens broke. The Eris-and-Pat revelation also belongs to this immediate aftermath, but the available accounts do not establish their exact second-by-second sequence.
 
 Declan's death reduced the active Council of Seven to six and left the Sunlit Chain without a lord.
 
@@ -90,7 +110,7 @@ Both are confirmed to have slept in the demiplane. Each received full healing, a
 
 ### Aristea's soul is trapped in Tartarus after Tradegulf
 
-Aristea died during the Battle for Tradegulf, but resurrection alone cannot return her because her soul is imprisoned. Recovery requires locating, reaching, and releasing the soul before restoration magic can succeed.
+Eris killed Aristea with *death knell* during the Battle for Tradegulf, concealed the death by making her appear alive but unconscious, and pulled her soul into Tartarus. Resurrection alone cannot return her because her soul is imprisoned. Recovery requires locating, reaching, and releasing the soul before restoration magic can succeed.
 
 ### Demidius receives the Glasses of Beaumont
 
@@ -105,7 +125,6 @@ Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouch
 - When did Demidius's brother die, and when did the inheritance occur?
 - When did Maarin receive the prophecy, where was Okeanikos's egg found, and who else sought it?
 - Was the Key of Daedalus acquired before or after the demiplane?
-- When did Aristea die relative to the opening of the Culling?
 - When did Hermes grant each divine gift?
 - When and why did Beaumont present the glasses?
 - When was the Dawnrunner acquired or commissioned?

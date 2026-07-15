@@ -15,9 +15,17 @@ Charisma-centered oracle, mythic controller, captain, party face, and demigod. D
 
 **Key relationships:** patronage from Hermes; alliance or gift relationship with Queen Beaumont; loyalty relationship with Aristea through the inherited demiplane; heir to his deceased brother's demiplane.
 
+Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts. Philomela fled with him from the Hellknight Order of the Godclaw and raised him among the Tagata Fetu on Motu Leilani. Ten years before the present account, the lorekeeper Fetu’mana received a vision sending Demidius to search for scattered siblings including Siopi and Paradox.
+
+## Amparo Decoris Ignatius
+
+A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is blessed of Hestia and was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future champion and confirmed that Amparo had completed a first trial by helping sow discord into the world. Whether Amparo knowingly accepted that path remains unrecorded.
+
 ## Queen Lidda Beaumont of Nysia
 
-Queen of Nysia, Slayer of War, and Minor Goddess of Dueling (War Subdomain). At the opening of the Culling, she offered Ares a chance to withdraw and reconcile with the New Gods. After he attacked, she killed him with a single decapitating strike outside Tradegulf.
+Queen of Nysia, Slayer of War, and Minor Goddess of Dueling (War Subdomain). Immediately after the Battle for Tradegulf's 55 deaths triggered the Culling early, she offered Ares a chance to withdraw and reconcile with the New Gods. After he attacked, she killed him with a single decapitating strike outside Tradegulf.
+
+The Culling's onset was physically witnessed after Declan died: the world shook, the ocean split, Maarin's storm faded, and the heavens broke.
 
 Beaumont rules Nysia from Arverdon Palace. The palace is her confirmed seat of rule, although the record does not yet establish whether it is also Nysia's formal capital.
 
@@ -27,9 +35,17 @@ Beaumont later gifted Demidius the Glasses of Beaumont, which provide alignment 
 
 Demidius's patron deity and the source of his custom obedience and divine-power progression. Confirmed gifts include the Seven-Pipped Gem divine ability and Hermes's Boots of Speed.
 
+## Eris and Pat
+
+Eris is a member of the Dogs of War associated with Discord, Destruction, and Rivalry. At the Battle for Tradegulf she appeared through the identity or form of Pat, killed Aristea and Sly, and declared the battle Amparo's first trial toward becoming her champion. The record does not establish whether Pat was a disguise, manifestation, host, or separate person.
+
 ## Aristea
 
-Level 17 neutral-good wizard of Nereus, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death at the Battle for Tradegulf. Aristea received the inherited demiplane's sleep blessing, including +50 maximum hit points and permanent Loyalty toward Demidius. Her soul is now trapped in Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
+Level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death at the Battle for Tradegulf. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed Aristea with *death knell*, made her appear alive but unconscious, and pulled her soul into Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
+
+## Sly
+
+Declan's second-in-command. Eris killed Sly with *death knell* during the Battle for Tradegulf. The present custody of the Wayfinder associated with Sly's former office is unknown.
 
 ## Ares
 

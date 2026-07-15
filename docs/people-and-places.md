@@ -14,6 +14,10 @@ This page collects the setting names that appear in the verified campaign record
 
 Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and servant of Hermes. See the [character overview](demidius-thorne.md).
 
+### Amparo Decoris Ignatius
+
+A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is blessed of Hestia, was born a one-quarter godling of Hestia's bloodline, and became a demigod by eating an Apple of Discord. At Tradegulf, Eris named Amparo her future champion and confirmed that the battle completed Amparo's first trial toward that path.
+
 ### Queen Lidda Beaumont of Nysia
 
 Queen of Nysia, Slayer of War, and Minor Goddess of Dueling. She killed Ares at the opening of the Culling and later gave Demidius the Glasses of Beaumont. Her willingness to offer reconciliation before accepting Ares's challenge is one of the few directly recorded clues to her conduct.
@@ -38,9 +42,17 @@ Demidius's patron deity. Hermes is the source of Demidius's custom obedience and
 
 The God of War killed by Queen Beaumont outside Tradegulf. He refused an opportunity to withdraw and reconcile with the New Gods before attacking.
 
+### Eris and Pat
+
+Eris appeared through the identity or form of Pat at the end of the Battle for Tradegulf. Pat assumed the appearance of a six-foot-tall woman, addressed Amparo as Eris's future champion, and vanished after declaring the battle Amparo's first trial. Whether Pat was a disguise, manifestation, host, or separate person remains unknown.
+
 ### Aristea
 
-A level 17 neutral-good wizard of Nereus, item creator, shapeshifter, Demidius's cohort, and navigator of the Dawnrunner before her death. She is one of two confirmed recipients of the inherited demiplane's sleep blessing. She has died, and her soul is currently trapped in Tartarus. The known campaign objective is to release her soul before attempting resurrection.
+A level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, item creator, shapeshifter, Demidius's cohort, and navigator of the Dawnrunner before her death. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed her with *death knell* during the Battle for Tradegulf, made her appear alive but unconscious, and pulled her soul into Tartarus. The known campaign objective is to release her soul before attempting resurrection.
+
+### Sly
+
+Declan's second-in-command. Eris killed Sly with *death knell* during the Battle for Tradegulf. The current custody of the Wayfinder associated with Sly's office is unknown.
 
 ### Okeanikos
 
@@ -60,7 +72,19 @@ A chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to a
 
 ### Aelwyn
 
-A platinum-skinned female paladin, officer aboard Maarin's *Matcha Frappuccino*, child of Smokey Roberts, half-sister of Demidius, and well-known folk hero in the Sunlit Chain. Aelwyn attacked the slaving operation on Ironclaw Isle, where captives were being worked to death in a platinum mine. She killed the Iron Tyrant's heir and daughter. The daughter was a quarter-godling of Alexander and the heir of one of his demigods, leading Alexander to curse Aelwyn. The Sunken Enclave has placed a bounty on Aelwyn and the rest of the party; Aelwyn knows why she is wanted but not why the others are targets.
+A platinum-skinned female paladin, officer aboard Maarin's *Matcha Frappuccino*, child of Smokey Roberts, paternal half-sister of Demidius, and well-known folk hero in the Sunlit Chain. Aelwyn attacked the slaving operation on Ironclaw Isle, where captives were being worked to death in a platinum mine. She killed the Iron Tyrant's heir and daughter. The daughter was a quarter-godling of Alexander and the heir of one of his demigods, leading Alexander to curse Aelwyn. The Sunken Enclave has placed a bounty on Aelwyn and the rest of the party; Aelwyn knows why she is wanted but not why the others are targets.
+
+### Philomela Thorne
+
+Demidius's radiant and enigmatic mother. She fled Lodingen with him to escape the Hellknight Order of the Godclaw, found refuge on Motu Leilani, and revealed his descent from Aphrodite. She later provided what she knew of his scattered siblings when Fetu’mana's vision sent him away.
+
+### Fetu’mana
+
+Lorekeeper of the Tagata Fetu, whose name means Star Spirit. Many expected Demidius to inherit Fetu’mana's oracle mantle, but the lorekeeper instead received a vision directing him to seek his siblings.
+
+### Siopi and Paradox
+
+Siopi is Demidius's half-sibling and Paradox is his half-brother. Their parentage, locations, abilities, and present relationships with Demidius remain unrecorded.
 
 ## Organizations and vessels
 
@@ -86,7 +110,7 @@ A divine grouping or order mentioned in Queen Beaumont's final offer to Ares. Th
 
 ### Tradegulf
 
-A city in Old Nysia where Queen Beaumont fought and killed Ares at the opening of the Culling. The heroes later fought there; Maarin killed Declan and Aristea died in that battle. The historical map places Tradegulf east of Greyridge, north of Weirworth Falls, and west of the Acis River corridor toward Glistria.
+A city in Old Nysia where two immediately connected conflicts occurred. During the Battle for Tradegulf, Maarin killed Declan while Eris killed Sly and Aristea with *death knell* and pulled Aristea's soul into Tartarus. The battle's 55 deaths triggered the Culling early; immediately afterward, Queen Beaumont killed Ares outside the port at the Culling's opening. The historical map places Tradegulf east of Greyridge, north of Weirworth Falls, and west of the Acis River corridor toward Glistria.
 
 ### Nysia
 
@@ -96,9 +120,21 @@ A rising semi-constitutional monarchy ruled by Queen Lidda Beaumont from Arverdo
 
 Queen Lidda Beaumont's seat of rule in Nysia. The Old Nysia map depicts it as a major fortified palace southwest of Glistria. Its court, defenses, household, government offices, and status as or distinction from the formal capital remain unrecorded.
 
+### Glistria
+
+A large fortified coastal city in Old Nysia, east of Tradegulf along the Acis River corridor and beside Alpamyo Mountain. Its detailed map depicts a central Keep, ten named districts or quarters, markets, guild facilities, shrines, gates, parks, workshops, and ruins. Its current government, population, allegiance, and relationship to Arverdon Palace remain unrecorded. See [Glistria](glistria.md).
+
+### Misthold
+
+The supplied name for a cloud-covered archipelago or region and for a prominent fortified settlement shown on its map. Other mapped sites include the Diamond Palace, Mistguard, Pythopolis, Song Village, Duskmarsh Haven, Snowfort, Juniper Light, the Heavengazer, Plague Lake, and Arcanerift Cove. Its position within Zatera, government, and present alliances remain unrecorded. See [Misthold](misthold.md).
+
 ### Zatera
 
 The world of the campaign, mapped in 150 P.A. Major named lands include Lodingen, Drozag, Yusia, Teecen, Yalta, Polemosland, Hoterra, Prathia, Nysia, Trazac, Salleria, Fritia, and the Isles of Berres. See the [Campaign Setting](campaign-setting.md).
+
+### Motu Leilani and the Tagata Fetu
+
+Motu Leilani, the Heavenly Island, is a secluded island deep in the Isles of Berres where Philomela raised Demidius after their escape from Lodingen. Its people, the Tagata Fetu or People of the Stars, taught Demidius spirit and tribal magic through juju chants and dances.
 
 ### Sounon
 
@@ -150,4 +186,4 @@ A private sanctuary formerly owned by Demidius's brother. It has adjustable time
 - The deceased brother's name and the history of the demiplane.
 - The exact nature of Aristea's prison in Tartarus.
 - Whether the Post-Arrival calendar begins with Fel's arrival or Cronus's release.
-- Declan's former second-in-command and the custody of the paired Wayfinder.
+- The custody of the Wayfinder associated with Sly, Declan's deceased second-in-command.

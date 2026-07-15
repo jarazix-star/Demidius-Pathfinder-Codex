@@ -1,5 +1,52 @@
 # Change Log
 
+## The witnessed onset of the Culling
+
+- Recorded that the Culling began immediately after Declan died.
+- Added its witnessed signs: the world shaking, the ocean splitting open, Maarin's storm fading, and the heavens breaking.
+- Kept the exact ordering between the Culling's rupture and Eris's simultaneous post-Declan revelation open.
+
+## Eris reveals Amparo's first trial
+
+- Recorded Pat as the identity or form through which Eris appeared after Declan fell.
+- Recorded Eris naming Amparo her future champion and declaring Tradegulf their first trial.
+- Added the Dungeon Master's confirmation that Amparo helped sow discord and completed the first trial toward becoming Eris's champion.
+- Preserved as open questions Amparo's prior awareness or consent and whether Pat was a disguise, manifestation, host, or separate person.
+
+## Misthold map
+
+- Added the supplied map of Misthold to the project and wiki.
+- Added dedicated Misthold pages indexing its settlements, strongholds, towers, beacons, and unusual geography.
+- Linked Misthold from the setting guide, people-and-places indexes, and wiki sidebar while leaving its position in Zatera and current politics open.
+
+## Glistria map
+
+- Added the supplied detailed map of Glistria in web-friendly form.
+- Added dedicated project and wiki pages indexing Glistria's districts, major landmarks, businesses, geography, and unresolved current status.
+- Linked Glistria from Old Nysia, the setting guide, people-and-places indexes, and the wiki sidebar.
+
+## Tradegulf deaths and Sly
+
+- Added Sly as Declan's second-in-command and recorded his death by Eris.
+- Added a dedicated Battle for Tradegulf wiki page covering Eris's intervention, Aristea's concealed death and soul imprisonment, the auction death-limit deception, and the final kill count of 55.
+- Recorded that the 55 deaths triggered the Culling early and that it began immediately after the battle.
+- Corrected the Wayfinder watchlist: Sly's identity is known, while custody of the compass associated with his office remains unknown.
+
+## Aristea of the Shifting Tides backstory
+
+- Added Aristea's elven identity, island-wizard and merchant-mage history, pilgrimages to Nereus, and water, cold, rune, and shapeshifting disciplines.
+- Added the Animal Lord of the Tides divine mantle, sacred narwhal form, and Silver Tusk of Nereus epithet.
+- Added Aristea and Demidius's earlier restrained romance while keeping the later cohort relationship and supernatural Loyalty distinct.
+- Framed the backstory as pre-Tradegulf history so it does not overwrite Aristea's death and current imprisonment in Tartarus.
+
+## Demidius Thorne backstory
+
+- Added Demidius's birth in Lodingen, childhood captivity and testing, and escape with his mother Philomela from the Hellknight Order of the Godclaw.
+- Added Motu Leilani, the Tagata Fetu, Fetu’mana's vision, Demidius's juju training, and his departure ten years before the present account.
+- Confirmed Philomela Thorne as his mother, Smokey Roberts as his father, Siopi as a half-sibling, and Paradox as a half-brother.
+- Corrected Aelwyn and Demidius to paternal half-siblings through Smokey Roberts.
+- Recorded the unnamed long-lost vessel without assuming it was the Dawnrunner.
+
 ## Campaign title: The Arrival
 
 - Established **The Arrival** as the campaign's canonical title.

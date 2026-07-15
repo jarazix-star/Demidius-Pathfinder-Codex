@@ -1,14 +1,59 @@
 # Change Log
 
-## Peppermint Mocha vessel record and naming correction
+## Dawnrunner uniforms, heraldry, and Royal Marines
 
-### Added
+- Added the supplied Dawnrunner officer, crew-uniform, naval-armor, and Royal Marine visual references to the wiki.
+- Corrected Lilly's appearance in the officer lineup to match her established raven-headed, winged design.
+- Recorded the Dawnrunner's black, silver, and crimson uniform language; winged fleur-de-lis, rose, thorn, and freedom motifs; and Royal Marine visual tradition without inventing troop statistics.
 
-- Confirmed *Peppermint Mocha* as the ship's current canonical name and recorded *Mocha Frapachino* as its former name.
+## Maarin appearance and reference sheet
+
+- Confirmed Maarin as a muscular mistsoul undine with blue skin, aqua mistlike hair, and pink eyes since becoming Persephone's champion.
+- Recorded her medium armor as covered in living plant growth and her perpetual surrounding presence of plants, animals, and vermin.
+- Added a complete character reference sheet using the established campaign format.
+
+## Amparo eye-color correction
+
+- Confirmed Amparo's eyes as purple and corrected every visible eye depiction in their character reference sheet.
+
+## Dawnrunner specialist reference sheets
+
+- Added full Dawnrunner-format character sheets for Alecia, Unni, Erika, Shas, Zel, Matthias, Rurd, and Jenqa the Green Revenger.
+- Preserved each character's recorded ancestry, role, deity, level, personality, and unusual history without assigning unrecorded mechanics.
+- Corrected Shas's final eye-detail panel to avoid carrying Bix's heterochromia into her design.
+
+## Tulip identity, family, duties, and trauma
+
+- Confirmed Tulip as a male gnome sorcerer of the unicorn bloodline, exceptional cook, and healer.
+- Recorded him as head chef aboard the *Matcha Frappuccino*, a demigod of Aphrodite, and Demidius's half-brother.
+- Recorded his recent marriage to Alley and updated both spouses' pages.
+- Added Nyssa's crew membership, betrayal, and domination of Tulip as the source of his deathly fear of enchanters, without inventing an unprovided mechanical penalty.
+
+## Alley identity, office, faith, and marriage
+
+- Confirmed Alley as a female goblin rogue and worshiper of Hermes.
+- Recorded her as Maarin's spymaster aboard the *Matcha Frappuccino*.
+- Recorded Alley's recent marriage to the love of her life, Tulip, and updated both character pages and ship records.
+
+## Filius lore and reference sheet
+
+- Confirmed Filius as a very ancient male Oread, mortal god of the World Tree, and Mystic Theurge.
+- Recorded that he spent millennia petrified and currently serves as a healer aboard the *Matcha Frappuccino*.
+- Added a full character reference sheet while preserving the original visual reference.
+
+## Matcha Frappuccino canonical-name correction
+
+### Changed
+
+- Corrected Maarin's ship name to *Matcha Frappuccino* throughout the wiki and local campaign records.
+- Renamed the canonical ship page and retained compatibility pages for previously published mistaken URLs.
+- Corrected Amparo's and Filius's illustrated reference sheets wherever the former name appeared inside the artwork.
+
+### Previously recorded vessel information
+
 - Added officers Maarin, Okeanikos, Alley, Amparo, Tulip, Valax, Aelwyn, Razin, and Filius while preserving unknown departmental roles.
 - Added the supplied base and final statistics, upgrades, siege weapons, ammunition, rowboats, cargo use, and ship-operation rules.
 - Preserved clipped or ambiguous screenshot entries as partial rather than inventing missing wording.
-- Retained the former-name wiki page as a compatibility link to [[Peppermint Mocha]].
 
 ## Party-level update
 
@@ -57,8 +102,8 @@
 
 ### Changed
 
-- Recorded both the Dawnrunner and the *Peppermint Mocha* as galleons across the campaign guide, people-and-places records, and strategic-asset documentation.
-- Removed ship class from the Dawnrunner and *Peppermint Mocha* open-detail lists while leaving their unconfirmed dimensions, appearance, armament, deck plans, and other specifications open.
+- Recorded both the Dawnrunner and the *Matcha Frappuccino* as galleons across the campaign guide, people-and-places records, and strategic-asset documentation.
+- Removed ship class from the Dawnrunner and *Matcha Frappuccino* open-detail lists while leaving their unconfirmed dimensions, appearance, armament, deck plans, and other specifications open.
 
 ## Campaign backstory update - Maarin and Poseidon
 
@@ -72,7 +117,7 @@
 
 ### Changed
 
-- Recorded Maarin's ancestry as undine across her character page, party roster, divine-bloodline summary, and *Peppermint Mocha* command records.
+- Recorded Maarin's ancestry as undine across her character page, party roster, divine-bloodline summary, and *Matcha Frappuccino* command records.
 
 ## Wiki artwork update - Amparo Decoris Ignatius
 

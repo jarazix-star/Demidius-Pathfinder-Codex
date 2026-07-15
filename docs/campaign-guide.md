@@ -35,7 +35,7 @@ The Key of Daedalus becomes more useful after a location has already been visite
 
 ## The Dawnrunner
 
-The Dawnrunner is a galleon and the center of an expanding organization. It serves as a mobile headquarters, command platform, and visible expression of Demidius's influence. Its sister ship, the *Peppermint Mocha*, is also a galleon with its own developed officer corps, magical upgrades, and siege battery. The Dawnrunner workbook confirms a substantial officer and specialist layer rather than requiring Demidius to supply every function personally. See the [Dawnrunner vessel and crew record](dawnrunner.md).
+The Dawnrunner is a galleon and the center of an expanding organization. It serves as a mobile headquarters, command platform, and visible expression of Demidius's influence. Its sister ship, the *Matcha Frappuccino*, is also a galleon with its own developed officer corps, magical upgrades, and siege battery. The Dawnrunner workbook confirms a substantial officer and specialist layer rather than requiring Demidius to supply every function personally. See the [Dawnrunner vessel and crew record](dawnrunner.md).
 
 Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the named crew includes healers, engineers, musicians, security, a cook, and counter-piracy specialists. The current navigator, succession plan, and coverage after Aristea's death remain important open questions.
 

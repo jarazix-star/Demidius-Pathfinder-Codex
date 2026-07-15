@@ -50,11 +50,15 @@ A chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to a
 
 ### The Dawnrunner
 
-Demidius's galleon, mobile headquarters, command platform, and the center of an expanding organization of officers, crew, marines, cohorts, and followers. The repository treats the Dawnrunner as both a vehicle and an institution. Its workbook records named specialists in navigation, healing, logistics, artillery, engineering, security, music, food, and counter-piracy. See the [Dawnrunner vessel and crew record](dawnrunner.md).
+Demidius's galleon, mobile headquarters, command platform, and the center of an expanding organization of officers, crew, marines, cohorts, and followers. The repository treats the Dawnrunner as both a vehicle and an institution. Its workbook records named specialists in navigation, healing, logistics, artillery, engineering, security, music, food, and counter-piracy. Its supplied visual references establish coordinated black, silver, and crimson uniforms, a winged fleur-de-lis with roses and thorns, naval armor variants, and a Royal Marine tradition. See the [Dawnrunner vessel and crew record](dawnrunner.md).
 
-### The Peppermint Mocha
+### The Matcha Frappuccino
 
-A galleon and the Dawnrunner's sister ship. Maarin serves as captain and Amparo Decoris Ignatius as first mate. Other named officers are Okeanikos, Alley, Tulip, Valax, Aelwyn, Razin, and Filius. Its supplied stat block records AC 44, 1,250 hull points, saves 22, hardness 10, 160 crew, 30 captain/officer positions, and a substantial siege battery.
+A galleon and the Dawnrunner's sister ship. Maarin serves as captain and Amparo Decoris Ignatius as first mate. Maarin is a muscular mistsoul undine with blue skin, aqua mistlike hair, pink eyes, plant-covered medium armor, and a perpetual gathering of plants, animals, and vermin. Amparo is a nonbinary undine life oracle with vitiligo and purple eyes. Other named officers are Okeanikos, Alley, Tulip, Valax, Aelwyn, Razin, and Filius. Alley is a female goblin rogue, worshiper of Hermes, and Maarin's spymaster; she recently married Tulip. Tulip is a male gnome unicorn-bloodline sorcerer, exceptional cook, healer, and head chef, as well as a demigod of Aphrodite and Demidius's half-brother. Filius is a very ancient male Oread, mortal god of the World Tree, and Mystic Theurge who currently serves as a healer after spending millennia petrified. Its supplied stat block records AC 44, 1,250 hull points, saves 22, hardness 10, 160 crew, 30 captain/officer positions, and a substantial siege battery.
+
+### Nyssa
+
+Nyssa joined the crew and later betrayed the party. Nyssa dominated Tulip, an event directly connected to Tulip's deathly fear of enchanters. Nyssa's identity, motive, methods, former position, and current status remain unrecorded.
 
 ### The New Gods
 

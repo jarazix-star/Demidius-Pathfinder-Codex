@@ -47,7 +47,7 @@ Chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to ano
 
 ## Mentioned associates
 
-The optimization record names level 17 Maarin, an undine captain and champion of Persephone, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. After Maarin received a dark prophecy of Okeanikos's coming birth, the party rescued his egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
+The optimization record names level 17 Maarin, a mistsoul undine captain and champion of Persephone, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Maarin is muscular, with blue skin, aqua mistlike hair, and pink eyes that changed when she became Persephone's champion. She wears plant-covered medium armor and is perpetually surrounded by plant life, animals, and vermin. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. After Maarin received a dark prophecy of Okeanikos's coming birth, the party rescued his egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
 
 ## Related pages
 

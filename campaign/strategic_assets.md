@@ -22,6 +22,9 @@ These assets change what the party can attempt at campaign scale. Their value is
 | Hermes's Boots of Speed | Divine artifact gift | Free-action spell acceleration and DC spike | Active | Scarce encounter-defining uses |
 | Eyebrow Piercing of Confidence | Legendary item | Mental ability scores and Charisma scaling | Active | Raises all Fatal Flaw DCs |
 | Seven-Pipped Gem | Divine ability | Post-roll certainty on pivotal d20 checks | Active | Immediate-action conflict and daily limit |
+| Sounon | Island home base | Shared home for the Dawnrunner and *Matcha Frappuccino* crews | Selected; infrastructure unrecorded | Shipbreaker navigation, construction, defense, and local unknowns |
+| Declan's Wayfinder | Magical compass and succession token | Functions within the Shipbreaker Sea and supports the Sunlit Chain claim | Held by the heroes | One of only fourteen; rival claimants and political exposure |
+| The Scepter | Strategic object | Proposed support for a future Nyssian invasion | Available to Maarin's proposal; details unknown | Unknown powers, limits, and political consequences |
 
 ## Inherited Demiplane
 
@@ -51,6 +54,20 @@ Bix, a chaotic-good male grippli godling of Hermes and Dawnrunner officer, is De
 
 The *Matcha Frappuccino* is a galleon and the Dawnrunner's sister ship. Maarin, a muscular mistsoul undine with blue skin, aqua mistlike hair, pink eyes, plant-covered medium armor, and a perpetual gathering of plants and animals, commands it with Amparo Decoris Ignatius as first mate. Amparo is a nonbinary undine life oracle with vitiligo and purple eyes. Other named officers are Okeanikos, Alley, Tulip, Valax, Aelwyn, Razin, and Filius. Alley is a female goblin rogue, worshiper of Hermes, and Maarin's spymaster; she recently married Tulip. Tulip is a male gnome unicorn-bloodline sorcerer, exceptional cook, healer, and head chef, as well as a demigod of Aphrodite and Demidius's half-brother. Filius is a very ancient male Oread, mortal god of the World Tree, and Mystic Theurge who currently serves as a healer after spending millennia petrified. Its supplied record gives it AC 44, 1,250 hull points, saves 22, hardness 10, 160 crew, 30 captain/officer positions, magical upgrades, and a substantial siege battery. Some officer duties and its current assignment remain to be documented.
 
+## Sounon and the Sunlit Chain
+
+Sounon lies within the Sunlit Chain and will become the shared home of Demidius's and Maarin's crews. Its local map records the Temple of Springs, Hidden Cove, Village Ruins, and an offshore shipwreck. The base still requires confirmed anchorage, docks, housing, supplies, repair capacity, governance, defenses, and repeatable routes through the Shipbreaker Sea.
+
+Declan's death left the Chain without a lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin recommends transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios, with Aelwyn as her locally credible second.
+
+The six surviving Pirate Kings and Queens are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. The Storm King is a separate storm giant rather than a council member.
+
+## Wayfinders and navigation control
+
+Poseidon's curse disables ordinary compasses and hides the stars and moon every night within the Shipbreaker Sea. Fourteen Wayfinders function despite the curse. At campaign start, each of the seven Pirate Kings and Queens and each ruler's second held one.
+
+Wayfinders control reliable navigation, enable otherwise prohibitively expensive travel, and carry succession significance. Declan's instrument must be treated as both high-value transportation infrastructure and a contested symbol of authority.
+
 ## Glasses of Beaumont
 
 The glasses provide unerring alignment revelation three times per day and *true seeing* three times per day. They are strongest when ordinary observation cannot distinguish ally from infiltrator, reality from illusion, or a true form from a magical disguise.
@@ -70,6 +87,9 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - Define the Dawnrunner's officer roles and succession of command.
 - Reserve daily artifact uses according to mission priority.
 - Keep the Deck untouched unless the campaign situation justifies irreducible risk.
+- Secure Declan's Wayfinder and identify his former second-in-command and the paired Wayfinder.
+- Define Sounon's anchorage, defenses, governance, and supply routes before treating it as a secure base.
+- Decide whether to approve Maarin's proposed transfer of the Sunlit Chain claim to Dame Mathilda.
 
 ## Canonical detail
 

@@ -27,11 +27,27 @@ Demidius's patron deity and the source of his custom obedience and divine-power 
 
 ## Aristea
 
-Level 17 neutral-good wizard of Nereus, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death. Aristea received the inherited demiplane's sleep blessing, including +50 maximum hit points and permanent Loyalty toward Demidius. Her soul is now trapped in Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
+Level 17 neutral-good wizard of Nereus, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death at the Battle for Tradegulf. Aristea received the inherited demiplane's sleep blessing, including +50 maximum hit points and permanent Loyalty toward Demidius. Her soul is now trapped in Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
 
 ## Ares
 
 God of War slain by Queen Beaumont during the Culling outside Tradegulf. He refused Beaumont's offer to withdraw and reconcile with the New Gods before initiating the fight.
+
+## Dame Mathilda
+
+A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely connect her to the Sunlit Chain. Maarin proposes transferring Declan's Wayfinder and the heroes' succession claim to Mathilda because the current party cannot safely hold the domain against the surviving Pirate Kings and other regional powers. Mathilda has not yet accepted.
+
+## Sea Serpent Declan
+
+Former Pirate King and lord of the Sunlit Chain. Declan could call a kraken and took his seat by using it to defeat Calico Bill's seventy-five-ship fleet. Maarin killed Declan at Tradegulf. The heroes now possess his Wayfinder, reducing the active Council of Seven to six and creating a succession crisis.
+
+## The surviving Pirate Kings and Queens
+
+The six surviving council members are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
+
+## Fel
+
+A lawful-evil primordial dragon from the Outer Realms and member of the Lords of Order, associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival in Zatera is one candidate for the event defining year 0 Post-Arrival; the other currently identified candidate is Cronus's release.
 
 ## Perlot
 

@@ -2,7 +2,7 @@
 title: Campaign Timeline
 version: 1.1.0
 status: canonical
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 # Campaign Timeline
@@ -10,6 +10,16 @@ last_updated: 2026-07-14
 This chronology separates dated events from verified milestones whose exact campaign dates have not yet been recorded. Dates use the research record's calendar notation.
 
 ## Dated events
+
+### 0 P.A. — The disputed Arrival
+
+P.A. means Post-Arrival. The event defining year 0 may be Fel's arrival in Zatera from the Outer Realms or Cronus's release from the Underworld. Cronus's release caused the divine schism, but the record does not establish that the release and calendar epoch are the same event.
+
+### 150 P.A. — The campaign begins on Sounon
+
+Approximately one hundred years after the previous campaign, the heroes began on an unidentified island in the Isles of Berres. The island is now known as Sounon, lies within the Sunlit Chain, and will become the shared home of Demidius's and Maarin's crews.
+
+By 150 P.A., the Lodingen Republic had become the Lodingen Empire, the Fye Empire had fallen, Nysia had risen as a semi-constitutional monarchy, and the Isles of Berres had expanded.
 
 ### CY-2026-06-28 — The Culling: Beaumont Slays Ares
 
@@ -27,6 +37,22 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 - Beaumont later gave Demidius the Glasses of Beaumont, establishing a continuing alliance or relationship.
 
 ## Verified milestones — date not yet recorded
+
+### The divine schism
+
+Cronus escaped the Underworld and the old pantheon fractured into the New Gods, Lords of Order, Neutral Immortal Alliance, Titans of the Golden Court, Dogs of War, and primordial or undecided powers. The group fights for the New Gods and has fought the Lords of Order and Dogs of War.
+
+### The Battle for Tradegulf
+
+The heroes fought for Tradegulf in Old Nysia. Maarin killed Sea Serpent Declan, one of the seven Pirate Kings, and the party took possession of his Wayfinder. Aristea died during the same battle, and her soul was subsequently imprisoned in Tartarus.
+
+Declan's death reduced the active Council of Seven to six and left the Sunlit Chain without a lord.
+
+### Maarin proposes Dame Mathilda for the Sunlit Chain
+
+Maarin believes the party has the strongest succession claim through her killing blow, possession of Declan's Wayfinder, and the party's Berresian origin. She also believes the heroes cannot hold the domain against the surviving Pirate Kings, particularly Wavelord Santiago and Smokey Roberts, or the separate storm-giant power called the Storm King.
+
+Maarin proposes abdicating in favor of Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second. The proposal, Wayfinder transfer, appointment, and future invasion of Nysia remain pending.
 
 ### Demidius inherits his brother's demiplane
 
@@ -52,9 +78,9 @@ Demidius acquired the Key of Daedalus. Its first use permanently imposed the Par
 
 Both are confirmed to have slept in the demiplane. Each received full healing, a one-time permanent increase of 50 maximum hit points, and the Loyalty Fatal Flaw directed toward Demidius.
 
-### Aristea dies and her soul is trapped in Tartarus
+### Aristea's soul is trapped in Tartarus after Tradegulf
 
-Aristea died, but resurrection alone cannot return her because her soul is imprisoned. Recovery requires locating, reaching, and releasing the soul before restoration magic can succeed.
+Aristea died during the Battle for Tradegulf, but resurrection alone cannot return her because her soul is imprisoned. Recovery requires locating, reaching, and releasing the soul before restoration magic can succeed.
 
 ### Demidius receives the Glasses of Beaumont
 
@@ -74,3 +100,6 @@ Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouch
 - When and why did Beaumont present the glasses?
 - When was the Dawnrunner acquired or commissioned?
 - When and where did Poseidon's storm kill Maarin's family?
+- Which event defines the Post-Arrival calendar: Fel's arrival or Cronus's release?
+- When exactly did the Battle for Tradegulf occur?
+- Will Dame Mathilda accept the Sunlit Chain lordship?

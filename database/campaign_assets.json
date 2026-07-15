@@ -12,5 +12,26 @@
     "status": "active",
     "origin": "Campaign ship",
     "file": null
+  },
+  {
+    "id": "SA-03",
+    "name": "Sounon",
+    "status": "selected home base; development unrecorded",
+    "origin": "Sunlit Chain",
+    "file": "docs/campaign-setting.md"
+  },
+  {
+    "id": "SA-04",
+    "name": "Declan's Wayfinder",
+    "status": "held by the heroes",
+    "origin": "Sea Serpent Declan",
+    "file": "campaign/strategic_assets.md"
+  },
+  {
+    "id": "SA-05",
+    "name": "Sunlit Chain succession claim",
+    "status": "vacant lordship; transfer proposal pending",
+    "origin": "Declan's defeat at Tradegulf",
+    "file": "docs/campaign-setting.md"
   }
 ]

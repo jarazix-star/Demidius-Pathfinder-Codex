@@ -1,5 +1,14 @@
 # Change Log
 
+## Zatera, Berres, and Tradegulf setting expansion
+
+- Confirmed that the campaign takes place on Zatera in 150 P.A. and that P.A. means Post-Arrival.
+- Preserved the unresolved identity of the Arrival: Fel's coming from the Outer Realms or Cronus's release.
+- Added world, Old Nysia, Sunlit Chain, and Sounon maps to the main documentation and wiki.
+- Added the Council of Seven, Poseidon's Shipbreaker Sea curse, fourteen Wayfinders, navigation alternatives, and the cost of leaving the Isles.
+- Recorded Declan's death, Aristea's death at Tradegulf, the vacant Sunlit Chain lordship, and Maarin's proposal to install Dame Mathilda with Aelwyn as second.
+- Added Fel as a primordial dragon of the Outer Realms and member of the Lords of Order.
+
 ## Dawnrunner uniforms, heraldry, and Royal Marines
 
 - Added the supplied Dawnrunner officer, crew-uniform, naval-armor, and Royal Marine visual references to the wiki.

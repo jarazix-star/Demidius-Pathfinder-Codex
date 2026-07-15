@@ -18,6 +18,18 @@ Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and s
 
 Queen of Nysia, Slayer of War, and Minor Goddess of Dueling. She killed Ares at the opening of the Culling and later gave Demidius the Glasses of Beaumont. Her willingness to offer reconciliation before accepting Ares's challenge is one of the few directly recorded clues to her conduct.
 
+### Dame Mathilda
+
+A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely tie her to the Sunlit Chain. Maarin proposes installing Mathilda as Declan's successor, with Aelwyn as her second, but Mathilda has not accepted.
+
+### Fel
+
+A lawful-evil primordial dragon from the Outer Realms and member of the Lords of Order, associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival may be the event defining year 0 Post-Arrival, although Cronus's release is the other current candidate.
+
+### The Council of Seven
+
+The Pirate Kings and Queens who rule the Isles of Berres. At campaign start they were Sea Serpent Declan, Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Declan's death leaves six active members. The Storm King is a separate storm giant rather than a council member.
+
 ### Hermes
 
 Demidius's patron deity. Hermes is the source of Demidius's custom obedience and divine-power progression, the Seven-Pipped Gem, and Hermes's Boots of Speed.
@@ -68,11 +80,27 @@ A divine grouping or order mentioned in Queen Beaumont's final offer to Ares. Th
 
 ### Tradegulf
 
-A port outside which Queen Beaumont fought and killed Ares at the opening of the Culling. No further geography is presently established.
+A city in Old Nysia where Queen Beaumont fought and killed Ares at the opening of the Culling. The heroes later fought there; Maarin killed Declan and Aristea died in that battle. The historical map places Tradegulf east of Greyridge, north of Weirworth Falls, and west of the Acis River corridor toward Glistria.
 
 ### Nysia
 
-The realm ruled by Queen Lidda Beaumont. Its geography, government beyond the queen, and relationship to the Dawnrunner remain undocumented.
+A rising semi-constitutional monarchy ruled by Queen Lidda Beaumont. The Old Nysia map records Tradegulf, Glistria, Arverdon Palace, Greyridge, Griton, Weirworth, Basilia, Greenport, Kettleton, Hapborough, Certair, Fetil, and Heabury. Current borders and settlement status remain unrecorded.
+
+### Zatera
+
+The world of the campaign, mapped in 150 P.A. Major named lands include Lodingen, Drozag, Yusia, Teecen, Yalta, Polemosland, Hoterra, Prathia, Nysia, Trazac, Salleria, Fritia, and the Isles of Berres. See the [Campaign Setting](campaign-setting.md).
+
+### Sounon
+
+The island in the Sunlit Chain where the campaign began. It will become the shared home of Demidius's and Maarin's crews. Its local map identifies the Temple of Springs, Hidden Cove, Village Ruins, and an offshore shipwreck.
+
+### The Sunlit Chain
+
+Sea Serpent Declan's former Berresian island domain. It includes Sounon, Caldoran, Ironclaw Isle, Volcara Isle, Rylkora, and many smaller islands and settlements. Declan's death left the Chain without a lord, and the heroes hold his Wayfinder.
+
+### Shipbreaker Sea
+
+Poseidon's cursed waters around the Isles of Berres. Ordinary compasses fail and nightly clouds conceal the stars and moon. Fourteen Wayfinders function within the curse.
 
 ### Tartarus
 
@@ -89,9 +117,11 @@ A private sanctuary formerly owned by Demidius's brother. It has adjustable time
 ## Gaps worth recording in play
 
 - Demidius's and the principal cast's physical descriptions.
-- The Dawnrunner's appearance, flag, deck plan, and home port.
+- The Dawnrunner's appearance, flag, deck plan, and exact Sounon anchorage.
 - Perlot's identity and relationship to Beaumont or her sword.
 - The membership and aims of the New Gods.
-- A map-level description of Nysia and Tradegulf.
+- The current borders, capital, and settlement status of Nysia compared with the historical map.
 - The deceased brother's name and the history of the demiplane.
 - The exact nature of Aristea's prison in Tartarus.
+- Whether the Post-Arrival calendar begins with Fel's arrival or Cronus's release.
+- Declan's former second-in-command and the custody of the paired Wayfinder.

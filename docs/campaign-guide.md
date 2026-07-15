@@ -6,15 +6,17 @@ last_updated: 2026-07-15
 
 # Campaign Guide
 
-The Dawnrunner campaign combines Pathfinder 1e, mythic rules, compatible third-party material, custom divine progression, and advancement beyond level 20. Its present shape is defined by divine upheaval, planar rescue, and the growth of Demidius from adventuring captain into a campaign-scale power.
+The Dawnrunner campaign takes place on Zatera in **150 P.A. (Post-Arrival)**, approximately one hundred years after the previous campaign. The Arrival may have been Fel's coming from the Outer Realms or Cronus's release; the calendar's origin remains disputed. The campaign combines Pathfinder 1e, mythic rules, compatible third-party material, custom divine progression, and advancement beyond level 20. See the [Campaign Setting](campaign-setting.md).
 
 ## Present situation
 
-Three pressures define the current campaign record:
+Five pressures define the current campaign record:
 
 - **The Culling has begun.** Gods may be challenged, killed, replaced, or reconciled with the New Gods. Queen Beaumont's defeat of Ares proves that the divine order is changing in public and permanent ways.
 - **Aristea is beyond ordinary resurrection.** Her soul is trapped in Tartarus. The party needs an extraction operation, not merely a resurrection spell.
 - **Demidius's reach is outgrowing one adventuring party.** The Dawnrunner, Epic Leadership, divine alliances, an inherited demiplane, and planar corridors all require procedures, officers, and security.
+- **Sounon is becoming the crews' shared home.** The island lies in the leaderless Sunlit Chain and needs anchorage, infrastructure, governance, defenses, supplies, and reliable routes.
+- **Navigation is political power.** Poseidon's Shipbreaker Sea curse makes the fourteen Wayfinders central to travel, trade, succession, and warfare.
 
 ## The Culling
 
@@ -35,7 +37,13 @@ The Key of Daedalus becomes more useful after a location has already been visite
 
 ## The Dawnrunner
 
-The Dawnrunner is a galleon and the center of an expanding organization. It serves as a mobile headquarters, command platform, and visible expression of Demidius's influence. Its sister ship, the *Matcha Frappuccino*, is also a galleon with its own developed officer corps, magical upgrades, and siege battery. The Dawnrunner workbook confirms a substantial officer and specialist layer rather than requiring Demidius to supply every function personally. See the [Dawnrunner vessel and crew record](dawnrunner.md).
+The Dawnrunner is a galleon and the center of an expanding organization. It serves as a mobile headquarters, command platform, and visible expression of Demidius's influence. Its sister ship, the *Matcha Frappuccino*, is also a galleon with its own developed officer corps, magical upgrades, and siege battery. Both crews intend to call Sounon home. The Dawnrunner workbook confirms a substantial officer and specialist layer rather than requiring Demidius to supply every function personally. See the [Dawnrunner vessel and crew record](dawnrunner.md).
+
+## The Sunlit Chain succession
+
+Maarin killed Sea Serpent Declan during the Battle for Tradegulf, and the heroes now hold his Wayfinder. His death reduced the Council of Seven to six and left the Sunlit Chain without a lord. Maarin believes the party has the strongest succession claim but cannot survive a direct contest with the remaining Pirate Kings or the separate Storm King.
+
+Her proposed solution is to transfer the claim and Wayfinder to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second and provide regional legitimacy. The plan remains unapproved and Mathilda has not accepted.
 
 Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the named crew includes healers, engineers, musicians, security, a cook, and counter-piracy specialists. The current navigator, succession plan, and coverage after Aristea's death remain important open questions.
 
@@ -63,4 +71,5 @@ Sleep within the demiplane fully heals a creature. The first sleep also grants +
 - [Notable Figures](../campaign/notable_figures.md)
 - [Strategic Assets](../campaign/strategic_assets.md)
 - [Campaign Rules](../appendices/campaign-rules.md)
+- [Campaign Setting](campaign-setting.md)
 - [Planar Operations](../codex/PLANAR_OPERATIONS.md)

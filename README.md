@@ -2,6 +2,8 @@
 
 A private, source-backed Pathfinder 1e optimization knowledge base for **Demidius Thorne**, the Dawnrunner campaign, mythic play, extensive third-party material, and progression beyond level 20.
 
+**New to the campaign?** Start with the illustrated [wiki home](docs/index.md), then read the [Demidius overview](docs/demidius-thorne.md) or [campaign guide](docs/campaign-guide.md).
+
 ## Canonical sources
 
 - `codex/MASTER_CODEX.md` - primary human-readable reference

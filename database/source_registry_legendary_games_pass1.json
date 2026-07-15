@@ -1,0 +1,28 @@
+{
+  "batch": "Legendary Games targeted deep dive for Demidius and Aristea",
+  "date": "2026-07-14",
+  "library_pdf_count": 219,
+  "selected_pdf_count": 18,
+  "selected_pdf_pages": 122,
+  "method": "Full text extraction of selected PDFs with rendered visual verification of cited rules pages",
+  "sources": [
+    {"title":"Mythic Skills","pages":28,"status":"Focused content extraction","scope":"Bluff, Knowledge, Perception, Perform, Profession, Sense Motive, Spellcraft, Use Magic Device"},
+    {"title":"Past Lives","pages":32,"status":"Focused system extraction","scope":"Past-life profile rules, resurrection complication, incarnation feat boundaries"},
+    {"title":"Ultimate Relationships","pages":14,"status":"Complete core-system extraction","scope":"Ranks, camaraderie, milestones, affinities, rivalries, rewards, participation and cohorts"},
+    {"title":"Marshal Path Abilities","pages":3,"status":"Complete option extraction"},
+    {"title":"Hierophant Path Abilities","pages":3,"status":"Complete option extraction"},
+    {"title":"Archmage Path Abilities","pages":3,"status":"Complete option extraction"},
+    {"title":"Hierophant Path Abilities II","pages":3,"status":"Complete option extraction"},
+    {"title":"Feats of Miscellaneous Magic","pages":3,"status":"Complete option extraction"},
+    {"title":"Archmage Path Abilities II","pages":3,"status":"Complete option extraction"},
+    {"title":"Marshal Path Abilities II","pages":3,"status":"Complete option extraction"},
+    {"title":"Mythic Rods","pages":4,"status":"Complete item extraction"},
+    {"title":"Mythic Rings","pages":3,"status":"Complete item extraction"},
+    {"title":"Metamagic Feats","pages":4,"status":"Complete option extraction; upgrades prior focused coverage"},
+    {"title":"Mythic Jewels","pages":3,"status":"Complete item extraction"},
+    {"title":"Mythic Slotless Items","pages":3,"status":"Complete item extraction"},
+    {"title":"Legendary Item Abilities","pages":3,"status":"Complete option extraction"},
+    {"title":"Divine Feats","pages":3,"status":"Complete option extraction"},
+    {"title":"Inherent Advancement","pages":4,"status":"Complete subsystem extraction"}
+  ]
+}

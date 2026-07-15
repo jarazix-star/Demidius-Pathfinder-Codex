@@ -1,5 +1,41 @@
 # Change Log
 
+## Wiki artwork update - Aristea
+
+### Added
+
+- Added Aristea's black-and-gold character reference sheet using her confirmed silver-haired winter portrait.
+- Added front, side, and back views; portrait, eye, and hair details; campaign facts; alternate looks; and miniature concepts.
+- Expanded Aristea's wiki page with her confirmed appearance while leaving her ancestry unassigned.
+
+## Wiki artwork update - Dawnrunner crew reference sheets
+
+### Added
+
+- Standardized the six confirmed Dawnrunner personnel pages around Bix's individual black-and-gold character-reference format.
+- Added matching reference sheets for Demidius, Roy, Zujuck, Lilly, and Binky while retaining Bix's completed sheet.
+- Preserved established character identities, shipboard roles, signature equipment, Dawnrunner heraldry, alternate looks, and miniature concepts.
+- Corrected Zujuck's approved casual alternate to remain a tengu rather than introducing a human form.
+
+## Wiki crew update - Bix
+
+### Added
+
+- Added Bix, a newlywed male grippli and Demidius's longest-serving follower, to the Dawnrunner crew.
+- Preserved the supplied crew reference artwork and documented Bix's red-and-blue heterochromia.
+- Recorded the uncertain possibility that Bix is Demidius's reincarnated brother while keeping it outside Demidius's current character knowledge.
+
+## v3.6 - Legendary Games Demidius and Aristea Deep Dive
+
+### Added
+
+- Reconciled the 219-PDF Legendary Games library against prior extraction coverage.
+- Completed a targeted 18-book, 122-page content pass with rendered-page verification.
+- Completed the previously focused Mythic Minis metamagic extraction and added complete catalogs for selected Marshal, Hierophant, Archmage, divine, legendary-item, and mythic-equipment books.
+- Added focused Mythic Skills, Past Lives, and Ultimate Relationships system analysis.
+- Added a 20-option Demidius/Aristea shortlist with prerequisites, page citations, ratings, and GM-review flags.
+- Identified Soul Safe, Abundant Revelations, Ring of Returning, Seeking Spell, Rod of Spell Focusing, and Orb of the Seventh Star as leading candidates.
+
 ## v3.5 — Super Genius Demidius and Aristea Deep Dive
 
 ### Added

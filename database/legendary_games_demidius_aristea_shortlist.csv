@@ -1,0 +1,21 @@
+character,option,type,rating,access_status,source,pdf_page,reason,gm_review
+Demidius,Soul Safe,Legendary item ability,S+,Requires artifact legendary item and eternal bond,Mythic Minis 60 Legendary Item Abilities,2,Reforms owner after death and can negate death or energy drain,Yes
+Demidius,Abundant Revelations (Mythic),Mythic feat,S,Requires Abundant Revelations,Mythic Minis 64 Divine Feats,2,Adds tier-scaled revelation uses and permits daily target change,Yes
+Demidius,Ring of Returning,Mythic ring,S,Requires ring slot and purchase or crafting,Mythic Minis 43 Mythic Rings,2,Reliable passenger-capable return after teleportation,Yes
+Demidius,Expert Aid,Marshal path ability,S,Requires Marshal or cross-path access,Mythic Minis Marshal Path Abilities,2,Directly improves aid-another party enablement,Yes
+Demidius,Shatter Resistance,Marshal path ability,A+,Requires Marshal or cross-path access and weapon hit,Mythic Minis Marshal Path Abilities,2,Reduces enemy spell resistance by mythic tier,Yes
+Demidius,Healing Surge,Marshal path ability,S,Requires Marshal or cross-path access,Mythic Minis 40 Marshal Path Abilities II,2,Adds surge die to healing and turns allied surges into healing,Yes
+Demidius,High Clerist,Hierophant path ability,A+,Requires Hierophant or cross-path access,Mythic Minis 12 Hierophant Path Abilities,2,Leadership construction discount and crusade infrastructure,Yes
+Demidius,Piercing Spell (Mythic),Mythic metamagic feat,A+,Requires Piercing Spell,Mythic Minis 51 Metamagic Feats,2,Large reduction to enemy spell resistance,Yes
+Demidius,Echoing Spell (Mythic),Mythic metamagic feat,A+,Requires Echoing Spell,Mythic Minis 51 Metamagic Feats,2,Grants a same-day component-free SLA repeat,Yes
+Demidius,Unravel Magic,Mythic Spellcraft exploit,A+,Requires Mythic Skills subsystem and greater exploit,Mythic Skills,18,Provides supernatural single-target dispel with surge advantage,Yes
+Demidius,Resonant Regalia,Legendary item ability,S conditional,Requires tier 3 and GM-designed item set,Mythic Minis 60 Legendary Item Abilities,2,Expands legendary item powers across a resonant set,Yes
+Aristea,Seeking Spell (Mythic),Mythic metamagic feat,S,Requires Seeking Spell,Mythic Minis 51 Metamagic Feats,3,Explicitly supports ranged and ranged-touch spell attacks,Yes
+Aristea,Piercing Spell (Mythic),Mythic metamagic feat,S,Requires Piercing Spell,Mythic Minis 51 Metamagic Feats,2,Reduces spell resistance against damaging spells and rays,Yes
+Aristea,Spell Dilation,Archmage path ability,A+,Requires Archmage or cross-path access,Mythic Minis 14 Archmage Path Abilities,2,Adjusts spell-area dimensions for better placement,Yes
+Aristea,Rod of Spell Focusing,Mythic rod,A+,Purchase or craft,Mythic Minis 41 Mythic Rods,2,Grants focus feat and upgrades an existing focus feat to mythic,Yes
+Aristea,Orb of the Seventh Star,Mythic slotless item,A+,Arcane caster purchase or craft,Mythic Minis 58 Mythic Slotless Items,2,Adds magic missiles low-level spell capacity and mythic missile support,Yes
+Aristea,Diamond of Everwinter,Mythic jewel,A,Requires neck slot and cold-spell package,Mythic Minis 56 Mythic Jewels,2,Defense free Rime Spell and arctic transport,Yes
+Aristea,Flaring Spell (Mythic),Mythic metamagic feat,A,Requires Flaring Spell,Mythic Minis 51 Metamagic Feats,2,Adds blind and dazzle rider to damaging spells,Yes
+Aristea,Toppling Spell (Mythic),Mythic metamagic feat,A conditional,Requires Toppling Spell and force spell package,Mythic Minis 51 Metamagic Feats,3,Improves and chains trip checks from force spells,Yes
+Aristea,Mythic Item Activation,Mythic Use Magic Device exploit,A+,Requires Mythic Skills subsystem and greater exploit,Mythic Skills,21,Enables mythic versions of qualifying item-created spells,Yes

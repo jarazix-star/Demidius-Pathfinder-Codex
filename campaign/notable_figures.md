@@ -39,7 +39,11 @@ Addressed by Queen Beaumont during her confrontation with Ares. Beaumont's phras
 
 ## Demidius's deceased brother
 
-Former owner of the inherited demiplane. His name, history, and manner of death are not yet present in the canonical record.
+Former owner of the inherited demiplane. Bix may be his reincarnation, although this remains uncertain and Demidius does not know about the possibility. His name, history, and manner of death are not yet present in the canonical record.
+
+## Bix
+
+Male grippli member of the Dawnrunner's crew, newlywed, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother; this remains unconfirmed and is not part of Demidius's current character knowledge.
 
 ## Mentioned associates
 

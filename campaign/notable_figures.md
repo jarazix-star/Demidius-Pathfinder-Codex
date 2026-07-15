@@ -19,6 +19,8 @@ Charisma-centered oracle, mythic controller, captain, party face, and demigod. D
 
 Queen of Nysia, Slayer of War, and Minor Goddess of Dueling (War Subdomain). At the opening of the Culling, she offered Ares a chance to withdraw and reconcile with the New Gods. After he attacked, she killed him with a single decapitating strike outside Tradegulf.
 
+Beaumont rules Nysia from Arverdon Palace. The palace is her confirmed seat of rule, although the record does not yet establish whether it is also Nysia's formal capital.
+
 Beaumont later gifted Demidius the Glasses of Beaumont, which provide alignment revelation and *true seeing*. During her duel, she addressed Perlot and called her red-tasseled longsword “our blade.”
 
 ## Hermes
@@ -44,6 +46,14 @@ Former Pirate King and lord of the Sunlit Chain. Declan could call a kraken and 
 ## The surviving Pirate Kings and Queens
 
 The six surviving council members are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
+
+## The Storm King
+
+A powerful storm giant who rules Stormspire, a floating city in the Sunlit Chain. During the Stormspire operation, the crews distracted the Storm King while Odysseus stole the final component required for the Scepter of Keto. The Storm King is a major regional power but not one of the Council of Seven.
+
+## Odysseus
+
+A level-30 rogue of an unspecified specialization, tactical genius, and recovered ally who had been missing for twenty years. Odysseus stole the final component of the Scepter of Keto during the Stormspire operation. He also deliberately sabotaged the floating city's flight to destroy an enemy of Nysia and the New Gods, accepting the deaths of the settlement below without its people's consent. Maarin prevented the disaster. Odysseus pursues the greater good through methods the party considers callous and morally unacceptable.
 
 ## Fel
 

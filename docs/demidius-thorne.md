@@ -29,11 +29,18 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Class identity | Oracle and divine spellcaster |
 | Campaign role | Captain, face, controller, and party enabler |
 | Divine relationship | Servant and beneficiary of Hermes |
+| Family | Aelwyn, platinum-skinned paladin half-sister and child of Smokey Roberts; Tulip, half-brother; deceased brother whose demiplane Demidius inherited |
 | Strategic base | The Dawnrunner and inherited demiplane |
 | Signature statistic | Charisma |
 | Signature ability | Seven-Pipped Gem |
 | Legendary item | Eyebrow Piercing of Confidence |
 | Current long-term arc | Growth toward divinity |
+
+## Family
+
+Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuccino*, is Demidius's half-sister and a child of Pirate King Smokey Roberts. The exact parent shared by Aelwyn and Demidius and the history of their relationship have not yet been recorded.
+
+Tulip is also Demidius's half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix.
 
 ## Why Charisma matters
 

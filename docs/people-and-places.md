@@ -58,6 +58,10 @@ The former owner of the inherited demiplane. Bix may be his reincarnation, altho
 
 A chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to another crew member, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother, but Demidius does not know about this uncertain possibility. See the illustrated page in the GitHub wiki.
 
+### Aelwyn
+
+A platinum-skinned female paladin, officer aboard Maarin's *Matcha Frappuccino*, child of Smokey Roberts, half-sister of Demidius, and well-known folk hero in the Sunlit Chain. Aelwyn attacked the slaving operation on Ironclaw Isle, where captives were being worked to death in a platinum mine. She killed the Iron Tyrant's heir and daughter. The daughter was a quarter-godling of Alexander and the heir of one of his demigods, leading Alexander to curse Aelwyn. The Sunken Enclave has placed a bounty on Aelwyn and the rest of the party; Aelwyn knows why she is wanted but not why the others are targets.
+
 ## Organizations and vessels
 
 ### The Dawnrunner
@@ -67,6 +71,8 @@ Demidius's galleon, mobile headquarters, command platform, and the center of an 
 ### The Matcha Frappuccino
 
 A galleon and the Dawnrunner's sister ship. Maarin serves as captain and Amparo Decoris Ignatius as first mate. Maarin is a muscular mistsoul undine with blue skin, aqua mistlike hair, pink eyes, plant-covered medium armor, and a perpetual gathering of plants, animals, and vermin. Amparo is a nonbinary undine life oracle with vitiligo and purple eyes. Other named officers are Okeanikos, Alley, Tulip, Valax, Aelwyn, Razin, and Filius. Alley is a female goblin rogue, worshiper of Hermes, and Maarin's spymaster; she recently married Tulip. Tulip is a male gnome unicorn-bloodline sorcerer, exceptional cook, healer, and head chef, as well as a demigod of Aphrodite and Demidius's half-brother. Filius is a very ancient male Oread, mortal god of the World Tree, and Mystic Theurge who currently serves as a healer after spending millennia petrified. Its supplied stat block records AC 44, 1,250 hull points, saves 22, hardness 10, 160 crew, 30 captain/officer positions, and a substantial siege battery.
+
+Aelwyn is a confirmed member of Maarin's crew. Her campaign against the Ironclaw Isle slavers has made her a regional folk hero, but also brought a Sunken Enclave bounty and a curse from Alexander upon her.
 
 ### Nyssa
 
@@ -84,7 +90,11 @@ A city in Old Nysia where Queen Beaumont fought and killed Ares at the opening o
 
 ### Nysia
 
-A rising semi-constitutional monarchy ruled by Queen Lidda Beaumont. The Old Nysia map records Tradegulf, Glistria, Arverdon Palace, Greyridge, Griton, Weirworth, Basilia, Greenport, Kettleton, Hapborough, Certair, Fetil, and Heabury. Current borders and settlement status remain unrecorded.
+A rising semi-constitutional monarchy ruled by Queen Lidda Beaumont from Arverdon Palace. The palace is her confirmed seat of rule, but has not yet been confirmed as Nysia's formal capital. The Old Nysia map also records Tradegulf, Glistria, Greyridge, Griton, Weirworth, Basilia, Greenport, Kettleton, Hapborough, Certair, Fetil, and Heabury. Current borders and settlement status remain unrecorded.
+
+### Arverdon Palace
+
+Queen Lidda Beaumont's seat of rule in Nysia. The Old Nysia map depicts it as a major fortified palace southwest of Glistria. Its court, defenses, household, government offices, and status as or distinction from the formal capital remain unrecorded.
 
 ### Zatera
 
@@ -101,6 +111,22 @@ Sea Serpent Declan's former Berresian island domain. It includes Sounon, Caldora
 ### Shipbreaker Sea
 
 Poseidon's cursed waters around the Isles of Berres. Ordinary compasses fail and nightly clouds conceal the stars and moon. Fourteen Wayfinders function within the curse.
+
+### Stormspire
+
+The Storm King's floating city in the Sunlit Chain. During a mission there, the crews distracted its ruler while Odysseus stole the final component required to complete the Scepter of Keto. Odysseus then sabotaged the city's flight to crash it into the settlement below; Maarin used her weather power to stop the fall and save the people beneath it.
+
+### The Storm King
+
+A powerful storm giant and ruler of Stormspire. The Storm King is not one of the Council of Seven, but is a major regional power and an enemy of Nysia and the New Gods.
+
+### Odysseus
+
+A level-30 rogue of an unspecified specialization and a tactical genius recovered by the party after being missing for twenty years. He thinks in terms of the greater good and is willing to sacrifice people without their consent. His deliberate sabotage of Stormspire was intended to remove an enemy of Nysia and the New Gods, but would have destroyed the settlement below if Maarin had not intervened.
+
+### Scepter of Keto
+
+An artifact capable of bypassing Poseidon's navigation spell over the Isles of Berres. Odysseus stole its final required component at Stormspire. Its current assembly, bearer, activation method, and limitations remain unrecorded.
 
 ### Tartarus
 

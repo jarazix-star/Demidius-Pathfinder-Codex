@@ -1,0 +1,1415 @@
+{
+  "title": "Epic Spell Compendium",
+  "source_file": "Epic_Spell_Compendium_Second_Pass.docx",
+  "source_description": "Second-pass transcription and conservative PF1e stat-block reconstruction from five handwritten campaign-reference pages.",
+  "verification_policy": {
+    "direct": "Visible numbers, ranges, durations, save clauses, costs, and effects are preserved.",
+    "reconstructed": "Omitted fields may be conservatively inherited from a clear PF1e base spell and are labeled reconstructed.",
+    "unspecified": "Fields without a safe basis remain not specified."
+  },
+  "important_transcription_notes": [
+    "Death Stare appears to be an inserted “14A” entry between Divine Name and Hell Fireball.",
+    "The Firestorm area notation is interpreted as two 10-foot cubes per caster level, matching PF1e fire storm notation.",
+    "Epic Particulate Form reads 20 minutes/level on the arcane page. The divine page appears to read 40 minutes/level, but the first digit is partly obscured.",
+    "Mass Dominate Monster is crossed out on the level 11 arcane page but is clearly present on the level 11 divine page.",
+    "Epic Finger of Death contains two separate save clauses; its exact resolution needs GM confirmation."
+  ],
+  "quick_reference": {
+    "Level 10 Arcane": [
+      {
+        "number": "1",
+        "name": "Create Master Undead"
+      },
+      {
+        "number": "2",
+        "name": "Epic Magic Missile"
+      },
+      {
+        "number": "3",
+        "name": "Summon Monster X"
+      },
+      {
+        "number": "4",
+        "name": "Enchant Item"
+      },
+      {
+        "number": "5",
+        "name": "Raise Dead"
+      },
+      {
+        "number": "6",
+        "name": "Perfect Resurrection"
+      },
+      {
+        "number": "7",
+        "name": "Cloak of the Gods"
+      },
+      {
+        "number": "8",
+        "name": "Master Finished Work I"
+      },
+      {
+        "number": "9",
+        "name": "Fog of Death"
+      },
+      {
+        "number": "10",
+        "name": "Firestorm I"
+      },
+      {
+        "number": "11",
+        "name": "Create Gate / Teleport Circle"
+      },
+      {
+        "number": "12",
+        "name": "Master Mending"
+      },
+      {
+        "number": "13",
+        "name": "Sleep of the Dead"
+      },
+      {
+        "number": "14",
+        "name": "Divine Name"
+      },
+      {
+        "number": "14A",
+        "name": "Death Stare (inserted between 14 and 15)"
+      },
+      {
+        "number": "15",
+        "name": "Hell Fireball"
+      },
+      {
+        "number": "16",
+        "name": "Epic Shield I"
+      },
+      {
+        "number": "17",
+        "name": "Epic True Strike"
+      },
+      {
+        "number": "18",
+        "name": "Epic Shadow Evocation"
+      },
+      {
+        "number": "19",
+        "name": "Epic Stunning Barrier"
+      },
+      {
+        "number": "20",
+        "name": "Form of Giant II"
+      }
+    ],
+    "Level 10 Divine": [
+      {
+        "number": "1",
+        "name": "Create Master Undead"
+      },
+      {
+        "number": "2",
+        "name": "Armor to Death"
+      },
+      {
+        "number": "3",
+        "name": "Perfect Resurrection"
+      },
+      {
+        "number": "4",
+        "name": "Enchant Item"
+      },
+      {
+        "number": "5",
+        "name": "Cloak of the Gods"
+      },
+      {
+        "number": "6",
+        "name": "Master Mending"
+      },
+      {
+        "number": "7",
+        "name": "Summon Monster X"
+      },
+      {
+        "number": "8",
+        "name": "Divine Name"
+      },
+      {
+        "number": "9",
+        "name": "Epic Heal"
+      },
+      {
+        "number": "10",
+        "name": "Epic Shield of Faith"
+      },
+      {
+        "number": "11",
+        "name": "Epic Stunning Barrier"
+      },
+      {
+        "number": "12",
+        "name": "Epic Harm"
+      },
+      {
+        "number": "13",
+        "name": "Creeping Doom"
+      },
+      {
+        "number": "14",
+        "name": "Firestorm II"
+      }
+    ],
+    "Level 11 Arcane": [
+      {
+        "number": "—",
+        "name": "Mass Dominate Monster (crossed out at top of source page)"
+      },
+      {
+        "number": "1",
+        "name": "Firestorm II"
+      },
+      {
+        "number": "1A",
+        "name": "Summon Monster XI (inserted as “1.5”)"
+      },
+      {
+        "number": "2",
+        "name": "Master Finished Work II"
+      },
+      {
+        "number": "3",
+        "name": "Enchant Item II"
+      },
+      {
+        "number": "3A",
+        "name": "Epic Particulate Form (inserted)"
+      },
+      {
+        "number": "4",
+        "name": "Divine True Name"
+      },
+      {
+        "number": "5",
+        "name": "Word of the Dead"
+      },
+      {
+        "number": "6",
+        "name": "Armor of the Mass"
+      },
+      {
+        "number": "7",
+        "name": "Ray of Destruction"
+      },
+      {
+        "number": "8",
+        "name": "Create Roaming Hungry Pit"
+      },
+      {
+        "number": "9",
+        "name": "Epic Finger of Death"
+      },
+      {
+        "number": "10",
+        "name": "Elemental Burst"
+      },
+      {
+        "number": "11",
+        "name": "Force Blast"
+      },
+      {
+        "number": "12",
+        "name": "Epic Dispel Magic"
+      },
+      {
+        "number": "13",
+        "name": "Fog of Death II"
+      },
+      {
+        "number": "13A",
+        "name": "Epic Hold Monster (inserted)"
+      },
+      {
+        "number": "14",
+        "name": "Epic Mage Armor"
+      },
+      {
+        "number": "15",
+        "name": "Form of Giant IV"
+      },
+      {
+        "number": "16",
+        "name": "Absorb Energy"
+      },
+      {
+        "number": "17",
+        "name": "Epic Mirage Arcana"
+      }
+    ],
+    "Level 11 Divine": [
+      {
+        "number": "1",
+        "name": "Firestorm III"
+      },
+      {
+        "number": "2",
+        "name": "Perfect Restoration"
+      },
+      {
+        "number": "3",
+        "name": "Armor of the Mass"
+      },
+      {
+        "number": "4",
+        "name": "Epic Heal II"
+      },
+      {
+        "number": "5",
+        "name": "Divine True Name"
+      },
+      {
+        "number": "6",
+        "name": "Master Finished Work II"
+      },
+      {
+        "number": "7",
+        "name": "Mass Harm"
+      },
+      {
+        "number": "8",
+        "name": "Epic Harm II"
+      },
+      {
+        "number": "9",
+        "name": "Mass Dominate Monster"
+      },
+      {
+        "number": "10",
+        "name": "Summon Monster XI"
+      },
+      {
+        "number": "11",
+        "name": "Absorb Energy"
+      },
+      {
+        "number": "12",
+        "name": "Epic Dispel Magic"
+      },
+      {
+        "number": "13",
+        "name": "Epic Enchant Item II"
+      },
+      {
+        "number": "14",
+        "name": "Bane of the Dead"
+      },
+      {
+        "number": "15",
+        "name": "Gaia’s Wrath"
+      },
+      {
+        "number": "16",
+        "name": "Word of the Dead"
+      },
+      {
+        "number": "17",
+        "name": "Healing Aura"
+      },
+      {
+        "number": "18",
+        "name": "Amelia’s Light"
+      },
+      {
+        "number": "19",
+        "name": "Nyx’s Gift"
+      },
+      {
+        "number": "20",
+        "name": "Epic Iron Skin"
+      },
+      {
+        "number": "21",
+        "name": "Epic Particulate Form"
+      },
+      {
+        "number": "22",
+        "name": "Epic Hold Monster"
+      }
+    ]
+  },
+  "source_entry_count": 78,
+  "unique_spell_count": 58,
+  "spells": [
+    {
+      "name": "Create Master Undead",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Necromancy [evil] (reconstructed from create greater undead)",
+      "casting_time": "1 hour (reconstructed)",
+      "components": "V, S, M; gemstone worth 500 gp per Hit Die (cost is direct)",
+      "range": "Close (reconstructed)",
+      "target_area": "One corpse suitable for the chosen undead form",
+      "duration": "Instantaneous; control is ongoing until lost or superseded",
+      "saving_throw": "None (reconstructed)",
+      "spell_resistance": "No (reconstructed)",
+      "rules_text": "Creates a vampire, death knight, or lesser lich under the caster’s control. The material cost is a gemstone worth 500 gp per Hit Die of the created undead.",
+      "reconstruction_note": "Effect and cost are directly transcribed. Unwritten fields follow create greater undead.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Magic Missile",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Evocation [force] (reconstructed from magic missile)",
+      "casting_time": "Immediate action (direct)",
+      "components": "V, S (reconstructed)",
+      "range": "500 feet (direct)",
+      "target_area": "Up to 10 creatures; missiles can be divided among targets (reconstructed)",
+      "duration": "Instantaneous",
+      "saving_throw": "None",
+      "spell_resistance": "Yes; see special rule",
+      "rules_text": "Fires 10 magic missiles that are treated as maximized, empowered, and quickened. If a spell-resistance check fails, reroll the failed spell-penetration check; if the reroll also fails, the affected missile bounces to a new opponent.",
+      "reconstruction_note": "Range, action, number of missiles, metamagic treatment, reroll, and bounce rule are direct. Other fields follow magic missile.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Summon Monster X",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Conjuration (summoning)",
+      "casting_time": "1 round (reconstructed from summon monster IX)",
+      "components": "V, S, F/DF (reconstructed)",
+      "range": "Close (25 ft. + 5 ft./2 levels) (reconstructed)",
+      "target_area": "One summoned CR 18 monster (direct)",
+      "duration": "1 round/level (reconstructed)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Summons one CR 18 monster. The exact eligible creature list is not included in the handwritten pages.",
+      "reconstruction_note": "The CR and quantity are direct; other fields follow the summon monster line.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Enchant Item",
+      "aliases": [
+        "Epic Enchant Item I"
+      ],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Not specified; likely transmutation or universal",
+      "casting_time": "Not specified",
+      "components": "10,000 gp in magical components (direct)",
+      "range": "Touch or close; not specified",
+      "target_area": "One masterwork item (direct)",
+      "duration": "Permanent (direct)",
+      "saving_throw": "None (suggested)",
+      "spell_resistance": "No (suggested)",
+      "rules_text": "Uses 10,000 gp worth of components to enchant any masterwork item as a +1 magic item.",
+      "reconstruction_note": "All substantive rules are direct. School, casting time, and exact range are absent from the source.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Raise Dead",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Conjuration (healing)",
+      "casting_time": "1 minute",
+      "components": "V, S, M, DF",
+      "range": "Touch",
+      "target_area": "Dead creature touched",
+      "duration": "Instantaneous",
+      "saving_throw": "Will negates (harmless, object)",
+      "spell_resistance": "Yes (harmless, object)",
+      "rules_text": "Use the standard Pathfinder raise dead spell. The handwritten page says “See Cleric Description.”",
+      "reconstruction_note": "Standard PF1e spell entry.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Perfect Resurrection",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Conjuration (healing) (reconstructed from true resurrection)",
+      "casting_time": "10 minutes (reconstructed)",
+      "components": "V, S, M/DF; 20,000 gp material cost (direct cost)",
+      "range": "Touch (reconstructed)",
+      "target_area": "One dead creature",
+      "duration": "Instantaneous",
+      "saving_throw": "None (harmless)",
+      "spell_resistance": "Yes (harmless)",
+      "rules_text": "Witch only. Functions as true resurrection, but costs 20,000 gp. The note adds that “anything can be used,” apparently removing or relaxing the normal need for remains.",
+      "reconstruction_note": "Core effect, Witch restriction, cost, and remains note are direct; other fields follow true resurrection.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Cloak of the Gods",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Abjuration (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S, DF (suggested)",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "20 minutes/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Grants damage reduction 15/-.",
+      "reconstruction_note": "DR and duration are direct. Unwritten fields are conservative suggestions.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Master Finished Work I",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Transmutation (reconstructed from fabricate)",
+      "casting_time": "1 round per 10 cubic feet of material (reconstructed)",
+      "components": "V, S, M (raw materials)",
+      "range": "Close (reconstructed)",
+      "target_area": "Raw materials sufficient for the finished item",
+      "duration": "Instantaneous",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Transforms raw material into one complete finished item up to 20 feet by 20 feet by 20 feet in size.",
+      "reconstruction_note": "Effect and maximum size are direct; other fields follow fabricate.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Fog of Death",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Conjuration (creation) [poison] (reconstructed from cloudkill)",
+      "casting_time": "1 standard action",
+      "components": "V, S (reconstructed)",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "Fog cloud, 100-ft.-radius and 40 ft. high (direct)",
+      "duration": "1 round/level (direct)",
+      "saving_throw": "Fortitude partial (reconstructed from cloudkill)",
+      "spell_resistance": "No (reconstructed)",
+      "rules_text": "Creates a vast fog that deals damage as cloudkill.",
+      "reconstruction_note": "Damage reference, range, cloud dimensions, and duration are direct. Save and school follow cloudkill.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Firestorm I",
+      "aliases": [
+        "Firestorm"
+      ],
+      "spell_list": "Arcane 10",
+      "school": "Evocation [fire] (reconstructed from fire storm)",
+      "casting_time": "1 round (reconstructed)",
+      "components": "V, S (reconstructed)",
+      "range": "100 ft. + 10 ft./level (direct)",
+      "target_area": "Two 10-ft. cubes/level (notation interpreted from the handwritten “2 × 10-ft. cubes/level”)",
+      "duration": "1 round (direct)",
+      "saving_throw": "Reflex half (reconstructed)",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Deals 20d6 points of fire damage throughout the selected area.",
+      "reconstruction_note": "Damage, range, area notation, and duration are direct or directly interpreted. Other fields follow fire storm.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Create Gate / Teleport Circle",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Conjuration (teleportation) (reconstructed)",
+      "casting_time": "10 minutes (reconstructed from teleportation circle)",
+      "components": "V, M (reconstructed)",
+      "range": "0 ft.; portal originates at the caster (reconstructed)",
+      "target_area": "A portal/circle to another location on the same plane",
+      "duration": "1 hour/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Creates a portal to another location within the same plane.",
+      "reconstruction_note": "Effect and duration are direct. Remaining fields follow teleportation circle.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Master Mending",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Transmutation (reconstructed from make whole)",
+      "casting_time": "1 standard action (direct)",
+      "components": "V, S (reconstructed)",
+      "range": "Close (reconstructed)",
+      "target_area": "One damaged object or construct (suggested)",
+      "duration": "Instantaneous",
+      "saving_throw": "Will negates (object) (reconstructed)",
+      "spell_resistance": "Yes (object) (reconstructed)",
+      "rules_text": "Repairs 200 hit points of damage.",
+      "reconstruction_note": "Action and repair amount are direct; other fields follow make whole.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Sleep of the Dead",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Enchantment (compulsion) [mind-affecting, sleep] (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S, M (suggested)",
+      "range": "100 ft. + 10 ft./level (direct)",
+      "target_area": "One creature with 20 Hit Dice or fewer (direct)",
+      "duration": "1d4 days (direct)",
+      "saving_throw": "None (direct)",
+      "spell_resistance": "Yes (direct)",
+      "rules_text": "Puts the target into magical sleep for 1d4 days.",
+      "reconstruction_note": "Target limit, duration, save, SR, and range are direct. School and casting details are suggested from sleep effects.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Divine Name",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Divination (suggested)",
+      "casting_time": "Not specified",
+      "components": "15,000 gp sacrifice (direct); other components not specified",
+      "range": "Not specified",
+      "target_area": "One creature about whom the caster has at least minor knowledge",
+      "duration": "Instantaneous (suggested)",
+      "saving_throw": "Not specified",
+      "spell_resistance": "Not specified",
+      "rules_text": "Reveals the creature’s birth name. The note explicitly says that the birth name is not necessarily the creature’s given name. The caster must possess minor knowledge of the creature.",
+      "reconstruction_note": "Effect, cost, and knowledge prerequisite are direct. Other fields are absent.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Death Stare",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Necromancy [death] (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S (suggested)",
+      "range": "Medium (direct)",
+      "target_area": "One living creature (suggested)",
+      "duration": "Instantaneous",
+      "saving_throw": "Fortitude negates (direct)",
+      "spell_resistance": "No (direct)",
+      "rules_text": "The target dies on a failed Fortitude save.",
+      "reconstruction_note": "Range, save, SR, and death effect are direct. Remaining fields are suggested.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Hell Fireball",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Evocation [acid, fire] (reconstructed from fireball)",
+      "casting_time": "1 standard action",
+      "components": "V, S, M (reconstructed)",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "40-ft.-radius spread (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "Reflex half (reconstructed)",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Deals 10d6 fire damage plus 10d6 acid damage.",
+      "reconstruction_note": "Range, radius, and damage are direct; other fields follow fireball.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Shield I",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Abjuration [force] (reconstructed from shield)",
+      "casting_time": "1 standard action",
+      "components": "V, S",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "20 minutes/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Creates a force shield that grants a +10 shield bonus to AC.",
+      "reconstruction_note": "Bonus and duration are direct; other fields follow shield.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic True Strike",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Divination (reconstructed from true strike)",
+      "casting_time": "1 standard action",
+      "components": "V, F (reconstructed)",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "1d6+1 rounds (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Grants a +20 insight bonus on all attack rolls for the duration.",
+      "reconstruction_note": "Bonus, scope, and duration are direct; other fields follow true strike.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Shadow Evocation",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Illusion (shadow)",
+      "casting_time": "1 standard action (reconstructed)",
+      "components": "V, S (reconstructed)",
+      "range": "As the duplicated spell",
+      "target_area": "As the duplicated spell",
+      "duration": "As the duplicated spell",
+      "saving_throw": "Will disbelief; additional saves as the duplicated spell",
+      "spell_resistance": "Yes",
+      "rules_text": "Duplicates an 8th-level or lower evocation spell. A creature that successfully disbelieves still takes 50% of the spell’s damage or effect.",
+      "reconstruction_note": "Maximum spell level and 50% reality are direct. Other fields follow greater shadow evocation.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Stunning Barrier",
+      "aliases": [],
+      "spell_list": "Arcane 10; Divine 10",
+      "school": "Abjuration (reconstructed from stunning barrier)",
+      "casting_time": "1 standard action",
+      "components": "V, S (reconstructed)",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "1 minute/level (direct)",
+      "saving_throw": "Will negates the stun (direct)",
+      "spell_resistance": "Yes (direct)",
+      "rules_text": "Grants a +5 untyped bonus to AC and a +5 untyped bonus on saving throws. Up to 20 creatures that attack you—by melee attack, ranged attack, or spell—can be stunned. Each opponent can trigger only one stun attempt from a given casting.",
+      "reconstruction_note": "All major mechanics are direct. School and basic casting fields follow stunning barrier.",
+      "source_sections": [
+        "Arcane 10 Spell Entries",
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Form of Giant II",
+      "aliases": [],
+      "spell_list": "Arcane 10",
+      "school": "Transmutation (polymorph) (reconstructed)",
+      "casting_time": "1 standard action",
+      "components": "V, S, M (reconstructed)",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "1 minute/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Transforms the caster to Gargantuan size and grants +8 Strength, +8 Constitution, -4 Dexterity, and +8 natural armor.",
+      "reconstruction_note": "Duration, size, and ability/armor adjustments are direct. Other fields follow giant form.",
+      "source_sections": [
+        "Arcane 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Armor to Death",
+      "aliases": [],
+      "spell_list": "Divine 10",
+      "school": "Necromancy [death, curse] (suggested)",
+      "casting_time": "Not specified",
+      "components": "Not specified",
+      "range": "Not specified",
+      "target_area": "One creature or soul; not specified",
+      "duration": "Until discharged, dispelled, or the caster dies (suggested from text)",
+      "saving_throw": "Not specified",
+      "spell_resistance": "Not specified",
+      "rules_text": "Prevents the affected soul from being resurrected. It can be countered by wish, miracle, or the death of the caster.",
+      "reconstruction_note": "Effect and counters are direct. All other fields are absent.",
+      "source_sections": [
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Heal",
+      "aliases": [],
+      "spell_list": "Divine 10",
+      "school": "Conjuration (healing) (reconstructed from heal)",
+      "casting_time": "1 standard action",
+      "components": "V, S (reconstructed)",
+      "range": "Short: 25 ft. + 5 ft./level (direct)",
+      "target_area": "One creature",
+      "duration": "Instantaneous",
+      "saving_throw": "Will half when used offensively; harmless otherwise (reconstructed)",
+      "spell_resistance": "Yes; harmless when healing (reconstructed)",
+      "rules_text": "Heals 20 hit points per caster level, to a maximum of 500 hit points.",
+      "reconstruction_note": "Healing amount, cap, and range are direct. Other fields follow heal.",
+      "source_sections": [
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Shield of Faith",
+      "aliases": [],
+      "spell_list": "Divine 10",
+      "school": "Abjuration (reconstructed from shield of faith)",
+      "casting_time": "1 standard action",
+      "components": "V, S, M/DF (reconstructed)",
+      "range": "Touch (reconstructed)",
+      "target_area": "Creature touched",
+      "duration": "20 minutes/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "Yes (harmless) (reconstructed)",
+      "rules_text": "Grants a +10 deflection bonus to AC.",
+      "reconstruction_note": "Bonus and duration are direct. Other fields follow shield of faith.",
+      "source_sections": [
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Harm",
+      "aliases": [],
+      "spell_list": "Divine 10",
+      "school": "Necromancy (reconstructed from harm)",
+      "casting_time": "1 standard action",
+      "components": "V, S (reconstructed)",
+      "range": "Short: 25 ft. + 5 ft./level (direct)",
+      "target_area": "One creature",
+      "duration": "Instantaneous",
+      "saving_throw": "Will half (reconstructed)",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Deals 20 points of negative-energy damage per caster level, to a maximum of 500 hit points.",
+      "reconstruction_note": "Damage, cap, negative-energy notation, and range are direct. Other fields follow harm.",
+      "source_sections": [
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Creeping Doom",
+      "aliases": [
+        "Epic Creeping Doom"
+      ],
+      "spell_list": "Divine 10",
+      "school": "Conjuration or transmutation; not specified",
+      "casting_time": "1 standard action (suggested)",
+      "components": "Not specified",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "40-ft.-radius area (direct)",
+      "duration": "Not specified",
+      "saving_throw": "Not specified; likely Reflex-based for entanglement",
+      "spell_resistance": "Not specified",
+      "rules_text": "Entangles opponents in the area. Barbs inflict 1d6 points of Strength damage each round.",
+      "reconstruction_note": "Range, area, entanglement, and Strength damage are direct. Other fields are absent.",
+      "source_sections": [
+        "Divine 10 Spell Entries"
+      ]
+    },
+    {
+      "name": "Firestorm II",
+      "aliases": [],
+      "spell_list": "Divine 10; Arcane 11",
+      "school": "Evocation [fire]",
+      "casting_time": "1 round (reconstructed)",
+      "components": "V, S (reconstructed)",
+      "range": "100 ft. + 10 ft./level (inherits Firestorm I)",
+      "target_area": "Two 10-ft. cubes/level (inherits Firestorm I)",
+      "duration": "1d6 rounds (direct)",
+      "saving_throw": "Reflex half (reconstructed)",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Functions as Firestorm I, including 20d6 fire damage, but persists for 1d6 rounds.",
+      "reconstruction_note": "The handwritten text says “same as Firestorm I” and directly changes the duration.",
+      "source_sections": [
+        "Divine 10 Spell Entries",
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Mass Dominate Monster",
+      "aliases": [],
+      "spell_list": "Divine 11; Arcane 11 (name appears crossed out on the arcane page)",
+      "school": "Enchantment (compulsion) [mind-affecting]",
+      "casting_time": "1 round (reconstructed from dominate monster)",
+      "components": "V, S",
+      "range": "Close (reconstructed)",
+      "target_area": "One creature per caster level (direct)",
+      "duration": "1 day/level (reconstructed)",
+      "saving_throw": "Will negates",
+      "spell_resistance": "Yes",
+      "rules_text": "Functions as dominate monster against one target per caster level.",
+      "reconstruction_note": "Target count and base-spell reference are direct. The arcane appearance is crossed out, so list access should be confirmed.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Summon Monster XI",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Conjuration (summoning)",
+      "casting_time": "1 round (reconstructed)",
+      "components": "V, S, F/DF (reconstructed)",
+      "range": "Close (reconstructed)",
+      "target_area": "One summoned CR 22 monster (direct)",
+      "duration": "1 round/level (reconstructed)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Summons one CR 22 monster. The handwritten page labels this as an inserted “1.5” entry.",
+      "reconstruction_note": "CR and quantity are direct; other fields follow the summon monster line.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Master Finished Work II",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Transmutation (reconstructed from fabricate)",
+      "casting_time": "1 round per 10 cubic feet of material (reconstructed)",
+      "components": "V, S, M (raw materials)",
+      "range": "Close (reconstructed)",
+      "target_area": "Raw materials sufficient for the finished item(s)",
+      "duration": "Instantaneous",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Functions as Master Finished Work I, but can create either one item up to 25 feet by 25 feet by 25 feet, or two items each up to 10 feet by 10 feet by 10 feet.",
+      "reconstruction_note": "Effect and sizes are directly interpreted from the cubic notation. Other fields follow fabricate.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Enchant Item II",
+      "aliases": [
+        "Epic Enchant Item II"
+      ],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Not specified; likely transmutation or universal",
+      "casting_time": "Not specified",
+      "components": "15,000 gp sacrifice (direct)",
+      "range": "Touch or close; not specified",
+      "target_area": "One item",
+      "duration": "Permanent (inherited from Enchant Item)",
+      "saving_throw": "None (suggested)",
+      "spell_resistance": "No (suggested)",
+      "rules_text": "Creates a +2 magic item. The handwritten note lists a 15,000 gp sacrifice.",
+      "reconstruction_note": "Bonus and cost are direct. The divine list calls the spell “Epic Enchant Item II.”",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Particulate Form",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Transmutation",
+      "casting_time": "1 standard action",
+      "components": "V, S, M (a pinch of fine sand)",
+      "range": "Close (25 ft. + 5 ft./2 levels)",
+      "target_area": "One creature/level, no two more than 30 ft. apart",
+      "duration": "Arcane note: 20 minutes/level. Divine note appears to read 40 minutes/level, but the first digit is partly obscured.",
+      "saving_throw": "None (harmless)",
+      "spell_resistance": "No",
+      "rules_text": "Functions as particulate form: targets gain fast healing (scaling as the base spell) and immunity to bleed damage, critical hits, sneak attacks, and other precision damage. The epic version greatly extends the duration.",
+      "reconstruction_note": "The base spell fields and effect are standard PF1e. The extended durations are transcribed from the two epic lists.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Divine True Name",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Divination (suggested)",
+      "casting_time": "Not specified",
+      "components": "50,000 gp sacrifice (direct)",
+      "range": "Not specified",
+      "target_area": "One creature the caster knows through magical means (wording uncertain)",
+      "duration": "Instantaneous (suggested)",
+      "saving_throw": "Not specified",
+      "spell_resistance": "Not specified",
+      "rules_text": "An advanced form of Divine Name. It requires a 50,000 gp sacrifice and appears to require the caster to magically know or identify the target.",
+      "reconstruction_note": "Cost and target prerequisite are direct, but the exact wording after “must magically…” is faint.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Word of the Dead",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Necromancy [evil] (suggested)",
+      "casting_time": "Not specified",
+      "components": "Not specified",
+      "range": "Not specified",
+      "target_area": "1d4 master undead",
+      "duration": "Not specified",
+      "saving_throw": "Not specified",
+      "spell_resistance": "Not specified",
+      "rules_text": "Controls 1d4 master undead. No controlled undead can be more than 4 Hit Dice above the caster’s caster level.",
+      "reconstruction_note": "Control quantity and HD restriction are direct. Other fields are absent.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Armor of the Mass",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Abjuration (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S, DF (suggested)",
+      "range": "Not specified",
+      "target_area": "10 targets per caster level (direct)",
+      "duration": "1 hour/level (direct)",
+      "saving_throw": "None (harmless) (suggested)",
+      "spell_resistance": "Yes (harmless) or no; not specified",
+      "rules_text": "Each target gains a +4 luck bonus to AC, a +4 luck bonus on saving throws, and 20 additional hit points.",
+      "reconstruction_note": "Target count, bonuses, hit points, and duration are direct.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Ray of Destruction",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Evocation (suggested)",
+      "casting_time": "1 standard action",
+      "components": "V, S (suggested)",
+      "range": "Medium (direct)",
+      "target_area": "One creature struck by a ranged touch attack (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "Fortitude partial: on a successful save, damage is 10d10 (direct)",
+      "spell_resistance": "Yes (suggested)",
+      "rules_text": "A ray requiring a ranged touch attack. On a failed Fortitude save, it deals 2d10 points of damage per caster level with no maximum. On a successful save, it deals 10d10 damage.",
+      "reconstruction_note": "Range, attack type, damage, no maximum, and save result are direct.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Create Roaming Hungry Pit",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Conjuration (creation)",
+      "casting_time": "1 standard action (reconstructed)",
+      "components": "V, S, F (reconstructed)",
+      "range": "Long (direct)",
+      "target_area": "40-ft.-radius extradimensional pit (direct)",
+      "duration": "1 round/level (reconstructed from roaming pit)",
+      "saving_throw": "Reflex avoids falling; Reflex half against crushing damage (reconstructed)",
+      "spell_resistance": "No",
+      "rules_text": "Creates a hungry pit 10 feet deep per caster level, to a maximum depth of 300 feet. The pit has a 40-foot radius and can roam up to 80 feet when directed with a move action.",
+      "reconstruction_note": "Range, radius, movement, depth, and maximum depth are direct. Other fields combine roaming pit and hungry pit.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Finger of Death",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Necromancy [death]",
+      "casting_time": "1 standard action (reconstructed)",
+      "components": "V, S, M/DF (reconstructed)",
+      "range": "Close (reconstructed from finger of death)",
+      "target_area": "One living creature",
+      "duration": "Instantaneous",
+      "saving_throw": "The note says “save vs. death” for targets with HD no greater than caster level; a successful Will save reduces the result to 10d6 damage",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Against a target whose Hit Dice do not exceed the caster level, a failed death save kills the target. The note also states that the spell deals 10 damage per caster level with no maximum and allows a Will save for 10d6 damage. Because two save clauses are written, GM clarification is recommended.",
+      "reconstruction_note": "All damage and save wording is directly transcribed; the interaction between the two saves is ambiguous.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Elemental Burst",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Evocation [acid, cold, electricity, or fire] (suggested)",
+      "casting_time": "1 standard action",
+      "components": "V, S (suggested)",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "50-ft.-radius burst (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "Reflex half (direct)",
+      "spell_resistance": "Yes (suggested)",
+      "rules_text": "Deals 1d10 points of damage per caster level, maximum 30d10. Choose acid, cold, electricity, or fire when the spell is learned; that choice is permanent for that version of the spell.",
+      "reconstruction_note": "Range, area, damage, cap, energy choices, selection timing, and save are direct.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Force Blast",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Evocation [force] (suggested)",
+      "casting_time": "1 standard action",
+      "components": "V, S (suggested)",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "20-ft.-radius burst (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "None (direct)",
+      "spell_resistance": "Yes (suggested)",
+      "rules_text": "Deals 1d6 points of force damage per caster level, maximum 30d6.",
+      "reconstruction_note": "Range, radius, damage, cap, and no-save clause are direct.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Dispel Magic",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Abjuration",
+      "casting_time": "1 standard action",
+      "components": "V, S (reconstructed)",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "50-ft.-radius area (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Attempts to dispel all magical effects in the area and grants a +4 bonus on all dispel checks.",
+      "reconstruction_note": "Range, area, universal dispel intent, and +4 bonus are direct. Other fields follow dispel magic.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Fog of Death II",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Conjuration (creation) [poison]",
+      "casting_time": "1 standard action",
+      "components": "V, S",
+      "range": "400 ft. + 40 ft./level",
+      "target_area": "100-ft.-radius, 40-ft.-high roaming cloud",
+      "duration": "1 round/level",
+      "saving_throw": "Fortitude partial",
+      "spell_resistance": "No",
+      "rules_text": "Functions as Fog of Death, but the cloud is roaming. The movement rate and action needed to direct it are not written.",
+      "reconstruction_note": "The only direct change is that the fog roams; other fields inherit Fog of Death.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Hold Monster",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Enchantment (compulsion) [mind-affecting]",
+      "casting_time": "1 standard action",
+      "components": "V, S, M/DF (reconstructed)",
+      "range": "Medium (direct)",
+      "target_area": "One creature",
+      "duration": "1 round/level (direct)",
+      "saving_throw": "Will negates; the target receives only one save attempt (direct)",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Paralyzes the target as hold monster. The target attempts its Will save only once rather than receiving repeated saves.",
+      "reconstruction_note": "Range, duration, and one-save clause are direct. Other fields follow hold monster.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Mage Armor",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Conjuration (creation) [force]",
+      "casting_time": "1 standard action",
+      "components": "V, S, F (reconstructed)",
+      "range": "Touch (reconstructed)",
+      "target_area": "Creature touched",
+      "duration": "20 minutes/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Grants a +20 armor bonus to AC.",
+      "reconstruction_note": "Bonus and duration are direct. Other fields follow mage armor.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Form of Giant IV",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Transmutation (polymorph) (reconstructed)",
+      "casting_time": "1 standard action",
+      "components": "V, S, M (reconstructed)",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "1 minute/level (inherited from the giant-form line)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Transforms the caster to Colossal size and grants +10 Strength, +10 Constitution, -6 Dexterity, and +10 natural armor.",
+      "reconstruction_note": "Size and adjustments are direct; other fields follow giant form.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Absorb Energy",
+      "aliases": [],
+      "spell_list": "Arcane 11; Divine 11",
+      "school": "Abjuration (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S (suggested)",
+      "range": "Personal or touch; not specified",
+      "target_area": "One creature; not specified",
+      "duration": "1 minute/level (direct)",
+      "saving_throw": "None (harmless) (suggested)",
+      "spell_resistance": "No (suggested)",
+      "rules_text": "Choose one energy type when the spell is cast. Damage of that type heals the subject instead of harming it.",
+      "reconstruction_note": "Duration and healing conversion are direct. Range and target are not written.",
+      "source_sections": [
+        "Arcane 11 Spell Entries",
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Mirage Arcana",
+      "aliases": [],
+      "spell_list": "Arcane 11",
+      "school": "Illusion (glamer)",
+      "casting_time": "10 minutes (reconstructed from mirage arcana)",
+      "components": "V, S (reconstructed)",
+      "range": "Long (reconstructed)",
+      "target_area": "Terrain-scale area; exact size not specified",
+      "duration": "Concentration + 1 hour/level or as mirage arcana (reconstructed)",
+      "saving_throw": "Will disbelief",
+      "spell_resistance": "No",
+      "rules_text": "Changes the terrain as mirage arcana and can fill the illusion with apparent troops and traps. The troops and traps deal damage unless the effect is resisted or disbelieved.",
+      "reconstruction_note": "Custom troops/traps effect is direct. Other fields follow mirage arcana.",
+      "source_sections": [
+        "Arcane 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Firestorm III",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Evocation [fire]",
+      "casting_time": "1 round (reconstructed)",
+      "components": "V, S (reconstructed)",
+      "range": "100 ft. + 10 ft./level",
+      "target_area": "Two 10-ft. cubes/level",
+      "duration": "2d6 rounds (direct)",
+      "saving_throw": "Reflex half",
+      "spell_resistance": "Yes",
+      "rules_text": "Functions as Firestorm II but persists for 2d6 rounds. It otherwise inherits the 20d6 damage and area of Firestorm I.",
+      "reconstruction_note": "Duration change is direct; remaining fields inherit the earlier versions.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Perfect Restoration",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Conjuration (healing) (reconstructed from greater restoration)",
+      "casting_time": "3 rounds (reconstructed)",
+      "components": "V, S, M/DF (reconstructed)",
+      "range": "Touch",
+      "target_area": "Creature touched",
+      "duration": "Instantaneous",
+      "saving_throw": "Will negates (harmless)",
+      "spell_resistance": "Yes (harmless)",
+      "rules_text": "Restores lost limbs and lost levels, removes curses, heals poison and disease, and removes the curse of undeath.",
+      "reconstruction_note": "All listed restorative effects are direct. Other fields follow greater restoration.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Heal II",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Conjuration (healing)",
+      "casting_time": "1 standard action",
+      "components": "V, S",
+      "range": "Short: 25 ft. + 5 ft./level (inherited from Epic Heal)",
+      "target_area": "One creature",
+      "duration": "Instantaneous",
+      "saving_throw": "Will half when used offensively; harmless otherwise",
+      "spell_resistance": "Yes; harmless when healing",
+      "rules_text": "Heals 30 hit points per caster level, maximum 1,000 hit points.",
+      "reconstruction_note": "Healing amount and cap are direct. Other fields inherit Epic Heal.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Mass Harm",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Necromancy (reconstructed from harm)",
+      "casting_time": "1 standard action",
+      "components": "V, S",
+      "range": "Close (suggested)",
+      "target_area": "One target per caster level (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "Will half (reconstructed)",
+      "spell_resistance": "Yes (reconstructed)",
+      "rules_text": "Applies the harm spell to one target per caster level.",
+      "reconstruction_note": "Target count and base-spell reference are direct.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Harm II",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Necromancy",
+      "casting_time": "1 standard action",
+      "components": "V, S",
+      "range": "Short: 25 ft. + 5 ft./level (inherited from Epic Harm)",
+      "target_area": "One creature",
+      "duration": "Instantaneous",
+      "saving_throw": "Will half",
+      "spell_resistance": "Yes",
+      "rules_text": "Deals 30 points of negative-energy damage per caster level, maximum 1,000 hit points.",
+      "reconstruction_note": "Damage amount and cap are direct. Other fields inherit Epic Harm.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Bane of the Dead",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Necromancy [death] (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S, DF (suggested)",
+      "range": "400 ft. + 40 ft./level (direct)",
+      "target_area": "50-ft.-radius blast (direct)",
+      "duration": "Instantaneous",
+      "saving_throw": "None (direct)",
+      "spell_resistance": "Yes (direct)",
+      "rules_text": "Destroys every undead creature with 20 Hit Dice or fewer in the blast.",
+      "reconstruction_note": "Range, area, HD threshold, no-save clause, and SR are direct.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Gaia’s Wrath",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Transmutation [earth] (suggested)",
+      "casting_time": "1 round (suggested)",
+      "components": "V, S, DF (suggested)",
+      "range": "A 5,000-ft.-long path beginning in front of the caster (direct)",
+      "target_area": "100-ft.-wide tear in the earth (direct)",
+      "duration": "Instantaneous; imprisonment effects persist (suggested)",
+      "saving_throw": "Reflex negates entrapment (direct)",
+      "spell_resistance": "No (suggested)",
+      "rules_text": "Creates a tear in the earth that begins in front of the caster and travels 5,000 feet. The tear is 100 feet across. Creatures in the area that fail a Reflex save are trapped as by imprisonment. Buildings automatically fail; buildings only partly caught in the area take 10d10 damage.",
+      "reconstruction_note": "All major area and effect mechanics are direct. School and supporting fields are suggested.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Healing Aura",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Conjuration (healing) (suggested)",
+      "casting_time": "1 standard action (suggested)",
+      "components": "V, S, DF (suggested)",
+      "range": "Personal; 30-ft.-radius emanation (direct)",
+      "target_area": "You and allies in the aura",
+      "duration": "1 minute/level (direct)",
+      "saving_throw": "None (harmless)",
+      "spell_resistance": "No or yes (harmless); not specified",
+      "rules_text": "The caster gains fast healing 20. Allies within 30 feet also gain fast healing 20 while they remain in the aura.",
+      "reconstruction_note": "Duration, caster benefit, radius, ally benefit, and fast-healing value are direct.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Amelia’s Light",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Evocation [light] (reconstructed from daylight)",
+      "casting_time": "1 standard action",
+      "components": "V, S, DF (suggested)",
+      "range": "Personal; 1,000-ft.-radius emanation (direct)",
+      "target_area": "Area centered on the caster (suggested)",
+      "duration": "1 minute/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Creates magical daylight in a 1,000-foot radius and counters magical darkness.",
+      "reconstruction_note": "Radius, duration, and countering effect are direct. Other fields follow daylight.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Nyx’s Gift",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Evocation [darkness] (reconstructed from darkness)",
+      "casting_time": "1 standard action",
+      "components": "V, S, DF (suggested)",
+      "range": "Personal; 1,000-ft.-radius emanation (direct)",
+      "target_area": "Area centered on the caster (suggested)",
+      "duration": "Not written; 1 minute/level is a reasonable parallel to Amelia’s Light but requires GM confirmation",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Counters magical light and creates magical darkness in a 1,000-foot radius.",
+      "reconstruction_note": "Countering effect and radius are direct. Duration is absent from the note.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    },
+    {
+      "name": "Epic Iron Skin",
+      "aliases": [],
+      "spell_list": "Divine 11",
+      "school": "Transmutation (reconstructed from iron skin)",
+      "casting_time": "1 standard action",
+      "components": "V, S, M (reconstructed)",
+      "range": "Personal",
+      "target_area": "You",
+      "duration": "1 minute/level (direct)",
+      "saving_throw": "None",
+      "spell_resistance": "No",
+      "rules_text": "Grants a +14 natural armor bonus.",
+      "reconstruction_note": "Bonus and duration are direct. Other fields follow iron skin.",
+      "source_sections": [
+        "Divine 11 Spell Entries"
+      ]
+    }
+  ]
+}

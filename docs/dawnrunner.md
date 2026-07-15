@@ -42,6 +42,10 @@ The workbook also records fourteen one-eighth-share petty officers and fifteen g
 
 The workbook's rules derive Armor Class and saves from Profession (sailor), with additional penalties when operating below minimum crew. Current totals require Demidius's present modifier and the present staffing level. The recorded laboratory, two Lightweight upgrades, Magic Swiftness, Gatling Lightning Ballista, sixteen light ballistae, two standard catapults, and five heavy ballistae are also a dated snapshot that should be checked against current play.
 
+## Priority magical support
+
+Demidius should take *wandering weather* as soon as possible. Its ability to provide favorable mobile weather could tremendously increase the Dawnrunner's speed and therefore improve voyage time, pursuit, escape, and strategic response. The spell's source, exact mechanics, and interaction with the campaign's ship-speed rules still need to be verified before a numerical speed is recorded.
+
 ## Source reconciliation
 
 Source: `C:\Users\coutu\Documents\Codex\Documents\Dawnrunner\Dawnrunner.xlsx`.

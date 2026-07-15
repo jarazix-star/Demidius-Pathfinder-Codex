@@ -142,5 +142,17 @@
     "title": "Glasses of Beaumont",
     "status": "Verified Campaign Artifact",
     "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Queen Lidda Beaumont of Nysia. - **3/day:** Reveal a creature's alignment unerringly. - **3/day:** Use *true seeing*."
+  },
+  {
+    "id": "CR-25",
+    "title": "Divine Boons",
+    "status": "Verified Campaign Rule",
+    "text": "Gods may reward the party with Boons. Boons may be saved; spent on Mythic Feats at costs 1, 1, 2, 3, and so on; banked toward a later negotiated divine favor; spent on templates for 2 Boons at Lesser, 3 additional at Greater, and 5 additional at Master; or spent on bloodline and divine-status advancement for 5 Boons for divine adoption, 5 for Demigod, and 10 for Mortal God."
+  },
+  {
+    "id": "CR-26",
+    "title": "Mythic Tier and Mythic Power calculation",
+    "status": "Verified Campaign Rule",
+    "text": "Each godly power grants 1 Mythic Tier and 2 Mythic Power points. Every two mythic path powers grant 1 Mythic Tier, while each path power grants 2 Mythic Power points. Each Mythic Feat grants 1 Mythic Power point. Tier equals godly powers plus floor(path powers divided by 2); Mythic Power equals twice godly powers plus twice path powers plus Mythic Feats."
   }
 ]

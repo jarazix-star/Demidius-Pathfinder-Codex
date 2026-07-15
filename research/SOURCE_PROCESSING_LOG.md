@@ -4,6 +4,7 @@ This file prevents archive/catalog access from being mistaken for content-level 
 
 | Source | Publisher | Evidence level | Completed work | Next action |
 |---|---|---|---|---|
+| Epic Spell Compendium Second Pass | Campaign homebrew | Complete structured transcription with flagged ambiguities | 78 level-list entries consolidated into 58 unique level 10-11 spell records; Markdown, CSV, JSON, wiki, and source archive added | Resolve the divine duration of Epic Particulate Form and the two-save wording of Epic Finger of Death with the GM. |
 | Pathfinder RPG Mythic Adventures | Paizo | Complete full-text index | Official baseline; all 258 pages indexed | Cross-check final character sheet and current mythic selections. |
 | Mythic Hero's Handbook | Legendary Games | Focused extraction | High-relevance feats, path abilities, leadership, luck and dispel options | Oracle-specific class feature audit and broader path review. |
 | Mythic Spell Compendium | Legendary Games / Kobold Press | Complete full-text spell extraction | 2,100 unique spell entries rated, tagged, summarized, cited, and indexed for Demidius | Manually review only low-confidence or build-critical entries when needed. |

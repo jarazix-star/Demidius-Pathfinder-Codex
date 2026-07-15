@@ -1,5 +1,58 @@
 # Change Log
 
+## Arverdon Palace
+
+- Confirmed Arverdon Palace as the seat from which Queen Lidda Beaumont rules Nysia.
+- Connected the palace to the Queen Beaumont, Nysia, Old Nysia, campaign-setting, and location records without assuming that it is the formal capital.
+
+## Stormspire, Odysseus, and the Scepter of Keto
+
+- Confirmed the Storm King as ruler of the floating city of Stormspire.
+- Recorded the operation in which the crews distracted the Storm King while Odysseus stole the final component needed for the Scepter of Keto.
+- Recorded that the Scepter can bypass Poseidon's navigation spell over the Isles of Berres.
+- Recorded Odysseus's deliberate sabotage of Stormspire and Maarin's use of weather control to prevent the city from crashing into the settlement below.
+- Added Odysseus as a recovered level-30 rogue, tactical genius, and ruthless greater-good strategist who had been missing for twenty years.
+
+## Epic spell compendium
+
+- Added a dedicated epic-spell reference covering 78 level-list entries and 58 unique 10th- and 11th-level spells.
+- Added a full human-readable reference, CSV and JSON datasets, a GitHub wiki page, and navigation links.
+- Preserved direct transcription, conservative reconstruction, and unresolved ambiguity labels instead of silently normalizing uncertain source text.
+- Archived the supplied second-pass DOCX with the private project sources.
+
+## Okeanikos relationship wording
+
+- Removed the unclear description of Maarin as Okeanikos's “divine focus.”
+- Retained the confirmed relationship: Maarin is his rescuer and cohort leader, he worships her, and he regards her as his sister.
+
+## Mythic Tier and Mythic Power formulas
+
+- Added campaign rule CR-26: each godly power grants 1 Mythic Tier and 2 Mythic Power points.
+- Recorded that every two mythic path powers grant 1 tier, while each path power grants 2 Mythic Power points.
+- Recorded that every Mythic Feat grants 1 Mythic Power point.
+
+## Divine Boon economy
+
+- Added the campaign's Boon currency and its uses for saving, Mythic Feats, negotiated divine favors, templates, bloodline adoption, and divine-status advancement.
+- Recorded the Mythic Feat cost sequence of 1, 1, 2, 3, and so on, and the cumulative template costs of 2, 5, and 10 Boons.
+- Added a dedicated Boons wiki page and campaign-rule entry CR-25.
+
+## Aelwyn appearance, family, and reference art
+
+- Confirmed Aelwyn as a platinum-skinned female paladin, child of Smokey Roberts, and half-sister of Demidius.
+- Added her family connections to the Aelwyn, Demidius, Smokey Roberts, and *Matcha Frappuccino* records.
+- Added a standard crew-format character reference sheet for Aelwyn.
+
+## Aelwyn, Ironclaw Isle, and the Sunken Enclave
+
+- Confirmed Aelwyn as a member and officer of Maarin's *Matcha Frappuccino* crew.
+- Recorded her attack on Ironclaw Isle's lethal slave-labor operation and the deaths of the Iron Tyrant's heir and daughter.
+- Added Alexander's curse upon Aelwyn and the Sunken Enclave bounties on Aelwyn and the party, while preserving the unknown mechanics and motives.
+
+## Dawnrunner propulsion priority
+
+- Added *wandering weather* as an urgent spell acquisition for Demidius because of its potential to tremendously accelerate the Dawnrunner.
+
 ## Zatera, Berres, and Tradegulf setting expansion
 
 - Confirmed that the campaign takes place on Zatera in 150 P.A. and that P.A. means Post-Arrival.

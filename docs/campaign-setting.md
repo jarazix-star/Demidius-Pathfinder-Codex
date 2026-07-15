@@ -20,6 +20,8 @@ The world map records Lodingen, Drozag, Yusia and Mount Olympus, Teecen, Yalta, 
 
 Poseidon is patron of the Isles. Approximately five hundred years ago, he cursed the Shipbreaker Sea so ordinary compasses and navigational tools fail. Clouds cover the stars and moon every night, preventing conventional nighttime celestial navigation.
 
+The Scepter of Keto can bypass this navigation spell. The heroes obtained its final required component during an operation at Stormspire, although its present assembly, custody, activation, and limits have not yet been recorded.
+
 Poseidon created fourteen **Wayfinders** that function despite the curse. At the campaign's start, each of the seven Pirate Kings and Queens and each ruler's second-in-command held one. Passage out of the Isles from the unnamed capital costs roughly 25,000–50,000 gp per person.
 
 Sailors without a Wayfinder use landmark maps, line-of-sight island hopping, instinctive or supernatural navigation, and outpost lanes whose anchored ships or floating communities lie within a day's sail. Independent and rival-controlled outposts are frequent pirate targets.
@@ -58,7 +60,7 @@ Maarin proposes that the heroes abdicate their claim, give Declan's Wayfinder to
 
 ![Old Nysia](assets/locations/old-nysia-map.jpg)
 
-The Old Nysia map places Tradegulf east of Greyridge, north of Weirworth Falls, and west of the Acis River corridor toward Glistria. Other sites include Arverdon Palace, Syrens Tower, Emvolos Tower, Griton, Weirworth, Basilia, Greenport, Kettleton, Hapborough, Certair, Fetil, Heabury, Mount Ketlish, the Alden Lakes, and the Dancing Sea.
+The Old Nysia map places Tradegulf east of Greyridge, north of Weirworth Falls, and west of the Acis River corridor toward Glistria. Queen Lidda Beaumont rules Nysia from Arverdon Palace. Other sites include Syrens Tower, Emvolos Tower, Griton, Weirworth, Basilia, Greenport, Kettleton, Hapborough, Certair, Fetil, Heabury, Mount Ketlish, the Alden Lakes, and the Dancing Sea.
 
 At the recent Battle for Tradegulf, Maarin killed Declan and Aristea died. Declan's death left the Sunlit Chain leaderless. Aristea's soul is imprisoned in Tartarus and must be released before resurrection.
 

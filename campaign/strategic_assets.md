@@ -24,7 +24,7 @@ These assets change what the party can attempt at campaign scale. Their value is
 | Seven-Pipped Gem | Divine ability | Post-roll certainty on pivotal d20 checks | Active | Immediate-action conflict and daily limit |
 | Sounon | Island home base | Shared home for the Dawnrunner and *Matcha Frappuccino* crews | Selected; infrastructure unrecorded | Shipbreaker navigation, construction, defense, and local unknowns |
 | Declan's Wayfinder | Magical compass and succession token | Functions within the Shipbreaker Sea and supports the Sunlit Chain claim | Held by the heroes | One of only fourteen; rival claimants and political exposure |
-| The Scepter | Strategic object | Proposed support for a future Nyssian invasion | Available to Maarin's proposal; details unknown | Unknown powers, limits, and political consequences |
+| Scepter of Keto | Navigation artifact | Bypasses Poseidon's navigation curse over the Isles of Berres | Final required component stolen from Stormspire; assembly and custody unrecorded | Exact activation, limits, custody, and consequences remain unknown |
 
 ## Inherited Demiplane
 
@@ -54,6 +54,8 @@ Bix, a chaotic-good male grippli godling of Hermes and Dawnrunner officer, is De
 
 The *Matcha Frappuccino* is a galleon and the Dawnrunner's sister ship. Maarin, a muscular mistsoul undine with blue skin, aqua mistlike hair, pink eyes, plant-covered medium armor, and a perpetual gathering of plants and animals, commands it with Amparo Decoris Ignatius as first mate. Amparo is a nonbinary undine life oracle with vitiligo and purple eyes. Other named officers are Okeanikos, Alley, Tulip, Valax, Aelwyn, Razin, and Filius. Alley is a female goblin rogue, worshiper of Hermes, and Maarin's spymaster; she recently married Tulip. Tulip is a male gnome unicorn-bloodline sorcerer, exceptional cook, healer, and head chef, as well as a demigod of Aphrodite and Demidius's half-brother. Filius is a very ancient male Oread, mortal god of the World Tree, and Mystic Theurge who currently serves as a healer after spending millennia petrified. Its supplied record gives it AC 44, 1,250 hull points, saves 22, hardness 10, 160 crew, 30 captain/officer positions, magical upgrades, and a substantial siege battery. Some officer duties and its current assignment remain to be documented.
 
+Aelwyn's attack on Ironclaw Isle's lethal slave-labor operation makes her a valuable regional symbol and helps explain Maarin's proposal to place her beside Dame Mathilda. It also creates strategic exposure: the Sunken Enclave has bounties on Aelwyn and the party, while Alexander has personally cursed her for killing the Iron Tyrant's daughter, a quarter-godling of Alexander and heir of one of his demigods.
+
 ## Sounon and the Sunlit Chain
 
 Sounon lies within the Sunlit Chain and will become the shared home of Demidius's and Maarin's crews. Its local map records the Temple of Springs, Hidden Cove, Village Ruins, and an offshore shipwreck. The base still requires confirmed anchorage, docks, housing, supplies, repair capacity, governance, defenses, and repeatable routes through the Shipbreaker Sea.
@@ -67,6 +69,12 @@ The six surviving Pirate Kings and Queens are Smokey Roberts, Bloody Anne, Blueb
 Poseidon's curse disables ordinary compasses and hides the stars and moon every night within the Shipbreaker Sea. Fourteen Wayfinders function despite the curse. At campaign start, each of the seven Pirate Kings and Queens and each ruler's second held one.
 
 Wayfinders control reliable navigation, enable otherwise prohibitively expensive travel, and carry succession significance. Declan's instrument must be treated as both high-value transportation infrastructure and a contested symbol of authority.
+
+## Scepter of Keto
+
+The Scepter of Keto can bypass the spell Poseidon placed over the Isles of Berres that makes navigation exceptionally difficult. During the Stormspire operation, the crews distracted the Storm King while Odysseus stole the final component needed to complete it. The record does not yet establish whether the Scepter has been assembled, who carries it, how it is activated, or whether bypassing the curse has geographic or temporal limits.
+
+Unlike a single Wayfinder, the Scepter may offer the party an independent answer to Poseidon's monopoly over navigation. That makes it a fleet-scale strategic asset and a likely target for the Council of Seven, Poseidon, and other powers invested in controlling Berresian travel.
 
 ## Glasses of Beaumont
 
@@ -85,6 +93,7 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - Keep a corridor ledger for every Key of Daedalus use.
 - Record every demiplane sleep recipient and informed consent.
 - Define the Dawnrunner's officer roles and succession of command.
+- Acquire *wandering weather* for Demidius as soon as possible and verify its source and ship-speed interaction; it could tremendously accelerate the Dawnrunner.
 - Reserve daily artifact uses according to mission priority.
 - Keep the Deck untouched unless the campaign situation justifies irreducible risk.
 - Secure Declan's Wayfinder and identify his former second-in-command and the paired Wayfinder.

@@ -24,6 +24,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | The people, gods, and places in the record | [People and Places](people-and-places.md) |
 | The strategy behind the build | [The Five Pillars](../codex/01_PILLARS_OF_DEMIDIUS.md) |
 | Precise table rulings | [Campaign Rules](../appendices/campaign-rules.md) |
+| The campaign's 10th- and 11th-level spells | [Epic Spells](../reference/spells/EPIC_SPELL_COMPENDIUM.md) |
 | The complete optimization reference | [Master Codex](../codex/MASTER_CODEX.md) |
 
 ## The campaign in one page
@@ -56,6 +57,8 @@ Every major recommendation is judged by its contribution to one or more of these
 - [Fatal Flaws](../appendices/fatal_flaws.md) — divine costs and mitigation procedures.
 
 ## Optimization engines
+
+The [Epic Spells](../reference/spells/EPIC_SPELL_COMPENDIUM.md) reference catalogs 58 unique arcane and divine spells of levels 10 and 11, with transcription confidence notes.
 
 | Engine | Question it answers |
 |---|---|

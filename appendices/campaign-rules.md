@@ -190,6 +190,28 @@ This appendix is the canonical source for campaign-specific rulings used through
 - **3/day:** Reveal a creature's alignment unerringly.
 - **3/day:** Use *true seeing*.
 
+## Divine boon economy
+
+### CR-25 — Divine Boons
+
+- **Status:** Verified Campaign Rule
+- **Award:** Gods may reward the party with Boons, which can be saved or spent on permanent advancement and divine favors.
+- **Save:** Unspent Boons may be retained without being assigned to a purchase.
+- **Mythic feats:** The first Mythic Feat purchased with Boons costs 1 Boon; the second costs 1; the third costs 2; the fourth costs 3; and so on. Equivalently, the cost equals the number of Mythic Feats previously purchased with Boons, with a minimum cost of 1.
+- **Banked divine favor:** Boons may be banked toward a later negotiated favor, such as a bonus on a save against a god or a Diplomacy check involving a god. The exact benefit is situational and not guaranteed until adjudicated.
+- **Templates:** A Lesser template costs 2 Boons. Upgrading it to Greater costs 3 additional Boons, for 5 total. Upgrading it to Master costs 5 additional Boons, for 10 total.
+- **Bloodline and divine status:** Adoption by a deity costs 5 Boons; advancement to Demigod costs 5 Boons; advancement to Mortal God costs 10 Boons. Whether a character may skip prerequisites or stages remains subject to campaign approval.
+
+### CR-26 — Mythic Tier and Mythic Power calculation
+
+- **Status:** Verified Campaign Rule
+- **Godly powers:** Each unlocked godly power grants 1 Mythic Tier and 2 Mythic Power points.
+- **Mythic path powers:** Every two unlocked mythic path powers grant 1 Mythic Tier. Each individual mythic path power grants 2 Mythic Power points.
+- **Mythic feats:** Each Mythic Feat grants 1 Mythic Power point. Mythic Feats do not independently grant Mythic Tier under this formula.
+- **Tier formula:** `Mythic Tier = godly powers + floor(mythic path powers / 2)`.
+- **Power formula:** `Mythic Power points = 2 × godly powers + 2 × mythic path powers + mythic feats`.
+- **Counting note:** Only complete pairs of mythic path powers increase Mythic Tier; an unmatched path power still contributes its 2 Mythic Power points.
+
 ## Dependency map
 
 | Rule | Primary dependents |
@@ -212,6 +234,8 @@ This appendix is the canonical source for campaign-specific rulings used through
 | CR-22 | Risk Management Engine, Deck ledger |
 | CR-23 | Action Economy and Magical Supremacy Engines |
 | CR-24 | Influence and Magical Supremacy Engines, campaign timeline |
+| CR-25 | Mythic feat planning, templates, godling bloodlines, divine advancement, and negotiations with gods |
+| CR-26 | Divine Progression Engine, Mythic Tier, Mythic Power pool, godly powers, path powers, and Mythic Feats |
 
 ## Change control
 

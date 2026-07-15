@@ -16,12 +16,17 @@ A private, source-backed Pathfinder 1e optimization knowledge base for **Demidiu
 
 ## Spell research datasets
 
+- `reference/spells/EPIC_SPELL_COMPENDIUM.md` - source-preserving reference for 58 unique 10th- and 11th-level epic spells.
+- `reference/spells/epic_spell_compendium.csv` - spreadsheet-ready epic spell index.
+- `reference/spells/epic_spell_compendium.json` - machine-readable epic spell records, class lists, and transcription notes.
 - `reference/spells/mythic_spell_compendium_demidius_sweep.csv` - full 2,100-entry spell-by-spell Demidius relevance sweep.
 - `reference/spells/mythic_spell_compendium_demidius_sweep.json` - machine-readable spell dataset.
 - `reference/spells/mythic_magic_core_spells_demidius_sweep.csv` - full 393-entry Core Spells sweep.
 - `reference/spells/mythic_magic_core_vs_compendium_difference_audit.csv` - version-difference audit.
 - `reference/spells/MYTHIC_SPELL_COMPENDIUM_SWEEP.md` - findings and top recommendations.
 - `reference/spells/CORE_SPELLS_DIFFERENCE_AUDIT.md` - comparison methodology and flagged changes.
+
+The preserved source document for the epic-spell transcription is archived privately at `archive/source-docx/Epic_Spell_Compendium_Second_Pass.docx`.
 
 Search them with:
 

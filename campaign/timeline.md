@@ -48,6 +48,16 @@ The heroes fought for Tradegulf in Old Nysia. Maarin killed Sea Serpent Declan, 
 
 Declan's death reduced the active Council of Seven to six and left the Sunlit Chain without a lord.
 
+### The Stormspire operation
+
+The heroes traveled to Stormspire, the Storm King's floating city. While the crews distracted the Storm King, Odysseus stole the final component needed to complete the Scepter of Keto, an artifact capable of bypassing Poseidon's navigation curse over the Isles of Berres.
+
+Odysseus deliberately sabotaged Stormspire's flight so the city would crash into the settlement below, intending to eliminate an enemy of Nysia and the New Gods regardless of the lives sacrificed without their consent. Maarin used her weather power to arrest the city's fall and save the settlement.
+
+### The party recovers Odysseus
+
+The party recovered Odysseus after he had been missing for twenty years. He is a level-30 rogue of an unspecified specialization and a tactical genius. His commitment to the greater good is ruthlessly utilitarian: he is willing to sacrifice people without their consent to achieve strategic goals.
+
 ### Maarin proposes Dame Mathilda for the Sunlit Chain
 
 Maarin believes the party has the strongest succession claim through her killing blow, possession of Declan's Wayfinder, and the party's Berresian origin. She also believes the heroes cannot hold the domain against the surviving Pirate Kings, particularly Wavelord Santiago and Smokey Roberts, or the separate storm-giant power called the Storm King.

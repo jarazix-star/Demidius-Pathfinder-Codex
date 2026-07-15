@@ -1,16 +1,16 @@
 ---
-title: Campaign Setting
+title: The Arrival — Campaign Setting
 status: canonical campaign summary
 last_updated: 2026-07-15
 ---
 
-# Campaign Setting
+# The Arrival — Campaign Setting
 
 ## Zatera in 150 P.A.
 
 ![Zatera world map in 150 P.A.](assets/locations/zatera-150-pa-world-map.jpg)
 
-The campaign takes place on **Zatera** in **150 P.A.**, approximately one hundred years after the previous campaign. P.A. means **Post-Arrival**, but the identity of the Arrival is disputed. It may refer to Fel, a primordial dragon from the Outer Realms, arriving in Zatera, or to Cronus being freed from the Underworld. Cronus's release caused the divine schism, but the record does not prove that the schism began the calendar.
+**The Arrival** takes place on **Zatera** in **150 P.A.**, approximately one hundred years after the previous campaign. P.A. means **Post-Arrival**, but the identity of the calendar's Arrival is disputed. It may refer to Fel, a primordial dragon from the Outer Realms, arriving in Zatera, or to Cronus being freed from the Underworld. Cronus's release caused the divine schism, but the record does not prove that the schism began the calendar.
 
 The intervening century saw the rise of new pantheons, the Lodingen Republic become the Lodingen Empire, the fall of the Fye Empire, the rise of Nysia as a semi-constitutional monarchy, and the expansion of the Isles of Berres.
 

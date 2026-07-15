@@ -7,7 +7,7 @@ last_updated: 2026-07-13
 
 # Campaign Rules Appendix
 
-This appendix is the canonical source for campaign-specific rulings used throughout the Demidius Pathfinder Research Codex. Each rule has a stable identifier so dependent chapters and database entries can cite it without restating the ruling.
+This appendix is the canonical source for rulings used throughout **The Arrival** and the Demidius Pathfinder Research Codex. Each rule has a stable identifier so dependent chapters and database entries can cite it without restating the ruling.
 
 ## Verification labels
 

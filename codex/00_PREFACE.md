@@ -6,7 +6,7 @@ status: canonical
 
 # Preface
 
-The Demidius Pathfinder Research Codex is a private, source-backed operating manual for Demidius Thorne and the Dawnrunner campaign. It is organized first by the strategic principles that define the character, then by the engines that implement those principles, and finally by detailed systems, databases, campaign rules, and source research.
+The Demidius Pathfinder Research Codex is a private, source-backed operating manual for Demidius Thorne and **The Arrival** campaign. It is organized first by the strategic principles that define the character, then by the engines that implement those principles, and finally by detailed systems, databases, campaign rules, and source research.
 
 The repository is Markdown-first. CSV and JSON files are the machine-readable source of truth for indexed options and campaign assets. DOCX and PDF files are exports only.
 

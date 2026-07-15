@@ -1,5 +1,10 @@
 # Change Log
 
+## Campaign title: The Arrival
+
+- Established **The Arrival** as the campaign's canonical title.
+- Updated the wiki home page and campaign-facing guide, setting, timeline, rules, Codex, and repository titles while preserving existing page URLs and repository names.
+
 ## Arverdon Palace
 
 - Confirmed Arverdon Palace as the seat from which Queen Lidda Beaumont rules Nysia.

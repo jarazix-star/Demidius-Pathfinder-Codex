@@ -1,5 +1,5 @@
 ---
-title: Campaign Assumptions and House Rules
+title: The Arrival — Campaign Assumptions and House Rules
 version: 2.0.0
 status: canonical
 depends:

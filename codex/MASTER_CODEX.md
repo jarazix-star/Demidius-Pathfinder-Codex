@@ -1,10 +1,10 @@
 ---
-title: The Demidius Pathfinder Research Codex
+title: The Arrival — The Demidius Pathfinder Research Codex
 version: 3.0.0
 status: canonical
 ---
 
-# The Demidius Pathfinder Research Codex
+# The Arrival — The Demidius Pathfinder Research Codex
 
 **Repository Edition 3.0**  
 **Architecture:** Pillars → Engines → Systems → Databases → Research

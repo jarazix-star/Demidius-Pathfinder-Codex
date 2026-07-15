@@ -1,11 +1,11 @@
 ---
-title: Campaign Timeline
+title: The Arrival — Campaign Timeline
 version: 1.1.0
 status: canonical
 last_updated: 2026-07-15
 ---
 
-# Campaign Timeline
+# The Arrival — Campaign Timeline
 
 This chronology separates dated events from verified milestones whose exact campaign dates have not yet been recorded. Dates use the research record's calendar notation.
 

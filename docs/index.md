@@ -1,14 +1,14 @@
 ---
-title: Demidius Pathfinder Research Codex
+title: The Arrival — Demidius Pathfinder Research Codex
 status: reader-facing index
 last_updated: 2026-07-15
 ---
 
-# The Demidius Pathfinder Research Codex
+# The Arrival
 
 ![A brass labyrinth key, seven-pipped gem, and scholar's glasses on the chart table of the Dawnrunner](assets/demidius-codex-banner.png)
 
-> A source-backed operating manual and campaign wiki for Demidius Thorne, the Dawnrunner, mythic play, and the road beyond level 20.
+> The Demidius Pathfinder Research Codex: a source-backed operating manual and campaign wiki for **The Arrival**, Demidius Thorne, the Dawnrunner, mythic play, and the road beyond level 20.
 
 This wiki is the readable front door to the repository. It summarizes established campaign facts and explains how the optimization material fits together. Detailed mechanics remain in the canonical Codex, engine, system, and database files linked throughout.
 
@@ -27,7 +27,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | The campaign's 10th- and 11th-level spells | [Epic Spells](../reference/spells/EPIC_SPELL_COMPENDIUM.md) |
 | The complete optimization reference | [Master Codex](../codex/MASTER_CODEX.md) |
 
-## The campaign in one page
+## The Arrival in one page
 
 Demidius Thorne is a Charisma-centered oracle, mythic controller, captain, party face, and emerging demigod. He serves Hermes and commands the Dawnrunner. His strength is not raw personal damage: it is the ability to make decisive rolls reliable, strip away hostile magic, preserve allies' actions, command organizations, and shape the conditions of a conflict before it begins.
 

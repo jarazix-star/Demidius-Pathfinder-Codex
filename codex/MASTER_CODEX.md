@@ -39,7 +39,7 @@ Start here: [The Five Pillars of Demidius](01_PILLARS_OF_DEMIDIUS.md)
 
 ## Executive Build Doctrine
 
-Under CR-14, Demidius should not compete with Maarin, the half-dragon cohort, or Aristea for raw damage. His best contribution is to remove magical protections, control action economy, enable allies, and then exploit exposed enemies with enchantment or battlefield control. CR-15 makes Charisma a universal Will-save statistic, so Charisma investment also anchors his Fatal Flaw defense and daily luck-resource economy. The rapier remains a thematic backup weapon.
+Under CR-14, Demidius should not compete with Maarin, Okeanikos, or Aristea for raw damage. Okeanikos is the group's half-dragon cohort. Demidius's best contribution is to remove magical protections, control action economy, enable allies, and then exploit exposed enemies with enchantment or battlefield control. CR-15 makes Charisma a universal Will-save statistic, so Charisma investment also anchors his Fatal Flaw defense and daily luck-resource economy. The rapier remains a thematic backup weapon.
 
 ### Current retraining direction
 

@@ -1,7 +1,7 @@
 ---
 title: People and Places
 status: reader-facing summary
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 # People and Places
@@ -28,7 +28,11 @@ The God of War killed by Queen Beaumont outside Tradegulf. He refused an opportu
 
 ### Aristea
 
-An ally of Demidius and one of two confirmed recipients of the inherited demiplane's sleep blessing. She has died, and her soul is currently trapped in Tartarus. The known campaign objective is to release her soul before attempting resurrection.
+A level 17 neutral-good wizard of Nereus, item creator, shapeshifter, Demidius's cohort, and navigator of the Dawnrunner before her death. She is one of two confirmed recipients of the inherited demiplane's sleep blessing. She has died, and her soul is currently trapped in Tartarus. The known campaign objective is to release her soul before attempting resurrection.
+
+### Okeanikos
+
+A level 15 male mortal god, sorcerer, Dragon Disciple, child of Echidna, and one of the group's major damage specialists. The party rescued his egg after Maarin received a dark prophecy of his coming birth. Maarin took him as her cohort; he now worships her and regards her as his sister. See his illustrated page in the GitHub wiki.
 
 ### Perlot
 
@@ -40,13 +44,17 @@ The former owner of the inherited demiplane. Bix may be his reincarnation, altho
 
 ### Bix
 
-A male grippli crew member of the Dawnrunner, newlywed, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother, but Demidius does not know about this uncertain possibility. See the illustrated page in the GitHub wiki.
+A chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to another crew member, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother, but Demidius does not know about this uncertain possibility. See the illustrated page in the GitHub wiki.
 
 ## Organizations and vessels
 
 ### The Dawnrunner
 
-Demidius's ship, mobile headquarters, command platform, and the center of an expanding organization of officers, crew, marines, cohorts, and followers. The repository treats the Dawnrunner as both a vehicle and an institution.
+Demidius's galleon, mobile headquarters, command platform, and the center of an expanding organization of officers, crew, marines, cohorts, and followers. The repository treats the Dawnrunner as both a vehicle and an institution. Its workbook records named specialists in navigation, healing, logistics, artillery, engineering, security, music, food, and counter-piracy. See the [Dawnrunner vessel and crew record](dawnrunner.md).
+
+### The Peppermint Mocha
+
+A galleon and the Dawnrunner's sister ship. Maarin serves as captain and Amparo Decoris Ignatius as first mate. Other named officers are Okeanikos, Alley, Tulip, Valax, Aelwyn, Razin, and Filius. Its supplied stat block records AC 44, 1,250 hull points, saves 22, hardness 10, 160 crew, 30 captain/officer positions, and a substantial siege battery.
 
 ### The New Gods
 
@@ -77,7 +85,7 @@ A private sanctuary formerly owned by Demidius's brother. It has adjustable time
 ## Gaps worth recording in play
 
 - Demidius's and the principal cast's physical descriptions.
-- The Dawnrunner's class, appearance, flag, deck plan, and home port.
+- The Dawnrunner's appearance, flag, deck plan, and home port.
 - Perlot's identity and relationship to Beaumont or her sword.
 - The membership and aims of the New Gods.
 - A map-level description of Nysia and Tradegulf.

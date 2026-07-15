@@ -32,6 +32,14 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 
 After the death of his brother, Demidius inherited a private demiplane with adjustable time, a stone-circle gate, a Dionysian nexus, and a sleep blessing. The inheritance gave him a major strategic base and made its Loyalty effect an immediate ethical and security concern.
 
+### Poseidon's storm kills Maarin's family
+
+Poseidon created a storm that killed Maarin's family. The date, location, reason for the storm, and whether the family was deliberately targeted remain unrecorded. Maarin made revenge and the eventual killing of Poseidon one of her defining life goals.
+
+### Maarin foresees Okeanikos and the party rescues his egg
+
+Maarin received a dark prophecy of the coming birth of Okeanikos, a child of Echidna. Because whoever recovered his egg would greatly influence what he became, the party hunted for and rescued the egg. Maarin later took Okeanikos as her cohort. He became her worshiper and came to regard her as his sister.
+
 ### Demidius receives Hermes's gifts
 
 Through the campaign's custom Hermes progression, Demidius gained the Seven-Pipped Gem divine ability and Hermes's Boots of Speed. These gifts reinforced his roles as probability controller and encounter-defining spellcaster.
@@ -59,8 +67,10 @@ Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouch
 ## Open chronology questions
 
 - When did Demidius's brother die, and when did the inheritance occur?
+- When did Maarin receive the prophecy, where was Okeanikos's egg found, and who else sought it?
 - Was the Key of Daedalus acquired before or after the demiplane?
 - When did Aristea die relative to the opening of the Culling?
 - When did Hermes grant each divine gift?
 - When and why did Beaumont present the glasses?
 - When was the Dawnrunner acquired or commissioned?
+- When and where did Poseidon's storm kill Maarin's family?

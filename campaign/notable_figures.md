@@ -2,7 +2,7 @@
 title: Notable Figures
 version: 1.1.0
 status: canonical
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 # Notable Figures
@@ -27,7 +27,7 @@ Demidius's patron deity and the source of his custom obedience and divine-power 
 
 ## Aristea
 
-Ally of Demidius. Aristea has received the inherited demiplane's sleep blessing, including +50 maximum hit points and permanent Loyalty toward Demidius. She has since died, and her soul is trapped in Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
+Level 17 neutral-good wizard of Nereus, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death. Aristea received the inherited demiplane's sleep blessing, including +50 maximum hit points and permanent Loyalty toward Demidius. Her soul is now trapped in Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
 
 ## Ares
 
@@ -43,11 +43,11 @@ Former owner of the inherited demiplane. Bix may be his reincarnation, although 
 
 ## Bix
 
-Male grippli member of the Dawnrunner's crew, newlywed, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother; this remains unconfirmed and is not part of Demidius's current character knowledge.
+Chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to another crew member, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother; this remains unconfirmed and is not part of Demidius's current character knowledge.
 
 ## Mentioned associates
 
-The optimization record names Maarin and Okeanikos, the group's half-dragon cohort, as stronger personal damage dealers whom Demidius should enable rather than imitate. Okeanikos's base ancestry, draconic heritage, build, and controlling character remain to be documented.
+The optimization record names level 17 Maarin, an undine captain and champion of Persephone, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. After Maarin received a dark prophecy of Okeanikos's coming birth, the party rescued his egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
 
 ## Related pages
 

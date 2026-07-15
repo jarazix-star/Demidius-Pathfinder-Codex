@@ -1,12 +1,12 @@
 ---
 title: Demidius Thorne
 status: reader-facing summary
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 # Demidius Thorne
 
-Demidius Thorne is a Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, and demigod in the service of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
+Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, and demigod in the service of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
 
 ## Role in the party
 
@@ -25,6 +25,7 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 
 | Aspect | Established role |
 |---|---|
+| Current level | 17 |
 | Class identity | Oracle and divine spellcaster |
 | Campaign role | Captain, face, controller, and party enabler |
 | Divine relationship | Servant and beneficiary of Hermes |

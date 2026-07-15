@@ -1,7 +1,7 @@
 ---
 title: Demidius Pathfinder Research Codex
 status: reader-facing index
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 # The Demidius Pathfinder Research Codex
@@ -18,6 +18,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 |---|---|
 | Demidius as a character | [Demidius Thorne](demidius-thorne.md) |
 | The campaign as it currently stands | [Campaign Guide](campaign-guide.md) |
+| The Dawnrunner, its officers, and named crew | [Dawnrunner](dawnrunner.md) |
 | His divine gifts and dangerous relics | [Artifacts and Divine Gifts](artifacts-and-gifts.md) |
 | The people, gods, and places in the record | [People and Places](people-and-places.md) |
 | The strategy behind the build | [The Five Pillars](../codex/01_PILLARS_OF_DEMIDIUS.md) |
@@ -47,6 +48,7 @@ Every major recommendation is judged by its contribution to one or more of these
 - [Timeline](../campaign/timeline.md) — dated events and undated milestones.
 - [Notable Figures](../campaign/notable_figures.md) — confirmed identities and relationships.
 - [Strategic Assets](../campaign/strategic_assets.md) — operational value, limits, and risks.
+- [Dawnrunner](dawnrunner.md) — vessel statistics, officers, specialists, and crew stories.
 - [Planar Operations](../codex/PLANAR_OPERATIONS.md) — Aristea recovery and corridor security.
 - [Fatal Flaws](../appendices/fatal_flaws.md) — divine costs and mitigation procedures.
 

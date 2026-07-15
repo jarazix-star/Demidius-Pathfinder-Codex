@@ -1,7 +1,7 @@
 ---
 title: Campaign Guide
 status: reader-facing summary
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 # Campaign Guide
@@ -35,9 +35,9 @@ The Key of Daedalus becomes more useful after a location has already been visite
 
 ## The Dawnrunner
 
-The Dawnrunner is both a ship and the center of an expanding organization. It serves as a mobile headquarters, command platform, and visible expression of Demidius's influence. The optimization record recommends developing a formal officer layer rather than expecting Demidius to supply every bonus or function personally.
+The Dawnrunner is a galleon and the center of an expanding organization. It serves as a mobile headquarters, command platform, and visible expression of Demidius's influence. Its sister ship, the *Peppermint Mocha*, is also a galleon with its own developed officer corps, magical upgrades, and siege battery. The Dawnrunner workbook confirms a substantial officer and specialist layer rather than requiring Demidius to supply every function personally. See the [Dawnrunner vessel and crew record](dawnrunner.md).
 
-High-value positions include a dedicated navigator, a ship's officer or marine commander, a quartermaster or production specialist, and secondary leadership able to preserve operations when Demidius is absent or incapacitated.
+Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the named crew includes healers, engineers, musicians, security, a cook, and counter-piracy specialists. The current navigator, succession plan, and coverage after Aristea's death remain important open questions.
 
 ## The inherited demiplane
 

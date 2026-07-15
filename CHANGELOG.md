@@ -1,5 +1,87 @@
 # Change Log
 
+## Peppermint Mocha vessel record and naming correction
+
+### Added
+
+- Confirmed *Peppermint Mocha* as the ship's current canonical name and recorded *Mocha Frapachino* as its former name.
+- Added officers Maarin, Okeanikos, Alley, Amparo, Tulip, Valax, Aelwyn, Razin, and Filius while preserving unknown departmental roles.
+- Added the supplied base and final statistics, upgrades, siege weapons, ammunition, rowboats, cargo use, and ship-operation rules.
+- Preserved clipped or ambiguous screenshot entries as partial rather than inventing missing wording.
+- Retained the former-name wiki page as a compatibility link to [[Peppermint Mocha]].
+
+## Party-level update
+
+### Changed
+
+- Recorded Demidius, Amparo, Roy, Aristea, and Maarin as level 17.
+- Recorded Okeanikos as level 15.
+- Preserved lower levels for Dawnrunner NPC crew, including level-15 Zujuck, because the correction applies to the principal characters rather than every named crew member.
+- Marked the level-14 entries in `Dawnrunner.xlsx` as historical rather than current.
+
+## Okeanikos identity, history, and artwork
+
+### Added
+
+- Expanded Okeanikos as a male mortal god, sorcerer, Dragon Disciple, child of Echidna, and major damage specialist.
+- Recorded his muscular human upper body, horns, and gorgon-like serpentine lower body.
+- Added Maarin's dark prophecy, the party's hunt for and rescue of Okeanikos's egg, and the influence the egg's recoverer could exert over his development.
+- Recorded Maarin as Okeanikos's cohort leader, object of worship, rescuer, and chosen sister.
+- Added an Okeanikos character-reference sheet based on the supplied miniature and the established black-and-gold wiki format.
+
+## Dawnrunner statistics clarification
+
+### Corrected
+
+- Marked the workbook's AC 91 and saves 45 as outdated because the sheet has not been recalculated with Demidius's current Profession (sailor) modifier.
+- Reclassified all recorded ship statistics as a dated workbook snapshot pending confirmation of Demidius's modifier, present staffing, and current ship state.
+
+## Dawnrunner workbook content extraction
+
+### Added
+
+- Added a consolidated Dawnrunner vessel and crew page to the wiki and internal reader-facing documentation.
+- Added individual wiki pages for Alecia, Unni, Erika, Shas, Zel, Matthias, Rurd, and Jenqa the Green Revenger using the full backgrounds in `Dawnrunner.xlsx`.
+- Added Pete, Crystal, Gideon, fourteen additional petty officers, and fifteen general crew to the roster at the level supported by the workbook.
+- Added a content-extraction report documenting source sheets, normalization decisions, incomplete rows, and changeable ship statistics.
+
+### Changed
+
+- Initially imported the workbook's historical level-14 entry for Aristea along with her role as the Dawnrunner's former navigator, wizard of Nereus, Demidius's cohort, item creator, and shapeshifter; her current level was later corrected to 17.
+- Initially imported the workbook's historical level-14 entry for Roy along with his Hestia worship and morale role; his current level was later corrected to 17.
+- Recorded Bix as a chaotic-good grippli godling of Hermes, a Dawnrunner officer, and the spouse of another crew member.
+- Recorded Lilly's logistics role, Zujuck's level and alignment, and Binky's siege-engineer position.
+- Preserved established spellings for Lilly and Zujuck where the workbook uses “Lily” and “Zujuc.”
+
+## Campaign vessel update - Galleons
+
+### Changed
+
+- Recorded both the Dawnrunner and the *Peppermint Mocha* as galleons across the campaign guide, people-and-places records, and strategic-asset documentation.
+- Removed ship class from the Dawnrunner and *Peppermint Mocha* open-detail lists while leaving their unconfirmed dimensions, appearance, armament, deck plans, and other specifications open.
+
+## Campaign backstory update - Maarin and Poseidon
+
+### Added
+
+- Recorded that Poseidon created the storm that killed Maarin's family.
+- Added revenge and killing Poseidon as one of Maarin's defining life goals.
+- Added the event to the campaign timeline and Poseidon to the gods directly tied to the party.
+
+## Campaign identity update - Maarin
+
+### Changed
+
+- Recorded Maarin's ancestry as undine across her character page, party roster, divine-bloodline summary, and *Peppermint Mocha* command records.
+
+## Wiki artwork update - Amparo Decoris Ignatius
+
+### Added
+
+- Added Amparo's black-and-gold character reference sheet using their tabletop miniature as the visual foundation.
+- Recorded Amparo as a nonbinary undine with they/them pronouns, vitiligo, and a feminine physical appearance.
+- Added front, side, and back armor views, vitiligo and eye details, alternate command and healing looks, and miniature concepts.
+
 ## Wiki artwork update - Aristea
 
 ### Added

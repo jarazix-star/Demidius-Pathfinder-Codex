@@ -1,5 +1,29 @@
 # Change Log
 
+## v3.5 — Super Genius Demidius and Aristea Deep Dive
+
+### Added
+
+- Inventoried the 143-PDF Super Genius Games library and selected 13 previously unprocessed high-relevance books.
+- Completed content-level extraction across 61 PDF pages, with rendered-page verification and exact PDF-page citations.
+- Added a complete catalog of mythic, teleportation, antimagic, Leadership, godling, speed, subschool, invisibility, magic missile, fireball, arcane-discovery, and staff options.
+- Added separate Demidius and Aristea recommendations, prerequisites, compatibility warnings, and a structured 20-option shortlist.
+- Added a source registry that distinguishes full extraction from summarized archetype coverage.
+
+## Wiki expansion - 2026-07-14
+
+### Added
+
+- Reader-facing guides for Demidius, the campaign, notable people and places, and signature artifacts.
+- Original campaign artwork for the wiki landing page and inherited demiplane.
+- Open-question lists that distinguish missing lore from verified campaign facts.
+
+### Changed
+
+- Expanded the documentation index into a navigable wiki landing page.
+- Expanded the campaign timeline, notable-figure register, and strategic-asset ledger.
+- Added operational context around planar corridors, demiplane consent, Dawnrunner staffing, and artifact-use priorities.
+
 ## 1.1.0 - 2026-07-13
 
 ### Added

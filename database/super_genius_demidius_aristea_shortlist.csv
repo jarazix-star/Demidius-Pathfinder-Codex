@@ -1,0 +1,21 @@
+character,option,type,rating,access_status,source,pdf_page,reason,gm_review
+Demidius,Mythic Restoration,Mythic feat,S,Check current mythic feat access,#1 With a Bullet Point: 6 Mythic Feats,2,Restores a nonmythic daily ability by spending mythic power,Yes
+Demidius,Mythic Focus,Mythic feat,S,Check selected mythic expenditure,#1 With a Bullet Point: 6 Mythic Feats,2,Adds three restricted uses for one mythic activation,Yes
+Demidius,Mythic Empowerment,Mythic feat,S conditional,Identify tier-scaled feature,#1 With a Bullet Point: 6 Mythic Feats,2,Treats tier as four higher for one selected ability,Yes
+Demidius,Augment Teleportation,Feat,S,Requires Spell Focus conjuration and teleport spell,#1 With a Bullet Point: 6 Teleportation Spell Feats,2,Major passenger cargo arrival and falling control,Yes
+Demidius,Master of Speed,Feat,S,Requires Improved Initiative and haste slow or blessing,#1 With a Bullet Point: 5 Haste Slow Feats,2-3,Redistributes allied initiative results,Yes
+Demidius,Overlord of Speed,Feat,S conditional,Requires Master of Speed and both speed polarities,#1 With a Bullet Point: 5 Haste Slow Feats,3,Adds slow rider and allied speed buff after failed saves,Yes
+Demidius,Antischool Specialization,Feat,A+,Requires qualifying abjuration spells and Spell Focus,#1 With a Bullet Point: 6 Antimagic Field Feats,2,School-selective antimagic and dispelling,Yes
+Demidius,Augment Healing,Feat,A,Requires Spell Focus conjuration,#1 With a Bullet Point: 10 Subschool Augmentation Feats,3,Roll healing dice twice and keep best,Yes
+Demidius,Warning,Legendary item power,S conditional,Confirm legendary item eligibility,#1 With a Bullet Point: 6 Powers for the Legendary Weapons of Mythic Characters,2,Surprise-round action economy,Yes
+Demidius,Allies and Associates,Leadership replacement,A+,Would replace cohort and followers,#1 With a Bullet Point: Two Options for the Leadership Feat,2,Research spellcasting and item support at base,Yes
+Aristea,Caustic Magic,Arcane discovery,S conditional,Requires wizard discovery access and acid damage,Ultimate Options: New Arcane Discoveries,2,Can make acid-damaged target count as flanked,Yes
+Aristea,Fierce Caster,Arcane discovery,S conditional,Requires wizard discovery access,Ultimate Options: New Arcane Discoveries,3,Trades ray accuracy for scalable attack-spell damage,Yes
+Aristea,Spellbane,Arcane discovery,A+,Requires wizard discovery access,Ultimate Options: New Arcane Discoveries,7,Spell damage disrupts enemy concentration,Yes
+Aristea,Targeted Missiles,Feat,S conditional,Requires Dex 13 Deadly Aim BAB 1 and magic missile,#1 With a Bullet Point: 7 Feats for Magic Missile,3,Creates ranged touch attacks but ray interaction is unresolved,Yes
+Aristea,Legendary Missiles,Metamagic feat,A,Requires Int 13 and caster level 5,#1 With a Bullet Point: 7 Feats for Magic Missile,3,Scales missile damage and effective spell level,Yes
+Aristea,Implosion,Feat,A+,Requires fireball and force spell,#1 With a Bullet Point: 5 Fireball Feats,2-3,Adds mass drag and possible prone to area damage,Yes
+Aristea,Shockwave,Feat,A+,Requires fireball and force spell,#1 With a Bullet Point: 5 Fireball Feats,3,Adds mass bull rush to area damage,Yes
+Aristea,Unsensed Item,Feat,A conditional,Requires Deceitful and invisibility spell,#1 With a Bullet Point: 4 Feats for the Invisibility Spell,2,Improves hidden-item deception and feint action economy,Yes
+Aristea,Craft Tige Vierge,Item creation feat,S infrastructure,Requires Int 17 CL 11 and Craft Staff,Krazy Kragnar's Magic Staff Emporium,3-4,Front-loads custom staff production for one-day finishing,Yes
+Aristea,Greater Staff of Winter,Magic staff,A+,Purchase or craft,Krazy Kragnar's Magic Staff Emporium,10-11,Polar ray cold control and conditional double recharge,Yes

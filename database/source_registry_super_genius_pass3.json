@@ -1,0 +1,23 @@
+{
+  "batch": "Super Genius targeted deep dive for Demidius and Aristea",
+  "date": "2026-07-14",
+  "method": "Full text extraction of rules pages with rendered-page visual verification",
+  "library_pdf_count": 143,
+  "selected_pdf_count": 13,
+  "selected_pdf_pages": 61,
+  "sources": [
+    {"title": "#1 With a Bullet Point: 6 Mythic Feats", "pages": 3, "rules_pages": [2], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 6 Teleportation Spell Feats", "pages": 4, "rules_pages": [2, 3], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 6 Powers for the Legendary Weapons of Mythic Characters", "pages": 3, "rules_pages": [2], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 6 Antimagic Field Feats", "pages": 4, "rules_pages": [2, 3], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: Two Options for the Leadership Feat", "pages": 3, "rules_pages": [2], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 6 Godling Feats", "pages": 3, "rules_pages": [2], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 5 Haste/Slow Feats", "pages": 4, "rules_pages": [2, 3], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 10 Subschool Augmentation Feats", "pages": 4, "rules_pages": [2, 3], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 4 Feats for the Invisibility Spell", "pages": 3, "rules_pages": [2], "status": "Complete content-level extraction"},
+    {"title": "#1 With a Bullet Point: 7 Feats for Magic Missile", "pages": 4, "rules_pages": [2, 3], "status": "Complete content-level extraction"},
+    {"title": "Ultimate Options: New Arcane Discoveries", "pages": 10, "rules_pages": [2, 3, 4, 5, 6, 7, 8, 9], "status": "Complete discovery extraction; archetypes summarized"},
+    {"title": "#1 With a Bullet Point: 5 Fireball Feats", "pages": 4, "rules_pages": [2, 3], "status": "Complete content-level extraction"},
+    {"title": "Krazy Kragnar's Magic Staff Emporium", "pages": 12, "rules_pages": [3, 4, 5, 6, 7, 8, 9, 10, 11], "status": "Complete feat, subsystem, and staff-family extraction"}
+  ]
+}

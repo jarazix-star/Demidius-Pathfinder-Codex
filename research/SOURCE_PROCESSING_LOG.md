@@ -15,4 +15,4 @@ This file prevents archive/catalog access from being mistaken for content-level 
 | Mythic Minis 2: Champion Path Abilities | Legendary Games | Complete | All printed abilities reviewed | Mostly low priority for Demidius. |
 | Mythic Minis 1: Monster Feats | Legendary Games | Complete | All printed feats reviewed | Cross-reference Companion Mythic Ability. |
 | Mythic Minis 5: Feats of Monstrous Magic | Legendary Games | Complete | All printed feats reviewed | Cross-reference companions, templates, and SLAs. |
-| Super Genius / Rogue Genius archive | Rogue Genius / Super Genius | Archive-level index | Product lines identified; no full content extraction | Oracle, luck, dispel, charisma, metamagic micro-supplements first. |
+| Super Genius / Rogue Genius archive | Rogue Genius / Super Genius | Mixed: archive index plus 23 complete books | 143 PDFs inventoried; 10 Advanced Options books and 13 Demidius/Aristea-targeted books extracted at content level | Continue with oracle, luck, dispel, charisma, and metamagic titles not covered by these passes. |

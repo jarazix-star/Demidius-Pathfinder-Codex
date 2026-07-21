@@ -11,7 +11,7 @@ Only confirmed relationships and campaign facts are recorded here. Unknown biogr
 
 ## Demidius Thorne
 
-Charisma-centered oracle, mythic controller, captain, party face, and demigod. Demidius serves Hermes and commands the Dawnrunner. His strategic doctrine emphasizes certainty, magical defense removal, action-economy control, party enablement, influence, and infrastructure rather than personal weapon damage.
+Charisma-centered oracle, mythic controller, captain, party face, demigod, and Blessed of Hermes. Demidius completed two Hermes trials, bears the Advanced simple template, and is recognizable to Hermes's followers as favored; the trials themselves remain unrecorded. He commands the Dawnrunner. His strategic doctrine emphasizes certainty, magical defense removal, action-economy control, party enablement, influence, and infrastructure rather than personal weapon damage.
 
 **Key relationships:** patronage from Hermes; alliance or gift relationship with Queen Beaumont; loyalty relationship with Aristea through the inherited demiplane; heir to his deceased brother's demiplane.
 

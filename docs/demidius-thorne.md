@@ -6,7 +6,7 @@ last_updated: 2026-07-15
 
 # Demidius Thorne
 
-Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, and demigod in the service of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
+Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Blessed of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
 
 ## Role in the party
 
@@ -28,7 +28,7 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Current level | 17 |
 | Class identity | Oracle and divine spellcaster |
 | Campaign role | Captain, face, controller, and party enabler |
-| Divine relationship | Servant and beneficiary of Hermes |
+| Divine relationship | Blessed of Hermes after completing two Hermes trials; servant and beneficiary of Hermes |
 | Family | Philomela Thorne, mother; Smokey Roberts, father; Siopi, Paradox, Aelwyn, Tulip, a deceased brother, and other scattered siblings |
 | Birthplace | Lodingen |
 | Childhood home | Motu Leilani in the Isles of Berres |
@@ -37,6 +37,12 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Signature ability | Seven-Pipped Gem |
 | Legendary item | Eyebrow Piercing of Confidence |
 | Current long-term arc | Growth toward divinity |
+
+## Blessed of Hermes
+
+Demidius has completed two trials for Hermes and is therefore Blessed of Hermes. Hermes's followers can sense the god's favor upon him, and Demidius gains the Advanced simple template. The identities and circumstances of the two trials are not yet recorded.
+
+This status is separate from Demidius's Aphrodite bloodline, demigod rank, and the individual gifts he has received through Hermes's custom divine progression.
 
 ## Early life
 

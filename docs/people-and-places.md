@@ -12,7 +12,7 @@ This page collects the setting names that appear in the verified campaign record
 
 ### Demidius Thorne
 
-Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and servant of Hermes. See the [character overview](demidius-thorne.md).
+Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Blessed of Hermes after two completed Hermes trials. He bears the Advanced simple template, and Hermes's followers can sense the god's favor upon him. See the [character overview](demidius-thorne.md).
 
 ### Amparo Decoris Ignatius
 

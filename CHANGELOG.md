@@ -1,5 +1,11 @@
 # Change Log
 
+## Demidius becomes Blessed of Hermes
+
+- Recorded that Demidius completed two trials for Hermes and is Blessed of Hermes.
+- Applied the campaign-wide Blessed effects: Hermes's followers sense his divine favor, and Demidius gains the Advanced simple template.
+- Kept the identities and circumstances of the two Hermes trials open because they have not yet been supplied.
+
 ## Blessed and Champion divine progression
 
 - Added campaign rule CR-27 defining Follower, Blessed, and Champion as a god-specific trial progression separate from bloodline and divine rank.

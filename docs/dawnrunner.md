@@ -12,7 +12,7 @@ The Dawnrunner is Demidius Thorne's galleon, mobile headquarters, and command or
 
 | Name | Position | Workbook details |
 |---|---|---|
-| Demidius Thorne | Captain | Level 17; neutral good; serves Hermes |
+| Demidius Thorne | Captain | Level 17; neutral good; Blessed of Hermes after two trials |
 | Roy | First mate | Level 17 bard; pure mortal; worships Hestia; legendary liar and trusted morale leader |
 | Aristea | Navigator before her death | Level 17 neutral-good elven wizard of Nereus; water-and-cold specialist, merchant-mage, Animal Lord of the Tides, item creator, shapeshifter, and Demidius's cohort |
 | Lilly | Bosun | Demigod of Hermes; runs logistics and keeps Zujuck in line |

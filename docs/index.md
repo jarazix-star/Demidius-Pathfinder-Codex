@@ -31,7 +31,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 
 ## The Arrival in one page
 
-Demidius Thorne is a Charisma-centered oracle, mythic controller, captain, party face, and emerging demigod. He serves Hermes and commands the Dawnrunner. His strength is not raw personal damage: it is the ability to make decisive rolls reliable, strip away hostile magic, preserve allies' actions, command organizations, and shape the conditions of a conflict before it begins.
+Demidius Thorne is a Charisma-centered oracle, mythic controller, captain, party face, emerging demigod, and Blessed of Hermes after two completed trials. He commands the Dawnrunner. His strength is not raw personal damage: it is the ability to make decisive rolls reliable, strip away hostile magic, preserve allies' actions, command organizations, and shape the conditions of a conflict before it begins.
 
 The campaign began on Sounon in **150 P.A. (Post-Arrival)**. The identity of the Arrival is disputed between Fel's coming from the Outer Realms and Cronus's release. The 55 deaths at the Battle for Tradegulf triggered the divine upheaval called **the Culling** early. When Declan died, the world shook, the ocean split open, Maarin's storm faded, and the heavens broke. Immediately afterward, Queen Lidda Beaumont of Nysia slew Ares outside Tradegulf and became a minor goddess of Dueling. Demidius's own divine progression is advancing through Hermes's gifts and a custom obedience system, while his strategic reach is expanding through the Dawnrunner, an inherited demiplane, and the Key of Daedalus.
 

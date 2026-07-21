@@ -24,6 +24,7 @@ The progression is cumulative: a Champion retains the recognition and Advanced s
 
 ## Known campaign examples
 
+- **Demidius Thorne** is Blessed of Hermes, establishing two completed Hermes trials, favor recognizable to Hermes's followers, and the Advanced simple template. The individual trials are not yet recorded.
 - **Amparo Decoris Ignatius** is Blessed of Hestia, which establishes that they completed two Hestian trials even though the individual trials are not yet recorded. Eris has separately declared Tradegulf to be Amparo's first trial toward becoming Eris's future Champion.
 - **Binky** is Blessed of Ena, establishing two completed trials for Ena; their details are not yet recorded.
 - **Maarin** is Persephone's Champion. She therefore completed three Persephone trials, holds Persephone's unique Champion office, leads among Persephone's followers, and has two Persephone-domain Champion powers. The identities of those two powers are not yet recorded.

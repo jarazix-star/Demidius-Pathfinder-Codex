@@ -93,7 +93,8 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - Keep a corridor ledger for every Key of Daedalus use.
 - Record every demiplane sleep recipient and informed consent.
 - Define the Dawnrunner's officer roles and succession of command.
-- Acquire *wandering weather* for Demidius as soon as possible and verify its source and ship-speed interaction; it could tremendously accelerate the Dawnrunner.
+- Acquire *wandering weather* for Demidius as soon as possible. Its mobile-weather clause is verified in *Ultimate Wilderness*; only the numerical ship-speed interaction remains a campaign ruling.
+- Seek GM approval for Frog God Games' *billow the sail*, which explicitly increases one sailing ship's speed by 25% for 1 hour per caster level. Confirm its multiplication order and do not assume that two favorable-wind effects stack.
 - Reserve daily artifact uses according to mission priority.
 - Keep the Deck untouched unless the campaign situation justifies irreducible risk.
 - Secure Declan's Wayfinder and determine who controls the Wayfinder associated with Sly, his deceased second-in-command.

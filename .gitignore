@@ -4,4 +4,5 @@ __pycache__/
 Thumbs.db
 build/
 site/
+tmp/
 Demidius-Pathfinder-Codex.wiki/

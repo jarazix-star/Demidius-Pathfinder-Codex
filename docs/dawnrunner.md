@@ -60,7 +60,13 @@ If the GM adopts skill unlocks, Signature Skill with 10 ranks in Profession (sai
 
 ## Priority magical support
 
-Demidius should take *wandering weather* as soon as possible. Its ability to provide favorable mobile weather could tremendously increase the Dawnrunner's speed and therefore improve voyage time, pursuit, escape, and strategic response. The spell's source, exact mechanics, and interaction with the campaign's ship-speed rules still need to be verified before a numerical speed is recorded.
+Demidius should take *wandering weather* as soon as possible. The spell is verified in *Ultimate Wilderness*: it is an 8th-level spell that functions as *control weather* and can remain centered on the caster while the caster moves. That mobile center is the critical feature for carrying favorable weather with the Dawnrunner. A numerical speed increase still requires a campaign ruling that connects the selected wind to the ship workbook's movement formula.
+
+**Published reference:** *Ultimate Wilderness* (PZO1140), PDF p. 238 / printed p. 237; [d20PFSRD spell entry](https://www.d20pfsrd.com/magic/all-spells/w/wandering-weather/).
+
+The third-party spell *billow the sail* is an even more direct propulsion candidate. It targets one sailing ship for 1 hour per caster level, supplies continual favorable wind, and explicitly increases ship speed by 25%. Because it is from Frog God Games rather than Paizo, the GM must approve it and determine where the 25% multiplier enters the campaign workbook. Do not assume its favorable wind stacks with *wandering weather*.
+
+**Third-party reference:** *Book of Lost Spells* (Frog God Games), PDF p. 26 / printed p. 25; [d20PFSRD spell entry](https://www.d20pfsrd.com/magic/3rd-party-spells/frog-god-games/billow-the-sail/).
 
 ## Submerged operations
 

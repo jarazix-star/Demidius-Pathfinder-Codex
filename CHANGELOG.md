@@ -1,5 +1,14 @@
 # Change Log
 
+## d20PFSRD content-level extraction
+
+- Built a resumable index of 52,387 discovered URLs and 18,891,957 words using the site's working sitemap records plus recursive internal-link discovery to compensate for 22 failed sitemap documents.
+- Added a portable page metadata catalog, attribution-aware source registry, four-profile campaign shortlist, search helper, and a contextual findings report.
+- Kept the full page-text corpus in ignored local storage while committing URLs, hashes, attribution metadata, citations, and original analysis.
+- Verified *wandering weather*, *calculated luck*, and *scrying familiarity* against local Paizo books before promotion.
+- Added conditional third-party research for *billow the sail* and *fill the sails*, preserving their publisher status and GM-approval requirement.
+- Recorded the Product Identity naming hazard demonstrated by d20PFSRD's “Storm Pilot” page and Paizo's original *Abendego Pilot* name.
+
 ## Pathfinder Campaign folder content-level review
 
 - Indexed all 70 PDFs and 5,315 pages in the available `Pathfinder/Campaign` folder after recording that the requested `Campaign Setting` path does not exist.

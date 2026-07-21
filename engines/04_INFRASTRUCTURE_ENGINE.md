@@ -37,3 +37,11 @@ This is an optional campaign-management layer, not a current rule. The campaign'
 A superior secrecy-rune room is the leading published model for Sounon's strategic command chamber or a Key of Daedalus staging room. It blocks sound and divinations through 7th level even while doors are open. A lead-lined vault is cheaper and blocks broader divination when fully closed, but is airtight and fails if its enclosure is broken.
 
 These structures do not automatically defeat mythic, divine, artifact, or higher-level surveillance. See [Counter-Divination Rooms](../codex/recommendations/counter_divination_rooms.md).
+
+## Dawnrunner weather and propulsion
+
+*Wandering weather* is the priority official spell for naval logistics because its *control weather* effect can remain centered on a moving caster. This verifies that Demidius can carry selected weather with the Dawnrunner, but it does not print a numerical vessel-speed bonus.
+
+If the GM approves Frog God Games material, *billow the sail* supplies the clearer propulsion rule: one ship gains continual favorable wind and an explicit 25% sailing-speed increase for 1 hour per caster level. The GM must determine its position in the campaign workbook's calculation and whether it overlaps rather than stacks with *wandering weather*.
+
+**Sources:** *Ultimate Wilderness* (PZO1140), PDF p. 238 / printed p. 237; *Book of Lost Spells* (Frog God Games), PDF p. 26 / printed p. 25.

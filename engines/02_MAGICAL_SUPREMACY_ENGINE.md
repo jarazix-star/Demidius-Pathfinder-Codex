@@ -33,6 +33,12 @@ See the dedicated recommendation pages for costs, slots, and verification bounda
 
 Scrutinize Spell from *Path of the Hellknight* can add Demidius's Charisma modifier to later Spellcraft checks to identify spells from a caster's known class list. It improves counterspell decision quality, not the actual caster-level check, and is worth considering only if identification failures remain a practical bottleneck.
 
+### Planned multi-check support
+
+*Calculated luck* is an A-rated setup option when Demidius expects several caster-level checks during one encounter. A favorable result grants +2 luck to those checks, which should become +4 under CR-01 and CR-02. It can support repeated dispels and spell-resistance checks, but the 3d8 assignment is random, the desired result appears only about 33% of the time, and the spell imposes an energy vulnerability. Seven-Pipped Gem remains superior for a single critical check.
+
+**Source:** *Pathfinder Campaign Setting: Occult Mysteries* (PZO9269), PDF pp. 52-53 / printed pp. 50-51.
+
 ## Highest-value boot uses
 
 - Quicken mythic greater dispel magic and retain the normal action for control.

@@ -8,6 +8,7 @@
 - Verified *wandering weather*, *calculated luck*, and *scrying familiarity* against local Paizo books before promotion.
 - Added conditional third-party research for *billow the sail* and *fill the sails*, preserving their publisher status and GM-approval requirement.
 - Recorded the Product Identity naming hazard demonstrated by d20PFSRD's “Storm Pilot” page and Paizo's original *Abendego Pilot* name.
+- Integrated *wandering weather*, *billow the sail*, and *calculated luck* into the master Optimization Codex, relevant engines, structured option database, and wiki decision page.
 
 ## Pathfinder Campaign folder content-level review
 

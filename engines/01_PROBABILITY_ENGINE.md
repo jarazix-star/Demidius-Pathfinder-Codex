@@ -41,6 +41,14 @@ Seven-Pipped Gem competes with immediate-action counterspells and other reactive
 
 *Borrow fortune* offers an immediate-action reroll before the result is known, but forces two rounds of rolling twice and keeping the worse result. Reserve it for an outcome whose immediate failure would be worse than that severe follow-on penalty.
 
+## Calculated luck
+
+*Calculated luck* can produce a +2 luck bonus on caster-level checks for 1 round per level. CR-01 and CR-02 should increase that qualifying bonus to +4. The desired result appears at least once on 3d8 about 33% of the time, and the spell also assigns an energy vulnerability.
+
+Use it before a planned sequence of several caster-level checks. Seven-Pipped Gem remains the stronger answer for one decisive roll because it is larger, used after seeing the die, and does not depend on a random setup result. Ordinary non-stacking rules still apply to overlapping luck bonuses.
+
+**Source:** *Pathfinder Campaign Setting: Occult Mysteries* (PZO9269), PDF pp. 52-53 / printed pp. 50-51.
+
 ## Spend priority
 
 1. Fatal Flaw save with severe consequences.

@@ -478,5 +478,50 @@
     "tags": "counterspell;immediate action",
     "summary": "Immediate-action counterspell using an identified spell and a slot of sufficient level.",
     "gm_review": "No"
+  },
+  {
+    "name": "Wandering Weather",
+    "type": "Spell",
+    "rating": "S",
+    "recommendation": "Acquire as soon as possible",
+    "verification_status": "Verified - primary source",
+    "source": "Ultimate Wilderness",
+    "publisher": "Paizo",
+    "pdf_page": "238",
+    "printed_page": "237",
+    "citation": "Ultimate Wilderness PDF p. 238 / printed p. 237",
+    "tags": "weather;Dawnrunner;mobility;logistics",
+    "summary": "Mobile control weather suitable for carrying selected weather with a moving galleon; numerical ship speed remains a campaign ruling.",
+    "gm_review": "Yes"
+  },
+  {
+    "name": "Billow the Sail",
+    "type": "Third-party spell",
+    "rating": "S, conditional",
+    "recommendation": "Request GM approval",
+    "verification_status": "Verified - primary source",
+    "source": "Book of Lost Spells",
+    "publisher": "Frog God Games",
+    "pdf_page": "26",
+    "printed_page": "25",
+    "citation": "Book of Lost Spells PDF p. 26 / printed p. 25",
+    "tags": "Dawnrunner;ship speed;favorable wind;logistics",
+    "summary": "Provides one sailing ship continual favorable wind and an explicit 25 percent speed increase for 1 hour per caster level.",
+    "gm_review": "Yes"
+  },
+  {
+    "name": "Calculated Luck",
+    "type": "Spell",
+    "rating": "A, conditional",
+    "recommendation": "Prepare for planned repeated caster-level checks",
+    "verification_status": "Verified - primary source",
+    "source": "Pathfinder Campaign Setting: Occult Mysteries",
+    "publisher": "Paizo",
+    "pdf_page": "52-53",
+    "printed_page": "50-51",
+    "citation": "Occult Mysteries PDF pp. 52-53 / printed pp. 50-51",
+    "tags": "luck;caster-level checks;dispel;spell resistance",
+    "summary": "Can grant a campaign-enhanced luck bonus to repeated caster-level checks but has a random assignment and energy-vulnerability cost.",
+    "gm_review": "Yes"
   }
 ]

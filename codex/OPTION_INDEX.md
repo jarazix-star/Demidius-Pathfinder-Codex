@@ -4,8 +4,10 @@ Generated from `database/options.csv`.
 
 - **Ability Focus (Mythic)** - Monster feat - **Contextual S for custom abilities** - Mythic Minis 1: Monster Feats - `Verified - complete`
 - **Ascendant Spell-like Ability (Mythic)** - Monster feat - **Contextual A** - Mythic Minis 5: Feats of Monstrous Magic - `Verified - complete`
+- **Billow the Sail** - Third-party spell - **S, conditional** - Book of Lost Spells - `Verified - primary source`
 - **Bon Vivant** - Universal path ability - **C** - Mythic Minis 10: Universal Path Abilities - `Verified - complete`
 - **Bound by Honor** - Universal path ability - **S** - Mythic Minis 10: Universal Path Abilities - `Verified - complete`
+- **Calculated Luck** - Spell - **A, conditional** - Pathfinder Campaign Setting: Occult Mysteries - `Verified - primary source`
 - **Companion Mythic Ability** - Universal path ability - **S+ ceiling** - Mythic Minis 16: Universal Path Abilities II - `Verified - complete`
 - **Contingency Plan** - Universal path ability - **S** - Mythic Minis 16: Universal Path Abilities II - `Verified - complete`
 - **Destructive Dispel (Mythic)** - Mythic feat - **A** - Mythic Hero's Handbook - `Verified - focused extraction`
@@ -34,3 +36,4 @@ Generated from `database/options.csv`.
 - **Spectacular Death** - Universal path ability - **B-** - Mythic Minis 10: Universal Path Abilities - `Verified - complete`
 - **Stealspell** - Trickster path ability - **B for Demidius** - Mythic Minis 8: Trickster Path Abilities - `Verified - complete`
 - **Versatile Skill Mastery** - Universal path ability - **A-** - Mythic Minis 10: Universal Path Abilities - `Verified - complete`
+- **Wandering Weather** - Spell - **S** - Ultimate Wilderness - `Verified - primary source`

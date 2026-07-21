@@ -1,5 +1,12 @@
 # Change Log
 
+## Chronicles & Campaign Setting second-pass extraction
+
+- Audited the existing 76-book, 5,705-page index against the unchanged source folder rather than duplicating extraction.
+- Added Cannon Master as a resilience option for Binky's signature firearm siege engine.
+- Added Burst of Speed, Windrigger, and Storm Sailor as published naval benchmarks while preserving their class-feature access restrictions.
+- Expanded the Dawnrunner and siege recommendation pages and visually verified both source pages.
+
 ## Pathfinder Roleplaying Game content-level review
 
 - Indexed all 48 PDFs in the Paizo Roleplaying Game library: 6,570 pages, 6,444 text-bearing pages, and 25,892,930 extracted characters.

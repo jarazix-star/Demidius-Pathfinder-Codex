@@ -96,12 +96,30 @@ The older *Campaign Setting* includes options such as Storm-Lashed and an older 
 
 **Source:** *Campaign Setting* (PZO1111), PDF pp. 135 and 161.
 
+### 13. Cannon Master protects Binky's damaged firearm siege engines
+
+The Cannon Master feat gives its crew leader a +2 competence bonus to repair firearm siege engines. More importantly, a broken firearm siege engine increases its misfire range by only 2 rather than 4 and must misfire twice before exploding. This does not improve routine firing speed, but it is unusually valuable for preserving Binky's continually upgraded signature cannon after battle damage.
+
+**Source:** *Inner Sea Combat* (PZO9268), PDF p. 19 / printed p. 17.
+
+**Access questions:** Binky needs Siege Engineer, 7 ranks in Knowledge (engineering) or Profession (siege engineer), and proficiency with a firearm siege engine. Compare it against Master Siege Engineer only after her current feats and gun chemist features are recorded.
+
+### 14. Published pirate tricks create a ship-speed progression target
+
+An Inner Sea pirate example in *Ships of the Inner Sea* demonstrates three relevant pirate tricks. Burst of Speed doubles a ship's maximum speed for 1 round after a DC 20 Profession (sailor) check, once per day. Windrigger adds 5 feet to maximum speed for 1 hour after a DC 15 check. Storm Sailor treats storms as one category less severe for sailing and navigation.
+
+These are class features, not general benefits Demidius can simply select. They nevertheless establish a published benchmark for a naval prestige package and give concrete comparison points for *wandering weather*. Do not add their numerical benefits to the Dawnrunner unless Demidius gains the legal class feature or the GM deliberately adapts them.
+
+**Source:** *Ships of the Inner Sea* (PZO9274), PDF p. 65 / printed p. 63.
+
 ## Character and campaign priorities
 
 | Priority | Target | Finding | Next decision |
 |---|---|---|---|
 | S | Demidius | Evangelist | Determine whether post-20 prestige advancement and custom Hermes obedience are legal. |
 | S | Dawnrunner | Captain-derived ship statistics | Supply current Profession (sailor) modifier and staffing, then recalculate. |
+| A+ | Binky | Cannon Master | Audit prerequisites and current feats before choosing between resilience and firing-speed options. |
+| A | Dawnrunner | Pirate speed tricks | Treat as legal-access and benchmarking research, not active ship modifiers. |
 | S | Artifact operations | Research protocol | Apply it before assuming complete knowledge of a new artifact. |
 | A+ | Divine system design | Custom obedience framework | Build domain-matched packages without replacing trials or campaign Boons. |
 | A | Planar operations | Riftwarden specialist | Recruit or train a corridor-security expert. |
@@ -126,4 +144,3 @@ The older *Campaign Setting* includes options such as Storm-Lashed and an older 
 - `scripts/extract_campaign_setting_library.py`: resumable page-index extractor.
 - `scripts/search_campaign_setting_library.py`: reproducible focused corpus search.
 - `scripts/build_campaign_setting_catalog.py`: registry/catalog builder.
-

@@ -54,7 +54,9 @@ If the GM adopts skill unlocks, Signature Skill with 10 ranks in Profession (sai
 
 *Ultimate Combat* also supplies a focused gunnery package. Master Siege Engineer is the leading action-economy candidate for Binky; Siege Engineer and Siege Commander cover proficiency, mishaps, assembly, and movement. Audit her current gun chemist features and feats first. The same source's corvus can support boarding tactics if the campaign adopts its opposed driving-check procedure.
 
-**Published references:** *Pathfinder Unchained* (PZO1131), PDF pp. 83 and 87 / printed pp. 82 and 86; *Ultimate Combat* (PZO1118), PDF pp. 110, 119, and 159-166 / printed pp. 109, 118, and 158-165.
+*Inner Sea Combat* adds Cannon Master, a strong alternative for protecting Binky's signature cannon after it gains the broken condition. *Ships of the Inner Sea* also demonstrates three pirate class features that improve maximum speed or reduce storm severity. They are useful benchmarks for evaluating *wandering weather* and future naval advancement, but they are not active Dawnrunner bonuses without legal access or a GM adaptation.
+
+**Published references:** *Pathfinder Unchained* (PZO1131), PDF pp. 83 and 87 / printed pp. 82 and 86; *Ultimate Combat* (PZO1118), PDF pp. 110, 119, and 159-166 / printed pp. 109, 118, and 158-165; *Inner Sea Combat* (PZO9268), PDF p. 19 / printed p. 17; *Ships of the Inner Sea* (PZO9274), PDF p. 65 / printed p. 63.
 
 ## Priority magical support
 

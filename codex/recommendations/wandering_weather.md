@@ -3,6 +3,7 @@
 **Rating:** S  
 **Priority:** Take as soon as possible  
 **Verification:** Player-prioritized; source and exact mechanics still to be verified  
+**Source:** Not yet identified; pending source-level verification
 **Primary role:** Dawnrunner propulsion and strategic mobility
 
 ## Analysis

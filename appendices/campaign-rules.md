@@ -212,6 +212,18 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 - **Power formula:** `Mythic Power points = 2 × godly powers + 2 × mythic path powers + mythic feats`.
 - **Counting note:** Only complete pairs of mythic path powers increase Mythic Tier; an unmatched path power still contributes its 2 Mythic Power points.
 
+### CR-27 — Blessed and Champion progression
+
+- **Status:** Verified Campaign Rule
+- **Progression:** Follower, Blessed, and Champion are stages on one god-specific trial progression. They are separate from ancestry, godling fraction, divine adoption, and divine rank.
+- **Blessed requirement:** A heroic follower becomes Blessed after completing two total trials for that god.
+- **Blessed effects:** Other followers of that god can sense the deity's favor upon the Blessed, and the Blessed gains the Advanced simple template.
+- **Champion requirements:** A follower must complete three total trials for that god, and that god's Champion position must be vacant.
+- **Unique office:** Each god may have only one Champion at a time. Completing three trials does not grant the office while another Champion holds it.
+- **Champion effects:** The Champion is a leader among that god's followers and gains two additional godly powers.
+- **Power limits:** Champion powers use the same rules as godly bloodline powers, but both must fall within the domains of the god whose Champion the character becomes.
+- **Cumulative reading:** Because Blessed and Champion are stages of the same progression, a Champion retains the Blessed benefits unless a later campaign ruling says otherwise.
+
 ## Dependency map
 
 | Rule | Primary dependents |
@@ -236,6 +248,7 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 | CR-24 | Influence and Magical Supremacy Engines, campaign timeline |
 | CR-25 | Mythic feat planning, templates, godling bloodlines, divine advancement, and negotiations with gods |
 | CR-26 | Divine Progression Engine, Mythic Tier, Mythic Power pool, godly powers, path powers, and Mythic Feats |
+| CR-27 | Divine Progression Engine, Blessed and Champion status, divine trials, godly powers, and deity-specific leadership |
 
 ## Change control
 

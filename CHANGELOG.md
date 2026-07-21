@@ -1,5 +1,13 @@
 # Change Log
 
+## Blessed and Champion divine progression
+
+- Added campaign rule CR-27 defining Follower, Blessed, and Champion as a god-specific trial progression separate from bloodline and divine rank.
+- Recorded that two completed trials make a heroic follower Blessed, allow the god's followers to sense that favor, and grant the Advanced simple template.
+- Recorded that three total trials and a vacant office are required to become the god's sole Champion.
+- Recorded that a Champion leads among the god's followers and gains two godly powers restricted to that god's domains.
+- Applied the rule to Amparo, Binky, and Maarin without inventing the contents of their unrecorded trials or powers.
+
 ## The witnessed onset of the Culling
 
 - Recorded that the Culling began immediately after Declan died.

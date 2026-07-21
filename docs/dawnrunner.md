@@ -31,7 +31,7 @@ The fifteen named quarter-share petty officers are Pete, Bix, Lilly, Zujuck, Ale
 - **Matthias:** level 7 lawful-neutral human hunter of Artemis and siege engineer with a history of long animal transformations and accidental partial immortality.
 - **Rurd:** level 7 lawful-good gnome wizard of Hephaestus and engineer funding exotic magical experiments.
 - **Jenqa:** level 10 lawful-good/lawful-neutral goblin of Athena devoted to eradicating piracy through infiltration, sabotage, and lethal action.
-- **Binky:** goblin siege engineer, gun chemist, cannon specialist, and blessed of Ena.
+- **Binky:** goblin siege engineer, gun chemist, cannon specialist, and Blessed of Ena. Her title establishes two completed trials for Ena, the Advanced simple template, and favor recognizable to Ena's followers; the individual trials remain unrecorded.
 - **Pete, Crystal, and Gideon:** named petty officers whose duties are not yet recorded; Crystal worships Artemis and Gideon worships Apollo.
 
 The workbook also records fourteen one-eighth-share petty officers and fifteen general crew of approximately 3rd level without names.

@@ -16,7 +16,7 @@ Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and s
 
 ### Amparo Decoris Ignatius
 
-A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is blessed of Hestia, was born a one-quarter godling of Hestia's bloodline, and became a demigod by eating an Apple of Discord. At Tradegulf, Eris named Amparo her future champion and confirmed that the battle completed Amparo's first trial toward that path.
+A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, which means they completed two Hestian trials, bear the Advanced simple template, and are recognizable to Hestia's followers as favored. They were born a one-quarter godling of Hestia's bloodline and became a demigod by eating an Apple of Discord. At Tradegulf, Eris named Amparo her future Champion and confirmed that the battle completed Amparo's first Eris trial toward that separate path.
 
 ### Queen Lidda Beaumont of Nysia
 

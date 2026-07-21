@@ -61,6 +61,7 @@ Sleep within the demiplane fully heals a creature. The first sleep also grants +
 
 - **Power and price:** Major gifts frequently create permanent obligations or vulnerabilities.
 - **Divinity as politics:** Apotheosis changes alliances, titles, institutions, and public legitimacy.
+- **Divine favor as office:** Two trials make a heroic follower Blessed; three trials can make that follower the god's unique Champion only when the office is vacant.
 - **Preparation over reaction:** Gates, ships, officers, sanctuaries, and intelligence decide which encounters are survivable.
 - **Consent and loyalty:** The demiplane's blessing makes personal trust a rules-level concern.
 - **Certainty against chaos:** Demidius's luck engine and the untouched Deck of Many Things sit at opposite ends of the risk spectrum.

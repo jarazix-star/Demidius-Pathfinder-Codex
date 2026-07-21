@@ -19,7 +19,7 @@ Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts
 
 ## Amparo Decoris Ignatius
 
-A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is blessed of Hestia and was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future champion and confirmed that Amparo had completed a first trial by helping sow discord into the world. Whether Amparo knowingly accepted that path remains unrecorded.
+A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, meaning they completed two Hestian trials, Hestia's followers can sense the god's favor upon them, and they possess the Advanced simple template. The details of those Hestian trials remain unrecorded. Amparo was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future Champion and confirmed that Amparo had completed a first Eris trial by helping sow discord into the world. Whether Amparo knowingly accepted that path remains unrecorded.
 
 ## Queen Lidda Beaumont of Nysia
 
@@ -89,7 +89,7 @@ Chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to ano
 
 ## Mentioned associates
 
-The optimization record names level 17 Maarin, a mistsoul undine captain and champion of Persephone, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Maarin is muscular, with blue skin, aqua mistlike hair, and pink eyes that changed when she became Persephone's champion. She wears plant-covered medium armor and is perpetually surrounded by plant life, animals, and vermin. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. After Maarin received a dark prophecy of Okeanikos's coming birth, the party rescued his egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
+The optimization record names level 17 Maarin, a mistsoul undine captain and Persephone's unique Champion, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Maarin completed three Persephone trials, leads among Persephone's followers, and receives two Persephone-domain godly powers from the Champion office; the individual trials and powers remain unrecorded. Maarin is muscular, with blue skin, aqua mistlike hair, and pink eyes that changed when she became Persephone's Champion. She wears plant-covered medium armor and is perpetually surrounded by plant life, animals, and vermin. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. After Maarin received a dark prophecy of Okeanikos's coming birth, the party rescued his egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
 
 ## Related pages
 

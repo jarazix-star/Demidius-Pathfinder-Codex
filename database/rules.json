@@ -154,5 +154,11 @@
     "title": "Mythic Tier and Mythic Power calculation",
     "status": "Verified Campaign Rule",
     "text": "Each godly power grants 1 Mythic Tier and 2 Mythic Power points. Every two mythic path powers grant 1 Mythic Tier, while each path power grants 2 Mythic Power points. Each Mythic Feat grants 1 Mythic Power point. Tier equals godly powers plus floor(path powers divided by 2); Mythic Power equals twice godly powers plus twice path powers plus Mythic Feats."
+  },
+  {
+    "id": "CR-27",
+    "title": "Blessed and Champion progression",
+    "status": "Verified Campaign Rule",
+    "text": "A heroic follower becomes Blessed after completing two total trials for a god. The god's followers can sense the deity's favor on the Blessed, who gains the Advanced simple template. A follower becomes eligible to be Champion after three total trials, but only if that god's unique Champion office is vacant. The Champion is a leader among the god's followers and gains two additional godly powers, selected under the godly bloodline power rules but limited to the Champion god's domains."
   }
 ]

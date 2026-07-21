@@ -48,6 +48,14 @@ The same source describes a galleon as a durable, heavily armed merchant or wars
 
 **Published reference:** *Ships of the Inner Sea* (PZO9274), PDF pp. 5 and 7 / printed pp. 3 and 5.
 
+### Published rules audit
+
+If the GM adopts skill unlocks, Signature Skill with 10 ranks in Profession (sailor) allows two Profession checks and the better result and permits taking 10 on professional questions. Because the Dawnrunner's campaign rules use Profession (sailor), this is a leading reliability option, but it must not be applied until the optional subsystem and check compatibility are confirmed.
+
+*Ultimate Combat* also supplies a focused gunnery package. Master Siege Engineer is the leading action-economy candidate for Binky; Siege Engineer and Siege Commander cover proficiency, mishaps, assembly, and movement. Audit her current gun chemist features and feats first. The same source's corvus can support boarding tactics if the campaign adopts its opposed driving-check procedure.
+
+**Published references:** *Pathfinder Unchained* (PZO1131), PDF pp. 83 and 87 / printed pp. 82 and 86; *Ultimate Combat* (PZO1118), PDF pp. 110, 119, and 159-166 / printed pp. 109, 118, and 158-165.
+
 ## Priority magical support
 
 Demidius should take *wandering weather* as soon as possible. Its ability to provide favorable mobile weather could tremendously increase the Dawnrunner's speed and therefore improve voyage time, pursuit, escape, and strategic response. The spell's source, exact mechanics, and interaction with the campaign's ship-speed rules still need to be verified before a numerical speed is recorded.

@@ -4,6 +4,12 @@
 
 Resurrection magic does not solve soul imprisonment. The party must first locate, reach, and release Aristea's soul from Tartarus.
 
+### Communication before entry
+
+The occult ritual *call beyond the veil* may be able to contact Aristea in Tartarus through a true name or personal object. It can gather intelligence but cannot release her, the contacted spirit can resist or lie, and Eris or Tartarus may interfere. Its difficult skill checks and negative-level failure risk require a prepared ritual team, containment, and recovery support.
+
+**Source:** *Occult Adventures* (PZO1132), PDF pp. 211-212 / printed pp. 210-211. See [Call Beyond the Veil](recommendations/call_beyond_the_veil.md).
+
 ## Recommended temporary planar package
 
 - Planar Scholar: portals, planar codes, entry bonuses, divination reliability, plane shift accuracy.

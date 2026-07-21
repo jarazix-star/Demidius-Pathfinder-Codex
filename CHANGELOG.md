@@ -1,5 +1,14 @@
 # Change Log
 
+## Pathfinder Roleplaying Game content-level review
+
+- Indexed all 48 PDFs in the Paizo Roleplaying Game library: 6,570 pages, 6,444 text-bearing pages, and 25,892,930 extracted characters.
+- Added a 48-source registry and catalog, a 27-entry decision shortlist, and a contextual findings report with exact PDF and printed-page citations.
+- Identified the mnemonic vestment, otherworldly kimono, bead of karma, four-leaf clover, and bloodline robe as leading item audits.
+- Flagged the Ring of Continuation replacement clause as a required ruling for Demidius's maintained Invoke Deity routine.
+- Added official retraining, Profession (sailor) skill-unlock, siege-crew, optional Sounon infrastructure, and Aristea-contact research.
+- Kept all optional Paizo subsystems conditional and preserved campaign rules as authoritative.
+
 ## Chronicles & Campaign Setting content-level review
 
 - Indexed all 76 PDFs in the Paizo Chronicles & Campaign Setting library at page level: 5,705 PDF pages, 5,630 text-bearing pages, and 23,946,060 extracted characters.

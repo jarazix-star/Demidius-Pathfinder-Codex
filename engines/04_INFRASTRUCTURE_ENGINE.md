@@ -23,3 +23,11 @@ The Key turns previously visited locations into week-long planar logistics route
 
 - Demidius: slept in the demiplane; +50 maximum HP; Loyalty Fatal Flaw toward Demidius.
 - Aristea: slept in the demiplane; +50 maximum HP; Loyalty Fatal Flaw toward Demidius.
+
+## Optional Sounon headquarters model
+
+If the GM adopts the downtime subsystem, *Ultimate Campaign* provides ready-made abstractions for a Waterfront, Magical Repository, Hospital, Sailors teams, managers, and follower-generated capital. These could model Sounon's docks, spell research, medical recovery, and fleet staffing without inventing a new economic system.
+
+This is an optional campaign-management layer, not a current rule. The campaign's recorded ship, follower, and wealth rules remain authoritative.
+
+**Source:** *Ultimate Campaign* (PZO1125), PDF pp. 77-114; Waterfront and Sailors at PDF p. 114 / printed p. 113, Magical Repository at PDF p. 100 / printed p. 99, and Hospital at PDF p. 111 / printed p. 110.

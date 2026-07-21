@@ -27,6 +27,9 @@ See [Seven-Pipped Gem](../systems/divine_abilities/SEVEN_PIPPED_GEM.md) and CR-0
 - Luckstone: +1 becomes +3 under CR-01 and CR-02.
 - Eyebrow Piercing of Confidence: +4 luck to mental ability scores becomes +6.
 - Invoke Deity (Luck): maintained through Ring of Continuation; exact bonuses must be recorded from the campaign's spell version.
+- Four-leaf clover: its +2 luck bonus should become +4 under CR-01 and CR-02, but it replaces rather than stacks with the luckstone's +3. Its free-action activation preserves Demidius's immediate action.
+
+The Ring of Continuation text ends its maintained personal spell when the wearer casts another personal spell, except while the older spell's natural duration would still remain. Audit the campaign version and duration of Invoke Deity before treating the all-day routine as safe. See [Ring of Continuation Audit](../codex/recommendations/ring_of_continuation_audit.md).
 
 ## Make Your Own Luck
 
@@ -35,6 +38,8 @@ Converted competence, insight, or morale bonuses become luck bonuses and receive
 ## Immediate-action conflict
 
 Seven-Pipped Gem competes with immediate-action counterspells and other reactive defenses. The correct choice depends on whether the roll being modified is more decisive than the enemy action likely to occur before Demidius's next turn.
+
+*Borrow fortune* offers an immediate-action reroll before the result is known, but forces two rounds of rolling twice and keeping the worse result. Reserve it for an outcome whose immediate failure would be worse than that severe follow-on penalty.
 
 ## Spend priority
 

@@ -65,6 +65,17 @@ Start with:
 - `database/chronicles_campaign_setting_shortlist.csv`
 - `database/source_registry_chronicles_campaign_setting.json`
 
+## Pathfinder Roleplaying Game review
+
+All 48 PDFs in the Paizo Roleplaying Game library have been indexed at page level and reviewed for Demidius, the player characters, both crews, planar recovery, ship operations, retraining, and infrastructure.
+
+Start with:
+
+- `research/parsed_books/paizo_roleplaying_game/CONTENT_LEVEL_REVIEW.md`
+- `research/parsed_books/paizo_roleplaying_game/SOURCE_CATALOG.csv`
+- `database/roleplaying_game_shortlist.csv`
+- `database/source_registry_roleplaying_game.json`
+
 
 ## v3.3 extraction
 

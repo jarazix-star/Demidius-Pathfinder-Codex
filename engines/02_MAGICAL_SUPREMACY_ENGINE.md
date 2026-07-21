@@ -23,6 +23,14 @@ Magical Supremacy is the broader successor to the Dispel Engine. It covers dispe
 - Glasses of Beaumont: unerring alignment reading 3/day and true seeing 3/day.
 - Key of Daedalus: divine-lock access, maze immunity, and planar corridors.
 
+## Published caster-level support
+
+- **Otherworldly kimono:** +4 untyped on every caster-level check, increasing to +6 while its daily extradimensional prison is occupied. This directly supports dispels and spell-resistance checks.
+- **Bead of karma:** +4 caster level for 10 minutes, ideal for a scheduled denial sequence. It does not grant higher spell levels or additional spells.
+- **Mnemonic vestment:** potentially converts a carried spellbook into a once-daily answer library, but only if the GM rules that CR-09 satisfies the item's class-list requirement.
+
+See the dedicated recommendation pages for costs, slots, and verification boundaries.
+
 ## Highest-value boot uses
 
 - Quicken mythic greater dispel magic and retain the normal action for control.

@@ -25,6 +25,8 @@ These assets change what the party can attempt at campaign scale. Their value is
 | Sounon | Island home base | Shared home for the Dawnrunner and *Matcha Frappuccino* crews | Selected; infrastructure unrecorded | Shipbreaker navigation, construction, defense, and local unknowns |
 | Declan's Wayfinder | Magical compass and succession token | Functions within the Shipbreaker Sea and supports the Sunlit Chain claim | Held by the heroes | One of only fourteen; rival claimants and political exposure |
 | Scepter of Keto | Navigation artifact | Bypasses Poseidon's navigation curse over the Isles of Berres | Final required component stolen from Stormspire; assembly and custody unrecorded | Exact activation, limits, custody, and consequences remain unknown |
+| Blood of the Lernaean Hydra | Unique campaign poison | Save-versus-death opening followed by extreme Constitution damage | Demidius holds 2 doses; account identifies 10 vials | Catastrophic accidental exposure; several adjudication details unresolved |
+| The Mother's Lament | Banned campaign artifact | Suppressed religious history with power to reshape worship and legitimacy | Existence confirmed; custody and powers unknown | Olympian suppression, legal exposure, divine retaliation, textual manipulation |
 
 ## Inherited Demiplane
 
@@ -43,6 +45,10 @@ The Key can bypass ordinary and magical locks, create three planar corridors per
 ## Dawnrunner
 
 The Dawnrunner is a galleon that combines transport, headquarters, symbol of authority, and organizational center. It is the platform through which Epic Leadership becomes a functioning crew, marine force, and officer corps. The roster and an explicitly outdated workbook statistics snapshot are summarized in the [Dawnrunner vessel and crew record](../docs/dawnrunner.md).
+
+## Blood of the Lernaean Hydra
+
+Demidius possesses two doses of blood from the true Lernaean Hydra. The supplied account describes ten vials but does not establish whether each vial equals a dose or who holds the remainder. The campaign poison uses DC 40, begins with a save versus death that still deals 1d6 Constitution damage on a success, then deals 2d6 Constitution damage per round for ten rounds and requires three consecutive saves to end. See the [full consumable record](../systems/consumables/BLOOD_OF_THE_LERNAEAN_HYDRA.md) before use.
 
 Its visual identity uses black, silver, and deep crimson with a winged silver fleur-de-lis, roses, and protective thorns. The supplied references establish coordinated officer and sailor uniforms, naval armor variants, and an elite Royal Marine tradition. Exact marine numbers, ranks, training, and equipment statistics remain unrecorded.
 
@@ -75,6 +81,12 @@ Wayfinders control reliable navigation, enable otherwise prohibitively expensive
 The Scepter of Keto can bypass the spell Poseidon placed over the Isles of Berres that makes navigation exceptionally difficult. During the Stormspire operation, the crews distracted the Storm King while Odysseus stole the final component needed to complete it. The record does not yet establish whether the Scepter has been assembled, who carries it, how it is activated, or whether bypassing the curse has geographic or temporal limits.
 
 Unlike a single Wayfinder, the Scepter may offer the party an independent answer to Poseidon's monopoly over navigation. That makes it a fleet-scale strategic asset and a likely target for the Council of Seven, Poseidon, and other powers invested in controlling Berresian travel.
+
+## The Mother's Lament
+
+*The Mother's Lament* is a famous banned book and important campaign artifact recounting the suffering of Keto, Echidna, Gaia, and their children at the hands of the gods, especially the sea gods. After the Titans fell, the Olympian Council banned it from fear that it would reduce worship of Hades, Zeus, and Poseidon and increase worship of the three Mothers of Monsters.
+
+Its present custody, surviving copies, magical properties, and ban-enforcement regime remain unknown. Even without a confirmed supernatural power, an authentic copy could influence divine legitimacy, religious movements, diplomacy, propaganda, and relations with primordial or monstrous powers. See the [full artifact record](../systems/artifacts/THE_MOTHERS_LAMENT.md).
 
 ## Glasses of Beaumont
 

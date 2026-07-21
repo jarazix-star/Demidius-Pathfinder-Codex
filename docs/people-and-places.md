@@ -28,7 +28,11 @@ A level-50 paladin of Apollo who refused godhood and possesses the Sword of Heli
 
 ### Fel
 
-A lawful-evil primordial dragon from the Outer Realms and member of the Lords of Order, associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival may be the event defining year 0 Post-Arrival, although Cronus's release is the other current candidate.
+A lawful-evil primordial blue dragon from the Outer Realms, Fel is Lord of the Underworld and one of the four primary gods of the Lords of Order. Fel is associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival may be the event defining year 0 Post-Arrival, although Cronus's release is the other current candidate.
+
+### Alexander
+
+Alexander is a primordial silver dragon, Lord of the Earth, and one of the four primary gods of the Lords of Order. His half-celestial aasimar mortal avatar retained Alexander's appearance from life and ruled as Emperor of Lodingen for hundreds of years.
 
 ### The Council of Seven
 
@@ -50,6 +54,10 @@ Eris appeared through the identity or form of Pat at the end of the Battle for T
 
 A level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, item creator, shapeshifter, Demidius's cohort, and navigator of the Dawnrunner before her death. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed her with *death knell* during the Battle for Tradegulf, made her appear alive but unconscious, and pulled her soul into Tartarus. The known campaign objective is to release her soul before attempting resurrection.
 
+### Kaelen Thorne
+
+A deceased former party member, elven druid, and student of the elder Ylvara. The child of an elven herbalist and ranger, Kaelen learned the languages of the forest and developed a defining bond with animals after comforting a dying beaver and raising its lone pup. She believed the balance between civilization and nature sometimes had to be enforced. Her relationship to the wider Thorne family and the circumstances of her death remain unrecorded.
+
 ### Sly
 
 Declan's second-in-command. Eris killed Sly with *death knell* during the Battle for Tradegulf. The current custody of the Wayfinder associated with Sly's office is unknown.
@@ -57,6 +65,10 @@ Declan's second-in-command. Eris killed Sly with *death knell* during the Battle
 ### Okeanikos
 
 A level 15 male mortal god, sorcerer, Dragon Disciple, child of Echidna, and one of the group's major damage specialists. The party rescued his egg after Maarin received a dark prophecy of his coming birth. Maarin took him as her cohort; he now worships her and regards her as his sister. See his illustrated page in the GitHub wiki.
+
+### Filius and Maarin's first Dark Prophecy
+
+Filius is the stone-covered man shown in Maarin's first vision from the Dark Prophecy Fatal Flaw. The vision showed a cloaked golden-scythe wielder killing him roughly ten years into a possible future, followed by Gaia's awakening, a primordial war, collapse of the Material Plane, and a cosmic reset. It led the party to Filius, who is presently alive and serving aboard the *Matcha Frappuccino*. The warned catastrophe has not occurred.
 
 ### Perlot
 
@@ -69,6 +81,18 @@ The former owner of the inherited demiplane. Bix may be his reincarnation, altho
 ### Bix
 
 A chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to another crew member, and Demidius's longest-serving follower. Bix has one red eye and one blue eye. He may be the reincarnation of Demidius's deceased brother, but Demidius does not know about this uncertain possibility. See the illustrated page in the GitHub wiki.
+
+### Vornix Drazgul
+
+A male kobold petty officer hired by Demidius for the Dawnrunner. Vornix calls Demidius the “great, scaleless, pink lizard.” He proposes a partnership with the Maker's Knot to seize goods from corrupt enterprises, sell them at reduced prices, direct all proceeds to charity and displaced workers, and support honest replacement businesses. He insists that the Dawnrunner be funded separately through ordinary adventures. This remains a proposal rather than an accepted or active policy.
+
+### Qarvel Drah'kar
+
+A male sea elf and newer Dawnrunner petty officer hired by Demidius. Qarvel proposes hunting large sea game for trade and hunting pirates, with recovered pirate goods benefiting struggling communities after a 10% acquisition fee for the ship. This remains a proposal rather than an accepted or active policy.
+
+### Zephyra Coralshade
+
+A female sea elf and newer Dawnrunner petty officer hired by Demidius. Zephyra proposes a safe luxury passenger service using paired fares: every passenger paying 500 gp subsidizes one free passenger in need. This remains a proposal rather than an accepted or active policy.
 
 ### Aelwyn
 
@@ -84,7 +108,7 @@ Lorekeeper of the Tagata Fetu, whose name means Star Spirit. Many expected Demid
 
 ### Siopi and Paradox
 
-Siopi is Demidius's half-sibling and Paradox is his half-brother. Their parentage, locations, abilities, and present relationships with Demidius remain unrecorded.
+Siopi is Demidius's half-sibling and Paradox is his half-brother. Both are children of Smokey Roberts and were once party mates. Paradox has one red eye and one blue eye with matching red-and-blue hair, seven reported wives, six reported biological children, and two adopted children presented as his nephews. Their current locations, abilities, and present relationships with Demidius remain unrecorded.
 
 ## Organizations and vessels
 
@@ -163,6 +187,10 @@ A level-30 rogue of an unspecified specialization and a tactical genius recovere
 ### Scepter of Keto
 
 An artifact capable of bypassing Poseidon's navigation spell over the Isles of Berres. Odysseus stole its final required component at Stormspire. Its current assembly, bearer, activation method, and limitations remain unrecorded.
+
+### The Mother's Lament
+
+A famous book banned across the world and an important campaign artifact. It recounts the suffering of Keto, Echidna, Gaia, and their children under the gods, especially the sea gods. The Olympian Council banned it after the Titans fell because it threatened worship of Hades, Zeus, and Poseidon while encouraging reverence for the three Mothers of Monsters. Its custody, surviving copies, magical properties, authorship, and current enforcement remain unknown.
 
 ### Tartarus
 

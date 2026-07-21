@@ -43,6 +43,10 @@ Eris is a member of the Dogs of War associated with Discord, Destruction, and Ri
 
 Level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death at the Battle for Tradegulf. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed Aristea with *death knell*, made her appear alive but unconscious, and pulled her soul into Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
 
+## Kaelen Thorne
+
+A deceased former party member, elf, and druid. Kaelen was the child of an elven herbalist and elven ranger and was trained by the elder Ylvara in the languages of the forest and attunement to the natural world. At twelve she comforted a dying beaver and raised its lone pup to adulthood. She preferred animals and quiet to people and believed that the balance between civilization and nature sometimes had to be enforced. Her relationship to the wider Thorne family and the circumstances of her death remain unrecorded.
+
 ## Sly
 
 Declan's second-in-command. Eris killed Sly with *death knell* during the Battle for Tradegulf. The present custody of the Wayfinder associated with Sly's former office is unknown.
@@ -73,7 +77,27 @@ A level-30 rogue of an unspecified specialization, tactical genius, and recovere
 
 ## Fel
 
-A lawful-evil primordial dragon from the Outer Realms and member of the Lords of Order, associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival in Zatera is one candidate for the event defining year 0 Post-Arrival; the other currently identified candidate is Cronus's release.
+A lawful-evil primordial blue dragon from the Outer Realms, Lord of the Underworld, and one of the four primary gods of the Lords of Order. Fel is associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival in Zatera is one candidate for the event defining year 0 Post-Arrival; the other currently identified candidate is Cronus's release.
+
+## Alexander
+
+A primordial silver dragon, Lord of the Earth, and one of the four primary gods of the Lords of Order. Alexander's half-celestial aasimar mortal avatar retained his appearance from life and ruled as Emperor of Lodingen for hundreds of years.
+
+## Vornix Drazgul
+
+A male kobold petty officer hired by Demidius for the Dawnrunner. Vornix calls Demidius the “great, scaleless, pink lizard” and advocates a strict charitable anti-corruption program with the Maker's Knot: raid corrupt businesses, sell the seized goods at reduced prices, donate all proceeds to charity and displaced workers, and use unrelated adventuring income to fund the ship. The proposal has not yet been accepted or implemented. Vornix's class, level, duty, crew share, and appearance beyond being a male kobold remain unrecorded.
+
+## Qarvel Drah'kar
+
+A male sea elf and one of Demidius's newer Dawnrunner petty officers. Qarvel proposes hunting large sea game for merchant goods and hunting pirates. Goods recovered from pirates would be given to struggling communities, with the Dawnrunner retaining a 10% acquisition fee. The proposal is not yet accepted or implemented. His class, level, duty, crew share, and appearance beyond being a male sea elf remain unrecorded.
+
+## Zephyra Coralshade
+
+A female sea elf and one of Demidius's newer Dawnrunner petty officers. Zephyra supports Demidius's new hiring practices and Pete's suggestions. She proposes a safe luxury passenger service in which each 500-gp fare provides free passage to one person in need. Her example carries 150 paying and 150 free passengers for 75,000 gp in gross fares before expenses. The proposal is not yet accepted or implemented. Her class, level, duty, crew share, and appearance beyond being a female sea elf remain unrecorded.
+
+## Paradox and Siopi
+
+Paradox and Siopi are children of Pirate King Smokey Roberts, half-siblings of Demidius, and former party mates. Paradox is a man with paired red-and-blue heterochromia in both his eyes and hair. He has seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Phoebe also adopted two orphans whom she presents as Paradox's nephews. The report calls Echo and Hera twins while listing them as ages eight and ten; the correct ages remain unresolved. Siopi's gender, other parent, appearance, abilities, and current location remain unrecorded.
 
 ## Perlot
 
@@ -89,7 +113,7 @@ Chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to ano
 
 ## Mentioned associates
 
-The optimization record names level 17 Maarin, a mistsoul undine captain and Persephone's unique Champion, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Maarin completed three Persephone trials, leads among Persephone's followers, and receives two Persephone-domain godly powers from the Champion office; the individual trials and powers remain unrecorded. Maarin is muscular, with blue skin, aqua mistlike hair, and pink eyes that changed when she became Persephone's Champion. She wears plant-covered medium armor and is perpetually surrounded by plant life, animals, and vermin. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. After Maarin received a dark prophecy of Okeanikos's coming birth, the party rescued his egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
+The optimization record names level 17 Maarin, a mistsoul undine captain and Persephone's unique Champion, and level 15 Okeanikos, a male mortal god, sorcerer, Dragon Disciple, and child of Echidna, as stronger personal damage dealers whom Demidius should enable rather than imitate. Maarin completed three Persephone trials, leads among Persephone's followers, and receives two Persephone-domain godly powers from the Champion office; the individual trials and powers remain unrecorded. Maarin is muscular, with blue skin, aqua mistlike hair, and pink eyes that changed when she became Persephone's Champion. She wears plant-covered medium armor and is perpetually surrounded by plant life, animals, and vermin. Poseidon created the storm that killed Maarin's family, and Maarin seeks revenge and intends to kill him. Maarin's first Dark Prophecy led the party to Filius after warning that his future death could awaken Gaia and ultimately end the cosmos. A later prophecy led the party to Okeanikos's egg before another power could shape what he became. Maarin took him as her cohort; he now worships her and regards her as his sister.
 
 ## Related pages
 

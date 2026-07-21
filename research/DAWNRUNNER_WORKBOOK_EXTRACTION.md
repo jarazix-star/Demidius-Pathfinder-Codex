@@ -12,6 +12,8 @@ The workbook identifies Demidius and Roy as major officers, Aristea as a half-sh
 
 The named roster is Demidius, Roy, Aristea, Pete, Bix, Lilly, Zujuck, Alecia, Unni, Erika, Shas, Zel, Matthias, Rurd, Jenqa the Green Revenger, Binky, Crystal, and Gideon. An additional incomplete row records an unnamed paladin of Hermes and is not treated as a distinct confirmed character.
 
+**Post-workbook reconciliation:** Vornix Drazgul was later confirmed directly by the user as a male kobold petty officer hired by Demidius. Qarvel Drah'kar and Zephyra Coralshade were later confirmed as newer sea elf petty officers. None is present in the extracted named roster. Their shares, classes, levels, duties, and whether they correspond to any of the workbook's unnamed petty-officer entries remain unknown; the workbook counts therefore have not been silently altered.
+
 Full narrative backgrounds are present for Alecia, Unni, Erika, Shas, Zel, Matthias, Rurd, and Jenqa. Partial identity or role records are present for the remaining named crew.
 
 ## Reconciliation decisions

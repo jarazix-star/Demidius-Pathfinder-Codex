@@ -15,6 +15,7 @@ Seven-Pipped Gem is not an artifact; it is indexed under divine abilities.
 | Deck of Many Things | Untouched | High-risk strategic reserve | [Entry](../systems/artifacts/DECK_OF_MANY_THINGS.md) |
 | Hermes's Boots of Speed | Active | Free-action quickening and DC amplification | [Entry](../systems/artifacts/HERMES_BOOTS_OF_SPEED.md) |
 | Glasses of Beaumont | Active | Alignment and true-seeing information superiority | [Entry](../systems/artifacts/GLASSES_OF_BEAUMONT.md) |
+| The Mother's Lament | Existence confirmed; custody and powers unknown | Banned religious history and divine-political influence | [Entry](../systems/artifacts/THE_MOTHERS_LAMENT.md) |
 
 ## Research standard
 

@@ -62,7 +62,7 @@ Published Order of the Godclaw oracles can draw obedience benefits from several 
 
 Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuccino*, is Demidius's paternal half-sister: both are children of Pirate King Smokey Roberts. The history of their relationship has not yet been recorded.
 
-Philomela Thorne is Demidius's mother, while Smokey Roberts is his distant and mysterious father. Siopi is a half-sibling, Paradox is a half-brother, and Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
+Philomela Thorne is Demidius's mother, while Smokey Roberts is his distant and mysterious father. Siopi and Paradox are both children of Smokey Roberts and were once party mates; Siopi is Demidius's half-sibling and Paradox his half-brother. Paradox has seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
 
 ## Why Charisma matters
 
@@ -87,6 +87,10 @@ Epic Leadership, a reported Leadership score of 49, the Dawnrunner's officers an
 ### Planar logistics
 
 The Key of Daedalus and inherited demiplane give Demidius exceptional reach and preparation capacity. They also create persistent risks: corridors remain open for a week and can be used by anyone, while the demiplane's sleep blessing imposes permanent Loyalty toward its owner.
+
+### Lernaean Hydra blood
+
+Demidius holds two doses of blood from the true Lernaean Hydra, one of the campaign's most lethal poisons. The larger account identifies ten vials, but the vial-to-dose relationship and custody of the remainder are unknown. Its opening DC 40 save is versus death; even success deals 1d6 Constitution damage, followed by 2d6 Constitution damage per round for ten rounds until three consecutive saves end the effect. Several delivery and immunity questions require GM confirmation before use.
 
 ## Divine costs
 

@@ -38,6 +38,10 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 
 ## Verified milestones — date not yet recorded
 
+### The Olympian Council bans The Mother's Lament
+
+After the fall of the Titans, the Olympian Council banned *The Mother's Lament*. The Council feared that its accounts of Keto, Echidna, Gaia, and their children would reduce worship of Hades, Zeus, and Poseidon while increasing worship of the three Mothers of Monsters. Its author, original publication date, and present enforcement remain unknown.
+
 ### Philomela escapes Lodingen with Demidius
 
 During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the Tagata Fetu on Motu Leilani.
@@ -92,9 +96,13 @@ After the death of his brother, Demidius inherited a private demiplane with adju
 
 Poseidon created a storm that killed Maarin's family. The date, location, reason for the storm, and whether the family was deliberately targeted remain unrecorded. Maarin made revenge and the eventual killing of Poseidon one of her defining life goals.
 
+### Maarin's first Dark Prophecy leads to Filius
+
+Shortly after returning from Yuletown, Maarin received her first vision from the Dark Prophecy Fatal Flaw. It showed Filius being killed by a cloaked golden-scythe wielder roughly ten years into a possible future. His death was followed by Gaia's awakening, the release of serpentine-limbed giants, a primordial war against every pantheon, the collapse of the Material Plane, and an unidentified galaxy-eyed observer erasing and restarting the cosmos. The vision led the party to Filius, who is presently alive.
+
 ### Maarin foresees Okeanikos and the party rescues his egg
 
-Maarin received a dark prophecy of the coming birth of Okeanikos, a child of Echidna. Because whoever recovered his egg would greatly influence what he became, the party hunted for and rescued the egg. Maarin later took Okeanikos as her cohort. He became her worshiper and came to regard her as his sister.
+Maarin later received a prophecy of the coming birth of Okeanikos, a child of Echidna. Because whoever recovered his egg would greatly influence what he became, the party hunted for and rescued the egg. Maarin later took Okeanikos as her cohort. He became her worshiper and came to regard her as his sister. The relationship between this later prophecy and the Dark Prophecy Fatal Flaw remains unrecorded.
 
 ### Demidius receives Hermes's gifts
 
@@ -107,6 +115,10 @@ Demidius acquired the Key of Daedalus. Its first use permanently imposed the Par
 ### Demidius and Aristea receive the demiplane's sleep blessing
 
 Both are confirmed to have slept in the demiplane. Each received full healing, a one-time permanent increase of 50 maximum hit points, and the Loyalty Fatal Flaw directed toward Demidius.
+
+### Kaelen Thorne lives and dies — date not yet recorded
+
+Kaelen Thorne, an elven druid trained by the elder Ylvara, was a member of the adventuring party. Her childhood included comforting a dying beaver and raising its orphaned pup, an experience that reflected her lifelong connection to animals and nature. Kaelen is deceased, but the record does not yet establish when or how she died, when she joined the party, or whether she was related to Demidius.
 
 ### Aristea's soul is trapped in Tartarus after Tradegulf
 
@@ -123,7 +135,8 @@ Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouch
 ## Open chronology questions
 
 - When did Demidius's brother die, and when did the inheritance occur?
-- When did Maarin receive the prophecy, where was Okeanikos's egg found, and who else sought it?
+- When did Maarin receive the later Okeanikos prophecy, where was his egg found, and who else sought it?
+- When did the party visit Yuletown, how did the first Dark Prophecy direct them to Filius, and where was he found?
 - Was the Key of Daedalus acquired before or after the demiplane?
 - When did Hermes grant each divine gift?
 - When and why did Beaumont present the glasses?

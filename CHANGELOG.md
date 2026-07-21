@@ -1,5 +1,61 @@
 # Change Log
 
+## Maarin's first Dark Prophecy — 2026-07-21
+
+- Recorded the full first vision caused by Maarin's Dark Prophecy Fatal Flaw.
+- Identified the stone-covered victim with Filius because the vision led the party to him, while preserving uncertainty about his staff and the prophecy's causal mechanics.
+- Separated witnessed vision, party response, current facts, and unfulfilled future events.
+- Added a campaign prophecy registry and linked Maarin, Filius, Gaia, Fatal Flaws, the timeline, and the wiki sidebar.
+- Recorded the golden-scythe wielder, anguiped giants, primordial war, galaxy-eyed observer, cosmic experiment, and reset as unresolved prophetic elements.
+
+## The Mother's Lament — 2026-07-21
+
+- Added the world-famous banned book as a confirmed important campaign artifact.
+- Recorded its three narratives concerning Keto, Echidna, Gaia, their children, Hercules's Labors, and divine abuse while attributing contested historical claims to the book.
+- Recorded the Olympian Council's post-Titan ban and its stated worship-related motive.
+- Added Keto's campaign page and cross-links to Echidna, Gaia, Poseidon, Athena, Amphitrite, Zeus, Hades, the Lernaean Hydra blood, and the Scepter of Keto.
+- Left authorship, custody, copies, magical properties, and present enforcement explicitly unresolved.
+
+## Blood of the Lernaean Hydra — 2026-07-21
+
+- Recorded Demidius's two doses of blood from the true Lernaean Hydra and the larger ten-vial account.
+- Preserved the supplied DC 40, first-round save-versus-death, Constitution damage, ten-round duration, and three-consecutive-save mechanics without silently converting them to standard poison rules.
+- Added a consumables register, strategic-asset entry, risk doctrine, wiki page, and explicit interpretation questions.
+- Classified the blood as a unique campaign poison and limited consumable rather than assuming artifact status.
+
+## Qarvel Drah'kar and Zephyra Coralshade — 2026-07-21
+
+- Added two separately confirmed sea elf petty officers hired by Demidius.
+- Recorded Qarvel's sea-game trade and community-restitution counter-piracy proposal, including the Dawnrunner's proposed 10% acquisition fee.
+- Recorded Zephyra's paired-fare luxury passage proposal and clarified that 300 total passengers means 150 paying fares, 150 free passages, and 75,000 gp in gross revenue before expenses.
+- Preserved the distinction between these later confirmations and the historical workbook roster counts.
+
+## Vornix Drazgul and the Maker's Knot proposal — 2026-07-21
+
+- Added Vornix Drazgul as a separately confirmed kobold petty officer hired by Demidius.
+- Recorded his title for Demidius and his charitable anti-corruption proposal.
+- Created a Maker's Knot organization placeholder without treating Vornix's suggested partnership as accepted or active.
+- Preserved the distinction between workbook roster counts and Vornix's separately supplied crew record.
+
+## Paradox family and portrait — 2026-07-21
+
+- Expanded Paradox from a placeholder into a full family and relationship record based on the supplied ten-year report.
+- Confirmed Paradox and Siopi as children of Smokey Roberts and former party mates.
+- Recorded Paradox's seven wives, six reported biological children, and Phoebe's two adopted nephew figures while preserving unresolved and contradictory details.
+- Added a new reference-based portrait preserving Paradox's red-and-blue eyes, hair, armor, tattoo, and crescent weapon.
+
+## Kaelen Thorne backstory — 2026-07-21
+
+- Added Kaelen Thorne as a deceased former player character and elven druid.
+- Recorded her parents, training under Ylvara, bond with animals, rescue and raising of an orphaned beaver pup, and belief that nature's balance sometimes must be enforced.
+- Left her death, mechanics, appearance, and possible relationship to the wider Thorne family explicitly unresolved.
+
+## Four Lords of Order canon — 2026-07-21
+
+- Recorded Zeus as Lord of the Air, Hera as Lord of the Sea, Fel as Lord of the Underworld, and Alexander as Lord of the Earth.
+- Identified Fel as a primordial blue dragon and Alexander as a primordial silver dragon.
+- Recorded that Alexander's half-celestial aasimar mortal avatar retained his appearance from life and ruled as Emperor of Lodingen for hundreds of years.
+
 ## d20PFSRD content-level extraction
 
 - Built a resumable index of 52,387 discovered URLs and 18,891,957 words using the site's working sitemap records plus recursive internal-link discovery to compensate for 22 failed sitemap documents.

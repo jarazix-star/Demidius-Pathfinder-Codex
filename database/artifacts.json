@@ -38,5 +38,13 @@
     "type": "Artifact Gift",
     "provenance": "Gift from Queen Lidda Beaumont",
     "file": "systems/artifacts/GLASSES_OF_BEAUMONT.md"
+  },
+  {
+    "id": "A-06",
+    "name": "The Mother's Lament",
+    "status": "existence confirmed; custody and powers unknown",
+    "type": "Banned Book / Campaign Artifact",
+    "provenance": "Banned by the Olympian Council after the fall of the Titans",
+    "file": "systems/artifacts/THE_MOTHERS_LAMENT.md"
   }
 ]

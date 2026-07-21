@@ -30,3 +30,7 @@ Source: Key of Daedalus. On a failed save Demidius must act on paranoia, such as
 ## FF-05 — Loyalty
 
 Source: sleeping in the inherited demiplane. Triggered only in relation to the owner, Demidius. Confirmed for Demidius and Aristea.
+
+## Campaign example — Maarin's Dark Prophecy
+
+Maarin rolled Dark Prophecy from the campaign's Fatal Flaw catalog and received her first vision shortly after returning from Yuletown. The vision led the party to Filius and warned of a possible future in which his death awakens Gaia, begins a primordial war against every pantheon, destabilizes the Material Plane, and culminates in a cosmic reset. The record does not state whether Maarin failed the flaw's Fortitude save or was stunned for 1d6 rounds. See [Campaign Prophecies](../campaign/prophecies.md).

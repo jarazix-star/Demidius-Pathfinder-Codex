@@ -20,3 +20,7 @@ The untouched standard Pathfinder Deck of Many Things is a usable but extreme-ri
 - Require independent social review when the -20 intention penalty applies.
 - Treat Paranoia as a trigger for review and limits on surveillance or excessive precautions.
 - Treat Loyalty as a relationship vulnerability requiring ethical responsibility.
+
+## Lernaean Hydra blood doctrine
+
+Demidius's two doses of Lernaean Hydra blood are a catastrophic-hazard reserve, not routine weapon poison. Keep the doses separately sealed and tracked. Before opening one, confirm the target, delivery method, relevant immunities, accidental-exposure response, and whether the mission justifies consuming an irreplaceable resource. The supplied mechanics are recorded in [Consumables and Limited Resources](../codex/CONSUMABLES.md).

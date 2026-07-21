@@ -26,7 +26,7 @@ A purpose-built library can reasonably provide a circumstance bonus, with publis
 - **Key of Daedalus:** prioritize planar routing, access limits, hostile interception, and emergency closure.
 - **Scepter of Keto:** prioritize navigation-curse bypass, component interactions, range, and countermeasures.
 - **Deck of Many Things:** preserve as an untouched high-risk reserve until its exact deck and safeguards are known.
+- **The Mother's Lament:** establish manuscript provenance, surviving copies, textual alterations, magical protections, present ban enforcement, and whether reading or circulation produces divine consequences.
 - **New acquisitions:** do not treat *identify* or *analyze dweomer* as a complete mechanical disclosure.
 
 **Source:** *Artifacts & Legends* (PZO9250), PDF pp. 6–7 / printed pp. 4–5.
-

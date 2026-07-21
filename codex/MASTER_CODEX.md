@@ -29,6 +29,7 @@ Start here: [The Five Pillars of Demidius](01_PILLARS_OF_DEMIDIUS.md)
 - [Fatal Flaws](../appendices/fatal_flaws.md)
 - [Artifact Compendium](ARTIFACT_COMPENDIUM.md)
 - [Artifact Research Protocol](ARTIFACT_RESEARCH_PROTOCOL.md)
+- [Consumables and Limited Resources](CONSUMABLES.md)
 - [d20PFSRD Optimization Update](D20PFSRD_OPTIMIZATION_UPDATE.md)
 
 ## Verification Legend

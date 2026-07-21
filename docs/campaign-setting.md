@@ -80,7 +80,9 @@ Misthold is the supplied name for a cloud-covered archipelago or region and for 
 
 ## Fel
 
-Fel is a lawful-evil primordial dragon from the Outer Realms, aligned with the Lords of Order and associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival is one candidate for the event defining year 0 P.A. Fel's appearance, abilities, purpose in Zatera, and role in the divine schism remain unrecorded.
+The Lords of Order have four primary gods organized through elemental lordships: Zeus, Lord of the Air; Hera, Lord of the Sea; Fel, Lord of the Underworld; and Alexander, Lord of the Earth. Fel is a lawful-evil primordial blue dragon from the Outer Realms, associated with Magic, Death, Knowledge, and Scalykind. Fel's arrival is one candidate for the event defining year 0 P.A. Fel's appearance, abilities, purpose in Zatera, and role in the divine schism remain incompletely recorded.
+
+Alexander is a primordial silver dragon. His mortal avatar, a half-celestial aasimar retaining the appearance Alexander had in mortal life, ruled as Emperor of Lodingen for hundreds of years. The chronology and political consequences of that reign remain to be documented.
 
 ## Open setting questions
 

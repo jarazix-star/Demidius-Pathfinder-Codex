@@ -76,6 +76,15 @@ Start with:
 - `database/roleplaying_game_shortlist.csv`
 - `database/source_registry_roleplaying_game.json`
 
+## Pathfinder Campaign folder review
+
+The 70-PDF `Pathfinder/Campaign` folder has been indexed at page level and compared by SHA-256 against the earlier setting library. Forty-nine files are exact duplicates and 21 are distinct files receiving focused review.
+
+- `research/parsed_books/paizo_campaign_folder/CONTENT_LEVEL_REVIEW.md`
+- `research/parsed_books/paizo_campaign_folder/SOURCE_CATALOG.csv`
+- `database/campaign_folder_shortlist.csv`
+- `database/source_registry_campaign_folder.json`
+
 
 ## v3.3 extraction
 

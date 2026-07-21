@@ -54,6 +54,10 @@ Among the Tagata Fetu, Demidius learned spirit and tribal magic through their ju
 
 Philomela revealed that she had hidden the craft that originally carried her to the island and gave Demidius what knowledge she possessed about some of his kin. Demidius departed ten years before the present account. Since then, charm and wit have protected him more often than his blade. He recently recovered a long-lost vessel that had vanished at sea a decade earlier and continues searching the Isles for Siopi, Paradox, and other unknown siblings while the Godclaw remains a threat. The backstory does not explicitly identify the recovered vessel as the Dawnrunner.
 
+### Godclaw capability assessment
+
+Published Order of the Godclaw oracles can draw obedience benefits from several gods and may gain instant heavy armor, coercive commands, saving-throw rerolls, and defensive revelations. This does not establish the build of Demidius's actual pursuers, but it supports preparing for armored divine casters with mixed portfolios rather than a single predictable patron. See [Godclaw Enemy Profile](../codex/recommendations/godclaw_enemy_profile.md).
+
 ## Family
 
 Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuccino*, is Demidius's paternal half-sister: both are children of Pirate King Smokey Roberts. The history of their relationship has not yet been recorded.

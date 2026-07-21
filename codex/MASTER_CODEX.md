@@ -253,6 +253,7 @@ Immediate-action counterspell using an identified spell and a slot of sufficient
 - [Planar and Tartarus Operations](PLANAR_OPERATIONS.md)
 - [Chronicles & Campaign Setting Content Review](../research/parsed_books/paizo_chronicles_campaign_setting/CONTENT_LEVEL_REVIEW.md)
 - [Pathfinder Roleplaying Game Content Review](../research/parsed_books/paizo_roleplaying_game/CONTENT_LEVEL_REVIEW.md)
+- [Pathfinder Campaign Folder Content Review](../research/parsed_books/paizo_campaign_folder/CONTENT_LEVEL_REVIEW.md)
 - [House Rules](HOUSE_RULES.md)
 - [Synergy Matrix](SYNERGY_MATRIX.md)
 - [Alphabetical Option Index](OPTION_INDEX.md)

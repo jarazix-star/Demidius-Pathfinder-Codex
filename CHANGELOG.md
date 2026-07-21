@@ -1,5 +1,12 @@
 # Change Log
 
+## Pathfinder Campaign folder content-level review
+
+- Indexed all 70 PDFs and 5,315 pages in the available `Pathfinder/Campaign` folder after recording that the requested `Campaign Setting` path does not exist.
+- Identified 49 exact duplicates of the earlier setting corpus and focused substantive review on 21 distinct files.
+- Added Godclaw enemy capabilities, masked-persona operations, counter-divination rooms, underwater mission rules, and elemental-plane fallback research.
+- Added a 15-entry shortlist, complete overlap registry, portable catalog, and four operational recommendation pages.
+
 ## Chronicles & Campaign Setting second-pass extraction
 
 - Audited the existing 76-book, 5,705-page index against the unchanged source folder rather than duplicating extraction.

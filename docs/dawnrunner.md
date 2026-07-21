@@ -62,6 +62,12 @@ If the GM adopts skill unlocks, Signature Skill with 10 ranks in Profession (sai
 
 Demidius should take *wandering weather* as soon as possible. Its ability to provide favorable mobile weather could tremendously increase the Dawnrunner's speed and therefore improve voyage time, pursuit, escape, and strategic response. The spell's source, exact mechanics, and interaction with the campaign's ship-speed rules still need to be verified before a numerical speed is recorded.
 
+## Submerged operations
+
+Before underwater boarding, salvage, or ruin exploration, confirm the campaign's handling of breath and verbal components, underwater weather and cloud magic, fire-to-steam conversion, cold, electricity, invisible displacement, and Perception. Recommended mission stores include pressure-stabilization magic and sureseal potion containers; *invisibility bubble* is the leading covert approach because it hides displaced water.
+
+**Published reference:** *Aquatic Adventures*, PDF pp. 48-49, 52, and 58-63 / printed pp. 46-47, 50, and 56-61.
+
 ## Optional fleet bookkeeping
 
 *Ships of the Inner Sea* summarizes the Skull & Shackles abstraction in which one point of plunder represents approximately 1,000 gp and one ton of valuable cargo. It could simplify prize and cargo accounting for the Dawnrunner and Matcha Frappuccino, but it is not an adopted campaign rule unless the GM approves it.

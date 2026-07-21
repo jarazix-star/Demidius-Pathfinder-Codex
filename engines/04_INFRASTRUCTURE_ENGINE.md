@@ -31,3 +31,9 @@ If the GM adopts the downtime subsystem, *Ultimate Campaign* provides ready-made
 This is an optional campaign-management layer, not a current rule. The campaign's recorded ship, follower, and wealth rules remain authoritative.
 
 **Source:** *Ultimate Campaign* (PZO1125), PDF pp. 77-114; Waterfront and Sailors at PDF p. 114 / printed p. 113, Magical Repository at PDF p. 100 / printed p. 99, and Hospital at PDF p. 111 / printed p. 110.
+
+## Counter-divination construction
+
+A superior secrecy-rune room is the leading published model for Sounon's strategic command chamber or a Key of Daedalus staging room. It blocks sound and divinations through 7th level even while doors are open. A lead-lined vault is cheaper and blocks broader divination when fully closed, but is airtight and fails if its enclosure is broken.
+
+These structures do not automatically defeat mythic, divine, artifact, or higher-level surveillance. See [Counter-Divination Rooms](../codex/recommendations/counter_divination_rooms.md).

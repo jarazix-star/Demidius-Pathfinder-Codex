@@ -31,6 +31,8 @@ Magical Supremacy is the broader successor to the Dispel Engine. It covers dispe
 
 See the dedicated recommendation pages for costs, slots, and verification boundaries.
 
+Scrutinize Spell from *Path of the Hellknight* can add Demidius's Charisma modifier to later Spellcraft checks to identify spells from a caster's known class list. It improves counterspell decision quality, not the actual caster-level check, and is worth considering only if identification failures remain a practical bottleneck.
+
 ## Highest-value boot uses
 
 - Quicken mythic greater dispel magic and retain the normal action for control.

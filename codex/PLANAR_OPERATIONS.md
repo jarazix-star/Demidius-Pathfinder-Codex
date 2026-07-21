@@ -10,6 +10,12 @@ The occult ritual *call beyond the veil* may be able to contact Aristea in Tarta
 
 **Source:** *Occult Adventures* (PZO1132), PDF pp. 211-212 / printed pp. 210-211. See [Call Beyond the Veil](recommendations/call_beyond_the_veil.md).
 
+### Elemental-plane fallback package
+
+The planefarer's band provides environment-specific movement or survival on the four Elemental Planes. *Janni's jaunt* transports willing targets only among the Material, Astral, and Elemental Planes. Both are useful for elemental missions, but neither reaches Tartarus and the Key of Daedalus is generally superior for previously visited destinations.
+
+**Source:** *Planes of Power* (PZO9295), PDF p. 11 / printed p. 9.
+
 ## Recommended temporary planar package
 
 - Planar Scholar: portals, planar codes, entry bonuses, divination reliability, plane shift accuracy.

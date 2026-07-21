@@ -15,3 +15,7 @@ Seven-Pipped Gem is not an artifact; it is indexed under divine abilities.
 | Deck of Many Things | Untouched | High-risk strategic reserve | [Entry](../systems/artifacts/DECK_OF_MANY_THINGS.md) |
 | Hermes's Boots of Speed | Active | Free-action quickening and DC amplification | [Entry](../systems/artifacts/HERMES_BOOTS_OF_SPEED.md) |
 | Glasses of Beaumont | Active | Alignment and true-seeing information superiority | [Entry](../systems/artifacts/GLASSES_OF_BEAUMONT.md) |
+
+## Research standard
+
+Use the [Artifact Research Protocol](ARTIFACT_RESEARCH_PROTOCOL.md) before treating a newly recovered artifact as fully understood. Field observations, researched history, confirmed mechanics, and unresolved risks should remain separate in every artifact entry.

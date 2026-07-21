@@ -4,6 +4,7 @@ This file prevents archive/catalog access from being mistaken for content-level 
 
 | Source | Publisher | Evidence level | Completed work | Next action |
 |---|---|---|---|---|
+| Pathfinder Chronicles & Campaign Setting library | Paizo | Complete page-aware corpus index plus focused contextual review | 76 PDFs / 5,705 pages indexed; divine advancement, naval operations, artifacts, planar security, anti-unluck defenses, infrastructure, and Isles material evaluated | Obtain Demidius's current Profession (sailor) modifier; resolve post-20 Evangelist access; build custom deity obedience packages only if the GM adopts that separate subsystem. |
 | Epic Spell Compendium Second Pass | Campaign homebrew | Complete structured transcription with flagged ambiguities | 78 level-list entries consolidated into 58 unique level 10-11 spell records; Markdown, CSV, JSON, wiki, and source archive added | Resolve the divine duration of Epic Particulate Form and the two-save wording of Epic Finger of Death with the GM. |
 | Pathfinder RPG Mythic Adventures | Paizo | Complete full-text index | Official baseline; all 258 pages indexed | Cross-check final character sheet and current mythic selections. |
 | Mythic Hero's Handbook | Legendary Games | Focused extraction | High-relevance feats, path abilities, leadership, luck and dispel options | Oracle-specific class feature audit and broader path review. |

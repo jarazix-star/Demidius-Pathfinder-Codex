@@ -42,9 +42,19 @@ The workbook also records fourteen one-eighth-share petty officers and fifteen g
 
 The workbook's rules derive Armor Class and saves from Profession (sailor), with additional penalties when operating below minimum crew. Current totals require Demidius's present modifier and the present staffing level. The recorded laboratory, two Lightweight upgrades, Magic Swiftness, Gatling Lightning Ballista, sixteen light ballistae, two standard catapults, and five heavy ballistae are also a dated snapshot that should be checked against current play.
 
+This priority is supported by *Ships of the Inner Sea*, which assumes the most skilled sailor—normally the captain—makes required sailing checks and incorporates the captain's statistics into a ship's listed initiative, Armor Class, and saving throws. That published convention validates recalculating the Dawnrunner around Demidius, but the campaign workbook remains authoritative for the actual formulas.
+
+The same source describes a galleon as a durable, heavily armed merchant or warship with high forecastles and sterncastles, square-rigged fore and main masts, and a lateen-rigged mizzen. This is a useful visual and operational analog for the Dawnrunner, not a replacement stat block.
+
+**Published reference:** *Ships of the Inner Sea* (PZO9274), PDF pp. 5 and 7 / printed pp. 3 and 5.
+
 ## Priority magical support
 
 Demidius should take *wandering weather* as soon as possible. Its ability to provide favorable mobile weather could tremendously increase the Dawnrunner's speed and therefore improve voyage time, pursuit, escape, and strategic response. The spell's source, exact mechanics, and interaction with the campaign's ship-speed rules still need to be verified before a numerical speed is recorded.
+
+## Optional fleet bookkeeping
+
+*Ships of the Inner Sea* summarizes the Skull & Shackles abstraction in which one point of plunder represents approximately 1,000 gp and one ton of valuable cargo. It could simplify prize and cargo accounting for the Dawnrunner and Matcha Frappuccino, but it is not an adopted campaign rule unless the GM approves it.
 
 ## Source reconciliation
 

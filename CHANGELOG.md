@@ -1,5 +1,15 @@
 # Change Log
 
+## Chronicles & Campaign Setting content-level review
+
+- Indexed all 76 PDFs in the Paizo Chronicles & Campaign Setting library at page level: 5,705 PDF pages, 5,630 text-bearing pages, and 23,946,060 extracted characters.
+- Added a complete portable source registry and catalog plus an 18-entry decision shortlist with exact PDF-page citations.
+- Identified Evangelist as Demidius's strongest conditional post-20 prestige-class lead and documented the separate published framework for custom deity obediences.
+- Added source-backed options for Spellscar dispel revelations, Riftwarden planar security, and Iroran Paladin anti-unluck auras without assuming legal character access.
+- Added an Artifact Research Protocol based on *Artifacts & Legends*.
+- Expanded the Dawnrunner record with captain-derived ship-stat guidance, a galleon reference, and an optional plunder bookkeeping model.
+- Preserved the campaign's Boon, Blessed, Champion, mythic, ship, and setting rules as authoritative over imported Golarion systems.
+
 ## Demidius becomes Blessed of Hermes
 
 - Recorded that Demidius completed two trials for Hermes and is Blessed of Hermes.

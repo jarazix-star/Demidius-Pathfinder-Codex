@@ -54,6 +54,17 @@ This repository contains original analysis, ratings, summaries, source names, an
 
 Four Advanced Options books have received complete content-level extraction. See `research/parsed_books/super_genius_games/advanced_options/` and `database/super_genius_advanced_options.csv`.
 
+## Pathfinder Chronicles & Campaign Setting review
+
+The 76-book Paizo Chronicles & Campaign Setting library has been indexed at page level and reviewed for Demidius, the fleet, divine systems, artifacts, planar operations, and Isles of Berres inspiration.
+
+Start with:
+
+- `research/parsed_books/paizo_chronicles_campaign_setting/CONTENT_LEVEL_REVIEW.md`
+- `research/parsed_books/paizo_chronicles_campaign_setting/SOURCE_CATALOG.csv`
+- `database/chronicles_campaign_setting_shortlist.csv`
+- `database/source_registry_chronicles_campaign_setting.json`
+
 
 ## v3.3 extraction
 

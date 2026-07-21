@@ -1,0 +1,773 @@
+{
+  "collection": "Pathfinder Chronicles & Campaign Setting",
+  "publisher": "Paizo",
+  "extraction_date": "2026-07-21",
+  "evidence_level": "Complete page-aware text index; focused contextual review of high-value passages",
+  "book_count": 76,
+  "total_pdf_pages": 5705,
+  "pages_with_text": 5630,
+  "characters_extracted": 23946060,
+  "scope_note": "Extracted page text remains in local tmp research storage and is not redistributed.",
+  "books": [
+    {
+      "product_code": "PZO1105",
+      "title": "Gazetteer",
+      "filename": "PZO1105 Gazetteer.pdf",
+      "pdf_pages": 69,
+      "pages_with_text": 69,
+      "characters_extracted": 314412,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO1106",
+      "title": "Guide to Korvosa",
+      "filename": "PZO1106 Guide to Korvosa.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 326391,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO1107",
+      "title": "Classic Monsters Revisited",
+      "filename": "PZO1107 Classic Monsters Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 274442,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO1108",
+      "title": "Guide to Darkmoon Vale",
+      "filename": "PZO1108 Guide to Darkmoon Vale.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 298934,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO1111",
+      "title": "Campaign Setting",
+      "filename": "PZO1111 Campaign Setting.pdf",
+      "pdf_pages": 261,
+      "pages_with_text": 259,
+      "characters_extracted": 1199188,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9202",
+      "title": "Gods and Magic",
+      "filename": "PZO9202 Gods and Magic.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 299147,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9204",
+      "title": "Into the Darklands",
+      "filename": "PZO9204 Into the Darklands.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 286360,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9205",
+      "title": "Guide to Absalom",
+      "filename": "PZO9205 Guide to Absalom.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 318169,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9207",
+      "title": "Dragons Revisited",
+      "filename": "PZO9207 Dragons Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 290618,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9208",
+      "title": "Dark Markets, a Guide to Katapesh",
+      "filename": "PZO9208 Dark Markets, a Guide to Katapesh.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 295403,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9209",
+      "title": "The Great Beyond - A Guide to the Multiverse",
+      "filename": "PZO9209 The Great Beyond - A Guide to the Multiverse.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 66,
+      "characters_extracted": 300686,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9210",
+      "title": "Dungeon Denizens Revisited",
+      "filename": "PZO9210 Dungeon Denizens Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 277090,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9211",
+      "title": "Seekers of Secrets",
+      "filename": "PZO9211 Seekers of Secrets.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 296198,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9213",
+      "title": "Book of the Damned, Vol. 1 - Princes of Darkness",
+      "filename": "PZO9213 Book of the Damned, Vol. 1 - Princes of Darkness.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 289666,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9214",
+      "title": "Cities Of Golarion",
+      "filename": "PZO9214 Cities Of Golarion.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 294666,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9215",
+      "title": "City Map Folio",
+      "filename": "PZO9215 City Map Folio.pdf",
+      "pdf_pages": 8,
+      "pages_with_text": 8,
+      "characters_extracted": 1904,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9216",
+      "title": "Classic Horrors Revisited",
+      "filename": "PZO9216 Classic Horrors Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 292617,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9217",
+      "title": "Guide to the River Kingdoms",
+      "filename": "PZO9217 Guide to the River Kingdoms.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 311145,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9219",
+      "title": "NPC Guide",
+      "filename": "PZO9219 NPC Guide.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 284615,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9220",
+      "title": "Classic Treasures Revisited",
+      "filename": "PZO9220 Classic Treasures Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 294676,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9221",
+      "title": "Faction Guide",
+      "filename": "PZO9221 Faction Guide.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 298436,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9222",
+      "title": "Heart of the Jungle",
+      "filename": "PZO9222 Heart of the Jungle.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 66,
+      "characters_extracted": 303098,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9223",
+      "title": "City of Strangers",
+      "filename": "PZO9223 City of Strangers.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 66,
+      "characters_extracted": 313289,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9225",
+      "title": "Book of the Damned, Vol. 2 - Lords of Chaos",
+      "filename": "PZO9225 Book of the Damned, Vol. 2 - Lords of Chaos.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 278662,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9226",
+      "title": "Inner Sea World Guide",
+      "filename": "PZO9226 Inner Sea World Guide.pdf",
+      "pdf_pages": 77,
+      "pages_with_text": 75,
+      "characters_extracted": 297401,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9227",
+      "title": "Misfit Monsters Redeemed",
+      "filename": "PZO9227 Misfit Monsters Redeemed.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 290915,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9228",
+      "title": "Inner Sea Poster Map Folio",
+      "filename": "PZO9228 Inner Sea Poster Map Folio.pdf",
+      "pdf_pages": 6,
+      "pages_with_text": 6,
+      "characters_extracted": 124528,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9229",
+      "title": "Lost Cities of Golarion",
+      "filename": "PZO9229 Lost Cities of Golarion.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 281171,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9231",
+      "title": "Rule of Fear",
+      "filename": "PZO9231 Rule of Fear.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 290585,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9232",
+      "title": "Rival Guide",
+      "filename": "PZO9232 Rival Guide.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 256027,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9233",
+      "title": "Undead Revisited",
+      "filename": "PZO9233 Undead Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 284261,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9234",
+      "title": "Dungeons of Golarion",
+      "filename": "PZO9234 Dungeons of Golarion.pdf",
+      "pdf_pages": 67,
+      "pages_with_text": 67,
+      "characters_extracted": 252269,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9235",
+      "title": "Pathfinder Society Field Guide",
+      "filename": "PZO9235 Pathfinder Society Field Guide.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 288302,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9237",
+      "title": "Inner Sea Magic",
+      "filename": "PZO9237 Inner Sea Magic.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 268871,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9238",
+      "title": "Lands of the Linnorm Kings",
+      "filename": "PZO9238 Lands of the Linnorm Kings.pdf",
+      "pdf_pages": 67,
+      "pages_with_text": 67,
+      "characters_extracted": 253628,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9239",
+      "title": "Book of the Damned, Vol. 3 - Horsemen of the Apocalypse",
+      "filename": "PZO9239 Book of the Damned, Vol. 3 - Horsemen of the Apocalypse.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 278879,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9240",
+      "title": "Dragon Empires Gazetteer",
+      "filename": "PZO9240 Dragon Empires Gazetteer.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 301573,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9241",
+      "title": "Mythical Monsters Revisited",
+      "filename": "PZO9241 Mythical Monsters Revisited.pdf",
+      "pdf_pages": 67,
+      "pages_with_text": 67,
+      "characters_extracted": 271473,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9243",
+      "title": "Distant Worlds",
+      "filename": "PZO9243 Distant Worlds.pdf",
+      "pdf_pages": 67,
+      "pages_with_text": 66,
+      "characters_extracted": 277266,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9244",
+      "title": "Isles of the Shackles",
+      "filename": "PZO9244 Isles of the Shackles.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 282017,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9245",
+      "title": "Giants Revisited",
+      "filename": "PZO9245 Giants Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 269245,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9246",
+      "title": "Lost Kingdoms",
+      "filename": "PZO9246 Lost Kingdoms.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 276006,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9248",
+      "title": "Magnimar, City of Monuments",
+      "filename": "PZO9248 Magnimar, City of Monuments.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 253956,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9249",
+      "title": "Paths of Prestige",
+      "filename": "PZO9249 Paths of Prestige.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 253591,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9250",
+      "title": "Artifacts & Legends",
+      "filename": "PZO9250 Artifacts & Legends.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 300432,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9251",
+      "title": "Inner Sea Bestiary",
+      "filename": "PZO9251 Inner Sea Bestiary.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 66,
+      "characters_extracted": 254034,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9252",
+      "title": "Mystery Monsters Revisited",
+      "filename": "PZO9252 Mystery Monsters Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 66,
+      "characters_extracted": 273993,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9253",
+      "title": "Irrisen - Land of Eternal Winter",
+      "filename": "PZO9253 Irrisen - Land of Eternal Winter.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 265831,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9255",
+      "title": "Chronicle of the Righteous",
+      "filename": "PZO9255 Chronicle of the Righteous.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 280636,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9256",
+      "title": "Fey Revisited",
+      "filename": "PZO9256 Fey Revisited.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 278136,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9257",
+      "title": "Castles of the Inner Sea",
+      "filename": "PZO9257 Castles of the Inner Sea.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 250471,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9258",
+      "title": "Dragons Unleashed",
+      "filename": "PZO9258 Dragons Unleashed.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 273903,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9259",
+      "title": "The Worldwound",
+      "filename": "PZO9259 The Worldwound.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 289209,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9261",
+      "title": "Demons Revisted",
+      "filename": "PZO9261 Demons Revisted.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 276279,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9262",
+      "title": "Mythic Realms",
+      "filename": "PZO9262 Mythic Realms.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 282888,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9263",
+      "title": "Towns of the Inner Sea",
+      "filename": "PZO9263 Towns of the Inner Sea.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 52,
+      "characters_extracted": 268978,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9264",
+      "title": "Inner Sea NPC Codex",
+      "filename": "PZO9264 Inner Sea NPC Codex.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 241164,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9265",
+      "title": "Osirion, Legacy of Pharaohs",
+      "filename": "PZO9265 Osirion, Legacy of Pharaohs.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 288160,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9267",
+      "title": "Inner Sea Gods",
+      "filename": "PZO9267 Inner Sea Gods.pdf",
+      "pdf_pages": 338,
+      "pages_with_text": 336,
+      "characters_extracted": 1405629,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9268",
+      "title": "Inner Sea Combat",
+      "filename": "PZO9268 Inner Sea Combat.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 306883,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9269",
+      "title": "Occult Mysteries",
+      "filename": "PZO9269 Occult Mysteries.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 300851,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9270",
+      "title": "Numeria, Land of Fallen Stars",
+      "filename": "PZO9270 Numeria, Land of Fallen Stars.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 280525,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9272",
+      "title": "Technology Guide",
+      "filename": "PZO9272 Technology Guide.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 305569,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9273",
+      "title": "Undead Unleashed",
+      "filename": "PZO9273 Undead Unleashed.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 269948,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9274",
+      "title": "Ships of the Inner Sea",
+      "filename": "PZO9274 Ships of the Inner Sea.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 228526,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9275",
+      "title": "Lost Treasures",
+      "filename": "PZO9275 Lost Treasures.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 323206,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9276",
+      "title": "Belkzen, Hold of the Orc Hordes",
+      "filename": "PZO9276 Belkzen, Hold of the Orc Hordes.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 66,
+      "characters_extracted": 279049,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9278",
+      "title": "Tombs of Golarion",
+      "filename": "PZO9278 Tombs of Golarion.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 68,
+      "characters_extracted": 251529,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9279",
+      "title": "Andoran, Birthplace of Freedom",
+      "filename": "PZO9279 Andoran, Birthplace of Freedom.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 271681,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9280",
+      "title": "Inner Sea Races",
+      "filename": "PZO9280 Inner Sea Races.pdf",
+      "pdf_pages": 258,
+      "pages_with_text": 254,
+      "characters_extracted": 1142924,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9281",
+      "title": "Hell Unleashed",
+      "filename": "PZO9281 Hell Unleashed.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 289006,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9283",
+      "title": "Inner Sea Monster Codex",
+      "filename": "PZO9283 Inner Sea Monster Codex.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 237326,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9284",
+      "title": "Occult Bestiary",
+      "filename": "PZO9284 Occult Bestiary.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 284865,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9285",
+      "title": "Distant Shores",
+      "filename": "PZO9285 Distant Shores.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 251609,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9286",
+      "title": "Occult Realms",
+      "filename": "PZO9286 Occult Realms.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 302226,
+      "status": "content-indexed",
+      "error": null
+    },
+    {
+      "product_code": "PZO9287",
+      "title": "Cheliax, The Infernal Empire",
+      "filename": "PZO9287 Cheliax, The Infernal Empire.pdf",
+      "pdf_pages": 68,
+      "pages_with_text": 67,
+      "characters_extracted": 298818,
+      "status": "content-indexed",
+      "error": null
+    }
+  ]
+}

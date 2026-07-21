@@ -28,6 +28,7 @@ Start here: [The Five Pillars of Demidius](01_PILLARS_OF_DEMIDIUS.md)
 - [Campaign Rules](../appendices/campaign-rules.md)
 - [Fatal Flaws](../appendices/fatal_flaws.md)
 - [Artifact Compendium](ARTIFACT_COMPENDIUM.md)
+- [Artifact Research Protocol](ARTIFACT_RESEARCH_PROTOCOL.md)
 
 ## Verification Legend
 
@@ -250,6 +251,7 @@ Immediate-action counterspell using an identified spell and a slot of sufficient
 - [Enchantment and Mental Defenses](ENCHANTMENT_ENGINE.md)
 - [Leadership and Dawnrunner](LEADERSHIP_ENGINE.md)
 - [Planar and Tartarus Operations](PLANAR_OPERATIONS.md)
+- [Chronicles & Campaign Setting Content Review](../research/parsed_books/paizo_chronicles_campaign_setting/CONTENT_LEVEL_REVIEW.md)
 - [House Rules](HOUSE_RULES.md)
 - [Synergy Matrix](SYNERGY_MATRIX.md)
 - [Alphabetical Option Index](OPTION_INDEX.md)

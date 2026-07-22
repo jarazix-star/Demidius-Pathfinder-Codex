@@ -24,6 +24,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | The Dawnrunner, its officers, and named crew | [Dawnrunner](dawnrunner.md) |
 | His divine gifts and dangerous relics | [Artifacts and Divine Gifts](artifacts-and-gifts.md) |
 | The people, gods, and places in the record | [People and Places](people-and-places.md) |
+| The illustrated Greek gods, Titans, and primordial powers | [Greek Mythology](../Demidius-Pathfinder-Codex.wiki/Greek-Mythology.md) |
 | The strategy behind the build | [The Five Pillars](../codex/01_PILLARS_OF_DEMIDIUS.md) |
 | Precise table rulings | [Campaign Rules](../appendices/campaign-rules.md) |
 | The campaign's 10th- and 11th-level spells | [Epic Spells](../reference/spells/EPIC_SPELL_COMPENDIUM.md) |
@@ -85,4 +86,4 @@ The repository distinguishes established fact from recommendation:
 - **GM Review** — a new application or edge case still needs adjudication.
 - **Pending** — identified but not fully verified.
 
-Artwork in this wiki is interpretive illustration. It supports the setting but does not establish new campaign facts.
+Artwork in this wiki is interpretive illustration. It supports the setting but does not establish new campaign facts. Every figure indexed on the Greek Mythology page has an individual campaign portrait; historical artwork links remain reference material rather than character canon.

@@ -1,5 +1,13 @@
 # Change Log
 
+## Complete Greek Divine Portrait Pass — 2026-07-22
+
+- Replaced the remaining historical and shared-collage images on Greek divine, Titan, primordial, and mythic-power wiki pages with original campaign portraits.
+- Added 40 new high-contrast mythic action-game portraits, including dedicated treatments for Keto, the Fates, the Furies, and primordial Eros.
+- Confirmed that every divine or supernatural figure indexed from the Greek Mythology page now has an individual *The Arrival* portrait.
+- Updated artwork-source notes across the divine pages while retaining historical links as mythology references.
+- Preserved the superseded Athena draft as an intentionally unpublished local file.
+
 ## Maarin's first Dark Prophecy — 2026-07-21
 
 - Recorded the full first vision caused by Maarin's Dark Prophecy Fatal Flaw.

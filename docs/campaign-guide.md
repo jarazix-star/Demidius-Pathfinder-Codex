@@ -1,10 +1,14 @@
 ---
 title: The Arrival — Campaign Guide
 status: reader-facing summary
-last_updated: 2026-07-15
+last_updated: 2026-07-22
 ---
 
 # The Arrival — Campaign Guide
+
+![The Dawnrunner and Matcha Frappuccino navigating the fractured seas of The Arrival](assets/scenes/campaign-guide-arrival-seascape.png)
+
+*The Dawnrunner and Matcha Frappuccino navigate the island labyrinth as the heavens fracture, the divine order changes, and Tartarus waits beneath the sea.*
 
 **The Arrival** takes place on Zatera in **150 P.A. (Post-Arrival)**, approximately one hundred years after the previous campaign. The calendar's Arrival may have been Fel's coming from the Outer Realms or Cronus's release; its origin remains disputed. The campaign combines Pathfinder 1e, mythic rules, compatible third-party material, custom divine progression, and advancement beyond level 20. See the [Campaign Setting](campaign-setting.md).
 

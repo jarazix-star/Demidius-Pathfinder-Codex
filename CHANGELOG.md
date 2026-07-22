@@ -1,5 +1,11 @@
 # Change Log
 
+## Distinct Campaign Guide artwork - 2026-07-22
+
+- Replaced the Campaign Guide's reused homepage party image with an original setting-focused panorama.
+- Depicted the Dawnrunner and Matcha Frappuccino navigating the Shipbreaker Sea beneath the fractured heavens, with the Wayfinder and Tartarus motifs anchoring the campaign's central conflicts.
+- Kept the homepage party ensemble unchanged so the two entry pages now have distinct visual identities.
+
 ## Philomela Thorne portrait and confirmed identity - 2026-07-22
 
 - Added a simple island-home portrait for Philomela using Demidius's established appearance as a family-resemblance reference.

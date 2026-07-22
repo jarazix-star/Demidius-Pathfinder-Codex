@@ -2,274 +2,376 @@
 
 ## Level 17-25 Optimization and Advancement Guide
 
-Version 1.0 - 22 July 2026
+Version 2.0 - 22 July 2026
 
 ### Executive recommendation
 
-Aristea should remain a Wizard-centered ray specialist, water-and-cold controller, shapeshifter, and primary item creator. Her distinctive damage engine is the campaign ruling that allows each ray to apply sneak attack together with Merciful Spell, Benthic Spell, Sap Adept, Sap Master, and the always-on Vital Strike-like artifact effect. Do not replace that engine with generic blaster advice.
+Aristea should finish Arcane Trickster before returning to Wizard. Her verified level-17 chassis is **Exploiter Wizard 9 / Crossblooded Wildblooded Sorcerer 1 / Arcane Trickster 7**, not Wizard 17. Arcane Trickster 8 immediately grants another sneak-attack die and advances her Wizard casting to 17th level, unlocking 9th-level spells. Arcane Trickster 9 adds Invisible Thief, and Arcane Trickster 10 adds another sneak-attack die plus Surprise Spells. No other ordinary three-level sequence advances her signature ray engine and full arcane casting this efficiently.
 
-Her immediate order is:
+The primary progression is:
 
-1. Release her soul from Tartarus and restore her before applying advancement choices.
-2. Reconstruct the actual level-17 sheet: school, archetype, mythic path/tier, feats, spells, items, ray routine, and Animal Lord template tier.
-3. Continue Wizard through 20 unless the existing sheet proves a multiclass or prestige commitment.
-4. Complete Spell Perfection (scorching ray), spell-resistance penetration, and ray-targeting support before buying secondary damage feats.
-5. Use mythic choices on Seeking Spell (Mythic), Piercing Spell (Mythic), Eldritch Breach, flexible arcane casting, and action economy.
-6. Preserve her unique crafting advantage: dwarven wizard favored-class acceleration plus the three-times-speed demiplane.
-7. Adapt Nereus's Deific Obedience from printed Gozreh boons rather than inventing benefits above the printed power ceiling.
+1. **Level 18: Arcane Trickster 8.** Gain 9th-level Wizard spells and raise total sneak attack, including the artifact, from 11d6 to 12d6.
+2. **Level 19: Arcane Trickster 9.** Gain Invisible Thief and Tricky Spells 5/day. Take Quicken Spell unless a campaign feature already supplies it as a permanent feat.
+3. **Level 20: Arcane Trickster 10.** Gain Surprise Spells and raise total sneak attack to 13d6.
+4. **Levels 21-25: return to Exploiter Wizard 10-14** unless the campaign has an approved epic Arcane Trickster table that continues both casting and sneak attack.
+5. Preserve the Benthic, Merciful, Sap Master, and multi-ray campaign engine while adding a dependable method of attacking genuinely flat-footed opponents.
+6. Treat all shark references on the Hero Lab sheet as placeholders for Aristea's canonical narwhal Animal Lord form.
 
-## Confirmed starting point
+This guide assumes Aristea is recovered from Tartarus before advancement is applied. Her rescue remains a narrative prerequisite, not a reason to postpone mechanical planning.
 
-| Category | Confirmed state at level 17 |
+## Verified level-17 build
+
+The current Hero Lab sheet supplied on 22 July 2026 establishes the following starting point.
+
+| Category | Current state |
 |---|---|
-| Class | Wizard 17 |
-| Ancestry | Elf |
-| Alignment | Neutral good |
-| Deity | Nereus |
-| Divine mantle | Animal Lord of the Tides; sacred narwhal form |
-| Party role | Damage specialist, item creator, shapeshifter, merchant-mage, navigator |
-| Magic themes | Water, cold, controlled transformation, dwarven runic structure |
-| Campaign crafting | Dwarven wizard favored-class acceleration and a three-times-speed demiplane |
-| Campaign combat | Special ray/sneak-attack interaction; Merciful and Benthic scorching ray; Sap Adept and Sap Master interaction |
-| Current status | Dead; body survived; soul imprisoned in Tartarus |
+| Character level | 17 |
+| Class split | Exploiter Wizard 9 / Crossblooded Wildblooded Sorcerer 1 / Arcane Trickster 7 |
+| Effective Wizard spellcasting | 16th level from Wizard 9 + Arcane Trickster 7 |
+| Highest Wizard spell level | 8th |
+| Race and template | Mythic half-elf Animal Lord; Hero Lab uses Shoreborn/shark as a narwhal placeholder |
+| Alignment and deity | Neutral good; devotee of Nereus |
+| Intelligence | 34 on the supplied sheet |
+| Signature spell | Scorching ray |
+| Listed sneak attack | +6d6 |
+| Artifact correction | Additional +5d6 sneak attack, for an actual current total of +11d6 |
+| Primary roles | Ray striker, water-and-cold controller, shapeshifter, healer, primary crafter, merchant-mage |
+| Campaign status | Dead with soul imprisoned in Tartarus; body survived |
 
-The records do not establish her school, archetype, mythic path/tier, exact feats, spellbook, items, or ability scores. Recommendations are therefore ordered queues, not claims about the current sheet.
+The sheet is displayed while Aristea is Huge and shows mature-adult bronze-dragon natural attacks, apparently reflecting an active transformation. Do not treat Strength 55, Huge size, dragon natural attacks, or similar displayed combat-form statistics as her unmodified body.
 
-## Recovery gate
+### Current feats and abilities that must not be recommended again
 
-No resurrection spell can restore Aristea while her soul remains imprisoned. The correct sequence is: locate the soul, reach Tartarus, break or bypass the prison, extract the soul, and only then use mythic resurrection, true resurrection, or the campaign's Perfect Resurrection. Build resources should not be spent on redundant resurrection attempts before extraction.
+The sheet already contains:
 
-## Recommended class progression
+- Benthic Spell
+- Empower Spell
+- Maximize Spell
+- Merciful Spell
+- Piercing Spell
+- Sap Adept
+- Sap Master
+- Spell Perfection (scorching ray)
+- Mythic Spell Lore
+- Mythic Crafter
+- Eldritch Heritage (Mythic)
+- Healer's Hands, Incredible Healer, Signature Skill (Heal)
+- Extra Arcanist Exploit
+- Arcane Builder (wondrous items)
+- Scribe Scroll
 
-### Primary track - published endpoint first
+It also lists free campaign implementations of Power Attack, Combat Expertise, and Deadly Aim. Do not spend future feat slots on any of these options.
 
-| Character level | Class level | Main gain and action |
+### Current casting and exploit package
+
+The sheet confirms an Arcane Reservoir, Quick Study, Bloodline Development, School Understanding, and other Exploiter Wizard functions. It also lists the Arcane and Shapechanger bloodline arcanas, Blood Havoc, Metamagic Adept, Mutable Flesh, and Arcane Apotheosis through her Sorcerer/bloodline package and supporting abilities.
+
+Her prepared spells already include heavily modified scorching rays, greater dispel magic, enervation, greater invisibility, particulate form, temporal divergence, greater teleport, form of the dragon III, moment of prescience, and temporal stasis. Advancement should broaden this functioning engine rather than rebuild it.
+
+## Canonical corrections to Hero Lab
+
+### Narwhal Animal Lord
+
+Hero Lab could not select narwhal and therefore prints shark-specific abilities such as Change Shape (Shark), Charm Animal (Sharks Only), and Speak with Animal (Sharks Only). Those entries are implementation placeholders, not campaign canon.
+
+Aristea's sacred form is a narwhal. Her established themes include arctic-sea endurance, a spiraled horn used as an arcane focus, calming lesser sea creatures, and sonar-like perception of disturbances in deep water. Exact mechanical substitutions for the shark abilities should be maintained on a manual adjustment sheet until the GM supplies a final narwhal stat block.
+
+### Artifact sneak attack
+
+Hero Lab displays Sneak Attack +6d6 but cannot represent the artifact's additional +5d6. All planning and damage calculations must therefore begin at **11d6**, not 6d6.
+
+The artifact's sneak-attack dice increase whenever an attack qualifies for sneak attack. They do not by themselves make an opponent eligible for sneak attack or flat-footed.
+
+### Campaign ray ruling
+
+The campaign allows Aristea's rays to apply sneak attack in the established manner. The guide calculates the signature routine using the campaign's multi-ray ruling rather than applying it generically to other characters.
+
+The Benthic/Merciful/Sap interaction is likewise a campaign ruling. Published Sap Adept and Sap Master refer to a bludgeoning weapon; the campaign treats the Benthic ray as qualifying. Preserve that distinction whenever the build is discussed outside this campaign.
+
+## Signature damage engine
+
+The intended attack is a Benthic, Merciful scorching ray against a flat-footed opponent, enhanced by Sap Adept, Sap Master, Spell Perfection, and selected metamagic.
+
+### Sneak-attack progression
+
+| Character level | Class | Listed/class sneak attack | Artifact | Actual total | Sap Master dice | Sap Adept bonus per qualifying attack |
+|---:|---|---:|---:|---:|---:|---:|
+| 17 | Arcane Trickster 7 | 6d6 | 5d6 | 11d6 | 22d6 | +11 |
+| 18 | Arcane Trickster 8 | 7d6 | 5d6 | 12d6 | 24d6 | +12 |
+| 19 | Arcane Trickster 9 | 7d6 | 5d6 | 12d6 | 24d6 | +12 |
+| 20 | Arcane Trickster 10 | 8d6 | 5d6 | 13d6 | 26d6 | +13 |
+
+With three qualifying rays and the campaign's multi-ray ruling, the sneak component alone becomes:
+
+| Level | Three-ray sneak component before normal spell damage |
+|---:|---:|
+| 17 | 66d6 + 33 nonlethal |
+| 18-19 | 72d6 + 36 nonlethal |
+| 20+ | 78d6 + 39 nonlethal |
+
+These totals exclude the rays' ordinary damage, Empower or Maximize effects, Blood Havoc, the artifact's separate Vital Strike-like effect, critical hits, vulnerability, and other bonuses. Recalculate from the table ruling before multiplying any component: sneak attack is not automatically multiplied by every effect that multiplies spell damage.
+
+### The flat-footed requirement
+
+Sap Master works only against a **flat-footed** opponent. Denying Dexterity to AC is not automatically the same condition.
+
+- An enemy that has not yet acted at the start of combat is normally flat-footed. Aristea's +41 initiative makes the opening volley her most reliable Sap Master window.
+- Greater invisibility and Arcane Trickster 9's Invisible Thief normally deny Dexterity to AC, allowing sneak attack, but do not by themselves make the target flat-footed.
+- Impromptu Sneak Attack removes the target's Dexterity bonus against one attack, but does not by itself create the flat-footed condition.
+- Arcane Trickster 10's Surprise Spells also requires flat-footed targets.
+
+If the GM has ruled that any of those effects counts as flat-footed in this campaign, record that ruling explicitly. Otherwise, invest in initiative, surprise, scouting, and a separate flat-footed enabler rather than assuming invisibility activates Sap Master.
+
+### Spell resistance and immunities
+
+Piercing Spell is already owned. The next reliability layer is Spell Penetration followed by Greater Spell Penetration, unless the campaign's expected enemies rarely possess spell resistance. Against nonlethal immunity, precision-damage immunity, concealment, spell turning, or effects that prevent sneak attack, Aristea must switch to control, dispelling, or an alternate damage routine.
+
+## Corrected class progression
+
+### Levels 18-20: finish Arcane Trickster
+
+| Character level | Class level | Casting | Class gain | Advancement decision |
+|---:|---|---|---|---|
+| 18 | Arcane Trickster 8 | Effective Wizard 17; unlock 9th-level spells | Sneak attack increases by +1d6 | Mandatory default choice |
+| 19 | Arcane Trickster 9 | Effective Wizard 18 | Invisible Thief; Tricky Spells 5/day | Finish the near-capstone progression |
+| 20 | Arcane Trickster 10 | Effective Wizard 19 | Sneak attack +1d6; Surprise Spells | Complete the prestige class |
+
+Arcane Trickster advances spell slots, caster level, and prepared Wizard spellcasting at every level. It does not advance Exploiter Wizard class features, but levels 8-10 are more valuable to this build than abandoning the prestige class three levels before its capstone.
+
+### Levels 21-25: published default
+
+If there is no approved epic Arcane Trickster continuation, return to Exploiter Wizard.
+
+| Character level | Class | Effective Wizard casting | Main gain or focus |
+|---:|---|---:|---|
+| 21 | Exploiter Wizard 10 | 20 | Wizard bonus feat; consolidate the core ray package |
+| 22 | Exploiter Wizard 11 | 21 | Continue caster-level and spellbook advancement under epic rules |
+| 23 | Exploiter Wizard 12 | 22 | Standard feat and infrastructure/control expansion |
+| 24 | Exploiter Wizard 13 | 23 | Gain the next Exploiter Wizard exploit if the archetype table applies normally |
+| 25 | Exploiter Wizard 14 | 24 | Standard feat; prepare for the campaign's level-10/11 spell thresholds |
+
+### Epic Arcane Trickster alternative
+
+Epic Arcane Trickster is preferable to Wizard 10-14 only if the approved table continues all three of the following:
+
+1. full Wizard spellcasting at every level;
+2. additional sneak-attack dice on a useful schedule; and
+3. meaningful improvements to Surprise Spells, Invisible Thief, or related trickster abilities.
+
+Do not invent Arcane Trickster 11+ by extrapolating the published ten-level table. Obtain the campaign's epic prestige-class progression first, compare it directly with Exploiter Wizard 10-14, and then replace levels 21-25 if it is superior.
+
+## Standard feat advancement
+
+Aristea receives normal character feats at levels 19, 21, 23, and 25. Exploiter Wizard 10 should also provide a Wizard bonus feat unless the campaign's archetype implementation changes that feature.
+
+### Recommended order
+
+| Opportunity | Default selection | Reason |
+|---|---|---|
+| Level 19 | Quicken Spell | Spell Perfection can apply Quicken to scorching ray without its normal slot increase; this creates exceptional action economy |
+| Level 21 | Spell Penetration | Doubles down on Piercing Spell and improves reliability against epic foes |
+| Wizard 10 bonus | Dazing Spell, Rime Spell, or another legal metamagic feat | Wizard bonus feats do not normally include Greater Spell Penetration; use this slot for control or another metamagic tool |
+| Level 23 | Greater Spell Penetration | Completes the core resistance package |
+| Level 25 | Seeking Spell, if approved, or an epic prerequisite | Counters concealment and cover, or qualifies for the chosen epic spell table |
+
+Quicken Spell is the largest correction to the old feat plan. Aristea owns Spell Perfection but not Quicken Spell. Once Quicken is acquired, she can use Spell Perfection to make it free on scorching ray and use Magical Lineage plus Wayang Spellhunter to absorb other metamagic costs. Prepare exact legal slot combinations on the final sheet instead of assuming every metamagic modifier is simultaneously free.
+
+### Conditional alternatives
+
+- **Spell Focus and Greater Spell Focus (evocation):** the sheet lists a Spell Focus Evocation item, not clearly the feat itself. Buy the feat only if the item does not satisfy prerequisites or cannot be relied upon.
+- **Craft feats:** Mythic Crafting Mastery may already let Aristea count as possessing the required item-creation feats. Do not spend feats on Craft Staff or Craft Wondrous Item until the exact ability text is checked.
+- **Improved Initiative:** normally excellent for Sap Master, but +41 initiative is already overwhelming. Take it only if equal-tier enemies routinely beat her initiative.
+- **Spell Specialization (scorching ray):** provides little damage after the spell has reached three rays; use it only if its doubled Spell Perfection interaction or caster-level checks are specifically valuable at the table.
+- **Rime Spell:** use with cold spells for battlefield control; it is not part of the Benthic scorching-ray damage core.
+
+## Mythic advancement
+
+### Verified existing mythic choices
+
+The current sheet lists:
+
+- Mythic Spell Lore
+- Mythic Crafter
+- Eldritch Heritage (Mythic)
+- Hard to Kill
+- Surge 1d6
+- Crafting Mastery
+- Idealize
+- Warlord Reborn
+- Superior Transformation
+
+The sheet does not provide a clean current tier/path summary, and campaign Mythic Tier is calculated from godly powers and unlocked mythic path powers. Reconcile these entries with the campaign formula before assigning the next tier.
+
+### Next path-power priorities
+
+| Priority | Ability | Purpose |
 |---:|---|---|
-| 17 | Wizard 17 | Current state. Reconstruct the sheet before changing anything. |
-| 18 | Wizard 18 | Expand 9th-level preparation and spellbook depth. Secure time stop, shapechange, and wish as available. |
-| 19 | Wizard 19 | Complete the first missing ray or spell-resistance feat. |
-| 20 | Wizard 20 | Take the Wizard bonus feat and preserve the published school/capstone endpoint. |
-| 21 | Epic Wizard 21 if defined | Continue spellbook, school, and familiar/bond advancement under the campaign epic table. |
-| 22 | Epic Wizard 22 | Advance the primary casting engine. |
-| 23 | Epic Wizard 23 | Add the next ray, control, or crafting feat. |
-| 24 | Epic Wizard 24 | Prepare for level-10/11 arcane spell access. |
-| 25 | Epic Wizard 25 | Add the final priority feat and complete the first epic spell package. |
+| 1 | Wild Arcana | Provides an unprepared arcane answer when the prepared list is wrong for the encounter |
+| 2 | Eldritch Breach | Rolls twice for spell resistance and dispel-related caster-level checks; ideal against mythic defenses |
+| 3 | Arcane Metamastery | Supplies situational metamagic without rebuilding daily preparation |
+| 4 | Channel Power | High-tier damage multiplier for a decisive ray or area spell |
+| 5 | Mythic Spellpower | Expands the mythic spell portfolio after reliability is established |
+| 6 | Arcanist's Escape or equivalent | Emergency extraction when grappled, pinned, entangled, or magically contained |
 
-### Fallback when epic Wizard is undefined
+Do not purchase an option already granted through the sheet's bloodline, artifact, or campaign mythic implementation. Action economy is especially important: verify whether a new power competes with Quicken Spell, Arcane Reservoir use, immediate defenses, or mythic expenditure.
 
-After Wizard 20, Evangelist of Nereus is the thematic fallback only if Aligned Class advances Wizard beyond 20. Character levels 21-25 become Evangelist 1-5, with Wizard advancement delayed at Evangelist 1 and resumed at Evangelist 2. Do not enter merely to accelerate Deific Obedience: a level-20 worshiper already reaches all three normal feat boons. Loremaster is the cleaner neutral fallback if it advances the table's epic spellcasting and Evangelist does not.
+### Next mythic-feat priorities
 
-## Standard feat plan
-
-### Preserve before retraining
-
-- Merciful Spell and Benthic Spell while the current scorching-ray engine remains legal.
-- Sap Adept and Sap Master while the campaign ruling continues to apply them to the ray routine.
-- Existing item-creation feats that define her role as primary crafter.
-- Any prerequisite feats supporting the always-on Vital Strike-like artifact effect.
-
-### Feat queue
-
-Aristea receives ordinary feats at levels 19, 21, 23, and 25, plus a Wizard bonus feat at level 20. At each opportunity, take the first legal missing option.
-
-| Priority | Standard feat | Function |
+| Priority | Mythic feat | Reason |
 |---:|---|---|
-| 1 | Spell Perfection - Scorching Ray | Removes metamagic cost from the signature ray and improves qualifying feat bonuses. Requires three metamagic feats and Spellcraft 15. |
-| 2 | Spell Focus - Evocation | Foundation for ray and cold DCs and a Rod of Spell Focusing upgrade. |
-| 3 | Greater Spell Focus - Evocation | Increases save pressure on cold and area evocations. |
-| 4 | Spell Penetration | Begins the spell-resistance package. |
-| 5 | Greater Spell Penetration | Necessary against epic and mythic resistance. |
-| 6 | Seeking Spell | Third-party prerequisite for the mythic ray-targeting upgrade; verify the selected source wording. |
-| 7 | Piercing Spell | Third-party metamagic prerequisite for the mythic spell-resistance upgrade. |
-| 8 | Rime Spell | Adds movement control to qualifying cold spells. |
-| 9 | Craft Staff | Core infrastructure feat if not already owned. |
-| 10 | Craft Tige Vierge | Super Genius Games option that front-loads staff construction and finishes the spell binding in one day; requires Int 17, CL 11, Craft Staff, and GM approval. |
+| 1 | Spell Penetration (Mythic) | Most direct improvement against mythic spell resistance after the base feat is taken |
+| 2 | Seeking Spell (Mythic), if approved | Improves the ranged-touch delivery system against cover and concealment |
+| 3 | Extra Mythic Power | Fuels flexible casting, penetration, emergency movement, and burst abilities |
+| 4 | Spell Focus (Mythic) - Evocation | Improves control and damaging evocations after touch accuracy and resistance are solved |
+| 5 | Rime Spell (Mythic), if approved | Adds flexible cold-based movement control |
 
-Recommended placement if the first five priorities are already satisfied: level 19 Seeking Spell, level 20 Wizard bonus feat Craft Staff, level 21 Piercing Spell, level 23 Rime Spell, and level 25 Craft Tige Vierge. If Spell Perfection or penetration is missing, those displace this schedule.
+Every purchased mythic feat also contributes one Mythic Power point under the campaign rules. Apply the escalating Boon cost for purchased mythic feats and do not count a feat twice if another feature grants it.
 
-## Mythic path ability order
+## Spendable Boons and Nereus
 
-Confirm Aristea's actual path before selecting. The following assumes Archmage access or approved universal/cross-path access.
+Deific Obedience boons and the campaign's spendable Boons are separate systems.
 
-| Priority | Mythic path ability | Function |
-|---:|---|---|
-| 1 | Wild Arcana | Flexible access to an arcane spell without preparation; best general Wizard surge. |
-| 2 | Eldritch Breach | Roll twice to overcome spell resistance and on dispel-related caster-level checks. |
-| 3 | Arcane Metamastery | Apply a needed metamagic feat without preparation or slot increase. |
-| 4 | Spell Dilation | Legendary Games option that reshapes area dimensions for water, ice, fog, wall, and battlefield-control spells. |
-| 5 | Wallbuilder | Strengthens and can relocate wall effects; ideal for wall of ice, wall of force, and shipboard partitions. |
-| 6 | Arcanist's Escape | Tier-6 emergency dimension door when grappled, pinned, or entangled; can bypass some nonmythic teleport blocks at high cost. |
-| 7 | Channel Power | High-tier damage amplifier for the one encounter where ray burst must end the threat immediately. |
-| 8 | Mythic Spellpower | Expand mythic spell flexibility after survival and penetration are secured. |
+### Spendable Boon order
 
-## Mythic feat order
+1. Confirm the current Animal Lord template tier and the exact manual narwhal replacement.
+2. Upgrade Animal Lord only if the next tier materially improves the narwhal form, spellcasting in transformed form, senses, or naval operations.
+3. Purchase Spell Penetration (Mythic) and Seeking Spell (Mythic) only after their base feats are secured and the escalating mythic-feat Boon cost is acceptable.
+4. Save five Boons for adoption by Nereus if Aristea wants Nereus as divine bloodline rather than only patron.
+5. Save another five for demigod status if adoption and campaign story support it.
+6. Treat Mortal God as a later ten-Boon objective.
 
-| Priority | Mythic feat | Prerequisite/check | Reason |
-|---:|---|---|---|
-| 1 | Mythic Spell Lore | Mythic spellcasting eligibility | Establishes a flexible mythic spell portfolio. |
-| 2 | Seeking Spell (Mythic) | Seeking Spell | Explicitly supports ranged attacks and ranged touch attacks and reduces cover problems. |
-| 3 | Piercing Spell (Mythic) | Piercing Spell | Substantially reduces effective spell resistance for damaging rays. |
-| 4 | Improved Initiative (Mythic) | Improved Initiative | Lets Aristea exploit a target immediately after Demidius strips its defenses. |
-| 5 | Spell Penetration (Mythic) | Spell Penetration | Additional reliability against mythic spell resistance. |
-| 6 | Rime Spell (Mythic) | Rime Spell | On-demand cold control and stronger movement denial. |
-| 7 | Extra Mythic Power | None beyond mythic status | Fuels Wild Arcana, Arcane Metamastery, Seeking, Piercing, and emergency movement. |
-| 8 | Spell Focus (Mythic) - Evocation | Spell Focus (evocation) | Best after touch accuracy and spell resistance are already solved. |
+Each new godly power is unusually efficient because it grants one Mythic Tier and two Mythic Power points under the campaign formula. Choose powers that improve spell access, action economy, water/cold control, transformation, or survivability before purchasing redundant raw damage.
 
-The current campaign gives one Mythic Power point for every mythic feat. Do not count a bought feat twice if another ability grants it as a bonus feat.
+### Deific Obedience direction
 
-## Deific Obedience - Nereus
+If Nereus lacks a dedicated printed obedience, use Gozreh's sea-oriented boons only as a power-ceiling model and obtain GM approval for the adaptation. Favor protection from energy, deep-water survival, weather or current control, and a greater water elemental ally. Do not count the Animal Lord template as an obedience boon unless the GM explicitly connects the systems.
 
-Deific Obedience boons are separate from spendable campaign Boons. Inner Sea Gods explicitly permits adapting boons for lesser or custom deities by borrowing same-level benefits from comparable gods.
+## Spell acquisition and preparation
 
-### Proposed obedience
+### Immediate 9th-level spellbook order at level 18
 
-Spend one hour beside open water or a vessel of natural seawater. Sound shell or driftwood chimes, trace a tidal rune in salt, recount one truth learned through patience, and return clean water to the sea. Use Gozreh's printed obedience power ceiling: a +4 sacred bonus on saving throws against electricity and water spells and effects for neutral-good Aristea.
+1. **Time stop:** establishes buffs, movement, walls, summons, and escape before enemies can respond.
+2. **Shapechange:** the best broad transformation tool and a natural extension of Aristea's identity.
+3. **Mass icy prison:** thematic, encounter-scale control when enemies are vulnerable to cold and restraint.
+4. **Wish:** emergency problem solving, recovery, and access to lower-level effects not prepared.
+5. **Mage's disjunction:** reserve answer to extreme magical defenses when destroying loot or allied magic is acceptable.
+6. **Foresight:** long-duration protection against being caught flat-footed and a strong defense on a high-value caster.
+7. **Teleportation circle:** strategic movement for the party, crews, and infrastructure.
 
-### Printed-model boon package
+Do not prepare only 9th-level attack spells. Aristea's perfected lower-level ray already supplies efficient damage; her highest slots should solve encounters that damage cannot.
 
-| Boon tier | Nereus adaptation | Printed model | Advice |
-|---:|---|---|---|
-| 1 | Weather Watcher | Gozreh, Evangelist 1 | Endure elements 3/day, resist energy 2/day, or protection from energy 1/day. Excellent expedition protection. |
-| 2 | Child of the Deep | Gozreh, Exalted 2 Lightning Child | Use the printed electricity resistance of 5 + Hit Dice. It supports sea travel without inventing a stronger benefit. |
-| 3 | Elemental Ally | Gozreh, Evangelist 3 | Summon a greater water elemental through the printed summon monster VII model. Strong, thematic, and within precedent. |
+### Signature ray preparation
 
-At ordinary Deific Obedience timing, a level-17 character has the first two boons and gains the third at 20 Hit Dice. If the campaign's Nereus relationship uses different timing, record it explicitly. Animal Lord of the Tides is a spendable-Boon template and should not be counted as a Deific Obedience boon unless the GM says so.
+Maintain at least three prepared tiers:
 
-## Spendable campaign Boons
+- a low-slot Benthic, Empowered, Merciful, Piercing scorching ray for efficient qualifying targets;
+- a higher-slot burst version using Maximize or Quicken as the encounter demands;
+- a minimally modified or alternate-energy version for enemies immune to nonlethal damage or resistant to the primary routine.
 
-1. Confirm the current Animal Lord template tier. Do not repurchase the Lesser template if already granted.
-2. Upgrade Animal Lord to Greater for three additional Boons if the upgrade materially improves narwhal form, combat casting, or sea operations.
-3. Upgrade to Master for five additional Boons only after reviewing the exact template text.
-4. Buy Seeking Spell (Mythic) and Piercing Spell (Mythic) while their escalating mythic-feat cost remains low and their base prerequisites are complete.
-5. Save five Boons for adoption by Nereus if Aristea wants divine bloodline progression and the adoption does not overwrite another lineage.
-6. Save the next five Boons for demigod rank. Each gained godly power is unusually efficient because it also adds one Mythic Tier and two Mythic Power points under the campaign rules.
-7. Mortal God is the later 10-Boon target.
+After taking Quicken Spell, document the exact Spell Perfection choice and final slot for every standard ray package. Spell Perfection makes one metamagic feat free per casting; Magical Lineage and Wayang Spellhunter reduce remaining adjustments, but they do not make every combination automatically legal.
 
-Because Aristea is currently trapped, bank all new awards until she is recovered unless the GM permits her soul to receive or spend Boons in Tartarus.
+### Flat-footed setup and scouting
 
-## Nonmythic spell acquisition order
+- Use exceptional initiative, stealth, advance scouting, divination, and coordinated surprise to make the first volley count.
+- Prepare contingency and immediate defenses before exposing Aristea for the opening ray.
+- Coordinate with Demidius to identify and remove spell turning, concealment, immunity, and resistance before firing.
+- Ask allies to supply an effect that explicitly causes the flat-footed condition if the encounter survives the opening round.
 
-### Signature ray package
+### Control and naval magic
 
-1. Scorching ray - primary perfected spell when the Merciful/Benthic/Sap engine is active.
-2. Battering blast - force-based ranged touch option that avoids elemental resistance and supports repositioning.
-3. Disintegrate - high-value ranged touch attack and utility against objects and force effects.
-4. Polar ray - no-save cold ray with strong thematic fit; plan for cold resistance and immunity.
-5. Hellfire ray only after alignment, descriptor, and campaign consequences are checked.
+Prioritize:
 
-### Water and cold control
+- icy prison and mass icy prison;
+- wall of ice, wall of force, and forcecage;
+- control water and control weather;
+- hydraulic torrent, geyser, and ice spears;
+- greater dispel magic and mage's disjunction;
+- greater teleport, teleportation circle, plane shift, and gate;
+- seamantle, freedom of movement, mind blank, spell turning, emergency force sphere, and contingency.
 
-1. Icy prison and mass icy prison.
-2. Wall of ice, wall of force, and forcecage.
-3. Control water and control weather for naval operations.
-4. Hydraulic torrent, geyser, ice spears, and cold ice strike for movement and area pressure.
-5. Sirocco for fatigue/exhaustion control when fire is tactically acceptable.
-6. Polar midnight as a late battlefield effect, not the default opener.
-
-### Shapeshifting
-
-1. Shapechange - premier high-level form toolbox.
-2. Elemental body and form of the dragon series for specific defenses, movement, and senses.
-3. Monstrous physique and beast shape for efficient lower-slot forms.
-4. Preserve sacred narwhal form for underwater travel, sonar-like perception, and Nereus symbolism rather than treating it as a generic combat form.
-
-### Defense and action economy
-
-- Mind blank, contingency, emergency force sphere, mirror image, displacement, greater invisibility, seamantle, freedom of movement, spell turning, and time stop.
-- Prepare at least one immediate or swift defense that does not consume the same action needed for mythic ray enhancement.
-- Use a contingency for extraction or survival, not a routine damage trigger.
+Her water, cold, and weather magic should support both combat and fleet operations. Wandering Weather is especially relevant to the Dawnrunner's speed, while Aristea's shipboard role favors control effects that do not destroy hulls, rigging, cargo, or civilians.
 
 ### Crafting and infrastructure
 
-- Fabricate, permanency, greater create demiplane, mage's private sanctum, teleportation circle, planar binding, greater teleport, and wish.
-- Build custom staves around water/cold control, emergency movement, and spells Aristea does not want to prepare daily.
-- Use the three-times-speed demiplane for crafting only after the GM confirms how outside deadlines, rest, and material delivery interact with accelerated time.
+Aristea remains the party's primary crafter. Use her Crafting Mastery, Arcane Builder, Quick Study, high Intelligence, and the demiplane's accelerated time before buying additional crafting feats.
 
-## Mythic spell acquisition order
+Priority projects are:
 
-The Mythic Spell Compendium sweep was scored for Demidius, so Aristea's ranking below is a character-specific reinterpretation of verified spell text rather than a claim that the database's Demidius rating applies to her.
+1. defensive and mobility items that preserve her action economy;
+2. spell-resistance and concealment counters for the ray routine;
+3. staves holding water/cold control and utility spells that are inefficient to prepare daily;
+4. permanent teleportation and demiplane infrastructure;
+5. ship improvements that exploit magical propulsion, weather control, repairs, and safe navigation.
 
-| Priority | Mythic spell | Aristea use |
-|---:|---|---|
-| 1 | Icy Prison | Strengthens the prison and cold damage; excellent single-target control. |
-| 2 | Shapechange | Broadens the form toolbox and supports her identity as a controlled shapeshifter. |
-| 3 | Teleport or Greater Teleport | Safer group movement, retrieval, and escape. |
-| 4 | Control Water | Enlarges the affected water and adds dangerous sea-state control. |
-| 5 | Permanency | Protect crafted infrastructure and permanent ship/demiplane magic. |
-| 6 | Greater Dispel Magic | Secondary anti-magic capability when Demidius is occupied or absent. |
-| 7 | Cold Ice Strike | Stronger mixed physical/cold damage when a swift-area attack is valuable. |
-| 8 | Elemental Body | Flexible elemental forms and defenses. |
-| 9 | Freedom of Movement | Defensive answer for an arcane caster who cannot afford to be pinned. |
-| 10 | Gate | Planar retrieval and expedition utility after the Tartarus crisis. |
-
-Do not select a mythic scorching ray until its exact approved source and interaction with the campaign ray/sneak-attack ruling are verified.
+Confirm how the three-times-speed demiplane handles rest, outside deadlines, material delivery, and crafting-day limits before using it in production estimates.
 
 ## Epic spell priorities
 
-Epic spells require an approved level-10/11 slot and learning table.
+Epic spells require the campaign's approved level-10/11 slot and learning table. The initial order remains:
 
-### First level-10 arcane choices
+### Level-10 candidates
 
-1. Enchant Item - best match for the primary crafter.
-2. Master Finished Work I - accelerate or perfect major construction under the campaign text.
-3. Create Gate / Teleport Circle - permanent logistics and expedition access.
-4. Perfect Resurrection - recovery capability after a soul is free.
-5. Cloak of the Gods - durable personal defense.
-6. Epic Shadow Evocation - flexible access if the reconstructed text is approved.
+1. Enchant Item.
+2. Master Finished Work I.
+3. Create Gate or Teleport Circle.
+4. Perfect Resurrection after a soul is free.
+5. Cloak of the Gods.
+6. Epic Shadow Evocation if its reconstructed text is approved.
 
-### First level-11 arcane choices
+### Level-11 candidates
 
 1. Master Finished Work II.
 2. Enchant Item II.
 3. Epic Dispel Magic.
-4. Absorb Energy - converts a selected energy type into healing for its duration.
-5. Epic Particulate Form - defense and transformation theme.
-6. Create Roaming Hungry Pit - mobile no-SR battlefield control.
-7. Form of Giant IV only when the form's statistics improve an actual mission.
+4. Absorb Energy.
+5. Epic Particulate Form.
+6. Create Roaming Hungry Pit.
+
+Do not spend level-10/11 access merely on a larger ray unless it clearly exceeds the perfected scorching-ray routine or bypasses a defense that routine cannot defeat.
 
 ## Level-by-level action plan
 
-| Level | Class and feat action | Spell priority | Strategic goal |
+| Level | Class and feat | Spell and tactical priority | Result |
 |---:|---|---|---|
-| 17 | Recover soul; reconstruct sheet | Contingency, mind blank, ray package | Restore before rebuilding |
-| 18 | Wizard 18 | Time stop, shapechange, wish | Complete 9th-level toolbox |
-| 19 | Wizard 19; first missing ray feat | Icy prison, polar ray | Improve signature offense |
-| 20 | Wizard 20; Craft Staff or missing core feat | Permanency, teleportation circle | Finish published Wizard chassis |
-| 21 | Epic Wizard or approved fallback | Control water/weather suite | Expand naval control |
-| 22 | Advance approved caster chassis | Greater demiplane and planar tools | Restore infrastructure role |
-| 23 | Next missing penetration/control feat | Mythic spell portfolio expansion | Defeat SR and cover reliably |
-| 24 | Prepare epic spell access | Enchant Item / Master Finished Work | Accelerate strategic crafting |
-| 25 | Final priority feat | Epic Dispel / Absorb Energy | Operate at epic encounter scale |
+| 17 | Current: Wizard 9 / Sorcerer 1 / Arcane Trickster 7 | Recover soul; preserve current sheet and manual overrides | 11d6 actual sneak attack |
+| 18 | Arcane Trickster 8 | Add time stop, shapechange, mass icy prison, wish | 9th-level spells; 12d6 sneak attack |
+| 19 | Arcane Trickster 9; Quicken Spell | Build quickened perfected-ray packages; exploit Invisible Thief for ordinary sneak attacks | Better action economy; Invisible Thief |
+| 20 | Arcane Trickster 10 | Use Surprise Spells against genuinely flat-footed targets | 13d6 sneak attack; prestige capstone |
+| 21 | Exploiter Wizard 10; Spell Penetration; legal metamagic bonus feat | Harden the ray against epic SR and add a control option | Effective Wizard casting 20 |
+| 22 | Exploiter Wizard 11 | Expand control, escape, and naval preparation | Broader endurance |
+| 23 | Exploiter Wizard 12; Greater Spell Penetration | Complete the spell-resistance package | Reliable delivery |
+| 24 | Exploiter Wizard 13 | Select the next exploit; prepare epic spell prerequisites | Flexible epic chassis |
+| 25 | Exploiter Wizard 14; Seeking Spell if approved or epic prerequisite | Defeat concealment and cover or qualify for chosen epic magic | Completed first post-20 package |
 
 ## Combat doctrine
 
-1. Let Demidius identify and strip mind blank, spell turning, energy immunity, and freedom effects.
-2. Act immediately after the dispel and target touch AC with the perfected ray package.
-3. Use Seeking and Piercing effects only when cover or spell resistance actually matters; conserve mythic power otherwise.
-4. Convert cold damage or switch to force/disintegration when cold immunity remains.
-5. Use Icy Prison, walls, and water control when a full ray burst would waste resources or endanger allies.
-6. Shapechange for mission capabilities, not merely the largest statistics.
-7. Withdraw with Arcanist's Escape, contingency, or teleport before being pinned or silenced.
+1. Enter dangerous areas with long-duration defenses active and a survival-focused contingency.
+2. Use scouting and +41 initiative to attack before priority enemies act; this is the cleanest Sap Master trigger.
+3. Have Demidius or another specialist identify and strip spell turning, concealment, immunity, and layered magical defenses.
+4. Against a valid flat-footed target, deliver the Benthic/Merciful/Sap ray package and apply the artifact's additional 5d6 to every qualifying sneak attack under the campaign ruling.
+5. If the target is only denied Dexterity but not flat-footed, apply ordinary sneak attack without doubling it through Sap Master.
+6. If nonlethal or precision damage is ineffective, switch immediately to control, dispelling, force, disintegration, transformation, or naval battlefield manipulation.
+7. Once Quicken Spell is acquired, avoid spending both the standard and swift spell on damage unless ending the encounter prevents a greater threat. Preserve an action or resource for defense when needed.
 
-## GM decisions required
+## Decisions still requiring confirmation
 
-- What are Aristea's school, archetype, opposition schools, arcane bond, and exact feats?
-- What are her mythic path, tier, path abilities, mythic feats, and mythic spells?
-- Does every ray still apply sneak attack, and how do Merciful, Benthic, Sap Adept, and Sap Master combine?
-- What is the exact Animal Lord template tier and upgrade text?
-- Does Aristea qualify for the dwarven Wizard favored-class bonus despite being an elf, and what is its exact crafting multiplier?
-- Does the demiplane produce exactly three days of crafting per outside day, and how are rest and supplies handled?
-- Is Seeking Spell and Piercing Spell material approved, and which printed versions control?
-- Is Nereus's obedience package borrowed from Gozreh as proposed?
-- What epic Wizard and level-10/11 spell table applies?
+- Does the GM have an epic Arcane Trickster 11+ table, and what continues after level 10?
+- Does the campaign explicitly treat invisibility or Impromptu Sneak Attack as making a target flat-footed, or only as denying Dexterity?
+- Does every scorching-ray ray continue to receive sneak attack under the current table ruling?
+- Does the Benthic/Merciful ray continue to count as a bludgeoning weapon for Sap Adept and Sap Master?
+- Does the artifact's +5d6 apply to every qualifying ray without a per-round limit?
+- What is the exact text of the artifact's separate always-on Vital Strike-like effect?
+- What mechanical abilities replace Hero Lab's shark-only Animal Lord entries for the sacred narwhal form?
+- What is Aristea's current Mythic Tier after applying the campaign godly-power/path-power formula?
+- Does Mythic Crafting Mastery remove the need for future item-creation feats in this campaign?
+- Which epic casting table controls effective Wizard levels above 20?
 
 ## Sources
 
-- Pathfinder Roleplaying Game: Mythic Adventures, Archmage and universal abilities pp. 14-19 and 50-51; mythic feats pp. 54-77.
-- Inner Sea Gods, Gozreh obedience and boons pp. 68-75; custom deity and prestige framework pp. 194-217.
-- Mythic Spell Compendium, relevant entries for Icy Prison, Shapechange, Teleport, Control Water, Permanency, Greater Dispel Magic, Cold Ice Strike, Elemental Body, and Gate.
-- Mythic Minis 14, 36, and 51, especially Spell Dilation, Wallbuilder, Arcanist's Escape, Seeking Spell (Mythic), Piercing Spell (Mythic), and Rime Spell (Mythic), PDF pp. 2-3.
-- Mythic Rods, Rod of Spell Focusing, PDF p. 2; Mythic Jewels, Diamond of Everwinter, PDF p. 2.
-- Super Genius Games targeted extraction, Craft Tige Vierge, Magic Staff Emporium PDF pp. 3-4.
-- Epic Spell Compendium, campaign transcription and reconstruction.
-- Aristea project page, campaign backstory, Legendary Games deep dive, and current campaign-rule summaries.
+- Current Aristea Hero Lab character sheet supplied 22 July 2026, especially pp. 1-4.
+- Pathfinder Roleplaying Game Core Rulebook, Arcane Trickster table and class features, printed pp. 376-377.
+- Pathfinder Roleplaying Game Ultimate Combat, Sap Adept and Sap Master, printed p. 116.
+- Pathfinder Roleplaying Game Mythic Adventures, Archmage abilities, universal abilities, mythic feats, and mythic spells.
+- Campaign rulings supplied by the player: multi-ray sneak attack, Benthic/Merciful/Sap interaction, artifact +5d6 sneak attack, free combat feats, Boon progression, and custom Mythic Tier/Power calculation.
+- Aristea campaign biography and Nereus/Animal Lord of the Tides records.
+- Epic Spell Compendium campaign transcription and reconstruction.

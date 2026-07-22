@@ -1,5 +1,29 @@
 # Change Log
 
+## Durable Demidius and Aristea character records - 2026-07-22
+
+- Replaced the outline-only Demidius character bible with a substantive project-level canonical snapshot.
+- Added a dedicated Aristea character bible containing her biography, current Hero Lab reconciliation, campaign rulings, relationships, death and rescue status, and advancement direction.
+- Added a project policy requiring both characters' facts to be preserved outside the wiki.
+- Corrected the local Aristea wiki records from the superseded Elf Wizard 17 shorthand to her verified mythic half-elf Exploiter Wizard 9 / Crossblooded Wildblooded Sorcerer 1 / Arcane Trickster 7 build.
+
+## Pete, Fizz, and the Glistria portal shop - 2026-07-22
+
+- Confirmed Pete as a male gnome, skilled artificer, mystery-box merchant, and Dawnrunner petty officer.
+- Recorded Demidius as Pete's best mystery-box customer.
+- Added Pete's Glistria shop and its portals to both the Dawnrunner and Matcha Frappuccino.
+- Added Fizz as a gnome avatar of Hermes and Pete's partner while preserving the unknown details of Fizz's powers and divine duties.
+- Added Fizz's standalone campaign portrait with his confirmed gnome stature and orange goatee, and indexed him separately under people while linking him to Hermes.
+
+## Aristea advancement guide version 2.0 - 2026-07-22
+
+- Rebuilt Aristea's level 17-25 guide from her current Hero Lab sheet: Exploiter Wizard 9 / Crossblooded Wildblooded Sorcerer 1 / Arcane Trickster 7.
+- Corrected the primary progression to Arcane Trickster 8-10 before returning to Exploiter Wizard or comparing an approved epic Arcane Trickster table.
+- Added the unlisted artifact +5d6 sneak attack, bringing her current total to 11d6, and recalculated the campaign-approved Benthic/Merciful/Sap ray engine.
+- Treated Hero Lab's Shoreborn/shark Animal Lord entries as placeholders for Aristea's canonical narwhal form.
+- Replaced recommendations for feats already present on the sheet with Quicken Spell, Spell Penetration, Greater Spell Penetration, and conditional metamagic or ray-delivery options.
+- Regenerated and visually verified the standalone 11-page PDF as version 2.0.
+
 ## Character advancement guides and memorial records - 2026-07-22
 
 - Added separate illustrated level 17-25 PDF guides for Demidius and Aristea, including standard feats, mythic feats and powers, Deific Obedience packages, campaign Boons, and spell acquisition order.

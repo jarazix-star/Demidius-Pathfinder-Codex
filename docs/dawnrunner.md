@@ -1,7 +1,7 @@
 ---
 title: Dawnrunner
 status: reader-facing vessel and crew record
-last_updated: 2026-07-15
+last_updated: 2026-07-22
 ---
 
 # Dawnrunner
@@ -14,7 +14,7 @@ The Dawnrunner is Demidius Thorne's galleon, mobile headquarters, and command or
 |---|---|---|
 | Demidius Thorne | Captain | Level 17; neutral good; Blessed of Hermes after two trials |
 | Roy | First mate | Level 17 bard; pure mortal; worships Hestia; legendary liar and trusted morale leader |
-| Aristea | Navigator before her death | Level 17 neutral-good elven wizard of Nereus; water-and-cold specialist, merchant-mage, Animal Lord of the Tides, item creator, shapeshifter, and Demidius's cohort |
+| Aristea | Navigator and chief engineer before her death | Level 17 neutral-good mythic half-elf; Exploiter Wizard 9 / Crossblooded Wildblooded Sorcerer 1 / Arcane Trickster 7; water-and-cold specialist, merchant-mage, healer, Animal Lord of the Tides, primary crafter, shapeshifter, and Demidius's cohort |
 | Lilly | Bosun | Demigod of Hermes; runs logistics and keeps Zujuck in line |
 
 ## Named crew
@@ -32,7 +32,8 @@ The fifteen named quarter-share petty officers are Pete, Bix, Lilly, Zujuck, Ale
 - **Rurd:** level 7 lawful-good gnome wizard of Hephaestus and engineer funding exotic magical experiments.
 - **Jenqa:** level 10 lawful-good/lawful-neutral goblin of Athena devoted to eradicating piracy through infiltration, sabotage, and lethal action.
 - **Binky:** goblin siege engineer, gun chemist, cannon specialist, and Blessed of Ena. Her title establishes two completed trials for Ena, the Advanced simple template, and favor recognizable to Ena's followers; the individual trials remain unrecorded.
-- **Pete, Crystal, and Gideon:** named petty officers whose duties are not yet recorded; Crystal worships Artemis and Gideon worships Apollo.
+- **Pete:** male gnome, skilled artificer, mystery-box merchant, and named petty officer. He sells mystery boxes to the crew in every port, and Demidius is his best customer. Pete owns a shop in Glistria with portals to both the Dawnrunner and Matcha Frappuccino. He is in a relationship with Fizz, an avatar of Hermes. His level, class mechanics, exact shipboard duty, and portal operating rules remain unrecorded.
+- **Crystal and Gideon:** named petty officers whose duties are not yet recorded; Crystal worships Artemis and Gideon worships Apollo.
 - **Vornix Drazgul:** male kobold petty officer hired by Demidius. Vornix advocates working with the Maker's Knot to raid proven corrupt businesses, sell the seized goods cheaply, and donate every coin of proceeds to charity and displaced workers. He insists that ordinary adventuring, not charitable seizures, must fund the Dawnrunner. His level, class, duty, and crew share are unrecorded, and the workbook does not establish whether he was included among its unnamed petty-officer entries.
 - **Qarvel Drah'kar:** male sea elf and one of Demidius's newer petty officers. Qarvel proposes hunting large sea game for merchant goods and hunting pirates. Goods recovered from pirates would go to struggling communities after the Dawnrunner retains a 10% acquisition fee. His level, class, duty, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
 - **Zephyra Coralshade:** female sea elf and one of Demidius's newer petty officers. Zephyra supports Demidius's new hiring practices and Pete's suggestions, and proposes a secure luxury passenger service in which each 500-gp fare subsidizes one free passenger in need. Her 300-passenger example means 150 paying and 150 free passengers, producing 75,000 gp in gross fares before expenses. Her level, class, duty, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.

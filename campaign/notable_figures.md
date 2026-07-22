@@ -87,6 +87,14 @@ A primordial silver dragon, Lord of the Earth, and one of the four primary gods 
 
 A male kobold petty officer hired by Demidius for the Dawnrunner. Vornix calls Demidius the “great, scaleless, pink lizard” and advocates a strict charitable anti-corruption program with the Maker's Knot: raid corrupt businesses, sell the seized goods at reduced prices, donate all proceeds to charity and displaced workers, and use unrelated adventuring income to fund the ship. The proposal has not yet been accepted or implemented. Vornix's class, level, duty, crew share, and appearance beyond being a male kobold remain unrecorded.
 
+## Pete
+
+A male gnome, skilled artificer, mystery-box merchant, and Dawnrunner petty officer. Pete sells mystery boxes to the crew in every port, and Demidius is his best customer. He owns a shop in Glistria with portals to both the Dawnrunner and Matcha Frappuccino. Pete is in a relationship with Fizz, an avatar of Hermes. Pete's level, class mechanics, exact shipboard duty, shop name and location within Glistria, and the portals' operating and security rules remain unrecorded.
+
+## Fizz
+
+A gnome avatar of Hermes, a distinct person with an orange goatee, and Pete's partner. Fizz's gender, pronouns, other appearance details, powers, divine duties, present location, and degree of independence from Hermes remain unrecorded.
+
 ## Qarvel Drah'kar
 
 A male sea elf and one of Demidius's newer Dawnrunner petty officers. Qarvel proposes hunting large sea game for merchant goods and hunting pirates. Goods recovered from pirates would be given to struggling communities, with the Dawnrunner retaining a 10% acquisition fee. The proposal is not yet accepted or implemented. His class, level, duty, crew share, and appearance beyond being a male sea elf remain unrecorded.

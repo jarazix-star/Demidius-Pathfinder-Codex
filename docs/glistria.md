@@ -36,6 +36,8 @@ The supplied image is cropped along parts of its southern and western edges. It 
 
 Other named businesses include Thilymneus' Masonry, Parthesim's Pottery, the Yellow Tankard, the Hooded Jester, the Flickering Candle, the Cracked Chalice, Potent Potables, the Curious Crone, the Broken Sword, Posima's Forge, and Demon's Carvings.
 
+Pete, a male gnome artificer and petty officer of the Dawnrunner, owns a shop somewhere in Glistria. He sells mystery boxes to the crews in every port, with Demidius as his best customer. The shop contains portals to both the Dawnrunner and Matcha Frappuccino. Its name, district, mapped building, portal mechanics, and security remain unrecorded.
+
 ## Unresolved campaign details
 
 The map does not establish Glistria's current ruler, population, allegiance, defenses, harbor access, or relationship with Queen Lidda Beaumont and Arverdon Palace. It also does not establish whether its landmark named Stormspire is connected to the Storm King's floating city.

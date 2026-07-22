@@ -150,7 +150,11 @@ Queen Lidda Beaumont's seat of rule in Nysia. The Old Nysia map depicts it as a 
 
 ### Glistria
 
-A large fortified coastal city in Old Nysia, east of Tradegulf along the Acis River corridor and beside Alpamyo Mountain. Its detailed map depicts a central Keep, ten named districts or quarters, markets, guild facilities, shrines, gates, parks, workshops, and ruins. Its current government, population, allegiance, and relationship to Arverdon Palace remain unrecorded. See [Glistria](glistria.md).
+A large fortified coastal city in Old Nysia, east of Tradegulf along the Acis River corridor and beside Alpamyo Mountain. Its detailed map depicts a central Keep, ten named districts or quarters, markets, guild facilities, shrines, gates, parks, workshops, and ruins. Pete, the Dawnrunner's gnome artificer, owns a shop there with portals to both the Dawnrunner and Matcha Frappuccino. Its current government, population, allegiance, and relationship to Arverdon Palace remain unrecorded. See [Glistria](glistria.md).
+
+### Fizz
+
+Fizz is a gnome, a distinct person, and an avatar of Hermes. He has an orange goatee and is in a relationship with Pete, the Dawnrunner's gnome artificer and mystery-box merchant. His other appearance details, pronouns, powers, divine duties, and degree of independence from Hermes remain unrecorded.
 
 ### Misthold
 

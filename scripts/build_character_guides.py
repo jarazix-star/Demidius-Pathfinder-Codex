@@ -38,6 +38,7 @@ GUIDES = [
         "title": "Demidius Thorne",
         "subtitle": "Level 17-25 Optimization and Advancement Guide",
         "tagline": "Probability. Magical supremacy. Leadership. Divine ascent.",
+        "version": "1.0",
         "primary": colors.HexColor("#4A1838"),
         "secondary": colors.HexColor("#9C6B2F"),
         "pale": colors.HexColor("#F5ECEF"),
@@ -49,6 +50,7 @@ GUIDES = [
         "title": "Aristea of the Shifting Tides",
         "subtitle": "Level 17-25 Optimization and Advancement Guide",
         "tagline": "Tide. Frost. Form. Arcane craftsmanship.",
+        "version": "2.0",
         "primary": colors.HexColor("#163F59"),
         "secondary": colors.HexColor("#3E8B9A"),
         "pale": colors.HexColor("#EAF4F5"),
@@ -367,7 +369,7 @@ def build_guide(spec):
     )
     story.append(tag_box)
     story.append(Spacer(1, 0.18 * inch))
-    story.append(Paragraph("Version 1.0  |  22 July 2026", cover_tag))
+    story.append(Paragraph(f"Version {spec['version']}  |  22 July 2026", cover_tag))
     story.append(PageBreak())
     story.extend(parse_markdown(spec["source"], styles, spec["primary"], spec["secondary"], spec["pale"], available))
     doc.build(story)

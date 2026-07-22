@@ -108,7 +108,7 @@ Lorekeeper of the Tagata Fetu, whose name means Star Spirit. Many expected Demid
 
 ### Siopi and Paradox
 
-Siopi is Demidius's half-sibling and Paradox is his half-brother. Both are children of Smokey Roberts and were once party mates. Paradox has one red eye and one blue eye with matching red-and-blue hair, seven reported wives, six reported biological children, and two adopted children presented as his nephews. Their current locations, abilities, and present relationships with Demidius remain unrecorded.
+Siopi was Demidius's nonbinary, femininely presenting half-sibling, and Paradox was his half-brother. Both were children of Smokey Roberts, former party members, and adventuring companions. Both are now deceased, although the causes and circumstances of their deaths remain unrecorded. Siopi helped Nyssa decipher the map in *The Mother's Lament*. Paradox had one red eye and one blue eye with matching red-and-blue hair, seven reported wives, six reported biological children, and two adopted children presented as his nephews.
 
 ## Organizations and vessels
 
@@ -124,7 +124,11 @@ Aelwyn is a confirmed member of Maarin's crew. Her campaign against the Ironclaw
 
 ### Nyssa
 
-Nyssa joined the crew and later betrayed the party. Nyssa dominated Tulip, an event directly connected to Tulip's deathly fear of enchanters. Nyssa's identity, motive, methods, former position, and current status remain unrecorded.
+Nyssa was formerly Demidius's cohort. Demidius pursued her romantically, but she rejected his advances during a crew celebration; they were never a couple. Nyssa possesses an unidentified artifact glove associated with Zeus and used it to control Tulip, leaving him deathly afraid of enchanters, including Demidius.
+
+Nyssa helped Siopi decipher the map in *The Mother's Lament*. The map identified three pieces of the Scepter of Keto and placed its connector or mount under the guardianship of the immortal Gorgon sisters in a temple on Sarpedon. Sarpedon sank during the Sundering of Lodingen about 160 years ago, and a coral reef south-southwest of Dreadtide may cover its ruins.
+
+Nyssa later disappeared with two crew members and stole *The Mother's Lament* after the party encountered a strange glowing city off Ironclaw Isle. At the same time, a pursuing smoke cloud engulfed the ship in falling ash and blocked celestial navigation. Whether Nyssa caused, arranged, or merely exploited the ashfall remains unknown, as do her current status, motive, allies, class, ancestry, and the artifact glove's exact properties.
 
 ### The New Gods
 

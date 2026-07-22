@@ -32,8 +32,8 @@ Demidius recently recovered a long-lost vessel that had vanished at sea a decade
 
 - **Philomela Thorne:** mother; radiant, enigmatic, and protective.
 - **Smokey Roberts:** father; distant and mysterious.
-- **Siopi:** half-sibling, child of Smokey Roberts, and former party mate of Paradox.
-- **Paradox:** half-brother and child of Smokey Roberts; visually marked by paired red-and-blue hair and eyes; husband to seven reported wives and father to six reported biological children.
+- **Siopi:** deceased nonbinary half-sibling, child of Smokey Roberts, and former party mate of Paradox; presented femininely and helped decipher the map in *The Mother's Lament*.
+- **Paradox:** deceased half-brother and child of Smokey Roberts; visually marked by paired red-and-blue hair and eyes; husband to seven reported wives and father to six reported biological children.
 - **Aelwyn:** paternal half-sister through Smokey Roberts.
 - **Tulip:** half-brother and fellow demigod of Aphrodite.
 - **Fetu’mana:** Tagata Fetu lorekeeper whose vision sent Demidius away.

@@ -97,7 +97,7 @@ A female sea elf and one of Demidius's newer Dawnrunner petty officers. Zephyra 
 
 ## Paradox and Siopi
 
-Paradox and Siopi are children of Pirate King Smokey Roberts, half-siblings of Demidius, and former party mates. Paradox is a man with paired red-and-blue heterochromia in both his eyes and hair. He has seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Phoebe also adopted two orphans whom she presents as Paradox's nephews. The report calls Echo and Hera twins while listing them as ages eight and ten; the correct ages remain unresolved. Siopi's gender, other parent, appearance, abilities, and current location remain unrecorded.
+Paradox and Siopi were children of Pirate King Smokey Roberts, half-siblings of Demidius, former party members, and adventuring companions. Both are deceased; their dates, causes, and places of death remain unrecorded. Paradox was a man with paired red-and-blue heterochromia in both his eyes and hair. He had seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Phoebe also adopted two orphans whom she presents as Paradox's nephews. The report calls Echo and Hera twins while listing them as ages eight and ten; the correct ages remain unresolved. Siopi was nonbinary, used they/them pronouns, presented femininely, and helped Nyssa decipher the map in *The Mother's Lament*. Their other parent, ancestry, class, abilities, and exact history with Demidius remain unrecorded.
 
 ## Perlot
 

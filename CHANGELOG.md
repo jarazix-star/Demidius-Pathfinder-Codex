@@ -1,5 +1,15 @@
 # Change Log
 
+## Character advancement guides and memorial records - 2026-07-22
+
+- Added separate illustrated level 17-25 PDF guides for Demidius and Aristea, including standard feats, mythic feats and powers, Deific Obedience packages, campaign Boons, and spell acquisition order.
+- Added the portable guide sources and PDF build script.
+- Expanded Nyssa's record with her rejected courtship, Zeus-associated artifact glove, control of Tulip, assistance deciphering *The Mother's Lament*, theft of the book, and disappearance during the ashfall.
+- Confirmed Siopi and Paradox as deceased former party members while leaving their causes and circumstances of death unresolved.
+- Recorded Siopi as nonbinary, using they/them pronouns, and presenting femininely.
+- Expanded Siopi's page with their role in deciphering *The Mother's Lament*, surviving visual reference, family connections, and a new reference-based portrait.
+- Updated Paradox's page to record his death and the unresolved consequences for his seven wives and children.
+
 ## Complete Greek Divine Portrait Pass — 2026-07-22
 
 - Replaced the remaining historical and shared-collage images on Greek divine, Titan, primordial, and mythic-power wiki pages with original campaign portraits.

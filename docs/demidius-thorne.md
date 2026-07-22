@@ -62,7 +62,7 @@ Published Order of the Godclaw oracles can draw obedience benefits from several 
 
 Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuccino*, is Demidius's paternal half-sister: both are children of Pirate King Smokey Roberts. The history of their relationship has not yet been recorded.
 
-Philomela Thorne is Demidius's mother, while Smokey Roberts is his distant and mysterious father. Siopi and Paradox are both children of Smokey Roberts and were once party mates; Siopi is Demidius's half-sibling and Paradox his half-brother. Paradox has seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
+Philomela Thorne is Demidius's mother, while Smokey Roberts is his distant and mysterious father. Siopi and Paradox were both children of Smokey Roberts and former party members; Siopi was Demidius's nonbinary half-sibling and Paradox his half-brother. Both are now deceased, with the circumstances of their deaths unrecorded. Paradox had seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
 
 ## Why Charisma matters
 

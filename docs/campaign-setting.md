@@ -6,6 +6,8 @@ last_updated: 2026-07-15
 
 # The Arrival — Campaign Setting
 
+![A panoramic view of Zatera in the era of The Arrival](assets/locations/zatera-setting-panorama.png)
+
 ## Zatera in 150 P.A.
 
 ![Zatera world map in 150 P.A.](assets/locations/zatera-150-pa-world-map.jpg)

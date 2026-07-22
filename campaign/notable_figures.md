@@ -7,6 +7,8 @@ last_updated: 2026-07-15
 
 # Notable Figures
 
+![A gallery of notable figures connected across The Arrival](../docs/assets/people/notable-figures-gallery.png)
+
 Only confirmed relationships and campaign facts are recorded here. Unknown biography, motive, and appearance are left unspecified.
 
 ## Demidius Thorne

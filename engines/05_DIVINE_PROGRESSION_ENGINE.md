@@ -7,6 +7,8 @@ depends: [CR-05, CR-07, CR-11, CR-13, CR-16, CR-17, CR-18, CR-23, CR-25, CR-26, 
 
 # Divine Progression Engine
 
+![The ascent from godling blood to divine power](../docs/assets/engines/divine-progression.png)
+
 Divine Progression covers Hermes's gifts, demigod abilities, custom obedience progression, legendary-item development, apotheosis, and the costs imposed by Fatal Flaws.
 
 ## Mythic progression formula

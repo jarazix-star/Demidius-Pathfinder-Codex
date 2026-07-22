@@ -6,6 +6,8 @@ status: canonical
 
 # The Five Pillars of Demidius
 
+![The five pillars supporting Demidius's strategy](../docs/assets/engines/five-pillars.png)
+
 > Demidius does not win by overwhelming force. He wins by shaping probability, controlling magic, commanding influence, preparing infrastructure, and growing into divinity.
 
 Every major option, artifact, spell, divine ability, and campaign asset should strengthen one or more of these pillars.

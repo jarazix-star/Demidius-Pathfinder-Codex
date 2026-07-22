@@ -7,6 +7,8 @@ depends: [CR-16, CR-17, CR-18, CR-20, CR-21, CR-22]
 
 # Risk Management Engine
 
+![Demidius and his companions planning around dangerous choices](../docs/assets/engines/risk-management.png)
+
 Risk management covers Fatal Flaws, artifact drawbacks, the Deck of Many Things, open planar corridors, and decisions where expected value matters more than nominal power.
 
 ## Deck doctrine

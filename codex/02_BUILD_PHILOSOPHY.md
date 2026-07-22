@@ -6,6 +6,8 @@ status: canonical
 
 # Build Philosophy
 
+![Demidius weighing the five parts of his build](../docs/assets/engines/build-philosophy.png)
+
 Demidius is a Charisma-centered Oracle, mythic controller, party face, captain, and demigod. His comparative advantage is certainty and leverage rather than personal damage.
 
 ## Priority order

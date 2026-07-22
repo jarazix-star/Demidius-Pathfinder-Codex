@@ -7,6 +7,8 @@ depends: [CR-01, CR-02, CR-03, CR-04, CR-05, CR-06, CR-07, CR-08]
 
 # Probability Engine
 
+![A d20 at the center of branching possible outcomes](../docs/assets/engines/probability-engine.png)
+
 The Probability Engine replaces the former Luck Engine. It includes luck bonuses, post-roll intervention, rerolls, bonus conversion, resource timing, and any effect that changes the probability of a pivotal outcome.
 
 ## Core sequence

@@ -14,6 +14,8 @@ depends:
 
 # Charisma Dependency Map
 
+![Charisma as the central dependency connecting Demidius's systems](../docs/assets/engines/charisma-dependency-map.png)
+
 ## Core principle
 
 For Demidius, Charisma is infrastructure rather than merely a spellcasting score. It simultaneously powers offense, defense, daily resources, social authority, Leadership, and resistance to Fatal Flaws.

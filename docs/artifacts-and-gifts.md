@@ -6,6 +6,8 @@ last_updated: 2026-07-14
 
 # Artifacts and Divine Gifts
 
+![A reliquary of campaign-defining artifacts](assets/artifacts/artifacts-reliquary-overview.png)
+
 Demidius's signature possessions are not a conventional equipment list. They are relationships, strategic capabilities, and permanent risks expressed as objects or divine abilities.
 
 ## At a glance

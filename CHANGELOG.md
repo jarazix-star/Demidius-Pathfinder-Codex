@@ -1,5 +1,13 @@
 # Change Log
 
+## Complete wiki art coverage - 2026-07-22
+
+- Audited all 191 wiki pages for missing and reused lead artwork.
+- Added 29 original page-specific illustrations to substantive pages that lacked art or reused another page's lead image.
+- Mirrored all new artwork in the main repository and recorded the page-to-asset assignments and prompt concepts in `docs/wiki-art-coverage.md`.
+- Intentionally exempted reference, administrative, and legacy alias pages from the artwork requirement.
+- Verified that every substantive non-exempt page has art and every referenced local image exists.
+
 ## Distinct Campaign Guide artwork - 2026-07-22
 
 - Replaced the Campaign Guide's reused homepage party image with an original setting-focused panorama.

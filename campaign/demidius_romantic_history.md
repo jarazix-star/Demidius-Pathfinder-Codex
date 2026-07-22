@@ -6,6 +6,10 @@ last_updated: 2026-07-22
 
 # Demidius Thorne: Romantic History
 
+![Three chapters of Demidius Thorne's romantic history](../docs/assets/scenes/demidius-romantic-history-triptych.png)
+
+*A symbolic triptych: Nyssa establishes a firm boundary, Aristea and Demidius share genuine affection, and the broken rose-thread across the sea represents Aphrodite's lifted compulsion toward the distant Rosalind Galeheart.*
+
 Demidius Thorne's romantic history centers on Aristea, Nyssa, and Rosalind Galeheart. Their connections to him were fundamentally different and should not all be treated as mutual romances.
 
 ## Aristea: the unfinished tide

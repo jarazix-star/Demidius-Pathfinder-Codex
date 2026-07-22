@@ -1,5 +1,12 @@
 # Change Log
 
+## Demidius romantic-history illustration - 2026-07-22
+
+- Added a symbolic three-part illustration to Demidius's romantic-history record and wiki page.
+- Used the established appearances of Demidius, Aristea, and Nyssa while presenting Rosalind Galeheart as a distant, unmet figure.
+- Visually distinguished Nyssa's refusal, Aristea's mutual love, and Aphrodite's lifted magical compulsion through distance, posture, and a broken rose-thread motif.
+- Preserved the final artwork in the canonical repository, published wiki, and local Demidius artwork library.
+
 ## Current-build research, ship dashboard, and romantic history - 2026-07-22
 
 - Added domain-constrained Deific Obedience rankings and separate Demidius and Aristea boon guides.

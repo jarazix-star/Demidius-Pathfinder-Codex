@@ -100,7 +100,9 @@ A platinum-skinned female paladin, officer aboard Maarin's *Matcha Frappuccino*,
 
 ### Philomela Thorne
 
-Demidius's radiant and enigmatic mother. She fled Lodingen with him to escape the Hellknight Order of the Godclaw, found refuge on Motu Leilani, and revealed his descent from Aphrodite. She later provided what she knew of his scattered siblings when Fetu’mana's vision sent him away.
+![Philomela Thorne at her island home](assets/characters/philomela-thorne-islander-portrait.png)
+
+Demidius's radiant and enigmatic mother is a musetouched aasimar, an islander, and a demigod of Aphrodite. Exceptionally beautiful but simply dressed, she fled Lodingen with Demidius to escape the Hellknight Order of the Godclaw, found refuge on Motu Leilani, and revealed his descent from Aphrodite. She later provided what she knew of his scattered siblings when Fetu’mana's vision sent him away. Her class, level, specific divine abilities, and present location remain unrecorded.
 
 ### Fetu’mana
 

@@ -1,5 +1,12 @@
 # Change Log
 
+## Philomela Thorne portrait and confirmed identity - 2026-07-22
+
+- Added a simple island-home portrait for Philomela using Demidius's established appearance as a family-resemblance reference.
+- Confirmed Philomela as a musetouched aasimar, islander, and demigod of Aphrodite.
+- Preserved her exceptional beauty without presenting her in royal, armored, or elaborate ceremonial clothing.
+- Stored the portrait in the canonical repository, wiki workspace, and local Other Characters artwork library.
+
 ## Demidius romantic-history illustration - 2026-07-22
 
 - Added a symbolic three-part illustration to Demidius's romantic-history record and wiki page.

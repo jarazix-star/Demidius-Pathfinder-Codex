@@ -30,7 +30,7 @@ Demidius recently recovered a long-lost vessel that had vanished at sea a decade
 
 ## Confirmed relationships
 
-- **Philomela Thorne:** mother; radiant, enigmatic, and protective.
+- **Philomela Thorne:** mother; a beautiful but simply garbed islander, musetouched aasimar, demigod of Aphrodite, and fiercely protective refugee from the Godclaw.
 - **Smokey Roberts:** father; distant and mysterious.
 - **Siopi:** deceased nonbinary half-sibling, child of Smokey Roberts, and former party mate of Paradox; presented femininely and helped decipher the map in *The Mother's Lament*.
 - **Paradox:** deceased half-brother and child of Smokey Roberts; visually marked by paired red-and-blue hair and eyes; husband to seven reported wives and father to six reported biological children.

@@ -122,17 +122,15 @@ Mythic feats contribute one Mythic Power point under the campaign rule. When cam
 
 Deific Obedience boons are not the campaign's spendable Boons, and neither system replaces the trials that made Demidius Blessed of Hermes.
 
-The best documented Hermes package adapts printed same-tier boons under the lesser/custom deity guidance in Inner Sea Gods:
+The campaign permits a custom package assembled from published obedience boons, provided every selection remains in its original tier and fits one of Hermes's recorded domains: Trickery, Travel, Community, Liberation, or Luck. The domain-constrained ranking is recorded in `../research/DEIFIC_OBEDIENCE_DOMAIN_RANKINGS.md`.
 
 | Boon tier | Recommended Hermes boon | Printed model | Advice |
 |---:|---|---|---|
-| 1 | Divine Favor, 3/day | Chaldira, Exalted 1 | The ordinary luck bonus becomes unusually efficient under Fortune's Child and Fate's Favored. |
-| 2 | Fortune's Child | Chaldira, Sentinel 2 | Increases every luck bonus Demidius receives and stacks with Fate's Favored under the campaign ruling. |
-| 3 | Seven-Pipped Gem | Nivi Rhombodazzle, Exalted 3 | Immediate-action bonus after rolling but before learning the result; confirmed as part of Demidius's current engine. |
+| 1 | Lucky Blessing | Chaldira, Exalted 1 | Luck-domain spell-like abilities, including *divine favor* 3/day and *prayer* 1/day. |
+| 2 | Fortune's Child - already acquired | Chaldira, Sentinel 2 | Increases all received luck bonuses and anchors the current probability engine. |
+| 3 | Seven-Pipped Gem - already acquired | Nivi Rhombodazzle, Exalted 3 | The defining post-roll Luck-domain intervention. |
 
-Because Demidius already has Seven-Pipped Gem, the GM should decide whether the current custom Hermes gifts count as the full Deific Obedience package. Do not take a feat or prestige level to buy the same boon twice.
-
-If a nonduplicative boon is available, preferred substitutions are Familiar Journey for extraction, Infectious Joy for enchantment DCs, Paralyzing Song for encounter control, or Blast of Motes for party support. Each substitution must remain within the same or lower boon tier.
+If acquired Hermes gifts remain separate from obedience slots, use Lucky Blessing / Fortunate Spells / Blast of Motes. Invoke Uprising is the preferred tier-3 substitution when hostile mind control is the greatest threat. The previous Zura Charisma recommendation is excluded because it does not fit a recorded Hermes domain. Do not purchase Fortune's Child or Seven-Pipped Gem a second time.
 
 ## Spendable campaign Boons
 
@@ -140,7 +138,7 @@ Use this order unless a story event changes the goal.
 
 1. Buy Dispel Synergy (Mythic) if its current Boon cost is one or two and the base feat is complete.
 2. Buy Improved Initiative (Mythic) as the second inexpensive mythic-feat purchase if legal.
-3. Confirm the exact tier of the Suzerain template. If a three- or five-Boon upgrade materially expands the 250-recipient organization, compare it against the Mortal God fund.
+3. Confirm the exact tier of the Suzerain template. Its enhanced distribution already reaches every ally within 250 feet, with no fixed recipient cap. If a three- or five-Boon upgrade materially expands that organizational reach, compare it against the Mortal God fund.
 4. Save 10 Boons to advance from demigod to Mortal God. This is the default long-term target because a divine-rank increase affects multiple campaign systems.
 5. Bank a small reserve for a god save, divine negotiation, or emergency favor during the Culling.
 

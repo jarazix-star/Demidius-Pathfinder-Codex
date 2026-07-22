@@ -22,7 +22,7 @@ Full narrative backgrounds are present for Alecia, Unni, Erika, Shas, Zel, Matth
 - Treated Aristea's navigator position as a pre-death office; the workbook does not identify her successor.
 - Updated Bix from unspecified crew member to officer and recorded that his spouse is a standard Dawnrunner crew member, while leaving the spouse unnamed.
 - Recorded Roy's Hestia worship, level, and morale role from the workbook without inferring a divine bloodline.
-- Treated ship statistics and bookkeeping as a dated snapshot rather than immutable setting facts. The workbook has not been updated with Demidius's current Profession (sailor) modifier, so its derived AC and save totals are explicitly marked outdated.
+- Treated ship statistics and bookkeeping as a dated snapshot rather than immutable setting facts. Demidius's 2026-07-22 sheet records Profession (sailor) +113. Under the workbook formulas, that produces AC 116 and saves 57 at or above minimum crew, with the half modifier rounded down. The workbook's AC 91 and saves 45 reflect the older +88 modifier.
 - Did not invent missing details for Pete, Crystal, Gideon, or the unnamed paladin.
 
 ## Workbook inconsistencies and cautions
@@ -31,4 +31,4 @@ Full narrative backgrounds are present for Alecia, Unni, Erika, Shas, Zel, Matth
 - Some labels and entries contain spelling errors, including “Seige Engineer” and “Hephestus”; the wiki uses **siege engineer** and **Hephaestus**.
 - The workbook does not state whether all named crew are currently active after Aristea's death or whether the listed alignments and levels have since changed.
 - The workbook's level-14 entries for Demidius, Roy, and Aristea are historical. The current campaign record places the principal player characters at level 17; Okeanikos is level 15.
-- The recorded AC 91 and saves 45 predate Demidius's current Profession (sailor) modifier and require recalculation; present staffing must also be known before applying the workbook's below-minimum-crew penalties.
+- The recalculated full-crew values are AC 116 and saves 57, but present staffing must still be confirmed. The workbook's `80+130` crew entry would meet the 80-person minimum if it remains current. At 40–79 crew the formula gives AC 106 and saves 52; below 40 crew AC and saves fall to their base values of 3 and 1, and below 20 crew the ship is dead in the water.

@@ -64,6 +64,12 @@ Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuc
 
 Philomela Thorne is Demidius's mother, while Smokey Roberts is his distant and mysterious father. Siopi and Paradox were both children of Smokey Roberts and former party members; Siopi was Demidius's nonbinary half-sibling and Paradox his half-brother. Both are now deceased, with the circumstances of their deaths unrecorded. Paradox had seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
 
+## Romantic history
+
+Demidius shared a genuine youthful and renewed love with Aristea, unsuccessfully courted his former cohort Nyssa, and was once cursed by Aphrodite with overwhelming love for Pirate Queen Rosalind Galeheart despite never having met her. The Rosalind compulsion has been lifted. Aristea's later supernatural Loyalty effect must not be mistaken for the genuine affection that preceded it, and Nyssa's rejection must remain distinct from her subsequent betrayal.
+
+See [Demidius Thorne: Romantic History](../campaign/demidius_romantic_history.md) for the full canonical account and its consent boundaries.
+
 ## Why Charisma matters
 
 For Demidius, Charisma is infrastructure rather than a single spellcasting statistic. It supports oracle spell DCs and bonus spells, social authority, Leadership, Seven-Pipped Gem uses, all Will saves under the campaign's Steadfast Personality ruling, and resistance to Fatal Flaws. The Eyebrow Piercing of Confidence further increases Charisma through a luck bonus that is improved by Fortune's Child and Fate's Favored.
@@ -84,6 +90,8 @@ Demidius specializes in exposing protected enemies. Dispel checks, anti-recovery
 
 Epic Leadership, a reported Leadership score of 49, the Dawnrunner's officers and crew, divine alliances, and social magic make Demidius more than an adventurer. His influence operates through people and institutions even when he is not personally present.
 
+His enhanced Suzerain power can distribute powers to **every ally within 250 feet**. The 250 value is a range, not a recipient limit, so a sufficiently dense allied formation may contain more than 250 beneficiaries. Demidius can also distribute while hidden or invisible, and can distribute telepathically within 30 feet.
+
 ### Planar logistics
 
 The Key of Daedalus and inherited demiplane give Demidius exceptional reach and preparation capacity. They also create persistent risks: corridors remain open for a week and can be used by anyone, while the demiplane's sleep blessing imposes permanent Loyalty toward its owner.
@@ -101,6 +109,7 @@ These are not merely roleplaying notes. They are operational constraints that re
 ## Related reading
 
 - [Demidius's Backstory](../campaign/demidius_backstory.md)
+- [Demidius's Romantic History](../campaign/demidius_romantic_history.md)
 - [Build Philosophy](../codex/02_BUILD_PHILOSOPHY.md)
 - [Charisma Dependency Map](../codex/CHARISMA_DEPENDENCY_MAP.md)
 - [Probability Engine](../engines/01_PROBABILITY_ENGINE.md)

@@ -244,7 +244,7 @@ Each new godly power is unusually efficient because it grants one Mythic Tier an
 
 ### Deific Obedience direction
 
-If Nereus lacks a dedicated printed obedience, use Gozreh's sea-oriented boons only as a power-ceiling model and obtain GM approval for the adaptation. Favor protection from energy, deep-water survival, weather or current control, and a greater water elemental ally. Do not count the Animal Lord template as an obedience boon unless the GM explicitly connects the systems.
+Use only published boons that fit Nereus's Knowledge, Shapeshifting, or Sea/Water themes, treating item-creation expertise as a Knowledge expression. The campaign-economy package is Creator / Rite of Passage / Sacred Crafting; Sacred Crafting reduces calculated magic-item base cost, crafting time, and final price by 10%. The fleet-command package replaces Sacred Crafting with Rally Crew, giving gathered allies +10 feet of speed and *heroism* for 1 hour/Hit Die while benefited rolls ignore water- and weather-based penalties. The transformation package is Discerning Mind / Rite of Passage / Adaptive Flesh and Twisting Steel, while the combat-caster package replaces Rite of Passage with Poisoned Mysticism. The full ranking is in `../research/DEIFIC_OBEDIENCE_DOMAIN_RANKINGS.md`. Do not count the Animal Lord template as an obedience boon unless the GM explicitly connects the systems.
 
 ## Spell acquisition and preparation
 

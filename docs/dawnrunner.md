@@ -42,9 +42,18 @@ The workbook also records fourteen one-eighth-share petty officers and fifteen g
 
 ## Ship-statistics snapshot
 
-**These statistics are not current.** The workbook has not been recalculated using Demidius's present Profession (sailor) modifier. It records 1,250 hull points, AC 91, saves 45, hardness 5, three masts, and a maximum speed of 60 feet or 6 miles per hour, but AC 91 and saves 45 are outdated derived totals.
+The workbook records 1,250 hull points, AC 91, saves 45, hardness 5, three masts, and a maximum speed of 60 feet or 6 miles per hour. The AC 91 and saves 45 are outdated derived totals based on Demidius's older +88 Profession (sailor) modifier.
 
-The workbook's rules derive Armor Class and saves from Profession (sailor), with additional penalties when operating below minimum crew. Current totals require Demidius's present modifier and the present staffing level. The recorded laboratory, two Lightweight upgrades, Magic Swiftness, Gatling Lightning Ballista, sixteen light ballistae, two standard catapults, and five heavy ballistae are also a dated snapshot that should be checked against current play.
+Demidius's current sheet records **Profession (sailor) +113**. Applying the workbook's formulas and rounding one-half down gives the following operating cases:
+
+| Active crew condition | Dawnrunner AC | Dawnrunner saves | Speed consequence |
+|---|---:|---:|---|
+| At least 80 crew | 116 | 57 | Full recorded speed |
+| 40–79 crew | 106 | 52 | Half speed |
+| 20–39 crew | 3 | 1 | Quarter speed |
+| Fewer than 20 crew | 3 | 1 | Dead in the water |
+
+The workbook's last crew entry, `80+130`, would satisfy the full-crew case if it remains current. A present muster is still required before AC 116 and saves 57 can be certified as the live ship totals. The recorded laboratory, two Lightweight upgrades, Magic Swiftness, Gatling Lightning Ballista, sixteen light ballistae, two standard catapults, and five heavy ballistae are also a dated snapshot that should be checked against current play.
 
 This priority is supported by *Ships of the Inner Sea*, which assumes the most skilled sailor—normally the captain—makes required sailing checks and incorporates the captain's statistics into a ship's listed initiative, Armor Class, and saving throws. That published convention validates recalculating the Dawnrunner around Demidius, but the campaign workbook remains authoritative for the actual formulas.
 

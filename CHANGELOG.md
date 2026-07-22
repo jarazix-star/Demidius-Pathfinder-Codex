@@ -1,5 +1,14 @@
 # Change Log
 
+## Current-build research, ship dashboard, and romantic history - 2026-07-22
+
+- Added domain-constrained Deific Obedience rankings and separate Demidius and Aristea boon guides.
+- Added separate top-15 mythic-spell guides for Demidius and Aristea covering every spell level.
+- Added the first reproducible content-level priority pass over the remaining third-party library without placing sourcebooks in Git.
+- Updated the Dawnrunner calculations for Demidius's current Profession (sailor) +113 and corrected Suzerain to affect every ally within 250 feet rather than a fixed number of recipients.
+- Added a canonical account of Demidius's relationships with Aristea and Nyssa and Aphrodite's magically imposed Rosalind Galeheart fixation, preserving the distinctions among mutual, rejected, and compelled affection.
+- Repaired the reversed wiki aliases on Nyssa's page and linked Demidius's new romantic-history page from his main wiki entry.
+
 ## Durable Demidius and Aristea character records - 2026-07-22
 
 - Replaced the outline-only Demidius character bible with a substantive project-level canonical snapshot.

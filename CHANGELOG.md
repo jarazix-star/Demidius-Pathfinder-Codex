@@ -1,5 +1,101 @@
 # Change Log
 
+## Demidius Hermes wing earrings - 2026-07-23
+
+- Restored Demidius's dangling earrings to his canonical reference sheet.
+- Reinterpreted them as a matched pair of slender antique-gold feathered wing
+  charms honoring Hermes.
+- Preserved the repaired layout, ruffled open shirt, portrait details, and all
+  established visual rules.
+
+## Demidius canonical reference-sheet repair - 2026-07-23
+
+- Rebuilt the primary Demidius reference sheet from the clean original layout,
+  repairing the distorted lower panels and preserving their established grid.
+- Restored his ivory-white ruffled, unbuttoned shirt beneath the Dawnrunner coat.
+- Kept the portrait large enough for clearer facial, eye, and piercing detail
+  without allowing it to disrupt the surrounding reference-sheet format.
+- Recorded the open ruffled shirt as part of his default approved appearance.
+
+## Demidius sheet RC5 filigree-rule refinement - 2026-07-23
+
+- Preserved Release Candidates 1 through 4 unchanged.
+- Replaced the straight ornament above the character name with a flattened,
+  symmetrical filigree rule.
+- Replaced the double rule beneath `Captain of the Dawnrunner` with matching
+  filigree.
+- Adjusted vertical spacing so neither ornament overlaps its neighboring text.
+
+## Demidius sheet RC4 unboxed-header experiment - 2026-07-23
+
+- Preserved Release Candidates 1 through 3 unchanged.
+- Removed the RC3 identity container, surrounding border, vertical division,
+  rose crest, and rose seal.
+- Erased the original source identity strip without changing the established
+  page crop, allowing the replacement typography to print directly onto the
+  existing parchment and watermark.
+- Retained blackletter naming, crimson accents, fine manuscript rules, and all
+  source identity values.
+
+## Demidius sheet RC3 illuminated-header experiment - 2026-07-23
+
+- Preserved Release Candidates 1 and 2 unchanged.
+- Reinterpreted the full-width identity header using the supplied illuminated
+  character-sheet reference.
+- Added a heraldic rose-and-thorn name panel with an integrated `The Arrival`
+  plaque and `Captain of the Dawnrunner` title.
+- Reorganized the right-side identity information as restrained manuscript
+  rules rather than heavy form cells.
+- Retained Player and every source identity value through Hair and Eyes.
+
+## Demidius sheet RC2 identity-banner experiment - 2026-07-23
+
+- Preserved Release Candidate 1 unchanged.
+- Added an experimental RC2 generator with a full-width page-one identity
+  banner inside the established sheet borders.
+- Replaced the original Hero Lab identity strip from Character Name through
+  Player and down through Hair and Eyes.
+- Preserved every identity value while restyling the area with black Old
+  English lettering, crimson labels, roses, thorn flourishes, and double rules.
+- Kept all interior pages and the approved RC1 parchment treatment unchanged.
+
+## Supplied bottom-center filigree - 2026-07-23
+
+- Replaced the small center rose-and-lines folio ornament with a dark-ink and antique-gold treatment derived from the user-supplied `4Jmuv01.svg`.
+- Preserved the page number and kept the new flourish outside the source-content area.
+- Re-rasterized the complete SVG to restore its previously clipped right side, reduced its width, and aligned its center precisely with the folio number.
+
+## Source-header preservation and supplied SVG corners - 2026-07-23
+
+- Restored the complete original page-1 name, class, deity, ancestry, size, gender, age, physical-description, homeland, and HP presentation.
+- Removed the custom upper-left identity overlay and the replacement HP tab from the final composition.
+- Limited source masking to the Pathfinder and Hero Lab product-logo artwork.
+- Tightened the Pathfinder mask to its true bounds so it no longer clips the adjacent source HP tab.
+- Replaced the generated corner filigree with a restrained treatment derived from the user-supplied `joyOg01.svg`.
+
+## Character-sheet identity and corner refinement - 2026-07-23
+
+- Locked the approved first-page Demidius watermark opacity at alpha `121/255` as the reusable standard.
+- Replaced the large bordered upper-left identity scroll with a smaller borderless portrait-and-name treatment to reveal more of the source sheet.
+- Reworked all four page corners into original baroque crimson-rose filigree with black-and-antique-gold curls, leaves, and thorned stems.
+- Rebuilt the clipped page-1 `HP / HIT POINTS` tab without changing its associated character values.
+
+## Reusable Dawnrunner character-sheet styling - 2026-07-23
+
+- Rebuilt Demidius's complete Hero Lab sheet as a full-page Dawnrunner parchment edition.
+- Preserved the source page count, page order, tables, values, and descriptions without retyping statistics.
+- Standardized parchment, black-and-gold frames, roses, filigree, campaign plaque, folios, and proportional content enlargement across every page.
+- Limited translucent character watermark artwork to page 1; interior pages retain the decorative treatment without figure artwork.
+- Recorded the reusable process in the durable Project workflow.
+- Corrected the campaign plaque to *The Arrival*, removed Pathfinder and Hero Lab logo artwork, and added an Old English Demidius identity scroll with a clear portrait cameo on page 1.
+
+## Maarin weather-control art correction - 2026-07-23
+
+- Corrected Maarin's reference sheet to replace seasonal-control language with extreme-weather language.
+- Replaced “Storm & Seasons” with “Storm & Tempest” and “Seasonal Warden” with “Tempest Warden.”
+- Confirmed that Maarin can create and control extreme weather but cannot change or control seasons.
+- Added the limitation to the wiki, campaign record, durable project canon, and art-direction safeguards.
+
 ## Godclaw Athena bloodline project - 2026-07-23
 
 - Confirmed Smokey Roberts as a demigod of Athena.
@@ -691,3 +787,30 @@
 - Added a cross-Pillar synergy matrix.
 - Added individual recommendation pages with source, page, verification, and acquisition status.
 - Distinguished source verification from campaign legality and acquisition.
+
+## Aristea Character Sheet — Release Candidate 1
+
+- Added a reproducible parallel character-sheet treatment for Aristea.
+- Preserved all 15 source pages, statistics, tables, and pagination.
+- Introduced cool-blue parchment, silver and navy framing, and blue/silver text accents.
+- Added original wave, icicle, bubble, and ice-crystal filigree.
+- Used Aristea's canonical artwork as a page-one-only watermark at the established standard opacity.
+- Removed source product branding without obscuring character data.
+- Added render-and-verify checks for the first page, dense interior content, and final page.
+
+## Aristea Character Sheet — Release Candidate 2
+
+- Preserved the complete RC1 blue-parchment, silver-border, ice-and-water visual treatment.
+- Rebuilt only page 1 around two independently cropped and scaled Hero Lab information columns.
+- Enlarged the abilities, combat, skills, and language information.
+- Aligned both page-one columns beneath the custom identity header.
+- Preserved RC1 as a separate comparison copy and left pages 2-15 unchanged.
+
+## Demidius Canonical Appearance Update
+
+- Preserved the supplied older approved-look sheet as the canonical tattoo and piercing detail reference.
+- Established metallic-gold rose-and-vine chest tattoos and metallic-gold thorn hand tattoos as permanent visual traits.
+- Established the Eyebrow Piercing of Confidence as a small glowing-purple artifact piercing.
+- Updated Demidius's primary reference art with emerging pink-purple Aphroditean eyes while retaining older blue-eyed art as valid.
+- Updated the project character bible, reader-facing repository summary, notable-figure record, and Wiki pages.
+- Corrected the tattoo map so the sternum and central chest remain bare and the face and neck remain completely untattooed.

@@ -1,10 +1,12 @@
 ---
 title: Demidius Thorne
 status: reader-facing summary
-last_updated: 2026-07-15
+last_updated: 2026-07-23
 ---
 
 # Demidius Thorne
+
+![Demidius Thorne with his gold tattoos, artifact piercing, and emerging Aphroditean eyes](assets/people/demidius-reference-sheet-divine-growth.png)
 
 Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Blessed of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
 
@@ -37,6 +39,16 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Signature ability | Seven-Pipped Gem |
 | Legendary item | Eyebrow Piercing of Confidence |
 | Current long-term arc | Growth toward divinity |
+
+## Appearance
+
+Demidius is a handsome, lean, clean-shaven musetouched aasimar with long dark hair. His default colors are black, silver, crimson, and gold, with Dawnrunner rose, thorn, wing, and fleur-de-lis motifs. He wears a matched pair of elegant, dangling antique-gold earrings shaped as narrow feathered wings in honor of Hermes. His standard outfit includes an ivory-white ruffled shirt worn unbuttoned and low-open beneath his black-and-gold Dawnrunner coat. The ruffles frame the chest opening; he is not shirtless.
+
+His permanent identifying details are metallic-gold rose-and-vine tattoos along the outer upper chest and pectoral edges, metallic-gold thorn tattoos over the backs of his hands and fingers, and the small glowing-purple Eyebrow Piercing of Confidence. The center of his chest and sternum remain bare, and he has no tattoos on his face or neck. As his Aphroditean power grows, his eyes are shifting into a luminous blend of pink and purple.
+
+Older blue-eyed art and earlier approved costumes remain valid historical depictions; they do not need to be retroactively altered.
+
+![Earlier approved looks and the tattoo-and-piercing detail reference](assets/people/demidius-approved-older-looks-tattoo-reference.png)
 
 ## Blessed of Hermes
 

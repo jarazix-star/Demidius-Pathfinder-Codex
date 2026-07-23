@@ -15,7 +15,8 @@ These assets change what the party can attempt at campaign scale. Their value is
 |---|---|---|---|---|
 | Inherited Demiplane | Infrastructure | Time control, healing, permanent HP, headquarters | Active | Loyalty Fatal Flaw; keyed access |
 | Key of Daedalus | Artifact | Universal unlocking and planar corridors | Active; first-use cost incurred | Paranoia; week-long open corridors |
-| Dawnrunner | Galleon and organization | Mobile headquarters and command platform | Active; organization expanding | Officer coverage and campaign-dependent ship rules |
+| Dawnrunner | Galleon and organization | Mobile headquarters, Thorne Knight force, and command platform | Active; organization expanding | Officer coverage and campaign-dependent ship rules |
+| Kiss from a Rose | Hostel and fixed Glistria foothold | Lodging and a permanent local presence | Active; run by simulacra of Demidius and Aristea | Capacity, finances, security, and simulacrum mechanics unrecorded |
 | *Matcha Frappuccino* | Galleon and sister ship | Allied command and fleet capacity | AC 44; HP 1,250; 160 crew; 30 officers; magical upgrades and siege battery | Current assignment and some officer duties not recorded |
 | Deck of Many Things | Major artifact | Extreme-variance strategic reserve | Untouched | Severe unpredictable outcomes |
 | Glasses of Beaumont | Artifact gift | Alignment intelligence and *true seeing* | Active | Limited daily uses |
@@ -44,17 +45,23 @@ The Key can bypass ordinary and magical locks, create three planar corridors per
 
 ## Dawnrunner
 
-The Dawnrunner is a galleon that combines transport, headquarters, symbol of authority, and organizational center. It is the platform through which Epic Leadership becomes a functioning crew, marine force, and officer corps. The roster and an explicitly outdated workbook statistics snapshot are summarized in the [Dawnrunner vessel and crew record](../docs/dawnrunner.md).
+The Dawnrunner is a galleon that combines transport, headquarters, symbol of authority, and organizational center. It is the platform through which Epic Leadership becomes a functioning crew, **Thorne Knight** force, and officer corps. All soldiers aboard the ship bear the title Thorne Knights. The roster and an explicitly outdated workbook statistics snapshot are summarized in the [Dawnrunner vessel and crew record](../docs/dawnrunner.md).
 
 ## Blood of the Lernaean Hydra
 
 Demidius possesses two doses of blood from the true Lernaean Hydra. The supplied account describes ten vials but does not establish whether each vial equals a dose or who holds the remainder. The campaign poison uses DC 40, begins with a save versus death that still deals 1d6 Constitution damage on a success, then deals 2d6 Constitution damage per round for ten rounds and requires three consecutive saves to end. See the [full consumable record](../systems/consumables/BLOOD_OF_THE_LERNAEAN_HYDRA.md) before use.
 
-Its visual identity uses black, silver, and deep crimson with a winged silver fleur-de-lis, roses, and protective thorns. The supplied references establish coordinated officer and sailor uniforms, naval armor variants, and an elite Royal Marine tradition. Exact marine numbers, ranks, training, and equipment statistics remain unrecorded.
+Its visual identity uses black, silver, and deep crimson with a winged silver fleur-de-lis, roses, and protective thorns. The Thorne Knights wear hooded, faceless heavy plate with rib-like chest armor, thorn-wrapped straight swords, tall fleur-de-lis shields, and elaborately embroidered black-and-crimson capes. The older “Royal Marines” wording survives only on historical artwork. Exact Thorne Knight numbers, ranks, training, and equipment statistics remain unrecorded.
 
 Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the specialist crew supplies healing, engineering, artillery, security, music, cooking, and counter-piracy capabilities. Current development priorities include replacing or restoring navigation coverage, defining succession after Aristea's death, and maintaining a chain of command that remains functional when Demidius is absent.
 
 Bix, a chaotic-good male grippli godling of Hermes and Dawnrunner officer, is Demidius's longest-serving follower. His long service makes him a source of continuity and institutional memory aboard the ship. He is newlywed to another crew member and has one red eye and one blue eye. Bix may also be the reincarnation of Demidius's deceased brother, although that possibility is unconfirmed and unknown to Demidius.
+
+Zujuck's proximity turns alcohol into water. The Dawnrunner's dimensional speakeasy gives off-duty crew an extradimensional place to spend saved drink rations outside that proximity. This is a spatial workaround rather than a recorded immunity or suppression effect. The speakeasy's formal name, access method, planar mechanics, capacity, staffing, security, and inventory remain unrecorded.
+
+## Kiss from a Rose
+
+[Kiss from a Rose](../docs/kiss-from-a-rose.md) is a hostel owned by Demidius in a suburb of Glistria. Siopi donated half of the money required to open it. Simulacra of Demidius and Aristea run the hostel while dressed in humble, simple clothing. Its capacity, prices, clientele, income, security, specific suburb, and simulacrum operating details remain unrecorded.
 
 ## Matcha Frappuccino
 

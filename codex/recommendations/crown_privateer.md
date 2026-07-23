@@ -7,7 +7,7 @@
 
 ## Analysis
 
-Extends several paladin auras across all allies on the same ship and can grant sacred bonuses to AC, CMD, and saving throws. This is a strong chassis for Alecia or a dedicated Royal Marine commander if retraining or a new follower is feasible.
+Extends several paladin auras across all allies on the same ship and can grant sacred bonuses to AC, CMD, and saving throws. This is a strong chassis for Alecia or a dedicated Thorne Knight commander if retraining or a new follower is feasible.
 
 ## Pillar Impact
 

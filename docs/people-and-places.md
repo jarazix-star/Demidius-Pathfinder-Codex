@@ -16,7 +16,7 @@ Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and B
 
 ### Amparo Decoris Ignatius
 
-A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, which means they completed two Hestian trials, bear the Advanced simple template, and are recognizable to Hestia's followers as favored. They were born a one-quarter godling of Hestia's bloodline and became a demigod by eating an Apple of Discord. At Tradegulf, Eris named Amparo her future Champion and confirmed that the battle completed Amparo's first Eris trial toward that separate path.
+A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, which means they completed two Hestian trials, bear the Advanced simple template, and are recognizable to Hestia's followers as favored. They were born a one-quarter godling of Hestia's bloodline and became a demigod by eating an Apple of Discord. At Tradegulf, Eris named Amparo her future Champion and confirmed that the battle completed Amparo's first Eris trial toward that separate path. Amparo and the minor goddess Ena share the same father and are half-sisters; their father's identity remains unrecorded.
 
 ### Queen Lidda Beaumont of Nysia
 
@@ -84,15 +84,15 @@ A chaotic-good male grippli godling of Hermes, Dawnrunner officer, newlywed to a
 
 ### Vornix Drazgul
 
-A male kobold petty officer hired by Demidius for the Dawnrunner. Vornix calls Demidius the “great, scaleless, pink lizard.” He proposes a partnership with the Maker's Knot to seize goods from corrupt enterprises, sell them at reduced prices, direct all proceeds to charity and displaced workers, and support honest replacement businesses. He insists that the Dawnrunner be funded separately through ordinary adventures. This remains a proposal rather than an accepted or active policy.
+A male kobold quartermaster and petty officer hired by Demidius for the Dawnrunner. Vornix has bronze-brown scales, amber eyes, a brass-capped brow horn, three brass inventory rings near his tail tip, ink-stained right claws, and a belt of quartermaster's tools. He calls Demidius the “great, scaleless, pink lizard.” He proposes a partnership with the Maker's Knot to seize goods from corrupt enterprises, sell them at reduced prices, direct all proceeds to charity and displaced workers, and support honest replacement businesses. He insists that the Dawnrunner be funded separately through ordinary adventures. This remains a proposal rather than an accepted or active policy.
 
 ### Qarvel Drah'kar
 
-A male sea elf and newer Dawnrunner petty officer hired by Demidius. Qarvel proposes hunting large sea game for trade and hunting pirates, with recovered pirate goods benefiting struggling communities after a 10% acquisition fee for the ship. This remains a proposal rather than an accepted or active policy.
+A male sea elf, siege engineer, and newer Dawnrunner petty officer hired by Demidius. Qarvel proposes hunting large sea game for trade and hunting pirates, with recovered pirate goods benefiting struggling communities after a 10% acquisition fee for the ship. This remains a proposal rather than an accepted or active policy.
 
 ### Zephyra Coralshade
 
-A female sea elf and newer Dawnrunner petty officer hired by Demidius. Zephyra proposes a safe luxury passenger service using paired fares: every passenger paying 500 gp subsidizes one free passenger in need. This remains a proposal rather than an accepted or active policy.
+A female sea elf, siege engineer, and newer Dawnrunner petty officer hired by Demidius. Zephyra proposes a safe luxury passenger service using paired fares: every passenger paying 500 gp subsidizes one free passenger in need. This remains a proposal rather than an accepted or active policy.
 
 ### Aelwyn
 
@@ -106,7 +106,7 @@ Demidius's radiant and enigmatic mother is a musetouched aasimar, an islander, a
 
 ### Fetu’mana
 
-Lorekeeper of the Tagata Fetu, whose name means Star Spirit. Many expected Demidius to inherit Fetu’mana's oracle mantle, but the lorekeeper instead received a vision directing him to seek his siblings.
+Kobold lorekeeper of the Tagata Fetu, whose name means Star Spirit. Many expected Demidius to inherit Fetu’mana's oracle mantle, but the lorekeeper instead received a vision directing him to seek his siblings.
 
 ### Siopi and Paradox
 
@@ -116,7 +116,7 @@ Siopi was Demidius's nonbinary, femininely presenting half-sibling, and Paradox 
 
 ### The Dawnrunner
 
-Demidius's galleon, mobile headquarters, command platform, and the center of an expanding organization of officers, crew, marines, cohorts, and followers. The repository treats the Dawnrunner as both a vehicle and an institution. Its workbook records named specialists in navigation, healing, logistics, artillery, engineering, security, music, food, and counter-piracy. Its supplied visual references establish coordinated black, silver, and crimson uniforms, a winged fleur-de-lis with roses and thorns, naval armor variants, and a Royal Marine tradition. See the [Dawnrunner vessel and crew record](dawnrunner.md).
+Demidius's galleon, mobile headquarters, command platform, and the center of an expanding organization of officers, crew, **Thorne Knights**, cohorts, and followers. The repository treats the Dawnrunner as both a vehicle and an institution. Its workbook records named specialists in navigation, healing, logistics, artillery, engineering, security, music, food, and counter-piracy. All soldiers aboard the Dawnrunner bear the title Thorne Knights. Its supplied visual references establish coordinated black, silver, and crimson uniforms, a winged fleur-de-lis with roses and thorns, and naval armor variants. See the [Dawnrunner vessel and crew record](dawnrunner.md).
 
 ### The Matcha Frappuccino
 
@@ -152,11 +152,15 @@ Queen Lidda Beaumont's seat of rule in Nysia. The Old Nysia map depicts it as a 
 
 ### Glistria
 
-A large fortified coastal city in Old Nysia, east of Tradegulf along the Acis River corridor and beside Alpamyo Mountain. Its detailed map depicts a central Keep, ten named districts or quarters, markets, guild facilities, shrines, gates, parks, workshops, and ruins. Pete, the Dawnrunner's gnome artificer, owns a shop there with portals to both the Dawnrunner and Matcha Frappuccino. Its current government, population, allegiance, and relationship to Arverdon Palace remain unrecorded. See [Glistria](glistria.md).
+A large fortified coastal city in Old Nysia, east of Tradegulf along the Acis River corridor and beside Alpamyo Mountain. Its detailed map depicts a central Keep, ten named districts or quarters, markets, guild facilities, shrines, gates, parks, workshops, and ruins. Pete, the Dawnrunner's gnome shopkeeper and artificer, owns a shop there with portals to both the Dawnrunner and Matcha Frappuccino. Its current government, population, allegiance, and relationship to Arverdon Palace remain unrecorded. See [Glistria](glistria.md).
+
+### Kiss from a Rose
+
+A hostel owned by Demidius in a suburb of Glistria. Siopi donated half of its opening money, and simulacra of Demidius and Aristea run it while dressed humbly. Its specific suburb, capacity, prices, services, security, and financial arrangements remain unrecorded. See [Kiss from a Rose](kiss-from-a-rose.md).
 
 ### Fizz
 
-Fizz is a gnome, a distinct person, and an avatar of Hermes. He has an orange goatee and is in a relationship with Pete, the Dawnrunner's gnome artificer and mystery-box merchant. His other appearance details, pronouns, powers, divine duties, and degree of independence from Hermes remain unrecorded.
+Fizz is a distinctly gnomish separate person and an avatar of Hermes. He has vivid purple hair, a full orange beard and mustache, a short compact build, broad expressive features, a prominent rounded nose, and large lively eyes. He is in a relationship with Pete, the Dawnrunner's gnome shopkeeper, artificer, and mystery-box merchant. His pronouns, powers, divine duties, and degree of independence from Hermes remain unrecorded.
 
 ### Misthold
 
@@ -168,7 +172,7 @@ The world of the campaign, mapped in 150 P.A. Major named lands include Lodingen
 
 ### Motu Leilani and the Tagata Fetu
 
-Motu Leilani, the Heavenly Island, is a secluded island deep in the Isles of Berres where Philomela raised Demidius after their escape from Lodingen. Its people, the Tagata Fetu or People of the Stars, taught Demidius spirit and tribal magic through juju chants and dances.
+Motu Leilani, the Heavenly Island, is a secluded island deep in the Isles of Berres where Philomela raised Demidius after their escape from Lodingen. Its people, the Tagata Fetu or People of the Stars, are kobolds who taught Demidius spirit and tribal magic through juju chants and dances. Demidius and Philomela were the community's only known non-kobold residents.
 
 ### Sounon
 

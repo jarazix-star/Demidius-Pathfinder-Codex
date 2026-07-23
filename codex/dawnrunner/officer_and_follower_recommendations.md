@@ -14,7 +14,7 @@
 
 ### Crown Privateer Paladin
 **Source:** *Advanced Options: Fight Like a Pirate*, PDF pp. 6–7.  
-**Role:** Royal Marine commander or sacred defender.  
+**Role:** Thorne Knight commander or sacred defender.
 **Reason:** Extends paladin auras across the entire ship and grants shared sacred defenses.
 
 ## Tier 2: Strong Specialists

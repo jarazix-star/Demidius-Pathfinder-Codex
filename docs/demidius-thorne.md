@@ -32,7 +32,7 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Family | Philomela Thorne, mother; Smokey Roberts, father; Siopi, Paradox, Aelwyn, Tulip, a deceased brother, and other scattered siblings |
 | Birthplace | Lodingen |
 | Childhood home | Motu Leilani in the Isles of Berres |
-| Strategic base | The Dawnrunner and inherited demiplane |
+| Strategic base | The Dawnrunner, inherited demiplane, and Kiss from a Rose hostel |
 | Signature statistic | Charisma |
 | Signature ability | Seven-Pipped Gem |
 | Legendary item | Eyebrow Piercing of Confidence |
@@ -48,9 +48,9 @@ This status is separate from Demidius's Aphrodite bloodline, demigod rank, and t
 
 Demidius was born in Lodingen. His memories of that period are faint and fragmented: stern figures in ornate armor watched his meals, moods, and dreams and subjected him to repeated tests as though he were a rare specimen. His mother, Philomela Thorne, was distant during this captivity until she fled with him. She later identified their pursuers as the Hellknight Order of the Godclaw but never explained why the order wanted his bloodline.
 
-Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. They lived among the Tagata Fetu, the People of the Stars, and at last became close. Philomela told him that Aphrodite was his great-grandmother and that her divine blood ran through him.
+Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. They lived among the kobold Tagata Fetu, the People of the Stars, as the community's only known non-kobold residents, and at last became close. Philomela told him that Aphrodite was his great-grandmother and that her divine blood ran through him.
 
-Among the Tagata Fetu, Demidius learned spirit and tribal magic through their juju chants and dances. His aptitude led many to believe he would succeed Fetu’mana, the tribe's lorekeeper, as oracle. Fetu’mana instead received a vision that Demidius's destiny required him to leave Motu Leilani and find his scattered siblings.
+Among the Tagata Fetu, Demidius learned spirit and tribal magic through their juju chants and dances. His aptitude led many to believe he would succeed Fetu’mana, the tribe's kobold lorekeeper, as oracle. Fetu’mana instead received a vision that Demidius's destiny required him to leave Motu Leilani and find his scattered siblings.
 
 Philomela revealed that she had hidden the craft that originally carried her to the island and gave Demidius what knowledge she possessed about some of his kin. Demidius departed ten years before the present account. Since then, charm and wit have protected him more often than his blade. He recently recovered a long-lost vessel that had vanished at sea a decade earlier and continues searching the Isles for Siopi, Paradox, and other unknown siblings while the Godclaw remains a threat. The backstory does not explicitly identify the recovered vessel as the Dawnrunner.
 
@@ -63,6 +63,8 @@ Published Order of the Godclaw oracles can draw obedience benefits from several 
 Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuccino*, is Demidius's paternal half-sister: both are children of Pirate King Smokey Roberts. The history of their relationship has not yet been recorded.
 
 Philomela Thorne is Demidius's mother, a musetouched aasimar islander, and a demigod of Aphrodite, while Smokey Roberts is his distant and mysterious father. Siopi and Paradox were both children of Smokey Roberts and former party members; Siopi was Demidius's nonbinary half-sibling and Paradox his half-brother. Both are now deceased, with the circumstances of their deaths unrecorded. Paradox had seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
+
+Siopi also donated half of the money required to open [Kiss from a Rose](kiss-from-a-rose.md), Demidius's hostel in a suburb of Glistria. Simulacra of Demidius and Aristea now operate it in humble clothing.
 
 ## Romantic history
 

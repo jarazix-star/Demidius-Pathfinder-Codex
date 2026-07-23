@@ -1,5 +1,105 @@
 # Change Log
 
+## Dawnrunner dimensional speakeasy - 2026-07-23
+
+- Confirmed that Dawnrunner drink rations can be saved and spent while off duty; the exact one-ration-per-meal allowance remains provisional.
+- Added an extradimensional speakeasy where crew can use those rations beyond Zujuck's alcohol-to-water proximity effect.
+- Preserved the speakeasy's name, access method, planar mechanics, capacity, staffing, security, inventory, and guest rules as unrecorded.
+
+## Thorne Knight canonical visual model - 2026-07-23
+
+- Adopted the supplied hooded, faceless heavy-plate miniature as the canonical Thorne Knight armor model.
+- Recolored the design in Dawnrunner raven black, silver, deep crimson, dark rose, and restrained brass.
+- Added detailed cape heraldry featuring a winged silver fleur-de-lis, embroidered thorn vines, and crimson roses.
+- Added a new reference sheet to the main repository, wiki, and authorized Dawnrunner art library while preserving all seven grayscale source views.
+
+## Dawnrunner shipboard conduct policy - 2026-07-23
+
+- Added the on-duty prohibition against rum and any drugs and confirmed unrestricted shore leave.
+- Recorded the possible one-alcohol-ration-per-meal system as provisional, including the ability to save rations for off-duty use.
+- Added the escalating discipline scale: docked pay, grounds for dismissal, then dismissal.
+
+## Thorne Knights and Kiss from a Rose - 2026-07-23
+
+- Established **Thorne Knights** as the canonical title for every soldier aboard the Dawnrunner, superseding the “Royal Marines” wording retained on older artwork.
+- Added **Kiss from a Rose**, Demidius's hostel in a suburb of Glistria, and recorded Siopi's donation of half its opening money.
+- Recorded the hostel's humble simulacra of Demidius and Aristea, added unique location artwork, and linked the new page across character, city, roster, and strategic-asset records.
+
+## Pete gnome shopkeeper reference sheet - 2026-07-23
+
+- Replaced Pete's human-looking reference art with an unmistakably adult male gnome.
+- Added his artificer tools, merchant equipment, Glistria storefront, ship portals, and signature surprise boxes while preserving Dawnrunner heraldry.
+
+## Fizz gnomish appearance revision - 2026-07-23
+
+- Changed Fizz's hair to vivid purple and replaced the small goatee with a full orange beard and mustache.
+- Revised his proportions and facial features to read unmistakably as an adult fantasy gnome while preserving the Hermes workshop scene.
+
+## Gideon bow-arm anatomy correction - 2026-07-23
+
+- Repaired the disconnected bow hands in Gideon's large front and side standing views.
+- Audited the remaining bow poses and stored the corrected reference sheet as version 3.
+
+## Pete shopkeeper assignment - 2026-07-23
+
+- Confirmed Pete as the Dawnrunner's shopkeeper while preserving his petty-officer, artificer, merchant, and mystery-box roles.
+- Updated his profile, vessel and party rosters, Glistria references, and workbook-reconciliation note.
+
+## Vornix Drazgul visual identity and quartermaster sheet - 2026-07-22
+
+- Established Vornix's bronze-brown scales, amber eyes, brass-capped horn, three brass tail rings, ink-stained right claws, and quartermaster's tool belt.
+- Added a premium Dawnrunner reference sheet with turnarounds, detail panels, duty variants, inventory tools, and a cargo-inspection vignette.
+
+## Vornix Drazgul quartermaster assignment - 2026-07-22
+
+- Confirmed Vornix Drazgul as the Dawnrunner's quartermaster.
+- Replaced stale unresolved-duty language across his profile, crew rosters, vessel record, and workbook reconciliation.
+
+## Gideon archer-bard profile and corrected artwork - 2026-07-22
+
+- Confirmed Gideon as a male archer-bard who plays his bowstring like a harp; recorded blond hair as probable.
+- Added an anatomically corrected Dawnrunner reference sheet with a naturally connected bow arm and no separate harp.
+
+## Qarvel and Zephyra siege-engineer assignments - 2026-07-22
+
+- Confirmed Qarvel Drah'kar and Zephyra Coralshade as Dawnrunner siege engineers.
+- Updated their profiles, crew rosters, and workbook-reconciliation notes while preserving still-unrecorded class, level, and crew-share details.
+
+## Dawnrunner Elite assignments - 2026-07-22
+
+- Confirmed that Gideon and Crystal work as Elites aboard the Dawnrunner.
+- Retained their petty-officer status while replacing the unresolved duty field with Elite.
+- Updated their individual profiles, the Dawnrunner roster, party roster, workbook-extraction note, and durable campaign records.
+- Preserved the specific responsibilities of the Elite role as unrecorded.
+
+## Amparo and Ena family correction - 2026-07-22
+
+- Removed the incorrect claim that Amparo and Ena were related through marriage.
+- Confirmed that Amparo and Ena share the same father and are half-sisters.
+- Reconciled the correction across Amparo, Binky, divine-faction, notable-figure, and people-and-places records.
+- Preserved the shared father's identity and both maternal branches as unrecorded.
+
+## Tagata Fetu anatomy and spirit-art correction - 2026-07-22
+
+- Corrected duplicated and fused arms in the Tagata Fetu ceremony artwork.
+- Simplified the ritual poses so each kobold has exactly two clearly readable arms.
+- Replaced the human-shaped spirits with one kobold ancestor and one constellation-like dragon spirit.
+- Added version 3 to both the canonical main repository and wiki workspace.
+
+## Tagata Fetu kobold canon correction - 2026-07-22
+
+- Confirmed the Tagata Fetu as a kobold people and Fetu’mana as a kobold lorekeeper.
+- Recorded Demidius and Philomela as the community's only known non-kobold residents.
+- Corrected the Tagata Fetu gathering and Fetu’mana portrait so their artwork matches campaign canon.
+- Reconciled the correction across Demidius's backstory, campaign setting, people-and-places records, wiki pages, and durable project memory.
+
+## Aphrodite portrait revision - 2026-07-22
+
+- Reworked Aphrodite's campaign portrait so she reads unmistakably as a powerful adult woman.
+- Replaced the masculine-looking scale cuirass with an elegant pearl-and-gold Grecian bodice and sea-foam gown.
+- Preserved her rose-pink hair, warm brown skin, pearls, roses, sea foam, flotsam, shipwrecks, cosmic sky, single blade, and Hades-inspired mythological presentation.
+- Added a versioned asset to both the canonical main repository and wiki workspace to avoid stale image caching.
+
 ## Complete wiki art coverage - 2026-07-22
 
 - Audited all 191 wiki pages for missing and reused lead artwork.

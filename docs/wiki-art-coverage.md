@@ -1,8 +1,8 @@
 # Wiki Art Coverage Audit
 
-Audit date: 2026-07-22
+Audit date: 2026-07-23
 
-The campaign wiki was reviewed page by page for visual coverage. Every substantive page now has at least one image, while the reference and administrative sections remain intentionally text-only. Existing artwork was retained when it already gave a page its own visual identity. Twenty-nine new page-specific illustrations were added where art was missing or an overview page reused another page's lead image.
+The campaign wiki was reviewed page by page for visual coverage. Every substantive page now has at least one image, while the reference and administrative sections remain intentionally text-only. Existing artwork was retained when it already gave a page its own visual identity. Thirty new page-specific illustrations were added where art was missing or an overview page reused another page's lead image.
 
 All new artwork was generated in built-in image-generation mode and is mirrored under `docs/assets/` in this repository and `images/` in the wiki repository.
 
@@ -21,10 +21,11 @@ All new artwork was generated in built-in image-generation mode and is mirrored 
 | Divine Progression Engine | `docs/assets/engines/divine-progression.png` | Staged ascent from godling blood to apotheosis |
 | Fatal Flaw Catalog | `docs/assets/systems/fatal-flaw-catalog.png` | Lorekeeper's ledger filled with supernatural flaw sigils |
 | Fatal Flaws | `docs/assets/systems/fatal-flaws.png` | Four heroes visibly carrying the costs of divine power |
-| Fetu'mana | `docs/assets/characters/fetumana.png` | Island lorekeeper beneath a star-filled sky |
+| Fetu'mana | `docs/assets/characters/fetumana-v2.png` | Elderly kobold lorekeeper beneath a star-filled sky |
 | Godling Bloodlines | `docs/assets/systems/godling-bloodlines.png` | Luminous divine family tree branching through mortals |
 | Hellknight Order of the Godclaw | `docs/assets/factions/hellknight-order-godclaw.png` | Authoritarian Hellknights examining a divine-blooded child |
 | Kaelen Thorne | `docs/assets/characters/kaelen-thorne.png` | Elven druid listening to the forest beside one beaver |
+| Kiss from a Rose | `docs/assets/locations/kiss-from-a-rose-hostel.png` | Humble simulacra of Demidius and Aristea welcoming travelers in a warm suburban hostel |
 | Motu Leilani | `docs/assets/locations/motu-leilani.png` | Lush Heavenly Island and secluded coastal settlement |
 | Odysseus | `docs/assets/characters/odysseus.png` | Hard-eyed tactical rogue studying a sea chart and sabotage plan |
 | Pat | `docs/assets/characters/pat-eris-revelation.png` | Pat's transformation into Eris after Declan's fall |
@@ -33,7 +34,7 @@ All new artwork was generated in built-in image-generation mode and is mirrored 
 | Risk Management Engine | `docs/assets/engines/risk-management.png` | The party planning around dangerous choices and consequences |
 | Sly | `docs/assets/characters/sly.png` | Identity-obscured memorial portrait for Declan's fallen lieutenant |
 | Stormspire | `docs/assets/locations/stormspire.png` | Floating city arrested above the sea by controlled weather |
-| Tagata Fetu | `docs/assets/factions/tagata-fetu.png` | Island community gathered for a star-lit juju ceremony |
+| Tagata Fetu | `docs/assets/factions/tagata-fetu-v3.png` | Kobold community consulting a kobold ancestor and constellation dragon during a star-lit juju ceremony |
 | The Storm King | `docs/assets/characters/storm-king.png` | Storm giant ruler above his floating city |
 | Artifacts and Divine Gifts | `docs/assets/artifacts/artifacts-reliquary-overview.png` | Campaign reliquary giving the index its own overview image |
 | Gods and Divine Factions | `docs/assets/factions/divine-factions-schism.png` | Divine factions arrayed against one another after the Schism |

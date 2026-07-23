@@ -7,7 +7,7 @@
 
 ## Analysis
 
-Provides inspire courage and upgrades banner effects through a pennant flown from the ship. Its defining value is that the ship itself becomes the support platform. It is ideal for a senior follower, marine commander, or formal Dawnrunner officer.
+Provides inspire courage and upgrades banner effects through a pennant flown from the ship. Its defining value is that the ship itself becomes the support platform. It is ideal for a senior follower, Thorne Knight commander, or formal Dawnrunner officer.
 
 ## Pillar Impact
 

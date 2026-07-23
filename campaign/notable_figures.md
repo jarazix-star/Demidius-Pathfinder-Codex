@@ -17,11 +17,11 @@ Charisma-centered oracle, mythic controller, captain, party face, demigod, and B
 
 **Key relationships:** patronage from Hermes; alliance or gift relationship with Queen Beaumont; loyalty relationship with Aristea through the inherited demiplane; heir to his deceased brother's demiplane.
 
-Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts. Philomela fled with him from the Hellknight Order of the Godclaw and raised him among the Tagata Fetu on Motu Leilani. Ten years before the present account, the lorekeeper Fetu’mana received a vision sending Demidius to search for scattered siblings including Siopi and Paradox.
+Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts. Philomela fled with him from the Hellknight Order of the Godclaw and raised him among the kobold Tagata Fetu on Motu Leilani; mother and son were the community's only known non-kobold residents. Ten years before the present account, the kobold lorekeeper Fetu’mana received a vision sending Demidius to search for scattered siblings including Siopi and Paradox.
 
 ## Amparo Decoris Ignatius
 
-A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, meaning they completed two Hestian trials, Hestia's followers can sense the god's favor upon them, and they possess the Advanced simple template. The details of those Hestian trials remain unrecorded. Amparo was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future Champion and confirmed that Amparo had completed a first Eris trial by helping sow discord into the world. Whether Amparo knowingly accepted that path remains unrecorded.
+A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, meaning they completed two Hestian trials, Hestia's followers can sense the god's favor upon them, and they possess the Advanced simple template. The details of those Hestian trials remain unrecorded. Amparo was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future Champion and confirmed that Amparo had completed a first Eris trial by helping sow discord into the world. Whether Amparo knowingly accepted that path remains unrecorded. Amparo and the minor goddess Ena share the same father and are half-sisters; their father's identity remains unrecorded.
 
 ## Queen Lidda Beaumont of Nysia
 

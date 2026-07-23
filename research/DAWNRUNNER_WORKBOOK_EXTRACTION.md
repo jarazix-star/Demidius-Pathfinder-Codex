@@ -12,7 +12,7 @@ The workbook identifies Demidius and Roy as major officers, Aristea as a half-sh
 
 The named roster is Demidius, Roy, Aristea, Pete, Bix, Lilly, Zujuck, Alecia, Unni, Erika, Shas, Zel, Matthias, Rurd, Jenqa the Green Revenger, Binky, Crystal, and Gideon. An additional incomplete row records an unnamed paladin of Hermes and is not treated as a distinct confirmed character.
 
-**Post-workbook reconciliation:** Vornix Drazgul was later confirmed directly by the user as a male kobold petty officer hired by Demidius. Qarvel Drah'kar and Zephyra Coralshade were later confirmed as newer sea elf petty officers. None is present in the extracted named roster. Their shares, classes, levels, duties, and whether they correspond to any of the workbook's unnamed petty-officer entries remain unknown; the workbook counts therefore have not been silently altered.
+**Post-workbook reconciliation:** Vornix Drazgul was later confirmed directly by the user as a male kobold petty officer, personally hired by Demidius, who serves as the Dawnrunner's quartermaster. Qarvel Drah'kar and Zephyra Coralshade were later confirmed as newer sea elf petty officers and siege engineers. None is present in the extracted named roster. Their shares, classes, levels, and whether they correspond to any of the workbook's unnamed petty-officer entries remain unknown. The workbook counts therefore have not been silently altered.
 
 Full narrative backgrounds are present for Alecia, Unni, Erika, Shas, Zel, Matthias, Rurd, and Jenqa. Partial identity or role records are present for the remaining named crew.
 
@@ -24,6 +24,12 @@ Full narrative backgrounds are present for Alecia, Unni, Erika, Shas, Zel, Matth
 - Recorded Roy's Hestia worship, level, and morale role from the workbook without inferring a divine bloodline.
 - Treated ship statistics and bookkeeping as a dated snapshot rather than immutable setting facts. Demidius's 2026-07-22 sheet records Profession (sailor) +113. Under the workbook formulas, that produces AC 116 and saves 57 at or above minimum crew, with the half modifier rounded down. The workbook's AC 91 and saves 45 reflect the older +88 modifier.
 - Did not invent missing details for Pete, Crystal, Gideon, or the unnamed paladin.
+
+**Later Pete reconciliation:** Pete was subsequently confirmed by the user as the Dawnrunner's shopkeeper. This duty was not inferred from the workbook and does not alter the extracted roster or share counts.
+
+## Later user-confirmed role correction
+
+Crystal and Gideon work as **Elites** aboard the Dawnrunner. This role was confirmed after the workbook extraction; their specific Elite responsibilities remain unrecorded. Gideon was later confirmed as a male archer-bard who plays his bowstring like a harp; his blond hair remains probable rather than certain.
 
 ## Workbook inconsistencies and cautions
 

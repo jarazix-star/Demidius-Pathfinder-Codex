@@ -44,11 +44,11 @@ After the fall of the Titans, the Olympian Council banned *The Mother's Lament*.
 
 ### Philomela escapes Lodingen with Demidius
 
-During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the Tagata Fetu on Motu Leilani.
+During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the kobold Tagata Fetu on Motu Leilani as the community's only known non-kobold residents.
 
 ### Demidius leaves Motu Leilani
 
-Ten years before the present account, the Tagata Fetu lorekeeper Fetu’mana received a vision that Demidius must leave the island and seek his scattered siblings. Philomela revealed the craft she had hidden and entrusted him with what she knew of some of his kin. Demidius began searching the Isles for Siopi, Paradox, and others still unknown.
+Ten years before the present account, the kobold Tagata Fetu lorekeeper Fetu’mana received a vision that Demidius must leave the island and seek his scattered siblings. Philomela revealed the craft she had hidden and entrusted him with what she knew of some of his kin. Demidius began searching the Isles for Siopi, Paradox, and others still unknown.
 
 ### Demidius recovers a long-lost vessel
 

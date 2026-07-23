@@ -108,7 +108,7 @@ Siege Engineer grants proficiency with all siege weapons and prevents ordinary n
 
 ### 13. Cannon, ammunition, and boarding rules can enrich Dawnrunner combat
 
-*Ultimate Combat* provides cannon construction and misfire rules, blast shot and alchemical ammunition, vehicle-mounted siege procedures, and the corvus boarding bridge. A corvus can attach moving vessels after an opposed driving check, creating a concrete boarding tactic for the Dawnrunner's marines.
+*Ultimate Combat* provides cannon construction and misfire rules, blast shot and alchemical ammunition, vehicle-mounted siege procedures, and the corvus boarding bridge. A corvus can attach moving vessels after an opposed driving check, creating a concrete boarding tactic for the Dawnrunner's Thorne Knights.
 
 **Source:** *Ultimate Combat* (PZO1118), PDF pp. 163–166 / printed pp. 162–165.
 

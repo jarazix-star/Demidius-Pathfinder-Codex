@@ -14,9 +14,9 @@ Philomela seemed distant during that period until she spirited him away. Demidiu
 
 ## Motu Leilani
 
-Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. Its lush shores and endless skies were home to the Tagata Fetu, the People of the Stars. Mother and son became close there.
+Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. Its lush shores and endless skies were home to the kobold Tagata Fetu, the People of the Stars. Demidius and Philomela were the community's only known non-kobold residents, and mother and son became close there.
 
-Philomela revealed that Aphrodite was Demidius's great-grandmother and that her divine blood flowed through him. Among the Tagata Fetu, Demidius learned spirit and tribal magic through juju chants and dances. His natural aptitude led many to expect that he would inherit the mantle of oracle from Fetu’mana, the tribe's lorekeeper and Star Spirit.
+Philomela revealed that Aphrodite was Demidius's great-grandmother and that her divine blood flowed through him. Among the Tagata Fetu, Demidius learned spirit and tribal magic through juju chants and dances. His natural aptitude led many to expect that he would inherit the mantle of oracle from Fetu’mana, the tribe's kobold lorekeeper and Star Spirit.
 
 ## The vision and departure
 

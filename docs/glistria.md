@@ -36,7 +36,9 @@ The supplied image is cropped along parts of its southern and western edges. It 
 
 Other named businesses include Thilymneus' Masonry, Parthesim's Pottery, the Yellow Tankard, the Hooded Jester, the Flickering Candle, the Cracked Chalice, Potent Potables, the Curious Crone, the Broken Sword, Posima's Forge, and Demon's Carvings.
 
-Pete, a male gnome artificer and petty officer of the Dawnrunner, owns a shop somewhere in Glistria. He sells mystery boxes to the crews in every port, with Demidius as his best customer. The shop contains portals to both the Dawnrunner and Matcha Frappuccino. Its name, district, mapped building, portal mechanics, and security remain unrecorded.
+Pete, the male gnome shopkeeper, artificer, and petty officer of the Dawnrunner, owns a shop somewhere in Glistria. He sells mystery boxes to the crews in every port, with Demidius as his best customer. The shop contains portals to both the Dawnrunner and Matcha Frappuccino. Its name, district, mapped building, portal mechanics, and security remain unrecorded.
+
+[Kiss from a Rose](kiss-from-a-rose.md) is a hostel owned by Demidius in an unrecorded suburb of Glistria. Siopi donated half of the money required to open it, and simulacra of Demidius and Aristea run it in humble clothing.
 
 ## Unresolved campaign details
 

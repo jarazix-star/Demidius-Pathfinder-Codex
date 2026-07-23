@@ -1,7 +1,7 @@
 ---
 title: Dawnrunner
 status: reader-facing vessel and crew record
-last_updated: 2026-07-22
+last_updated: 2026-07-23
 ---
 
 # Dawnrunner
@@ -32,13 +32,47 @@ The fifteen named quarter-share petty officers are Pete, Bix, Lilly, Zujuck, Ale
 - **Rurd:** level 7 lawful-good gnome wizard of Hephaestus and engineer funding exotic magical experiments.
 - **Jenqa:** level 10 lawful-good/lawful-neutral goblin of Athena devoted to eradicating piracy through infiltration, sabotage, and lethal action.
 - **Binky:** goblin siege engineer, gun chemist, cannon specialist, and Blessed of Ena. Her title establishes two completed trials for Ena, the Advanced simple template, and favor recognizable to Ena's followers; the individual trials remain unrecorded.
-- **Pete:** male gnome, skilled artificer, mystery-box merchant, and named petty officer. He sells mystery boxes to the crew in every port, and Demidius is his best customer. Pete owns a shop in Glistria with portals to both the Dawnrunner and Matcha Frappuccino. He is in a relationship with Fizz, an avatar of Hermes. His level, class mechanics, exact shipboard duty, and portal operating rules remain unrecorded.
-- **Crystal and Gideon:** named petty officers whose duties are not yet recorded; Crystal worships Artemis and Gideon worships Apollo.
-- **Vornix Drazgul:** male kobold petty officer hired by Demidius. Vornix advocates working with the Maker's Knot to raid proven corrupt businesses, sell the seized goods cheaply, and donate every coin of proceeds to charity and displaced workers. He insists that ordinary adventuring, not charitable seizures, must fund the Dawnrunner. His level, class, duty, and crew share are unrecorded, and the workbook does not establish whether he was included among its unnamed petty-officer entries.
-- **Qarvel Drah'kar:** male sea elf and one of Demidius's newer petty officers. Qarvel proposes hunting large sea game for merchant goods and hunting pirates. Goods recovered from pirates would go to struggling communities after the Dawnrunner retains a 10% acquisition fee. His level, class, duty, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
-- **Zephyra Coralshade:** female sea elf and one of Demidius's newer petty officers. Zephyra supports Demidius's new hiring practices and Pete's suggestions, and proposes a secure luxury passenger service in which each 500-gp fare subsidizes one free passenger in need. Her 300-passenger example means 150 paying and 150 free passengers, producing 75,000 gp in gross fares before expenses. Her level, class, duty, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
+- **Pete:** Dawnrunner shopkeeper, male gnome, skilled artificer, mystery-box merchant, and named petty officer. He sells mystery boxes to the crew in every port, and Demidius is his best customer. Pete owns a shop in Glistria with portals to both the Dawnrunner and Matcha Frappuccino. He is in a relationship with Fizz, an avatar of Hermes. His level, class mechanics, and portal operating rules remain unrecorded.
+- **Crystal and Gideon:** named petty officers who work as Elites aboard the Dawnrunner; Crystal worships Artemis and Gideon worships Apollo. Gideon is a male archer-bard, probably blond, who plays his bowstring like a harp. His exact class split and their specific Elite responsibilities remain unrecorded.
+- **Vornix Drazgul:** male kobold quartermaster and petty officer hired by Demidius. He has bronze-brown scales, amber eyes, one brass-capped brow horn, three brass inventory rings near the tip of his tail, ink-stained right claws, and a belt cluster of ship keys, wax seals, tally tools, and a ledger satchel. Vornix advocates working with the Maker's Knot to raid proven corrupt businesses, sell the seized goods cheaply, and donate every coin of proceeds to charity and displaced workers. He insists that ordinary adventuring, not charitable seizures, must fund the Dawnrunner. His level, class, and crew share are unrecorded, and the workbook does not establish whether he was included among its unnamed petty-officer entries.
+- **Qarvel Drah'kar:** male sea elf, siege engineer, and one of Demidius's newer petty officers. Qarvel proposes hunting large sea game for merchant goods and hunting pirates. Goods recovered from pirates would go to struggling communities after the Dawnrunner retains a 10% acquisition fee. His level, class, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
+- **Zephyra Coralshade:** female sea elf, siege engineer, and one of Demidius's newer petty officers. Zephyra supports Demidius's new hiring practices and Pete's suggestions, and proposes a secure luxury passenger service in which each 500-gp fare subsidizes one free passenger in need. Her 300-passenger example means 150 paying and 150 free passengers, producing 75,000 gp in gross fares before expenses. Her level, class, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
 
 The workbook also records fourteen one-eighth-share petty officers and fifteen general crew of approximately 3rd level without names.
+
+## Thorne Knights
+
+![Canonical Thorne Knight armor and heraldry reference](assets/dawnrunner/thorne-knights-reference-sheet.png)
+
+All soldiers serving aboard the Dawnrunner bear the title **Thorne Knights**. The supplied black, silver, and crimson shipboard-soldier artwork was originally labeled “Dawnrunner Royal Marines”; that label is retained only as the source artwork's historical wording. **Thorne Knights** is the canonical in-world title.
+
+The supplied grayscale miniature establishes their canonical armor model: a deep hood over a narrow faceted full-face helmet, layered rib-like chest armor, heavy asymmetrical plate, a long straight sword wrapped in sculpted thorns, and a tall pavise-like shield bearing a raised winged fleur-de-lis within thorn branches.
+
+In service, this equipment uses the Dawnrunner palette. Armor, leather, and the cape exterior are raven black; edges and heraldry are silver; cloth panels and cape lining are deep crimson; and restrained brass fittings add warmth. The cape is richly detailed with a large silver winged fleur-de-lis, silver thorn-vine embroidery, and dark crimson roses concentrated around the hem and shoulders.
+
+The reference represents the shared Thorne Knight equipment and uniform rather than the identity, ancestry, or gender of a single soldier.
+
+Their exact numbers, ranks, command structure, training, weapons, armor statistics, and relationship to the ordinary crew remain unrecorded.
+
+## Shipboard conduct rules
+
+The Dawnrunner prohibits rum and any drugs while a crew member is on duty. The ship places no blanket restriction on shore leave. No exception for medicine or other therapeutic use has yet been recorded.
+
+The Dawnrunner uses drink rations that crew members may save and spend while off duty. The exact allowance of **one alcohol ration per meal remains provisional rather than final**. The record does not yet establish whether saved rations expire, may be transferred, or are subject to a storage limit.
+
+### Dimensional speakeasy
+
+Because all alcohol in Zujuck's proximity becomes water, the Dawnrunner provides access to an extradimensional off-duty drinking space—a dimensional “speakeasy”—where crew members can redeem or spend their saved drink rations beyond the reach of his proximity effect.
+
+The speakeasy's formal name, entrance, location relative to the ship, creator, planar nature, capacity, staff, inventory, security, opening hours, and rules for guests remain unrecorded. Its confirmed purpose is to let off-duty crew use their drink rations without Zujuck turning the alcohol into water.
+
+| Recorded infraction | Consequence |
+|---|---|
+| First | Docked pay; the amount or duration is not yet recorded |
+| Second | Grounds for dismissal; dismissal is permitted but not automatic |
+| Third | Dismissal |
+
+The disciplinary scale applies to violations of the shipboard alcohol-and-drug policy. Adjudicating authority, appeal procedure, treatment or rehabilitation options, and treatment of other kinds of misconduct remain unrecorded.
 
 ## Ship-statistics snapshot
 

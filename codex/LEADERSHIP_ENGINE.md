@@ -5,7 +5,17 @@
 - Epic Leadership is active.
 - Demidius's reported Leadership score is 49.
 - Campaign items multiply followers by x3.
-- The Dawnrunner has officers, crew, marines, and an expanding organization.
+- The Dawnrunner has officers, crew, Thorne Knights, and an expanding organization.
+
+## Dawnrunner conduct policy
+
+- No rum or any drugs while on duty; no medical exception has yet been recorded.
+- No blanket restriction on shore leave.
+- Drink rations may be banked and spent while off duty; the exact allowance of one ration per meal remains provisional.
+- A dimensional speakeasy lets off-duty crew spend rations outside Zujuck's alcohol-to-water proximity effect.
+- First policy infraction docks pay.
+- A second infraction creates grounds for dismissal.
+- A third infraction results in dismissal.
 
 ## High-value options
 

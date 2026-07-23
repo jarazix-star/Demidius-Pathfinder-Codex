@@ -20,7 +20,7 @@ The world map records Lodingen, Drozag, Yusia and Mount Olympus, Teecen, Yalta, 
 
 ## The Isles of Berres and the Shipbreaker Sea
 
-Motu Leilani, the Heavenly Island, is a secluded island deep within the Isles and the childhood home of Demidius Thorne. The Tagata Fetu sheltered Demidius and his mother Philomela there after their escape from Lodingen. Its precise location and navigation route remain unrecorded.
+Motu Leilani, the Heavenly Island, is a secluded island deep within the Isles and the childhood home of Demidius Thorne. The kobold Tagata Fetu sheltered Demidius and his mother Philomela there after their escape from Lodingen; mother and son were the community's only known non-kobold residents. Its precise location and navigation route remain unrecorded.
 
 Poseidon is patron of the Isles. Approximately five hundred years ago, he cursed the Shipbreaker Sea so ordinary compasses and navigational tools fail. Clouds cover the stars and moon every night, preventing conventional nighttime celestial navigation.
 

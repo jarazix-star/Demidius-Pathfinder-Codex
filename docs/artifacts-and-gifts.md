@@ -37,6 +37,7 @@ It also increases the DC of every Fatal Flaw by 5. The item embodies the campaig
 
 Hermes's gift can quicken a spell as a free action three times per day and add +5 to the save DC of one spell once per day. The free-action wording is crucial because it preserves Demidius's swift action. The DC increase belongs on a spell that can decide the encounter, after immunities and protections have been checked or removed.
 
+
 ## Key of Daedalus
 
 The brass key can open any mundane or magical lock as a full-round action; godly magical locks require a spell-penetration check. Three times per day it creates an extradimensional corridor to a previously visited plane and location. A corridor lasts one week and is not selective: anyone or anything can use it.

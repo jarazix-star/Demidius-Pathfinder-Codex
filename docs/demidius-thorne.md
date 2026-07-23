@@ -38,13 +38,18 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Signature statistic | Charisma |
 | Signature ability | Seven-Pipped Gem |
 | Legendary item | Eyebrow Piercing of Confidence |
+| Magic item | Hermes’ Earrings of Arcane Refrain; grants Quicken Spell, Reach Spell, and Selective Spell |
 | Current long-term arc | Growth toward divinity |
 
 ## Appearance
 
-Demidius is a handsome, lean, clean-shaven musetouched aasimar with long dark hair. His default colors are black, silver, crimson, and gold, with Dawnrunner rose, thorn, wing, and fleur-de-lis motifs. He wears a matched pair of elegant, dangling antique-gold earrings shaped as narrow feathered wings in honor of Hermes. His standard outfit includes an ivory-white ruffled shirt worn unbuttoned and low-open beneath his black-and-gold Dawnrunner coat. The ruffles frame the chest opening; he is not shirtless.
+Demidius is a handsome, lean, clean-shaven musetouched aasimar with long dark hair. His default colors are black, silver, crimson, and gold, with Dawnrunner rose, thorn, wing, and fleur-de-lis motifs. He wears [Hermes’ Earrings of Arcane Refrain](../systems/magic_items/HERMES_EARRINGS_OF_ARCANE_REFRAIN.md), a matched pair with sculpted gold wing fittings and elongated faceted sapphire-blue crystal drops in slender pointed gold frames. The drops hang beside the neck without crossing his cheek or jaw. His standard outfit includes an ivory-white ruffled shirt worn unbuttoned and low-open beneath his black-and-gold Dawnrunner coat. The ruffles frame the chest opening; he is not shirtless.
 
 His permanent identifying details are metallic-gold rose-and-vine tattoos along the outer upper chest and pectoral edges, metallic-gold thorn tattoos over the backs of his hands and fingers, and the small glowing-purple Eyebrow Piercing of Confidence. The center of his chest and sternum remain bare, and he has no tattoos on his face or neck. As his Aphroditean power grows, his eyes are shifting into a luminous blend of pink and purple.
+
+## Magic items
+
+- **[Hermes’ Earrings of Arcane Refrain](../systems/magic_items/HERMES_EARRINGS_OF_ARCANE_REFRAIN.md):** grants **Quicken Spell**, **Reach Spell**, and **Selective Spell** while worn.
 
 Older blue-eyed art and earlier approved costumes remain valid historical depictions; they do not need to be retroactively altered.
 

@@ -46,6 +46,14 @@ After the fall of the Titans, the Olympian Council banned *The Mother's Lament*.
 
 During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw. The order was attempting to elevate an Athena-descended demigod into a new god of war loyal to the Godclaw. It targeted Athena's demigod son Smokey Roberts and used attractive women to produce children it could exploit for the project; Demidius and Paradox were confirmed results. Whether Smokey, the women, or Athena knew the true purpose remains unrecorded. Philomela and Demidius found refuge among the kobold Tagata Fetu on Motu Leilani as the community's only known non-kobold residents.
 
+### Paradox escapes the Godclaw
+
+Paradox was raised and invasively tested by the Godclaw. His mother, the daughter of a Godclaw captain, conspired with Lodingen rebels for months before escaping with Paradox aboard a smuggling ship. Her father intercepted and destroyed the ship without knowing they were aboard. Paradox survived through an unexplained natural affinity for the sea and was rescued by smugglers led by a wayang shadow master, who taught him shadow magic. His mother's fate remains unconfirmed.
+
+### Paradox and Siopi are lost to the kraken
+
+As an adult, Paradox found his half-sibling Siopi and sailed with them. A kraken destroyed their vessel. They later awoke with the current party on Sounon after apparently spending ten years in magical stasis.
+
 ### Demidius leaves Motu Leilani
 
 Ten years before the present account, the kobold Tagata Fetu lorekeeper Fetu’mana received a vision that Demidius must leave the island and seek his scattered siblings. Philomela revealed the craft she had hidden and entrusted him with what she knew of some of his kin. Demidius began searching the Isles for Siopi, Paradox, and others still unknown.

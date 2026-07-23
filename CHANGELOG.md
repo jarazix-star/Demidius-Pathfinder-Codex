@@ -1,5 +1,75 @@
 # Change Log
 
+## Canonical Demidius panel adoption and quote correction - 2026-07-23
+
+- Adopted the user-selected full Demidius character panel as the new canonical
+  reference artwork.
+- Replaced the inaccurate tide-and-wind quotation with: “Chance is merely
+  probability waiting to be persuaded.”
+- Synchronized the canonical local-library, repository, and wiki copies.
+
+## Full Demidius art-panel regeneration - 2026-07-23
+
+- Repainted the complete canonical reference panel at the maximum detail
+  available through the built-in image workflow.
+- Re-rendered every major view, portrait, inset, heraldic element, miniature,
+  alternate look, border, fabric surface, and metal detail as one cohesive
+  high-fidelity sheet.
+- Adopted the supplied Hermes earring design: sculpted gold wings, short links,
+  and elongated faceted sapphire-blue crystal drops in pointed gold frames.
+- Installed the supplied earring reference sheet as the canonical item artwork.
+
+## Compact Hermes earrings redesign - 2026-07-23
+
+- Regenerated Demidius's canonical reference sheet with much smaller,
+  non-dangling Hermes’ Earrings of Arcane Refrain.
+- Replaced the obsolete long pendant product art with compact winged
+  lightning-and-caduceus ear ornaments.
+- Preserved the restored high-detail upper figures and all established
+  character-sheet content.
+
+## Demidius reference-sheet resolution and earring repair - 2026-07-23
+
+- Restored sharply resolved faces, hair, clothing, gold embroidery, metalwork,
+  heraldry, and equipment in the three large upper full-body views.
+- Moved the portrait's lower caduceus earring closer to the neck so it hangs
+  vertically behind the jaw rather than projecting forward beside the cheek.
+- Replaced the synchronized local-library, repository, and wiki copies.
+
+## Hermes’ Earrings of Arcane Refrain - 2026-07-23
+
+- Replaced Demidius’s provisional wing earrings with the canonical matched
+  gold lightning-medallion and winged-caduceus design.
+- Added the supplied exact jewelry reference to the main repository, wiki, and
+  local art library.
+- Added a dedicated magic-item page and Demidius magic-item index.
+- Recorded that the earrings grant Quicken Spell, Reach Spell, and Selective
+  Spell while worn; unsupplied construction and acquisition details remain
+  unresolved.
+- Updated Demidius’s canonical appearance artwork to show the new earrings.
+
+## Aristea character sheet RC3 page-one alignment repair - 2026-07-23
+
+- Preserved Aristea Release Candidates 1 and 2 unchanged.
+- Expanded the page-one source crops upward to restore the complete top borders
+  of Speed, Abilities, HP, DR, and neighboring boxes.
+- Moved both enlarged information columns upward to sit directly beneath the
+  custom identity data.
+- Verified 15 US Letter pages and confirmed pages 2-15 are pixel-identical to
+  RC2.
+
+## Paradox backstory expansion - 2026-07-23
+
+- Recorded Paradox's childhood under invasive Godclaw testing and his mother's
+  rebel-assisted escape attempt from Lodingen.
+- Added the destruction of their smuggling ship by Paradox's maternal
+  grandfather, a Godclaw captain commanding a steel vessel.
+- Recorded Paradox's unexplained aquatic affinity, rescue by a smuggling crew,
+  and shadow-magic training under its wayang shadow master.
+- Connected his seven marriages to his years among the pirate kingdoms.
+- Added his reunion with Siopi, the kraken's destruction of their vessel, and
+  their apparent ten-year magical stasis before awakening on Sounon.
+
 ## Demidius Hermes wing earrings - 2026-07-23
 
 - Restored Demidius's dangling earrings to his canonical reference sheet.

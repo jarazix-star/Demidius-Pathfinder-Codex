@@ -23,3 +23,9 @@ The matched gold earrings grant Demidius three metamagic feats: **Quicken
 Spell**, **Reach Spell**, and **Selective Spell**. These are granted as feats;
 no separate daily-use limit or reduction to their normal spell-level
 adjustments has been recorded.
+
+The canonical design is a matched gold-and-blue pair. Each earring has a
+sculpted polished-gold wing fitting, one short connecting link, and an
+elongated faceted sapphire-blue crystal drop held in a slender pointed gold
+frame. This replaces all earlier lightning-medallion, caduceus, compact stud,
+and plain wing-charm versions.

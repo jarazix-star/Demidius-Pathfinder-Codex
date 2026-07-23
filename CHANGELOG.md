@@ -1,5 +1,12 @@
 # Change Log
 
+## Magic-item index earring design synchronization - 2026-07-23
+
+- Added the canonical Hermes’ Earrings artwork directly to the Demidius
+  magic-item index.
+- Explicitly identified the gold-wing, short-link, sapphire-blue crystal-drop
+  design as replacing every earlier provisional earring version.
+
 ## Canonical Demidius panel adoption and quote correction - 2026-07-23
 
 - Adopted the user-selected full Demidius character panel as the new canonical

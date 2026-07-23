@@ -13,6 +13,14 @@ A private, source-backed Pathfinder 1e optimization knowledge base for **The Arr
 - `research/SOURCE_PROCESSING_LOG.md` - evidence and extraction status
 - `CHANGELOG.md` - repository history
 
+## Current character guides
+
+- [Demidius level 17-35 class advancement](guides/DEMIDIUS_LEVEL_17_35_CLASS_ADVANCEMENT_GUIDE.md)
+- [Aristea level 17-35 class advancement](guides/ARISTEA_LEVEL_17_35_CLASS_ADVANCEMENT_GUIDE.md)
+- [Demidius ranked mythic feats and abilities](guides/DEMIDIUS_MYTHIC_FEATS_AND_ABILITIES_GUIDE.md)
+- [Aristea ranked mythic feats and abilities](guides/ARISTEA_MYTHIC_FEATS_AND_ABILITIES_GUIDE.md)
+- Finished PDF editions are stored in [`output/pdf`](output/pdf).
+
 
 ## Spell research datasets
 

@@ -160,5 +160,23 @@
     "title": "Blessed and Champion progression",
     "status": "Verified Campaign Rule",
     "text": "A heroic follower becomes Blessed after completing two total trials for a god. The god's followers can sense the deity's favor on the Blessed, who gains the Advanced simple template. A follower becomes eligible to be Champion after three total trials, but only if that god's unique Champion office is vacant. The Champion is a leader among the god's followers and gains two additional godly powers, selected under the godly bloodline power rules but limited to the Champion god's domains."
+  },
+  {
+    "id": "CR-28",
+    "title": "Deity-specific prestige-class access",
+    "status": "Verified Campaign Rule",
+    "text": "Prestige classes that normally require a specific deity or similar patron remain legal for a character who worships a different campaign deity. The patron requirement and patron-specific references are adapted to the character's deity. Unrelated alignment, feat, skill, spellcasting, deed, and other prerequisites remain in force unless separately changed."
+  },
+  {
+    "id": "CR-29",
+    "title": "Spell progression after level 20",
+    "status": "Verified Campaign Rule",
+    "text": "Spellcasting progression continues after level 20. Base-class levels, prestige-class levels, and Aligned Class advancement that grant another level of an existing spellcasting class continue caster level and the campaign's epic spell progression."
+  },
+  {
+    "id": "CR-30",
+    "title": "Class-feature scaling after level 20",
+    "status": "Verified Campaign Rule",
+    "text": "Existing class features that scale by class level continue becoming more powerful beyond effective class level 20, including through Evangelist's Aligned Class. No new named base-class abilities are automatically gained beyond the printed class table. Continued scaling of existing progressions is allowed, but printed capstones and unique named abilities are not repeated."
   }
 ]

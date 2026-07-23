@@ -1,7 +1,7 @@
 ---
 title: Demidius Thorne — Backstory
 status: canonical campaign history
-last_updated: 2026-07-15
+last_updated: 2026-07-23
 ---
 
 # Demidius Thorne — Backstory
@@ -10,7 +10,9 @@ last_updated: 2026-07-15
 
 Demidius Thorne was born in Lodingen to Philomela Thorne and Smokey Roberts. His memories of that period are faint and fragmented. He remembers stern figures in ornate armor observing his meals, moods, and dreams and subjecting him to continual tests as though he were a rare specimen.
 
-Philomela seemed distant during that period until she spirited him away. Demidius remembers the fear on her face during their escape. She later identified their pursuers as the Hellknight Order of the Godclaw, but never explained why the order wanted Demidius or his bloodline.
+Philomela seemed distant during that period until she spirited him away. Demidius remembers the fear on her face during their escape. She later identified their pursuers as the Hellknight Order of the Godclaw.
+
+The Godclaw was attempting to raise a demigod descended from Athena into a new god of war loyal to the order. It targeted Smokey Roberts because he is a demigod of Athena and used attractive women to draw him into producing children the order could exploit as candidates or subjects in that project. Demidius and Paradox were both results of this operation. The record does not establish whether Smokey, Philomela, the other women involved, or Athena knew the Godclaw's true purpose.
 
 ## Motu Leilani
 
@@ -31,7 +33,7 @@ Demidius recently recovered a long-lost vessel that had vanished at sea a decade
 ## Confirmed relationships
 
 - **Philomela Thorne:** mother; a beautiful but simply garbed islander, musetouched aasimar, demigod of Aphrodite, and fiercely protective refugee from the Godclaw.
-- **Smokey Roberts:** father; distant and mysterious.
+- **Smokey Roberts:** father; distant and mysterious; a demigod of Athena whom the Godclaw targeted as the paternal source for its attempted new god of war.
 - **Siopi:** deceased nonbinary half-sibling, child of Smokey Roberts, and former party mate of Paradox; presented femininely and helped decipher the map in *The Mother's Lament*.
 - **Paradox:** deceased half-brother and child of Smokey Roberts; visually marked by paired red-and-blue hair and eyes; husband to seven reported wives and father to six reported biological children.
 - **Aelwyn:** paternal half-sister through Smokey Roberts.
@@ -42,7 +44,7 @@ Demidius recently recovered a long-lost vessel that had vanished at sea a decade
 ## Continuing threats and objectives
 
 - Find Siopi, Paradox, and Demidius's other scattered siblings.
-- Determine why the Godclaw monitored, tested, and pursued Demidius's bloodline.
+- Determine how the Godclaw intended to choose, transform, or control its proposed new god of war and whether the program remains active.
 - Establish Philomela's present location and what she still knows.
 - Identify the recovered vessel explicitly.
 - Record Motu Leilani's location, condition, and safe navigation route.

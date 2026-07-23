@@ -1,5 +1,31 @@
 # Change Log
 
+## Godclaw Athena bloodline project - 2026-07-23
+
+- Confirmed Smokey Roberts as a demigod of Athena.
+- Recorded the Godclaw's attempt to raise an Athena-descended demigod into a new god of war loyal to the order.
+- Confirmed that Demidius and Paradox resulted from the program while avoiding unsupported extension to Smokey's other children.
+- Preserved the knowledge and consent of Smokey and the women, Athena's involvement, and the project's selection, apotheosis, control, and current status as unresolved.
+- Updated Demidius, Paradox, Smokey Roberts, Athena, the Godclaw, campaign chronology, notable figures, and durable project records.
+
+## Level 17-35 class advancement guides - 2026-07-23
+
+- Added separate Demidius and Aristea class-advancement guides through character level 35.
+- Ranked and analyzed 18 prestige classes for Demidius and 20 for Aristea, including prerequisites, caster-level costs, role fit, and campaign-specific legality.
+- Recommended Oracle 18 before Demidius enters any prestige class, with Evangelist/Loremaster and conservative Exalted/Loremaster routes separated by the epic aligned-class ruling.
+- Recommended Arcane Trickster 8-10 for Aristea before either a GM-approved epic Arcane Trickster extension or the printed-rule Exploiter Wizard fallback.
+- Added editable Markdown, PDF editions, explicit GM decision gates, and verified page renders.
+- Revised the guides after confirming that Evangelist can advance Demidius's Oracle beyond level 20 and can extend Aristea's capped Arcane Trickster progression through Aligned Class.
+- Added the campaign rule that deity-specific prestige classes may adapt their patron requirement, raising Stargazer to S for Demidius and S- for Aristea.
+- Confirmed that spell progression continues after level 20 and that existing class-level features continue scaling, while no new named base-class abilities appear beyond the printed table.
+
+## Ranked mythic feat and ability guides - 2026-07-23
+
+- Added separate Demidius and Aristea guides, each ranking 36 mythic path or universal abilities and 36 mythic feats.
+- Tailored the rankings to the current sheets, campaign mythic formulas, established class plans, and character roles.
+- Marked existing selections, third-party sources, GM-review cases, and conditional options instead of presenting every entry as automatically legal.
+- Added recommended acquisition orders, scene-based packages, editable Markdown sources, and visually verified PDF editions.
+
 ## Wiki link and art integrity audit - 2026-07-23
 
 - Audited all 188 active wiki pages for internal targets, heading anchors, Markdown links, and local image references.

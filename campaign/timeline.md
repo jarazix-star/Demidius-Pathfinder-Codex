@@ -2,7 +2,7 @@
 title: The Arrival — Campaign Timeline
 version: 1.1.0
 status: canonical
-last_updated: 2026-07-15
+last_updated: 2026-07-23
 ---
 
 # The Arrival — Campaign Timeline
@@ -44,7 +44,7 @@ After the fall of the Titans, the Olympian Council banned *The Mother's Lament*.
 
 ### Philomela escapes Lodingen with Demidius
 
-During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the kobold Tagata Fetu on Motu Leilani as the community's only known non-kobold residents.
+During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw. The order was attempting to elevate an Athena-descended demigod into a new god of war loyal to the Godclaw. It targeted Athena's demigod son Smokey Roberts and used attractive women to produce children it could exploit for the project; Demidius and Paradox were confirmed results. Whether Smokey, the women, or Athena knew the true purpose remains unrecorded. Philomela and Demidius found refuge among the kobold Tagata Fetu on Motu Leilani as the community's only known non-kobold residents.
 
 ### Demidius leaves Motu Leilani
 

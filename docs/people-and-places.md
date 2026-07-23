@@ -36,7 +36,7 @@ Alexander is a primordial silver dragon, Lord of the Earth, and one of the four 
 
 ### The Council of Seven
 
-The Pirate Kings and Queens who rule the Isles of Berres. At campaign start they were Sea Serpent Declan, Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Declan's death leaves six active members. The Storm King is a separate storm giant rather than a council member.
+The Pirate Kings and Queens who rule the Isles of Berres. At campaign start they were Sea Serpent Declan, Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Declan's death leaves six active members. Smokey Roberts is a demigod of Athena whom the Godclaw targeted as the paternal source for an attempted new god of war. The Storm King is a separate storm giant rather than a council member.
 
 ### Hermes
 
@@ -102,7 +102,7 @@ A platinum-skinned female paladin, officer aboard Maarin's *Matcha Frappuccino*,
 
 ![Philomela Thorne at her island home](assets/characters/philomela-thorne-islander-portrait.png)
 
-Demidius's radiant and enigmatic mother is a musetouched aasimar, an islander, and a demigod of Aphrodite. Exceptionally beautiful but simply dressed, she fled Lodingen with Demidius to escape the Hellknight Order of the Godclaw, found refuge on Motu Leilani, and revealed his descent from Aphrodite. She later provided what she knew of his scattered siblings when Fetu’mana's vision sent him away. Her class, level, specific divine abilities, and present location remain unrecorded.
+Demidius's radiant and enigmatic mother is a musetouched aasimar, an islander, and a demigod of Aphrodite. Exceptionally beautiful but simply dressed, she fled Lodingen with Demidius to escape the Hellknight Order of the Godclaw, found refuge on Motu Leilani, and revealed his descent from Aphrodite. Demidius was a result of the order's attempt to produce an Athena-descended new god of war through Smokey Roberts; Philomela's awareness of that purpose remains unrecorded. She later provided what she knew of his scattered siblings when Fetu’mana's vision sent him away. Her class, level, specific divine abilities, and present location remain unrecorded.
 
 ### Fetu’mana
 
@@ -110,7 +110,7 @@ Kobold lorekeeper of the Tagata Fetu, whose name means Star Spirit. Many expecte
 
 ### Siopi and Paradox
 
-Siopi was Demidius's nonbinary, femininely presenting half-sibling, and Paradox was his half-brother. Both were children of Smokey Roberts, former party members, and adventuring companions. Both are now deceased, although the causes and circumstances of their deaths remain unrecorded. Siopi helped Nyssa decipher the map in *The Mother's Lament*. Paradox had one red eye and one blue eye with matching red-and-blue hair, seven reported wives, six reported biological children, and two adopted children presented as his nephews.
+Siopi was Demidius's nonbinary, femininely presenting half-sibling, and Paradox was his half-brother. Both were children of Smokey Roberts, former party members, and adventuring companions. Paradox and Demidius were confirmed products of the Godclaw's attempt to create an Athena-descended new god of war; the same is not presently established for Siopi. Both Siopi and Paradox are now deceased, although the causes and circumstances of their deaths remain unrecorded. Siopi helped Nyssa decipher the map in *The Mother's Lament*. Paradox had one red eye and one blue eye with matching red-and-blue hair, seven reported wives, six reported biological children, and two adopted children presented as his nephews.
 
 ## Organizations and vessels
 

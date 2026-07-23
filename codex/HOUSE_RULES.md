@@ -1,6 +1,6 @@
 ---
 title: The Arrival — Campaign Assumptions and House Rules
-version: 2.0.0
+version: 2.1.0
 status: canonical
 depends:
   - CR-01
@@ -21,6 +21,9 @@ depends:
   - CR-16
   - CR-17
   - CR-18
+  - CR-28
+  - CR-29
+  - CR-30
 ---
 
 # Campaign Assumptions and House Rules
@@ -39,6 +42,9 @@ The canonical rule text is maintained in [Campaign Rules Appendix](../appendices
 - Steadfast Personality and Charisma-to-Will: CR-15.
 - Fatal Flaw DC and flaw definitions: CR-16–CR-17.
 - Key of Daedalus: CR-18.
+- Deity-specific prestige-class access: CR-28.
+- Spell progression after level 20: CR-29.
+- Existing class-feature scaling, with no new post-20 base-class abilities: CR-30.
 
 ## Aristea-related rules
 

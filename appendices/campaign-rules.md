@@ -1,8 +1,8 @@
 ---
 title: Campaign Rules Appendix
-version: 3.0.0
+version: 3.1.0
 status: canonical
-last_updated: 2026-07-13
+last_updated: 2026-07-23
 ---
 
 # Campaign Rules Appendix
@@ -224,6 +224,28 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 - **Power limits:** Champion powers use the same rules as godly bloodline powers, but both must fall within the domains of the god whose Champion the character becomes.
 - **Cumulative reading:** Because Blessed and Champion are stages of the same progression, a Champion retains the Blessed benefits unless a later campaign ruling says otherwise.
 
+### CR-28 — Deity-specific prestige-class access
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** A prestige class that normally requires worship of a specific deity, empyreal lord, Eldest, or similar patron remains legal for a character who worships a different campaign deity.
+- **Adaptation:** The required patron is adapted to the character's existing deity. References to the original patron's domains, obedience, boons, or religious organization use a campaign-approved equivalent appropriate to the character's deity.
+- **Limits:** This rule removes or adapts the patron restriction only. Alignment, feats, skills, spellcasting, special deeds, and other entry requirements remain in force unless another campaign rule changes them.
+- **Examples:** Stargazer may be taken without worshiping Pulura; Mystery Cultist, Brewkeeper, and Feysworn are not barred solely by their printed patron requirements.
+
+### CR-29 — Spell progression after level 20
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** Spellcasting progression continues after character and effective caster level 20.
+- **Application:** A base-class level, prestige-class level, or Aligned Class advancement that grants `+1 level of existing spellcasting class` continues caster level and the campaign's epic spell progression.
+- **Scope:** This includes continued access to the campaign's post-20 spell progression. It is not limited to raising level-dependent variables on spells.
+
+### CR-30 — Class-feature scaling after level 20
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** Existing class features that scale by class level continue to become more powerful after effective class level 20.
+- **Evangelist:** Aligned Class counts as levels in the selected class for spell progression and for scaling already-possessed class features. Demidius's revelations and comparable Oracle features therefore continue scaling when Evangelist advances Oracle.
+- **No new base-class abilities:** Effective base-class levels above 20 do not automatically grant new named class abilities beyond the printed class table.
+- **Existing progressions:** Continued numerical advancement of an already-possessed feature is scaling, not a new named ability. This includes the campaign-approved continuation of Arcane Trickster sneak attack through Evangelist. A printed capstone or other unique named ability is not gained a second time.
 ## Dependency map
 
 | Rule | Primary dependents |
@@ -249,6 +271,9 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 | CR-25 | Mythic feat planning, templates, godling bloodlines, divine advancement, and negotiations with gods |
 | CR-26 | Divine Progression Engine, Mythic Tier, Mythic Power pool, godly powers, path powers, and Mythic Feats |
 | CR-27 | Divine Progression Engine, Blessed and Champion status, divine trials, godly powers, and deity-specific leadership |
+| CR-28 | Prestige-class eligibility, patron adaptation, class guides, and obedience packages |
+| CR-29 | Epic spellcasting, caster-level projections, spell-slot planning, and prestige-class progression |
+| CR-30 | Evangelist Aligned Class, Oracle revelations, Arcane Trickster sneak attack, and post-20 class planning |
 
 ## Change control
 

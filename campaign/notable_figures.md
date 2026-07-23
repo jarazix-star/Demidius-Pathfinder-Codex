@@ -2,7 +2,7 @@
 title: Notable Figures
 version: 1.1.0
 status: canonical
-last_updated: 2026-07-15
+last_updated: 2026-07-23
 ---
 
 # Notable Figures
@@ -17,7 +17,7 @@ Charisma-centered oracle, mythic controller, captain, party face, demigod, and B
 
 **Key relationships:** patronage from Hermes; alliance or gift relationship with Queen Beaumont; loyalty relationship with Aristea through the inherited demiplane; heir to his deceased brother's demiplane.
 
-Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts. Philomela fled with him from the Hellknight Order of the Godclaw and raised him among the kobold Tagata Fetu on Motu Leilani; mother and son were the community's only known non-kobold residents. Ten years before the present account, the kobold lorekeeper Fetu’mana received a vision sending Demidius to search for scattered siblings including Siopi and Paradox.
+Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts. Smokey is a demigod of Athena whom the Hellknight Order of the Godclaw targeted as the paternal source for an attempted new god of war loyal to the order. The Godclaw used attractive women to produce children through Smokey for that project; Demidius and Paradox were confirmed results. The record does not establish whether Smokey, the women, or Athena knew the scheme's purpose. Philomela fled with Demidius and raised him among the kobold Tagata Fetu on Motu Leilani; mother and son were the community's only known non-kobold residents. Ten years before the present account, the kobold lorekeeper Fetu’mana received a vision sending Demidius to search for scattered siblings including Siopi and Paradox.
 
 ## Amparo Decoris Ignatius
 
@@ -67,7 +67,7 @@ Former Pirate King and lord of the Sunlit Chain. Declan could call a kraken and 
 
 ## The surviving Pirate Kings and Queens
 
-The six surviving council members are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
+The six surviving council members are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Smokey is a demigod of Athena and was targeted by the Godclaw's attempted war-god breeding program. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
 
 ## The Storm King
 
@@ -107,7 +107,7 @@ A female sea elf and one of Demidius's newer Dawnrunner petty officers. Zephyra 
 
 ## Paradox and Siopi
 
-Paradox and Siopi were children of Pirate King Smokey Roberts, half-siblings of Demidius, former party members, and adventuring companions. Both are deceased; their dates, causes, and places of death remain unrecorded. Paradox was a man with paired red-and-blue heterochromia in both his eyes and hair. He had seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Phoebe also adopted two orphans whom she presents as Paradox's nephews. The report calls Echo and Hera twins while listing them as ages eight and ten; the correct ages remain unresolved. Siopi was nonbinary, used they/them pronouns, presented femininely, and helped Nyssa decipher the map in *The Mother's Lament*. Their other parent, ancestry, class, abilities, and exact history with Demidius remain unrecorded.
+Paradox and Siopi were children of Pirate King Smokey Roberts, half-siblings of Demidius, former party members, and adventuring companions. Both are deceased; their dates, causes, and places of death remain unrecorded. Paradox was one of the confirmed children produced through the Godclaw's effort to create an Athena-descended new god of war; Demidius was another. This status is not presently established for Siopi or Smokey's other children. Paradox was a man with paired red-and-blue heterochromia in both his eyes and hair. He had seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Phoebe also adopted two orphans whom she presents as Paradox's nephews. The report calls Echo and Hera twins while listing them as ages eight and ten; the correct ages remain unresolved. Siopi was nonbinary, used they/them pronouns, presented femininely, and helped Nyssa decipher the map in *The Mother's Lament*. Their other parent, ancestry, class, abilities, and exact history with Demidius remain unrecorded.
 
 ## Perlot
 

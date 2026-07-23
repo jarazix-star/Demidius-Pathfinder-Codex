@@ -51,3 +51,20 @@ The sidebar's Reference section does not require art: Campaign Rules, Boons, Cam
 - Every local image reference resolves to an existing file.
 - Overview pages may include thumbnails also used by the detailed article, but each overview has its own unique lead image.
 - New lead images are assigned to one wiki page each.
+
+## Link and duplicate-page audit — 2026-07-23
+
+A full integrity pass covered all 188 active wiki pages after cleanup.
+
+- Repaired 32 broken, reversed, or misleading internal wiki-link occurrences.
+- Verified that every internal page target and referenced heading anchor resolves.
+- Verified that every local Markdown link resolves.
+- Verified that every local image reference resolves.
+- Removed four obsolete text-only pages that duplicated or superseded illustrated canonical pages:
+  - `Campaign Rules.md`
+  - `Magical Supremacy Engine.md`
+  - `Probability Engine.md`
+  - `The Five Pillars.md`
+- Confirmed that the 12 remaining text-only files are intentional exceptions: reference pages, navigation or maintenance files, and legacy ship-name redirects.
+
+No new image generation was required during this pass. Every substantive article already had unique art; the apparent gaps were obsolete duplicates or intentional exceptions.

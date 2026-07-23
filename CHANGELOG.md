@@ -1,5 +1,12 @@
 # Change Log
 
+## Wiki link and art integrity audit - 2026-07-23
+
+- Audited all 188 active wiki pages for internal targets, heading anchors, Markdown links, and local image references.
+- Repaired 32 broken, reversed, or misleading wiki-link occurrences.
+- Removed four obsolete text-only duplicate pages that competed with illustrated canonical articles.
+- Confirmed that every substantive wiki page has art and that the remaining text-only files are intentional reference, navigation, maintenance, or legacy-redirect exceptions.
+
 ## Dawnrunner dimensional speakeasy - 2026-07-23
 
 - Confirmed that Dawnrunner drink rations can be saved and spent while off duty; the exact one-ration-per-meal allowance remains provisional.

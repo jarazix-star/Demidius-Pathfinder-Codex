@@ -64,7 +64,7 @@ A level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merch
 
 ### Kaelen Thorne
 
-A deceased former party member, elven druid, and student of the elder Ylvara. The child of an elven herbalist and ranger, Kaelen learned the languages of the forest and developed a defining bond with animals after comforting a dying beaver and raising its lone pup. She believed the balance between civilization and nature sometimes had to be enforced. Her relationship to the wider Thorne family and the circumstances of her death remain unrecorded.
+A deceased former party member, elven druid, worshiper of Hermes, and student of the elder Ylvara. The child of an elven herbalist and ranger, Kaelen learned the languages of the forest and developed a defining bond with animals after comforting a dying beaver and raising its lone pup. She believed the balance between civilization and nature sometimes had to be enforced. Her relationship to the wider Thorne family and the circumstances of her death remain unrecorded.
 
 ### Sly
 

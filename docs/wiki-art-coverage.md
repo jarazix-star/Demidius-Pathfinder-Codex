@@ -1,6 +1,6 @@
 # Wiki Art Coverage Audit
 
-Audit date: 2026-07-23
+Audit date: 2026-07-24
 
 The campaign wiki was reviewed page by page for visual coverage. Every substantive page now has at least one image, while the reference and administrative sections remain intentionally text-only. Existing artwork was retained when it already gave a page its own visual identity. Thirty new page-specific illustrations were added where art was missing or an overview page reused another page's lead image.
 
@@ -24,7 +24,9 @@ All new artwork was generated in built-in image-generation mode and is mirrored 
 | Fetu'mana | `docs/assets/characters/fetumana-v2.png` | Elderly kobold lorekeeper beneath a star-filled sky |
 | Godling Bloodlines | `docs/assets/systems/godling-bloodlines.png` | Luminous divine family tree branching through mortals |
 | Hellknight Order of the Godclaw | `docs/assets/factions/hellknight-order-godclaw.png` | Authoritarian Hellknights examining a divine-blooded child |
-| Kaelen Thorne | `docs/assets/characters/kaelen-thorne.png` | Elven druid listening to the forest beside one beaver |
+| Kaelen Thorne | `docs/assets/characters/kaelen-thorne-character-reference-panel-canonical.png` | User-selected canonical visual panel for the elven druid and worshiper of Hermes; embedded mechanical labels remain unverified |
+| Paradox | `docs/assets/characters/paradox-character-reference-panel-v4.png` | Definitive panel preserving his red-and-blue heterochromia, shadow-sailor identity, belted starknife, and pink-purple-orange one-shoulder plaid cloak |
+| Siopi | `docs/assets/characters/siopi-character-reference-panel-v1.png` | Full character panel preserving their lavender skin, white bun, spectacles, and craft tools |
 | Kiss from a Rose | `docs/assets/locations/kiss-from-a-rose-hostel.png` | Humble simulacra of Demidius and Aristea welcoming travelers in a warm suburban hostel |
 | Motu Leilani | `docs/assets/locations/motu-leilani.png` | Lush Heavenly Island and secluded coastal settlement |
 | Odysseus | `docs/assets/characters/odysseus.png` | Hard-eyed tactical rogue studying a sea chart and sabotage plan |
@@ -51,6 +53,12 @@ The sidebar's Reference section does not require art: Campaign Rules, Boons, Cam
 - Every local image reference resolves to an existing file.
 - Overview pages may include thumbnails also used by the detailed article, but each overview has its own unique lead image.
 - New lead images are assigned to one wiki page each.
+
+## Revised page artwork
+
+| Wiki page | Repository asset | Revision |
+|---|---|---|
+| Battle for Tradegulf | `docs/assets/scenes/battle-for-tradegulf-arrival-v2.png` | Corrected the backward hand on the fallen foreground figure while preserving the scene composition |
 
 ## Link and duplicate-page audit — 2026-07-23
 

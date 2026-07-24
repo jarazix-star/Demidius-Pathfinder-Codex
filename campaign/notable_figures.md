@@ -61,7 +61,7 @@ existing elven artwork remains canonical for this incarnation.
 
 ## Kaelen Thorne
 
-A deceased former party member, elf, and druid. Kaelen was the child of an elven herbalist and elven ranger and was trained by the elder Ylvara in the languages of the forest and attunement to the natural world. At twelve she comforted a dying beaver and raised its lone pup to adulthood. She preferred animals and quiet to people and believed that the balance between civilization and nature sometimes had to be enforced. Her relationship to the wider Thorne family and the circumstances of her death remain unrecorded.
+A deceased former party member, elf, druid, and worshiper of Hermes. Kaelen was the child of an elven herbalist and elven ranger and was trained by the elder Ylvara in the languages of the forest and attunement to the natural world. At twelve she comforted a dying beaver and raised its lone pup to adulthood. She preferred animals and quiet to people and believed that the balance between civilization and nature sometimes had to be enforced. Her relationship to the wider Thorne family and the circumstances of her death remain unrecorded.
 
 ## Sly
 

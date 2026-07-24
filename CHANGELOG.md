@@ -1,5 +1,28 @@
 # Change Log
 
+## Battle for Tradegulf hand correction - 2026-07-24
+
+- Corrected the backward hand on the fallen foreground figure in the Battle
+  for Tradegulf illustration.
+- Preserved the original composition while repairing the thumb orientation,
+  palm anatomy, wrist connection, rings, lighting, and surrounding deck.
+- Synchronized the revised event artwork across the canonical repository,
+  durable project record, and GitHub wiki.
+
+## Crew and deceased-party synchronization - 2026-07-24
+
+- Recorded Gideon as a level 20 bard, Crystal as the Vengeful Bride, and
+  Rickard as a neutral-good paladin of Hermes serving aboard the Dawnrunner.
+- Recorded Kaelen Thorne as a worshiper of Hermes and adopted the
+  user-selected Kaelen character panel.
+- Added definitive character panels for Siopi and Paradox.
+- Updated Paradox's canonical panel so his starknife is secured at his belt
+  rather than malformed in his hand, and added his pink, purple, and orange
+  one-shoulder plaid cloak.
+- Repaired the affected Aristea incarnation links and synchronized the party
+  roster, Dawnrunner records, people index, timeline, sidebar, and visual
+  reference records.
+
 ## Magic-item index earring design synchronization - 2026-07-23
 
 - Added the canonical Hermes’ Earrings artwork directly to the Demidius

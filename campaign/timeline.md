@@ -136,7 +136,7 @@ Both are confirmed to have slept in the demiplane. Each received full healing, a
 
 ### Kaelen Thorne lives and dies — date not yet recorded
 
-Kaelen Thorne, an elven druid trained by the elder Ylvara, was a member of the adventuring party. Her childhood included comforting a dying beaver and raising its orphaned pup, an experience that reflected her lifelong connection to animals and nature. Kaelen is deceased, but the record does not yet establish when or how she died, when she joined the party, or whether she was related to Demidius.
+Kaelen Thorne, an elven druid, worshiper of Hermes, and student of the elder Ylvara, was a member of the adventuring party. Her childhood included comforting a dying beaver and raising its orphaned pup, an experience that reflected her lifelong connection to animals and nature. Kaelen is deceased, but the record does not yet establish when or how she died, when she joined the party, or whether she was related to Demidius.
 
 ### Aristea's soul is trapped in Tartarus after Tradegulf
 

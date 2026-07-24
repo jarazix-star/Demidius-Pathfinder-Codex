@@ -17,7 +17,10 @@ The primary progression is:
 5. Preserve the Benthic, Merciful, Sap Master, and multi-ray campaign engine while adding a dependable method of attacking genuinely flat-footed opponents.
 6. Treat all shark references on the Hero Lab sheet as placeholders for Aristea's canonical narwhal Animal Lord form.
 
-This guide assumes Aristea is recovered from Tartarus before advancement is applied. Her rescue remains a narrative prerequisite, not a reason to postpone mechanical planning.
+Aristea has been recovered from Tartarus and returned as the kobold Aristea
+Enontië. This guide remains mechanically provisional until a post-reincarnation
+sheet confirms ancestry adjustments, the permanent-enlargement rules, and any
+other rebuild choices.
 
 ## Verified level-17 build
 

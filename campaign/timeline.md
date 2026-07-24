@@ -17,7 +17,15 @@ P.A. means Post-Arrival. The event defining year 0 may be Fel's arrival in Zater
 
 ### 150 P.A. — The campaign begins on Sounon
 
-Approximately one hundred years after the previous campaign, the heroes began on an unidentified island in the Isles of Berres. The island is now known as Sounon, lies within the Sunlit Chain, and will become the shared home of Demidius's and Maarin's crews.
+Approximately one hundred years after the previous campaign, the heroes began
+as a group of shipwreck survivors on an unidentified island in the Isles of
+Berres. Every member of the shipwrecked group had spent ten years in magical
+stasis. Confirmed survivors included Siopi, Maarin, Paradox, Kaelen Thorne,
+Alley, and Tulip, plus others not yet recalled. Pete was present, but whether
+he shared their shipwreck and stasis is unknown. The island held many kuo-toa
+and an enslaved grippli population that included Bix. The island is now known
+as Sounon, lies within the Sunlit Chain, and will become the shared home of
+Demidius's and Maarin's crews.
 
 By 150 P.A., the Lodingen Republic had become the Lodingen Empire, the Fye Empire had fallen, Nysia had risen as a semi-constitutional monarchy, and the Isles of Berres had expanded.
 
@@ -52,7 +60,9 @@ Paradox was raised and invasively tested by the Godclaw. His mother, the daughte
 
 ### Paradox and Siopi are lost to the kraken
 
-As an adult, Paradox found his half-sibling Siopi and sailed with them. A kraken destroyed their vessel. They later awoke with the current party on Sounon after apparently spending ten years in magical stasis.
+As an adult, Paradox found his half-sibling Siopi and sailed with them. A
+kraken destroyed their vessel. They later awoke with the shipwrecked group on
+Sounon after spending ten years in magical stasis.
 
 ### Demidius leaves Motu Leilani
 
@@ -131,6 +141,20 @@ Kaelen Thorne, an elven druid trained by the elder Ylvara, was a member of the a
 ### Aristea's soul is trapped in Tartarus after Tradegulf
 
 Eris killed Aristea with *death knell* during the Battle for Tradegulf, concealed the death by making her appear alive but unconscious, and pulled her soul into Tartarus. Resurrection alone cannot return her because her soul is imprisoned. Recovery requires locating, reaching, and releasing the soul before restoration magic can succeed.
+
+### Demidius sacrifices the Key and Aristea returns
+
+Demidius left the Key of Daedalus among narcissus flowers as an offering to
+Persephone, confessed his love for Aristea, and asked for “one spring of my
+own.” Persephone accepted the sacrifice and returned Aristea in a kobold body.
+She took the High Elvish surname Enontië, meaning “reincarnated,” and is
+permanently enlarged to a stature comparable with the other player characters.
+
+### Aristea reunites with Demidius and Philomela
+
+Aristea Enontië reunited with Demidius and Philomela Thorne in the damaged
+coastal city of Tradegulf. Relief workers, including Amparo, fed survivors,
+treated the wounded, and constructed temporary shelters around them.
 
 ### Demidius receives the Glasses of Beaumont
 

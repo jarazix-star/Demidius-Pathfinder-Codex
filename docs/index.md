@@ -19,6 +19,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | Demidius as a character | [Demidius Thorne](demidius-thorne.md) |
 | Demidius's early life and sibling search | [Demidius's Backstory](../campaign/demidius_backstory.md) |
 | Aristea's pilgrimages, divine mantle, and earlier life | [Aristea's Backstory](../campaign/aristea_backstory.md) |
+| Aristea's current reincarnated kobold incarnation | [Aristea Enontië](../campaign/aristea_enontie.md) |
 | The campaign as it currently stands | [Campaign Guide](campaign-guide.md) |
 | Zatera, Berres, Sounon, the Sunlit Chain, and Nysia | [Campaign Setting](campaign-setting.md) |
 | The Dawnrunner, its officers, and named crew | [Dawnrunner](dawnrunner.md) |
@@ -36,7 +37,10 @@ Demidius Thorne is a Charisma-centered oracle, mythic controller, captain, party
 
 The campaign began on Sounon in **150 P.A. (Post-Arrival)**. The identity of the Arrival is disputed between Fel's coming from the Outer Realms and Cronus's release. The 55 deaths at the Battle for Tradegulf triggered the divine upheaval called **the Culling** early. When Declan died, the world shook, the ocean split open, Maarin's storm faded, and the heavens broke. Immediately afterward, Queen Lidda Beaumont of Nysia slew Ares outside Tradegulf and became a minor goddess of Dueling. Demidius's own divine progression is advancing through Hermes's gifts and a custom obedience system, while his strategic reach is expanding through the Dawnrunner, an inherited demiplane, and the Key of Daedalus.
 
-The current personal crisis is **Aristea's imprisonment**. Aristea has died and her soul is trapped in Tartarus. Ordinary resurrection is insufficient: her soul must first be found, reached, and released.
+Persephone accepted Demidius's sacrifice of the Key of Daedalus and returned
+Aristea in a kobold body as **Aristea Enontië**. Her half-elven incarnation
+remains deceased; the current questions concern her post-reincarnation
+mechanics, memories, enlargement, and duties.
 
 ## The five pillars
 

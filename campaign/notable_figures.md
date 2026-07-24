@@ -41,9 +41,23 @@ Demidius's patron deity and the source of his custom obedience and divine-power 
 
 Eris is a member of the Dogs of War associated with Discord, Destruction, and Rivalry. At the Battle for Tradegulf she appeared through the identity or form of Pat, killed Aristea and Sly, and declared the battle Amparo's first trial toward becoming her champion. The record does not establish whether Pat was a disguise, manifestation, host, or separate person.
 
-## Aristea
+## Aristea Enontië
 
-Level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, shapeshifter, item creator, Demidius's cohort, and navigator of the Dawnrunner before her death at the Battle for Tradegulf. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed Aristea with *death knell*, made her appear alive but unconscious, and pulled her soul into Tartarus. Her release is a planar extraction problem that must be solved before resurrection.
+The current living incarnation of Aristea is a permanently enlarged kobold
+comparable in height to the other player characters. Enontië means
+“reincarnated” in High Elvish. Persephone returned her after Demidius
+sacrificed the Key of Daedalus. Her latest confirmed mechanics remain those of
+the level-17 neutral-good wizard of Nereus, water-and-cold specialist,
+merchant-mage, shapeshifter, item creator, Animal Lord of the Tides, and
+Demidius's cohort. Her post-return Dawnrunner office and ancestry mechanics
+remain unrecorded.
+
+## Aristea of the Shifting Tides
+
+The deceased half-elven incarnation served as Dawnrunner navigator and chief
+engineer before the Battle for Tradegulf. Eris killed her with *death knell*,
+made her appear alive but unconscious, and pulled her soul into Tartarus. All
+existing elven artwork remains canonical for this incarnation.
 
 ## Kaelen Thorne
 
@@ -107,7 +121,7 @@ A female sea elf and one of Demidius's newer Dawnrunner petty officers. Zephyra 
 
 ## Paradox and Siopi
 
-Paradox and Siopi were children of Pirate King Smokey Roberts, half-siblings of Demidius, former party members, and adventuring companions. Both are deceased; their dates, causes, and places of death remain unrecorded. Paradox was one of the confirmed children produced through the Godclaw's effort to create an Athena-descended new god of war; Demidius was another. Raised and invasively tested by the Godclaw, Paradox escaped Lodingen when his mother conspired with rebels to smuggle him to the Isles of Berres. Her father, a Godclaw captain commanding a steel vessel, unknowingly destroyed their smuggling ship. Paradox survived through an unexplained natural affinity for the sea and was taken in by smugglers led by a wayang shadow master, who taught him shadow magic. Paradox was a man with paired red-and-blue heterochromia in both his eyes and hair. He had seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. After later joining Siopi aboard another vessel, he survived its destruction by a kraken and eventually awoke with the party on Sounon after an apparent ten-year magical stasis. Siopi was nonbinary, used they/them pronouns, presented femininely, and helped Nyssa decipher the map in *The Mother's Lament*.
+Paradox and Siopi were children of Pirate King Smokey Roberts, half-siblings of Demidius, former party members, and adventuring companions. Both are deceased; their dates, causes, and places of death remain unrecorded. Paradox was one of the confirmed children produced through the Godclaw's effort to create an Athena-descended new god of war; Demidius was another. Raised and invasively tested by the Godclaw, Paradox escaped Lodingen when his mother conspired with rebels to smuggle him to the Isles of Berres. Her father, a Godclaw captain commanding a steel vessel, unknowingly destroyed their smuggling ship. Paradox survived through an unexplained natural affinity for the sea and was taken in by smugglers led by a wayang shadow master, who taught him shadow magic. Paradox was a man with paired red-and-blue heterochromia in both his eyes and hair. He had seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Echo and Hera are twins, and both are age 10. After later joining Siopi aboard another vessel, he survived its destruction by a kraken and eventually awoke with the shipwrecked group on Sounon after ten years in magical stasis. Siopi was nonbinary, used they/them pronouns, presented femininely, and helped Nyssa decipher the map in *The Mother's Lament*.
 
 ## Perlot
 

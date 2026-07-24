@@ -18,7 +18,10 @@ Aristea was Demidius's first and most enduring love. They were romantically invo
 
 Aristea later became Demidius's cohort. She also received the inherited demiplane's supernatural Loyalty toward him, but that imposed effect must not be confused with the genuine love that preceded it. The exact effect of the Loyalty Fatal Flaw on their renewed relationship remains unresolved.
 
-Eris killed Aristea during the Battle for Tradegulf and drew her soul into Tartarus. Recovering her soul remains an urgent personal objective for Demidius.
+Eris killed Aristea's half-elven incarnation during the Battle for Tradegulf
+and drew her soul into Tartarus. Demidius later sacrificed the Key of Daedalus
+to Persephone and confessed his love for Aristea. Persephone accepted the
+offering and returned her in a kobold body as Aristea Enontië.
 
 ## Nyssa: rejected courtship and betrayal
 

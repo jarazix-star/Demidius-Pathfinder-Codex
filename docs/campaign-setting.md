@@ -50,7 +50,14 @@ Declan's death leaves six active council members. The heroes hold his Wayfinder 
 
 ![The Sunlit Chain](assets/locations/sunlit-chain-map.png)
 
-The campaign began on an unidentified island now known as **Sounon**, within Declan's former domain, the **Sunlit Chain**. Demidius's and Maarin's crews intend to make Sounon their shared home.
+The campaign began with a group shipwrecked on an unidentified island now
+known as **Sounon**, within Declan's former domain, the **Sunlit Chain**. Every
+member of the shipwrecked group had spent ten years in magical stasis.
+Confirmed survivors included Siopi, Maarin, Paradox, Kaelen Thorne, Alley, and
+Tulip, plus others not yet recalled. Pete was present, but whether he shared
+their shipwreck and stasis is unknown. The island held many kuo-toa and an
+enslaved grippli population that included Bix. Demidius's and Maarin's crews
+intend to make Sounon their shared home.
 
 ![Sounon](assets/locations/sounon-map.png)
 
@@ -70,7 +77,7 @@ The Old Nysia map places Tradegulf east of Greyridge, north of Weirworth Falls, 
 
 Glistria's detailed map depicts a large fortified coastal city centered on the Keep. Its named quarters include Upper Bluffs District, North Knightskeep Borough, Highdale, Orb Ward, Cast Orb Village, East Market, Hell-Hounds Borough, South Lamp District, Southwest Market, and Alchemist's Borough. The map also identifies civic, religious, commercial, and defensive landmarks. See [Glistria](glistria.md) for the indexed map record.
 
-At the recent Battle for Tradegulf, Maarin killed Declan. Eris killed Declan's second-in-command Sly and Aristea with *death knell*, concealed Aristea's death by making her appear alive but unconscious, and pulled her soul into Tartarus. After Declan fell, Eris revealed herself through Pat, called Amparo her future champion, and declared the battle Amparo's first completed trial toward that path. The final toll of 55 deaths triggered the Culling early. Immediately after Declan died, the world shook, the ocean split open, Maarin's storm faded, and the heavens broke. Declan's death left the Sunlit Chain leaderless. Aristea's soul must be released before resurrection.
+At the recent Battle for Tradegulf, Maarin killed Declan. Eris killed Declan's second-in-command Sly and Aristea with *death knell*, concealed Aristea's death by making her appear alive but unconscious, and pulled her soul into Tartarus. After Declan fell, Eris revealed herself through Pat, called Amparo her future champion, and declared the battle Amparo's first completed trial toward that path. The final toll of 55 deaths triggered the Culling early. Immediately after Declan died, the world shook, the ocean split open, Maarin's storm faded, and the heavens broke. Declan's death left the Sunlit Chain leaderless. Demidius later sacrificed the Key of Daedalus to Persephone, who returned Aristea in a kobold body as Aristea Enontië.
 
 The party's proposed future invasion of Nysia would use a secured Sunlit Chain, the Scepter, and the Key of Daedalus. The Old Nysia map is historical and does not establish current borders, settlement status, defenses, or allegiances.
 

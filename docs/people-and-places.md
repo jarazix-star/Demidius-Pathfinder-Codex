@@ -50,9 +50,17 @@ The God of War killed by Queen Beaumont outside Tradegulf. He refused an opportu
 
 Eris appeared through the identity or form of Pat at the end of the Battle for Tradegulf. Pat assumed the appearance of a six-foot-tall woman, addressed Amparo as Eris's future champion, and vanished after declaring the battle Amparo's first trial. Whether Pat was a disguise, manifestation, host, or separate person remains unknown.
 
-### Aristea
+### Aristea Enontië
 
-A level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, item creator, shapeshifter, Demidius's cohort, and navigator of the Dawnrunner before her death. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed her with *death knell* during the Battle for Tradegulf, made her appear alive but unconscious, and pulled her soul into Tartarus. The known campaign objective is to release her soul before attempting resurrection.
+The current living incarnation of Aristea is a permanently enlarged kobold,
+comparable in height to the other player characters. Persephone returned her
+after accepting Demidius's sacrifice of the Key of Daedalus. Enontië means
+“reincarnated” in High Elvish. Her post-return mechanics and Dawnrunner office
+remain unrecorded.
+
+### Aristea of the Shifting Tides
+
+A level 17 neutral-good elven wizard of Nereus, water-and-cold specialist, merchant-mage, item creator, shapeshifter, Demidius's cohort, and navigator of the Dawnrunner before her death. Pilgrimages and boons from Nereus granted her the Animal Lord of the Tides mantle, sacred narwhal form, and the epithet Silver Tusk of Nereus among some island mystics. Eris killed her with *death knell* during the Battle for Tradegulf, made her appear alive but unconscious, and pulled her soul into Tartarus. Persephone later returned the same soul as Aristea Enontië; this half-elven incarnation remains deceased.
 
 ### Kaelen Thorne
 

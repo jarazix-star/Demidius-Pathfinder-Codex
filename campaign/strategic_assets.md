@@ -53,7 +53,13 @@ Demidius possesses two doses of blood from the true Lernaean Hydra. The supplied
 
 Its visual identity uses black, silver, and deep crimson with a winged silver fleur-de-lis, roses, and protective thorns. The Thorne Knights wear hooded, faceless heavy plate with rib-like chest armor, thorn-wrapped straight swords, tall fleur-de-lis shields, and elaborately embroidered black-and-crimson capes. The older “Royal Marines” wording survives only on historical artwork. Exact Thorne Knight numbers, ranks, training, and equipment statistics remain unrecorded.
 
-Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the specialist crew supplies healing, engineering, artillery, security, music, cooking, and counter-piracy capabilities. Current development priorities include replacing or restoring navigation coverage, defining succession after Aristea's death, and maintaining a chain of command that remains functional when Demidius is absent.
+Aristea served as navigator and chief engineer before the death of her elven
+incarnation. She has returned as the kobold Aristea Enontië, but her
+post-return office has not yet been reconfirmed. Lilly runs logistics as bosun,
+Bix is an officer, and the specialist crew supplies healing, engineering,
+artillery, security, music, cooking, and counter-piracy capabilities. Current
+development priorities include confirming Aristea's duties and maintaining a
+chain of command that remains functional when Demidius is absent.
 
 Bix, a chaotic-good male grippli godling of Hermes and Dawnrunner officer, is Demidius's longest-serving follower. His long service makes him a source of continuity and institutional memory aboard the ship. He is newlywed to another crew member and has one red eye and one blue eye. Bix may also be the reincarnation of Demidius's deceased brother, although that possibility is unconfirmed and unknown to Demidius.
 
@@ -71,7 +77,15 @@ Aelwyn's attack on Ironclaw Isle's lethal slave-labor operation makes her a valu
 
 ## Sounon and the Sunlit Chain
 
-Sounon lies within the Sunlit Chain and will become the shared home of Demidius's and Maarin's crews. Its local map records the Temple of Springs, Hidden Cove, Village Ruins, and an offshore shipwreck. The base still requires confirmed anchorage, docks, housing, supplies, repair capacity, governance, defenses, and repeatable routes through the Shipbreaker Sea.
+Sounon lies within the Sunlit Chain and will become the shared home of
+Demidius's and Maarin's crews. The campaign began there after Siopi, Maarin,
+Paradox, Kaelen Thorne, Alley, Tulip, and other characters were shipwrecked and
+spent ten years in magical stasis. Pete was present but is not confirmed as a
+shipwreck survivor. The island held many kuo-toa and an enslaved grippli
+population that included Bix. Its local map records the Temple of Springs,
+Hidden Cove, Village Ruins, and an offshore shipwreck. The base still requires
+confirmed anchorage, docks, housing, supplies, repair capacity, governance,
+defenses, and repeatable routes through the Shipbreaker Sea.
 
 Declan's death left the Chain without a lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin recommends transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios, with Aelwyn as her locally credible second.
 

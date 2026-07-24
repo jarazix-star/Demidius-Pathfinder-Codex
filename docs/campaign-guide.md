@@ -17,9 +17,9 @@ last_updated: 2026-07-22
 Five pressures define the current campaign record:
 
 - **The Culling has begun.** Gods may be challenged, killed, replaced, or reconciled with the New Gods. Queen Beaumont's defeat of Ares proves that the divine order is changing in public and permanent ways.
-- **Aristea is beyond ordinary resurrection.** Her soul is trapped in Tartarus. The party needs an extraction operation, not merely a resurrection spell.
+- **Aristea has returned in a new body.** Persephone accepted the Key of Daedalus and returned her as Aristea Enontië, a permanently enlarged kobold. Her deceased half-elven incarnation remains a distinct historical record.
 - **Demidius's reach is outgrowing one adventuring party.** The Dawnrunner, Epic Leadership, divine alliances, an inherited demiplane, and planar corridors all require procedures, officers, and security.
-- **Sounon is becoming the crews' shared home.** The island lies in the leaderless Sunlit Chain and needs anchorage, infrastructure, governance, defenses, supplies, and reliable routes.
+- **Sounon is becoming the crews' shared home.** The campaign began there after Siopi, Maarin, Paradox, Kaelen, Alley, Tulip, and other survivors were shipwrecked and held in ten years of magical stasis. The island held many kuo-toa and an enslaved grippli population that included Bix. It now lies in the leaderless Sunlit Chain and needs anchorage, infrastructure, governance, defenses, supplies, and reliable routes.
 - **Navigation is political power.** Poseidon's Shipbreaker Sea curse makes the fourteen Wayfinders central to travel, trade, succession, and warfare.
 
 ## The Culling

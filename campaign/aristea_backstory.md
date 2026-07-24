@@ -6,7 +6,12 @@ last_updated: 2026-07-15
 
 # Aristea of the Shifting Tides
 
-This record describes Aristea's life and abilities before the Battle for Tradegulf. Her current campaign status remains unchanged: Eris killed her with *death knell* in that battle, concealed her death by making her appear alive but unconscious, and pulled her soul into Tartarus.
+This record describes Aristea's life, abilities, and definitive half-elven
+appearance before the Battle for Tradegulf. Eris killed this incarnation with
+*death knell*, concealed her death, and pulled her soul into Tartarus.
+Persephone later returned the same soul in a kobold body as
+[Aristea Enontië](aristea_enontie.md). The existing elven artwork remains
+canonical for this deceased incarnation.
 
 ## Devotee of Nereus
 
@@ -38,6 +43,10 @@ Aristea and Demidius shared a thoughtful and restrained love. Demidius chose to 
 
 The later campaign record confirms that Aristea became Demidius's cohort and received supernatural Loyalty toward him through the inherited demiplane. It does not yet establish when the two reunited, whether they resumed their romance, or how the earlier relationship interacted with the later supernatural bond.
 
-## Current status
+## Incarnation status
 
-Eris later killed Aristea with *death knell* at the Battle for Tradegulf. Eris made her appear alive but unconscious before pulling her soul into Tartarus. Resurrection cannot succeed until the party locates, reaches, and releases it.
+Eris killed this half-elven incarnation with *death knell* at the Battle for
+Tradegulf and made her appear alive but unconscious before pulling her soul
+into Tartarus. Demidius sacrificed the Key of Daedalus to Persephone, who
+returned Aristea as the kobold Aristea Enontië. The elven incarnation remains
+deceased.

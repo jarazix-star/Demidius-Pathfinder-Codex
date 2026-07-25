@@ -59,6 +59,7 @@ The sidebar's Reference section does not require art: Campaign Rules, Boons, Cam
 | Wiki page | Repository asset | Revision |
 |---|---|---|
 | Battle for Tradegulf | `docs/assets/scenes/battle-for-tradegulf-arrival-v2.png` | Corrected the backward hand on the fallen foreground figure while preserving the scene composition |
+| Old Nysian Power Vacuum | `docs/assets/scenes/old-nysia-vigilante-conflict.png` | Canonical party-versus-vigilantes battle scene; opposing faction and outcome remain provisional |
 
 ## Link and duplicate-page audit — 2026-07-23
 

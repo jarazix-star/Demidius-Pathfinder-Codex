@@ -81,6 +81,32 @@ At the recent Battle for Tradegulf, Maarin killed Declan. Eris killed Declan's s
 
 The party's proposed future invasion of Nysia would use a secured Sunlit Chain, the Scepter, and the Key of Daedalus. The Old Nysia map is historical and does not establish current borders, settlement status, defenses, or allegiances.
 
+### Post-guild collapse
+
+The heroes' destruction of Old Nysia's corrupt guild structure—principally
+through the actions of Roy, Demidius, and Siopi—also removed much of the
+cities' infrastructure, administration, and legal system. Unpaid guards are
+quitting, trash is being dumped into rivers and the ocean, looting has spread,
+and Glistrian neighborhoods are becoming guarded, increasingly self-sufficient
+enclaves. The Culling intensified this collapse but did not cause the original
+power vacuum.
+
+The Crown's efforts are obstructed by the Senate and bureaucratic red tape,
+while businesses threaten to relocate to Aevum or New Nysia. Three major gangs
+now compete to replace civic authority: the comparatively orderly Champions
+under Oros of the Blossom, the anti-corruption vigilantes of the Crafter's Bow,
+and the loose criminal confederation called the Cobras. See
+[Old Nysian Power Vacuum](../campaign/old_nysia_power_vacuum.md).
+
+An artifact auction held only once every several years—and offering some of the
+world's most valuable artifacts—is imminent at Arverdon Palace. Its collection
+was among the principal targets of Declan's raid, but Odysseus substituted
+false artifacts for the genuine pieces and the raiders stole the fakes. The
+method and timing of the substitution, the present custody of the authentic
+artifacts, and whether the raiders have discovered the deception remain
+unrecorded. The auction's host, rules, security, bidders, lots, and prices are
+also still unknown.
+
 ## Misthold
 
 ![Misthold](assets/locations/misthold-map.png)

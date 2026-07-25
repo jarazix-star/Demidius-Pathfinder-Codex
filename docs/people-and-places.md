@@ -144,6 +144,29 @@ Nyssa later disappeared with two crew members and stole *The Mother's Lament* af
 
 A divine grouping or order mentioned in Queen Beaumont's final offer to Ares. The current record confirms the name and the possibility of reconciliation with them, but does not yet define membership, doctrine, or hierarchy.
 
+### Oros of the Blossom and the Champions
+
+Oros of the Blossom is a famous Battle Herald believed to be a quarter-godling
+of Persephone. He survived fighting Hera during the opening battle of the
+Culling, his first Culling as an eligible participant. Oros and an unidentified
+second survivor joined former guardsmen, seized the Tradegulf garrison, and
+formed the Champions. The group charges protection fees but patrols streets,
+suppresses crime, cleans neighborhoods, protects refugees, and controls roads
+and the ferry route between Tradegulf and Glistria.
+
+### The Crafter's Bow
+
+An anti-corruption vigilante organization active before the Battle for
+Tradegulf. It includes famous adventurers, suppresses violence in its
+neighborhoods, and organizes the looting and sacking of selected businesses.
+Demidius is rumored to be a founder, but that claim is unconfirmed.
+
+### The Cobras
+
+A loose confederation of street criminals, thieves, and thugs that absorbed
+many smaller gangs after the battle and operates throughout Tradegulf and
+Glistria.
+
 ## Places and planes
 
 ### Tradegulf
@@ -156,7 +179,7 @@ A rising semi-constitutional monarchy ruled by Queen Lidda Beaumont from Arverdo
 
 ### Arverdon Palace
 
-Queen Lidda Beaumont's seat of rule in Nysia. The Old Nysia map depicts it as a major fortified palace southwest of Glistria. Its court, defenses, household, government offices, and status as or distinction from the formal capital remain unrecorded.
+Queen Lidda Beaumont's seat of rule in Nysia. The Old Nysia map depicts it as a major fortified palace southwest of Glistria. It is also the venue for the imminent, once-every-several-years auction of some of the world's most valuable artifacts. Those artifacts were among the principal targets of Declan's raid, but Odysseus substituted fakes and the raiders stole the false collection. The authentic artifacts' present custody and the details of the substitution remain unrecorded. The palace's court, defenses, household, government offices, and status as or distinction from the formal capital also remain unrecorded.
 
 ### Glistria
 
@@ -204,7 +227,7 @@ A powerful storm giant and ruler of Stormspire. The Storm King is not one of the
 
 ### Odysseus
 
-A level-30 rogue of an unspecified specialization and a tactical genius recovered by the party after being missing for twenty years. He thinks in terms of the greater good and is willing to sacrifice people without their consent. His deliberate sabotage of Stormspire was intended to remove an enemy of Nysia and the New Gods, but would have destroyed the settlement below if Maarin had not intervened.
+A level-30 rogue of an unspecified specialization and a tactical genius recovered by the party after being missing for twenty years. He thinks in terms of the greater good and is willing to sacrifice people without their consent. His deliberate sabotage of Stormspire was intended to remove an enemy of Nysia and the New Gods, but would have destroyed the settlement below if Maarin had not intervened. He also outsmarted Declan's raiders at Arverdon Palace by substituting false artifacts for the genuine auction collection; the raiders escaped with the fakes.
 
 ### Scepter of Keto
 

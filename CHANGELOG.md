@@ -1,5 +1,19 @@
 # Change Log
 
+## Old Nysian power vacuum and artifact auction - 2026-07-24
+
+- Documented the collapse of civic infrastructure after the heroes destroyed
+  Old Nysia's corrupt guild system.
+- Added the Champions, Oros of the Blossom, the Crafter's Bow, and the Cobras.
+- Distinguished the heroes' responsibility for the original power vacuum from
+  the Culling's later intensification of the crisis.
+- Recorded Arverdon Palace as the venue for the imminent recurring auction of
+  some of the world's most valuable artifacts.
+- Recorded the auction collection as a principal target of Declan's raid and
+  Odysseus's successful substitution of fakes for the genuine artifacts.
+- Added canonical art of the party fighting vigilantes while preserving the
+  encounter's faction and outcome as provisional until the next session.
+
 ## Battle for Tradegulf hand correction - 2026-07-24
 
 - Corrected the backward hand on the fallen foreground figure in the Battle

@@ -90,6 +90,29 @@ The witnessed onset occurred as soon as Declan died: the world shook, the ocean 
 
 Declan's death reduced the active Council of Seven to six and left the Sunlit Chain without a lord.
 
+### Old Nysia enters a post-guild power vacuum
+
+The destruction of Old Nysia's corrupt guilds—caused primarily by Roy,
+Demidius, and Siopi—also dismantled much of the cities' infrastructure,
+administration, and legal system. Unpaid guards quit, waste collection failed,
+looting spread, and neighborhoods became guarded enclaves. The Culling
+intensified the crisis but did not create it.
+
+The Champions seized Tradegulf's garrison under Oros of the Blossom and an
+unidentified second survivor of the Culling's opening battle. The Crafter's Bow
+expanded its anti-corruption vigilante operations, while the Cobras absorbed
+smaller criminal gangs. The party subsequently fought vigilantes in a ruined
+Old Nysian city; the faction and outcome remain pending the next session.
+
+At the same time, a recurring auction of some of the world's most valuable
+artifacts is approaching at Arverdon Palace. The event occurs only once every
+several years. Its collection was among the principal targets of Declan's raid,
+but Odysseus had substituted false artifacts for the genuine pieces. Declan's
+forces therefore stole fakes. The timing and method of the substitution, the
+present custody of the authentic artifacts, and whether the surviving raiders
+have discovered the deception remain unrecorded, as do the auction's host,
+rules, bidders, security, lots, and prices.
+
 ### The Stormspire operation
 
 The heroes traveled to Stormspire, the Storm King's floating city. While the crews distracted the Storm King, Odysseus stole the final component needed to complete the Scepter of Keto, an artifact capable of bypassing Poseidon's navigation curse over the Isles of Berres.

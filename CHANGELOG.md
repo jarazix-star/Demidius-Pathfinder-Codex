@@ -1,5 +1,11 @@
 # Change Log
 
+## Main-page events navigation - 2026-07-25
+
+- Added a prominent **Events and the story in chronological order** link to
+  the wiki home page's Start Here table.
+- Mirrored the navigation entry in the repository's reader-facing index.
+
 ## Tulip cookbook, wedding, and cookoff cleanup - 2026-07-25
 
 - Added an illustrated collection of Tulip's ten signature recipes, with

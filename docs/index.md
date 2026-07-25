@@ -22,6 +22,7 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | Aristea's pilgrimages, divine mantle, and earlier life | [Aristea's Backstory](../campaign/aristea_backstory.md) |
 | Aristea's current reincarnated kobold incarnation | [Aristea Enontië](../campaign/aristea_enontie.md) |
 | The campaign as it currently stands | [Campaign Guide](campaign-guide.md) |
+| Events and the story in chronological order | [Campaign Timeline](../campaign/timeline.md) |
 | Zatera, Berres, Sounon, the Sunlit Chain, and Nysia | [Campaign Setting](campaign-setting.md) |
 | The Dawnrunner, its officers, and named crew | [Dawnrunner](dawnrunner.md) |
 | Tulip's illustrated galley favorites | [Tulip's Top 10 Recipes](tulips-top-10-recipes.md) |

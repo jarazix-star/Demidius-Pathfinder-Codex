@@ -1,5 +1,33 @@
 # Change Log
 
+## Canonical Glistria map upgrade - 2026-07-24
+
+- Replaced the compressed Glistria wiki map presentation with the supplied
+  lossless 6144 × 4608 PNG.
+- Preserved every label and spatial relationship without generative alteration.
+- Added a direct full-resolution link to the Glistria page and mirrored the
+  canonical map into the project asset library.
+
+## Old Nysian lore expansion and mixed-crew scenes - 2026-07-24
+
+- Added dedicated wiki pages for Tradegulf, the Champions, the Crafter's Bow,
+  the Cobras, and the Grand Artifact Auction.
+- Split detailed faction and auction material out of the Old Nysian power
+  vacuum overview while preserving a concise crisis summary and cross-links.
+- Repaired the broken multiline Demidius link and the previously unresolved
+  Tradegulf page links.
+- Added six unique mixed-crew illustrations for the new lore pages and
+  Rickard's previously unillustrated character page.
+- Kept Rickard's face and ancestry concealed because his appearance remains
+  unrecorded, and marked all unconfirmed scene combinations as interpretive.
+
+## Paradox definitive artwork update - 2026-07-24
+
+- Adopted the user-supplied Alear “Paradox” Vorex panel as the definitive
+  version 5 visual reference.
+- Updated the canonical repository and wiki to use the new panel while
+  preserving earlier versions as historical artwork.
+
 ## Old Nysian power vacuum and artifact auction - 2026-07-24
 
 - Documented the collapse of civic infrastructure after the heroes destroyed

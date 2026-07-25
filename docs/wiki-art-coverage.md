@@ -2,7 +2,7 @@
 
 Audit date: 2026-07-24
 
-The campaign wiki was reviewed page by page for visual coverage. Every substantive page now has at least one image, while the reference and administrative sections remain intentionally text-only. Existing artwork was retained when it already gave a page its own visual identity. Thirty new page-specific illustrations were added where art was missing or an overview page reused another page's lead image.
+The campaign wiki was reviewed page by page for visual coverage. Every substantive page now has at least one image, while the reference and administrative sections remain intentionally text-only. Existing artwork was retained when it already gave a page its own visual identity. New page-specific illustrations were added where art was missing or an overview page reused another page's lead image.
 
 All new artwork was generated in built-in image-generation mode and is mirrored under `docs/assets/` in this repository and `images/` in the wiki repository.
 
@@ -25,7 +25,7 @@ All new artwork was generated in built-in image-generation mode and is mirrored 
 | Godling Bloodlines | `docs/assets/systems/godling-bloodlines.png` | Luminous divine family tree branching through mortals |
 | Hellknight Order of the Godclaw | `docs/assets/factions/hellknight-order-godclaw.png` | Authoritarian Hellknights examining a divine-blooded child |
 | Kaelen Thorne | `docs/assets/characters/kaelen-thorne-character-reference-panel-canonical.png` | User-selected canonical visual panel for the elven druid and worshiper of Hermes; embedded mechanical labels remain unverified |
-| Paradox | `docs/assets/characters/paradox-character-reference-panel-v4.png` | Definitive panel preserving his red-and-blue heterochromia, shadow-sailor identity, belted starknife, and pink-purple-orange one-shoulder plaid cloak |
+| Paradox | `docs/assets/characters/paradox-character-reference-panel-v5.png` | User-selected definitive panel preserving his red-and-blue heterochromia, shadow-sailor identity, isolated starknife detail, and pink-purple-orange one-shoulder plaid cloak |
 | Siopi | `docs/assets/characters/siopi-character-reference-panel-v1.png` | Full character panel preserving their lavender skin, white bun, spectacles, and craft tools |
 | Kiss from a Rose | `docs/assets/locations/kiss-from-a-rose-hostel.png` | Humble simulacra of Demidius and Aristea welcoming travelers in a warm suburban hostel |
 | Motu Leilani | `docs/assets/locations/motu-leilani.png` | Lush Heavenly Island and secluded coastal settlement |
@@ -77,3 +77,26 @@ A full integrity pass covered all 188 active wiki pages after cleanup.
 - Confirmed that the 12 remaining text-only files are intentional exceptions: reference pages, navigation or maintenance files, and legacy ship-name redirects.
 
 No new image generation was required during this pass. Every substantive article already had unique art; the apparent gaps were obsolete duplicates or intentional exceptions.
+
+## Old Nysian expansion pass - 2026-07-24
+
+Five substantial lore pages were added from the campaign's current unresolved
+story threads, and Rickard's newer character page received its first artwork.
+Each illustration uses a different combination of personnel from the
+Dawnrunner and Matcha Frappuccino while clearly labeling combinations not yet
+confirmed in play as interpretive.
+
+| Wiki page | Repository asset | Scene |
+|---|---|---|
+| Tradegulf | `docs/assets/locations/tradegulf-recovery-crossroads.png` | Amparo, Filius, Tulip, and a fully helmeted Rickard help refugees rebuild |
+| Champions | `docs/assets/factions/champions-tradegulf-garrison.png` | Maarin, Aelwyn, and Bix observe the occupied Tradegulf garrison |
+| The Crafter's Bow | `docs/assets/factions/crafters-bow-warehouse.png` | Demidius, Vornix, and Alley examine a seized merchant warehouse |
+| Cobras | `docs/assets/factions/cobras-old-nysia.png` | Roy, Aristea Enontie, and Okeanikos contain Cobra lookouts |
+| Grand Artifact Auction | `docs/assets/events/arverdon-grand-artifact-auction.png` | Demidius, Maarin, Roy, and Aristea inspect guarded auction displays |
+| Rickard | `docs/assets/characters/rickard-dawnrunner-paladin.png` | Lilly and Bix welcome the closed-helmeted paladin aboard the Dawnrunner |
+
+## Canonical Glistria map - 2026-07-24
+
+| Wiki page | Repository asset | Treatment |
+|---|---|---|
+| Glistria | `docs/assets/locations/glistria-map-canonical.png` | Lossless 6144 × 4608 source retained without generative alteration to preserve all labels and spatial data |

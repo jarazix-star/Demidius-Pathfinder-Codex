@@ -29,7 +29,7 @@ Full narrative backgrounds are present for Alecia, Unni, Erika, Shas, Zel, Matth
 
 ## Later user-confirmed role correction
 
-Crystal and Gideon work as **Elites** aboard the Dawnrunner. This role was confirmed after the workbook extraction; their specific Elite responsibilities remain unrecorded. Gideon was later confirmed as a male archer-bard who plays his bowstring like a harp; his blond hair remains probable rather than certain.
+Crystal and Gideon worked as **Elites** aboard the Dawnrunner. This role was confirmed after the workbook extraction; their specific Elite responsibilities remain unrecorded. Gideon was later confirmed as a male archer-bard who plays his bowstring like a harp; his blond hair remains probable rather than certain. Both were subsequently kidnapped during the Culling and are missing and believed dead. Their deaths are not confirmed, and their kidnappers, abduction circumstances, location, and ultimate fates remain unrecorded.
 
 ## Workbook inconsistencies and cautions
 

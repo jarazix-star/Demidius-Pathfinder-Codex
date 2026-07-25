@@ -73,7 +73,7 @@ God of War slain by Queen Beaumont during the Culling outside Tradegulf. He refu
 
 ## Dame Mathilda
 
-A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely connect her to the Sunlit Chain. Maarin proposes transferring Declan's Wayfinder and the heroes' succession claim to Mathilda because the current party cannot safely hold the domain against the surviving Pirate Kings and other regional powers. Mathilda has not yet accepted.
+A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely connect her to the Sunlit Chain. Maarin and the party proposed transferring Declan's Wayfinder and the heroes' succession claim to Mathilda because the current party cannot safely hold the domain against the surviving Pirate Kings and other regional powers. Mathilda agreed to the proposal. The formal transfer and her installation remain pending or unrecorded.
 
 ## Sea Serpent Declan
 
@@ -83,13 +83,45 @@ Former Pirate King and lord of the Sunlit Chain. Declan could call a kraken and 
 
 The six surviving council members are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Smokey is a demigod of Athena and was targeted by the Godclaw's attempted war-god breeding program. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
 
+During the escape from Misthold, Bluebeard chased the party through his
+territory with his flagship and two ships of the line. Gideon stopped the
+flagship with one sun-charged arrow that killed everyone aboard except
+Bluebeard. The fate of the two escorting ships and the flagship's surviving
+hull remain unrecorded.
+
 ## The Storm King
 
 A powerful storm giant who rules Stormspire, a floating city in the Sunlit Chain. During the Stormspire operation, the crews distracted the Storm King while Odysseus stole the final component required for the Scepter of Keto. The Storm King is a major regional power but not one of the Council of Seven.
 
 ## Odysseus
 
-A level-30 rogue of an unspecified specialization, tactical genius, and recovered ally who had been missing for twenty years. Odysseus stole the final component of the Scepter of Keto during the Stormspire operation. He also deliberately sabotaged the floating city's flight to destroy an enemy of Nysia and the New Gods, accepting the deaths of the settlement below without its people's consent. Maarin prevented the disaster. Odysseus pursues the greater good through methods the party considers callous and morally unacceptable.
+A level-30 rogue of an unspecified specialization, tactical genius, and
+operative of Queen Lidda Beaumont who had been missing for twenty years. The
+party recovered him from imprisonment at Rosalind Galeheart's great games in
+Misthold. Odysseus supplied the guard uniforms used in the infiltration, then
+escaped with the divine prisoners through the Key of Daedalus.
+
+Odysseus stole the final component of the Scepter of Keto during the subsequent
+Stormspire operation. He also deliberately sabotaged the floating city's
+flight to destroy an enemy of Nysia and the New Gods, accepting the deaths of
+the settlement below without its people's consent. Maarin prevented the
+disaster. Odysseus pursues the greater good through methods the party
+considers callous and morally unacceptable.
+
+Odysseus is also cursed to lose his way. During the retreat from Misthold,
+Demidius hosted him because Demidius had the stronger Profession (sailor)
+modifier, but the curse imposed a -40 penalty. Smokey Roberts supercharged the
+curse after the party reached Stormspire. Almost all accompanying ships were
+then lost at sea; Maarin navigated with the Scepter of Keto, while Demidius
+survived through extreme sailing skill. The curse's origin, precise mechanics,
+and means of removal remain unrecorded.
+
+## Achilles
+
+The great champion of the Dogs of War and an unmatched warrior. Achilles
+attended Rosalind Galeheart's gathering at Misthold while the party infiltrated
+the games to rescue Odysseus and its divine prisoners. His mechanical level,
+divine powers, and conduct during the escape remain unrecorded.
 
 ## Fel
 
@@ -122,6 +154,12 @@ A female sea elf and one of Demidius's newer Dawnrunner petty officers. Zephyra 
 ## Paradox and Siopi
 
 Paradox and Siopi were children of Pirate King Smokey Roberts, half-siblings of Demidius, former party members, and adventuring companions. Both are deceased; their dates, causes, and places of death remain unrecorded. Paradox was one of the confirmed children produced through the Godclaw's effort to create an Athena-descended new god of war; Demidius was another. Raised and invasively tested by the Godclaw, Paradox escaped Lodingen when his mother conspired with rebels to smuggle him to the Isles of Berres. Her father, a Godclaw captain commanding a steel vessel, unknowingly destroyed their smuggling ship. Paradox survived through an unexplained natural affinity for the sea and was taken in by smugglers led by a wayang shadow master, who taught him shadow magic. Paradox was a man with paired red-and-blue heterochromia in both his eyes and hair. He had seven reported wives across seven regions and six reported biological children: Perseus, Aella, Echo, Hera, Phrixus, and Daphne. Echo and Hera are twins, and both are age 10. After later joining Siopi aboard another vessel, he survived its destruction by a kraken and eventually awoke with the shipwrecked group on Sounon after ten years in magical stasis. Siopi was nonbinary, used they/them pronouns, presented femininely, and helped Nyssa decipher the map in *The Mother's Lament*.
+
+## Nyssa
+
+Nyssa was Demidius's former cohort and an agent of Smokey Roberts. After rejecting Demidius's romantic advances, controlling Tulip with a Zeus-associated artifact glove, helping decipher *The Mother's Lament*, and later stealing the book, she eventually attacked the party alongside Tenor and her husband. Her husband was an unnamed child of Smokey Roberts who looked almost exactly like Demidius. He was killed during the exchange and his body fell into the sea. This battle was the last time the crew saw Nyssa; her present location and status remain unknown.
+
+The later tournament among Smokey Roberts's children took place in a huge colosseum at Misthold. One unnamed sibling killed more than fifty other children of Smokey there, accumulated their power through Tenor's rite, became a mortal god, and swore to kill Demidius.
 
 ## Perlot
 

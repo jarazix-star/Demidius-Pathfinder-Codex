@@ -33,7 +33,7 @@ The fifteen named quarter-share petty officers are Pete, Bix, Lilly, Zujuck, Ale
 - **Jenqa:** level 10 lawful-good/lawful-neutral goblin of Athena devoted to eradicating piracy through infiltration, sabotage, and lethal action.
 - **Binky:** goblin siege engineer, gun chemist, cannon specialist, and Blessed of Ena. Her title establishes two completed trials for Ena, the Advanced simple template, and favor recognizable to Ena's followers; the individual trials remain unrecorded.
 - **Pete:** Dawnrunner shopkeeper, male gnome, skilled artificer, mystery-box merchant, and named petty officer. He sells mystery boxes to the crew in every port, and Demidius is his best customer. Pete owns a shop in Glistria with portals to both the Dawnrunner and Matcha Frappuccino. He is in a relationship with Fizz, an avatar of Hermes. His level, class mechanics, and portal operating rules remain unrecorded.
-- **Crystal and Gideon:** named petty officers who work as Elites aboard the Dawnrunner. Crystal is known as **the Vengeful Bride** and worships Artemis; the origin and meaning of her epithet remain unrecorded. Gideon worships Apollo and is a level 20 male bard and archer, probably blond, who plays his bowstring like a harp. Their specific Elite responsibilities remain unrecorded.
+- **Crystal and Gideon:** named petty officers who worked as Elites aboard the Dawnrunner. Both were kidnapped during the Culling and are now missing and believed dead; their deaths are not confirmed. Crystal is known as **the Vengeful Bride** and worships Artemis; the origin and meaning of her epithet remain unrecorded. Gideon worships Apollo and is a level 20 male bard and archer, probably blond, who plays his bowstring like a harp. Their kidnappers, the circumstances and location of the abduction, and their ultimate fates remain unrecorded.
 - **Vornix Drazgul:** male kobold quartermaster and petty officer hired by Demidius. He has bronze-brown scales, amber eyes, one brass-capped brow horn, three brass inventory rings near the tip of his tail, ink-stained right claws, and a belt cluster of ship keys, wax seals, tally tools, and a ledger satchel. Vornix advocates working with the Maker's Knot to raid proven corrupt businesses, sell the seized goods cheaply, and donate every coin of proceeds to charity and displaced workers. He insists that ordinary adventuring, not charitable seizures, must fund the Dawnrunner. His level, class, and crew share are unrecorded, and the workbook does not establish whether he was included among its unnamed petty-officer entries.
 - **Qarvel Drah'kar:** male sea elf, siege engineer, and one of Demidius's newer petty officers. Qarvel proposes hunting large sea game for merchant goods and hunting pirates. Goods recovered from pirates would go to struggling communities after the Dawnrunner retains a 10% acquisition fee. His level, class, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
 - **Zephyra Coralshade:** female sea elf, siege engineer, and one of Demidius's newer petty officers. Zephyra supports Demidius's new hiring practices and Pete's suggestions, and proposes a secure luxury passenger service in which each 500-gp fare subsidizes one free passenger in need. Her 300-passenger example means 150 paying and 150 free passengers, producing 75,000 gp in gross fares before expenses. Her level, class, crew share, and possible correspondence to an unnamed workbook entry are unrecorded.
@@ -80,6 +80,13 @@ The disciplinary scale applies to violations of the shipboard alcohol-and-drug p
 The workbook records 1,250 hull points, AC 91, saves 45, hardness 5, three masts, and a maximum speed of 60 feet or 6 miles per hour. The AC 91 and saves 45 are outdated derived totals based on Demidius's older +88 Profession (sailor) modifier.
 
 Demidius's current sheet records **Profession (sailor) +113**. Applying the workbook's formulas and rounding one-half down gives the following operating cases:
+
+During the retreat from Misthold and Stormspire, Demidius hosted Odysseus,
+whose curse of losing his way imposed a -40 penalty on the relevant checks.
+This reduced the recorded +113 modifier to +73 before any other situational
+modifiers. After Smokey Roberts supercharged the curse, almost every other
+accompanying ship was lost at sea, but Demidius's sailing skill preserved the
+Dawnrunner.
 
 | Active crew condition | Dawnrunner AC | Dawnrunner saves | Speed consequence |
 |---|---:|---:|---|

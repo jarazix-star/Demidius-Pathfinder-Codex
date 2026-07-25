@@ -24,7 +24,7 @@ Motu Leilani, the Heavenly Island, is a secluded island deep within the Isles an
 
 Poseidon is patron of the Isles. Approximately five hundred years ago, he cursed the Shipbreaker Sea so ordinary compasses and navigational tools fail. Clouds cover the stars and moon every night, preventing conventional nighttime celestial navigation.
 
-The Scepter of Keto can bypass this navigation spell. The heroes obtained its final required component during an operation at Stormspire, although its present assembly, custody, activation, and limits have not yet been recorded.
+The Scepter of Keto can bypass this navigation spell. The heroes obtained its final required component during an operation at Stormspire. It was operational during the subsequent retreat, when Maarin used it to navigate despite Odysseus's supercharged wayfinding curse. Its later custody, activation method, and limits have not yet been recorded.
 
 Poseidon created fourteen **Wayfinders** that function despite the curse. At the campaign's start, each of the seven Pirate Kings and Queens and each ruler's second-in-command held one. Passage out of the Isles from the unnamed capital costs roughly 25,000–50,000 gp per person.
 
@@ -65,7 +65,7 @@ Sounon's local map identifies the Temple of Springs, Hidden Cove, Village Ruins,
 
 The Chain's solar geography includes Helios' Gift, the Sunspike, Sunspike Cove, Heliospire, Solaris, and Sunhaven Isle. These names support Maarin's belief that Dame Mathilda—a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios—is uniquely suited to succeed Declan.
 
-Maarin proposes that the heroes abdicate their claim, give Declan's Wayfinder to Mathilda, and appoint Aelwyn as her second. Aelwyn is a recognized regional folk hero. The transfer and appointment remain proposals.
+Maarin and the party proposed that the heroes abdicate their claim, give Declan's Wayfinder to Mathilda, and appoint Aelwyn as her second. Mathilda agreed to the proposal. Aelwyn is a recognized regional folk hero, but the formal transfer, Mathilda's installation, and Aelwyn's appointment remain pending or unrecorded.
 
 ## Old Nysia and Tradegulf
 
@@ -111,7 +111,18 @@ also still unknown.
 
 ![Misthold](assets/locations/misthold-map.png)
 
-Misthold is the supplied name for a cloud-covered archipelago or region and for a prominent fortified settlement on its map. The map records the Diamond Palace, Mistguard, Pythopolis, Duskmarsh Haven, Snowfort, Juniper Light, the Heavengazer, Suncurse Mountain, Plague Lake, Arcanerift Cove, and numerous other settlements and landmarks. Its location within Zatera and relationship to the established nations remain unknown. See [Misthold](misthold.md).
+Misthold is the supplied name for a cloud-covered archipelago or region and
+for a prominent fortified settlement on its map. The map records the Diamond
+Palace, Mistguard, Pythopolis, Duskmarsh Haven, Snowfort, Juniper Light, the
+Heavengazer, Suncurse Mountain, Plague Lake, Arcanerift Cove, and numerous
+other settlements and landmarks.
+
+Rosalind Galeheart's lands hosted a great gathering here that served as a
+temporary truce among Pirate Lords. Queen Beaumont's party recovered her
+missing operative Odysseus and freed divine heroes held for the games. Their
+escape ended with Maarin destroying more than seventy ships of the line in a
+catastrophic tsunami. This operation was separate from the later Misthold
+bloodline tournament. See [Misthold](misthold.md).
 
 ## Fel
 

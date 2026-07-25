@@ -24,7 +24,7 @@ Queen of Nysia, Slayer of War, and Minor Goddess of Dueling. She killed Ares at 
 
 ### Dame Mathilda
 
-A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely tie her to the Sunlit Chain. Maarin proposes installing Mathilda as Declan's successor, with Aelwyn as her second, but Mathilda has not accepted.
+A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely tie her to the Sunlit Chain. Maarin and the party proposed installing Mathilda as Declan's successor, with Aelwyn as her second, and Mathilda agreed. The formal transfer and installation remain pending or unrecorded.
 
 ### Fel
 
@@ -138,7 +138,9 @@ Nyssa was formerly Demidius's cohort. Demidius pursued her romantically, but she
 
 Nyssa helped Siopi decipher the map in *The Mother's Lament*. The map identified three pieces of the Scepter of Keto and placed its connector or mount under the guardianship of the immortal Gorgon sisters in a temple on Sarpedon. Sarpedon sank during the Sundering of Lodingen about 160 years ago, and a coral reef south-southwest of Dreadtide may cover its ruins.
 
-Nyssa later disappeared with two crew members and stole *The Mother's Lament* after the party encountered a strange glowing city off Ironclaw Isle. At the same time, a pursuing smoke cloud engulfed the ship in falling ash and blocked celestial navigation. Whether Nyssa caused, arranged, or merely exploited the ashfall remains unknown, as do her current status, motive, allies, class, ancestry, and the artifact glove's exact properties.
+Nyssa later disappeared with two crew members and stole *The Mother's Lament* after the party encountered a strange glowing city off Ironclaw Isle. At the same time, a pursuing smoke cloud engulfed the ship in falling ash and blocked celestial navigation. Whether Nyssa caused, arranged, or merely exploited the ashfall remains unknown.
+
+The party later learned that Nyssa was an agent of Smokey Roberts. In the last encounter in which the crew saw her, Nyssa attacked alongside Tenor and her husband, an unnamed child of Smokey Roberts who looked almost exactly like Demidius. Her husband was killed during the exchange and his body fell into the sea. Nyssa's present status, location, class, ancestry, and the artifact glove's exact properties remain unknown.
 
 ### The New Gods
 
@@ -195,7 +197,18 @@ Fizz is a distinctly gnomish separate person and an avatar of Hermes. He has viv
 
 ### Misthold
 
-The supplied name for a cloud-covered archipelago or region and for a prominent fortified settlement shown on its map. Other mapped sites include the Diamond Palace, Mistguard, Pythopolis, Song Village, Duskmarsh Haven, Snowfort, Juniper Light, the Heavengazer, Plague Lake, and Arcanerift Cove. Its position within Zatera, government, and present alliances remain unrecorded. See [Misthold](misthold.md).
+The supplied name for a cloud-covered archipelago or region and for a
+prominent fortified settlement shown on its map. Other mapped sites include
+the Diamond Palace, Mistguard, Pythopolis, Song Village, Duskmarsh Haven,
+Snowfort, Juniper Light, the Heavengazer, Plague Lake, and Arcanerift Cove.
+
+Rosalind Galeheart's lands hosted a great event here that served as a temporary
+truce among Pirate Lords. Queen Beaumont sent the party to recover Odysseus,
+who was imprisoned with divine heroes intended to fight in the games. The
+party freed the prisoners with the Key of Daedalus and escaped after Maarin's
+tsunami destroyed more than seventy ships of the line and killed countless
+thousands. This event was separate from the later bloodline tournament among
+Smokey Roberts's children. See [Misthold](misthold.md).
 
 ### Zatera
 
@@ -219,7 +232,12 @@ Poseidon's cursed waters around the Isles of Berres. Ordinary compasses fail and
 
 ### Stormspire
 
-The Storm King's floating city in the Sunlit Chain. During a mission there, the crews distracted its ruler while Odysseus stole the final component required to complete the Scepter of Keto. Odysseus then sabotaged the city's flight to crash it into the settlement below; Maarin used her weather power to stop the fall and save the people beneath it.
+The Storm King's floating city in the Sunlit Chain. During a mission there,
+elven Aristea sold goods, Demidius and Roy performed, and Amparo, Tulip, and
+others held a cookoff inside a huge pavilion to distract the city while
+Odysseus stole the final component required for the Scepter of Keto. The theft
+and Odysseus's sabotage prompted the city to fall; Maarin used her weather
+power to stop it and save the people beneath it.
 
 ### The Storm King
 
@@ -227,11 +245,20 @@ A powerful storm giant and ruler of Stormspire. The Storm King is not one of the
 
 ### Odysseus
 
-A level-30 rogue of an unspecified specialization and a tactical genius recovered by the party after being missing for twenty years. He thinks in terms of the greater good and is willing to sacrifice people without their consent. His deliberate sabotage of Stormspire was intended to remove an enemy of Nysia and the New Gods, but would have destroyed the settlement below if Maarin had not intervened. He also outsmarted Declan's raiders at Arverdon Palace by substituting false artifacts for the genuine auction collection; the raiders escaped with the fakes.
+A level-30 rogue of an unspecified specialization, tactical genius, and
+operative of Queen Lidda Beaumont recovered by the party after being missing
+for twenty years. He was found imprisoned at Rosalind Galeheart's games in
+Misthold and supplied the guard uniforms used in the rescue. He thinks in terms
+of the greater good and is willing to sacrifice people without their consent.
+His deliberate sabotage of Stormspire was intended to remove an enemy of Nysia
+and the New Gods, but would have destroyed the settlement below if Maarin had
+not intervened. He also outsmarted Declan's raiders at Arverdon Palace by
+substituting false artifacts for the genuine auction collection; the raiders
+escaped with the fakes.
 
 ### Scepter of Keto
 
-An artifact capable of bypassing Poseidon's navigation spell over the Isles of Berres. Odysseus stole its final required component at Stormspire. Its current assembly, bearer, activation method, and limitations remain unrecorded.
+An artifact capable of bypassing Poseidon's navigation spell over the Isles of Berres. Odysseus stole its final required component at Stormspire. During the subsequent retreat, Maarin used the operational Scepter to find her way while Smokey Roberts supercharged Odysseus's separate curse of losing his way. Its later bearer, activation method, and limitations remain unrecorded.
 
 ### The Mother's Lament
 

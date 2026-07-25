@@ -17,12 +17,15 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | If you want to understand… | Read… |
 |---|---|
 | Demidius as a character | [Demidius Thorne](demidius-thorne.md) |
+| Demidius's current canonical appearance and jewelry | [Demidius — Canonical Art](demidius-art.md) |
 | Demidius's early life and sibling search | [Demidius's Backstory](../campaign/demidius_backstory.md) |
 | Aristea's pilgrimages, divine mantle, and earlier life | [Aristea's Backstory](../campaign/aristea_backstory.md) |
 | Aristea's current reincarnated kobold incarnation | [Aristea Enontië](../campaign/aristea_enontie.md) |
 | The campaign as it currently stands | [Campaign Guide](campaign-guide.md) |
 | Zatera, Berres, Sounon, the Sunlit Chain, and Nysia | [Campaign Setting](campaign-setting.md) |
 | The Dawnrunner, its officers, and named crew | [Dawnrunner](dawnrunner.md) |
+| Tulip's illustrated galley favorites | [Tulip's Top 10 Recipes](tulips-top-10-recipes.md) |
+| Tulip and Alley's wedding before the Misthold mission | [Wedding of Tulip and Alley](events/wedding-of-tulip-and-alley.md) |
 | His divine gifts and dangerous relics | [Artifacts and Divine Gifts](artifacts-and-gifts.md) |
 | The people, gods, and places in the record | [People and Places](people-and-places.md) |
 | The illustrated Greek gods, Titans, and primordial powers | [Greek Mythology](../Demidius-Pathfinder-Codex.wiki/Greek-Mythology.md) |

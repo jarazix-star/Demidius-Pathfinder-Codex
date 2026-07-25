@@ -8,6 +8,9 @@ last_updated: 2026-07-23
 
 ![Demidius Thorne with his gold tattoos, artifact piercing, and emerging Aphroditean eyes](assets/people/demidius-reference-sheet-divine-growth.png)
 
+See the [canonical Demidius art page](demidius-art.md) for the current visual
+identity reference and dedicated details of his earrings and eyebrow piercing.
+
 Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Blessed of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
 
 ## Role in the party

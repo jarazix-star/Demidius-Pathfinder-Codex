@@ -100,3 +100,31 @@ confirmed in play as interpretive.
 | Wiki page | Repository asset | Treatment |
 |---|---|---|
 | Glistria | `docs/assets/locations/glistria-map-canonical.png` | Lossless 6144 × 4608 source retained without generative alteration to preserve all labels and spatial data |
+
+## Tenor and Misthold bloodline arc - 2026-07-25
+
+| Wiki page | Repository asset | Scene |
+|---|---|---|
+| Tenor | `docs/assets/events/tenors-bloodline-rite.png` | Interpretive rear-view depiction of the unknown-looking gunslinger performing the bloodline rite |
+| Misthold Bloodline Tournament | `docs/assets/events/misthold-bloodline-tournament.png` | Monumental Misthold colosseum filled with spectators; anonymous mortal-god sibling amid defeated competitors, with the golden-peach prize displayed separately |
+
+## Misthold escape and Stormspire diversion - 2026-07-25
+
+| Wiki page | Repository asset | Scene |
+|---|---|---|
+| Escape from Misthold | `docs/assets/events/escape-from-misthold.png` | Maarin commands a catastrophic tsunami while the distinct Matcha Frappuccino and Dawnrunner escape the destruction of Misthold's pursuing fleet |
+| Stormspire Festival Diversion | `docs/assets/events/stormspire-festival-diversion.png` | Elven Aristea trades, Demidius and Roy perform, and Amparo and Tulip conduct a cookoff while Odysseus approaches the final Scepter component |
+| Gideon's Sunshot | `docs/assets/events/gideons-sunshot.png` | Gideon releases one sun-charged arrow from the Dawnrunner toward Bluebeard's flagship while two ships of the line pursue |
+| Quest to Rescue Odysseus | `docs/assets/events/quest-to-rescue-odysseus.png` | Queen Lidda Beaumont commissions Demidius and Maarin over a map of Misthold marked with Odysseus's portrait |
+| Rescue of the Champions and Blessed | `docs/assets/events/rescue-of-the-champions-and-blessed.png` | Demidius opens Misthold's cells with the Key of Daedalus while Roy diverts guards and the divine prisoners escape |
+
+## Tulip cookbook and wedding - 2026-07-25
+
+| Wiki page | Repository asset | Scene |
+|---|---|---|
+| Wedding of Tulip and Alley | `docs/assets/events/tulip-and-alley-wedding-ceremony.png` | Tulip and Alley exchange rings aboard the Matcha Frappuccino |
+| Wedding of Tulip and Alley | `docs/assets/events/tulip-and-alley-wedding-reception.png` | The newlyweds cut a matcha wedding tart in the ship's relaxed galley |
+| Tulip's Top 10 Recipes | `docs/assets/recipes/` | Ten compact cookbook illustrations, one for each recorded signature dish |
+
+The Stormspire Festival Diversion asset was also replaced with a cleaned
+identity-preserving edit that removes the foreground haze and double-texture.

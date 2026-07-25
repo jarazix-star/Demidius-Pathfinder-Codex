@@ -27,7 +27,7 @@ offering and returned her in a kobold body as Aristea Enontië.
 
 Nyssa became Demidius's cohort, and Demidius developed romantic feelings for her. She rejected his advances during a crew celebration. This was an unrequited courtship, not an established relationship, and her rejection should not be treated as the confirmed motive for her later betrayal.
 
-Nyssa subsequently disappeared with two crew members and stole *The Mother's Lament*. She had also used a Zeus-associated artifact glove to control Tulip, leaving him with a lasting fear of enchanters. Nyssa's motives, allegiance, current location, and relationship to the ashfall accompanying her disappearance remain unknown.
+Nyssa subsequently disappeared with two crew members and stole *The Mother's Lament*. She had also used a Zeus-associated artifact glove to control Tulip, leaving him with a lasting fear of enchanters. The party later learned that Nyssa was an agent of Smokey Roberts. In the last encounter in which the crew saw her, she attacked alongside Tenor and her husband, an unnamed child of Smokey Roberts who looked almost exactly like Demidius. Her husband was killed during the exchange and his body fell into the sea. Nyssa's present location and status remain unknown.
 
 ## Rosalind Galeheart: Aphrodite's curse
 

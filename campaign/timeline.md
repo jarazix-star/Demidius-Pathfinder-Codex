@@ -90,6 +90,10 @@ The witnessed onset occurred as soon as Declan died: the world shook, the ocean 
 
 Declan's death reduced the active Council of Seven to six and left the Sunlit Chain without a lord.
 
+### Gideon and Crystal are kidnapped during the Culling
+
+Gideon and Crystal, petty officers and Elites aboard the Dawnrunner, were kidnapped during the Culling. Both remain missing and are believed dead, but neither death has been confirmed. The kidnappers, date and place of the abduction, motive, evidence supporting the belief that they died, and their ultimate fates remain unrecorded.
+
 ### Old Nysia enters a post-guild power vacuum
 
 The destruction of Old Nysia's corrupt guilds—caused primarily by Roy,
@@ -113,21 +117,77 @@ present custody of the authentic artifacts, and whether the surviving raiders
 have discovered the deception remain unrecorded, as do the auction's host,
 rules, bidders, security, lots, and prices.
 
+### Tulip and Alley marry
+
+Immediately before the party departed to recover Odysseus, Tulip and Alley
+married. The *Matcha Frappuccino*'s head chef and healer and its spymaster
+entered the Misthold operation as newlyweds. The officiant, vows, full guest
+list, and exact ceremony details have not yet been recorded.
+
+### Beaumont's mission and the Misthold prison break
+
+Queen Lidda Beaumont sent the party to recover her operative Odysseus, who had
+been missing for twenty years. The newly completed Dawnrunner and Matcha
+Frappuccino were teleported to Rosalind Galeheart's lands for a great event at
+Misthold that served as a temporary truce among Pirate Lords. Smokey Roberts
+attended, as did Achilles, the unmatched great champion of the Dogs of War.
+
+The party found Odysseus and several divine heroes imprisoned to fight in the
+games. With guard uniforms supplied by Odysseus, Demidius's diplomacy, and
+Roy's deception, the heroes entered the prison. Demidius used the Key of
+Daedalus to free Odysseus, Gideon (Champion of Apollo), Crystal (Champion of
+Artemis), Binky (Blessed of Ena), Rickard (a neutral-good paladin of Hermes),
+an unnamed Blessed of Hades, and other captives. The Key then carried them to
+the two ships outside Misthold's docks.
+
+Maarin stopped pursuit with a catastrophic tsunami that destroyed more than
+seventy ships of the line and killed countless thousands. The party escaped
+with Odysseus and continued to Stormspire.
+
+### Gideon's Sunshot
+
+The escape route crossed Bluebeard's territory. Bluebeard pursued with his
+flagship and two ships of the line and steadily gained on the fugitives. When
+escape appeared impossible, Gideon used the whole of his godly power for the
+first time and fired a single arrow carrying the power of the sun. The shot
+killed everyone aboard Bluebeard's flagship except Bluebeard himself.
+
+Channeling that power burned Gideon terribly and left him in immense pain. The
+crews nursed him back to health.
+
+During the retreat, the party learned that Odysseus is cursed to lose his way.
+Demidius hosted him because Demidius's Profession (sailor) modifier was the
+stronger option, but Odysseus imposed a -40 penalty on those checks. Against
+Demidius's recorded +113 modifier, that produces +73 before other situational
+modifiers.
+
 ### The Stormspire operation
 
-The heroes traveled to Stormspire, the Storm King's floating city. While the crews distracted the Storm King, Odysseus stole the final component needed to complete the Scepter of Keto, an artifact capable of bypassing Poseidon's navigation curse over the Isles of Berres.
+At Stormspire, the party staged a large diversion for the storm giants. The
+elven incarnation of Aristea sold huge quantities of goods, Demidius and Roy
+performed music, and Amparo, Tulip, and others held a cookoff in a vast
+pavilion erected by Demidius.
 
-Odysseus deliberately sabotaged Stormspire's flight so the city would crash into the settlement below, intending to eliminate an enemy of Nysia and the New Gods regardless of the lives sacrificed without their consent. Maarin used her weather power to arrest the city's fall and save the settlement.
+While the crowds and the Storm King were occupied, Odysseus stole the final
+component needed to complete the Scepter of Keto, an artifact capable of
+bypassing Poseidon's navigation curse over the Isles of Berres. The theft and
+Odysseus's deliberate sabotage prompted the floating city to fall. He intended
+to eliminate an enemy of Nysia and the New Gods regardless of the lives below;
+Maarin used her weather power to stop Stormspire's fall and save the
+settlement.
 
-### The party recovers Odysseus
+After the party reached Stormspire, Smokey Roberts supercharged Odysseus's
+curse. Almost every other ship traveling with the heroes was lost at sea
+during the ensuing retreat. Maarin found her way by means of the now-complete
+Scepter of Keto, while Demidius brought the Dawnrunner through by exceptional
+sailing skill despite hosting Odysseus. Which other vessels were lost and the
+exact mechanics of Smokey's intervention remain unrecorded.
 
-The party recovered Odysseus after he had been missing for twenty years. He is a level-30 rogue of an unspecified specialization and a tactical genius. His commitment to the greater good is ruthlessly utilitarian: he is willing to sacrifice people without their consent to achieve strategic goals.
-
-### Maarin proposes Dame Mathilda for the Sunlit Chain
+### Dame Mathilda accepts the Sunlit Chain proposal
 
 Maarin believes the party has the strongest succession claim through her killing blow, possession of Declan's Wayfinder, and the party's Berresian origin. She also believes the heroes cannot hold the domain against the surviving Pirate Kings, particularly Wavelord Santiago and Smokey Roberts, or the separate storm-giant power called the Storm King.
 
-Maarin proposes abdicating in favor of Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second. The proposal, Wayfinder transfer, appointment, and future invasion of Nysia remain pending.
+Maarin proposed abdicating in favor of Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. The party supported the plan, and Mathilda agreed to it. Aelwyn is intended to serve as Mathilda's second. The formal abdication, Wayfinder transfer, installation, Aelwyn's appointment, and future invasion of Nysia remain pending or unrecorded.
 
 ### Demidius inherits his brother's demiplane
 
@@ -187,6 +247,15 @@ Queen Lidda Beaumont gifted Demidius an artifact capable of unerring alignment r
 
 Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouched; no draw has been made.
 
+### Nyssa's last confirmed appearance
+
+The party learned that Nyssa was an agent of Smokey Roberts. In the last
+encounter in which the crew saw her, Nyssa attacked alongside Tenor and her
+husband, an unnamed child of Smokey Roberts who looked almost exactly like
+Demidius. Nyssa's husband was killed during the exchange and his body fell into
+the sea. The date and location of the battle, the husband's identity, and
+Nyssa's present location and status remain unrecorded.
+
 ## Open chronology questions
 
 - When did Demidius's brother die, and when did the inheritance occur?
@@ -199,4 +268,4 @@ Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouch
 - When and where did Poseidon's storm kill Maarin's family?
 - Which event defines the Post-Arrival calendar: Fel's arrival or Cronus's release?
 - When exactly did the Battle for Tradegulf occur?
-- Will Dame Mathilda accept the Sunlit Chain lordship?
+- When will the party formally transfer its claim and Declan's Wayfinder to Dame Mathilda, and when will she be installed?

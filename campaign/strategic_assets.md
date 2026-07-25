@@ -25,7 +25,7 @@ These assets change what the party can attempt at campaign scale. Their value is
 | Seven-Pipped Gem | Divine ability | Post-roll certainty on pivotal d20 checks | Active | Immediate-action conflict and daily limit |
 | Sounon | Island home base | Shared home for the Dawnrunner and *Matcha Frappuccino* crews | Selected; infrastructure unrecorded | Shipbreaker navigation, construction, defense, and local unknowns |
 | Declan's Wayfinder | Magical compass and succession token | Functions within the Shipbreaker Sea and supports the Sunlit Chain claim | Held by the heroes | One of only fourteen; rival claimants and political exposure |
-| Scepter of Keto | Navigation artifact | Bypasses Poseidon's navigation curse over the Isles of Berres | Final required component stolen from Stormspire; assembly and custody unrecorded | Exact activation, limits, custody, and consequences remain unknown |
+| Scepter of Keto | Navigation artifact | Bypasses Poseidon's navigation curse over the Isles of Berres | Operational after Stormspire and used by Maarin during the cursed retreat; later custody unrecorded | Exact activation, limits, custody, and consequences remain unknown |
 | Blood of the Lernaean Hydra | Unique campaign poison | Save-versus-death opening followed by extreme Constitution damage | Demidius holds 2 doses; account identifies 10 vials | Catastrophic accidental exposure; several adjudication details unresolved |
 | The Mother's Lament | Banned campaign artifact | Suppressed religious history with power to reshape worship and legitimacy | Existence confirmed; custody and powers unknown | Olympian suppression, legal exposure, divine retaliation, textual manipulation |
 
@@ -87,7 +87,7 @@ Hidden Cove, Village Ruins, and an offshore shipwreck. The base still requires
 confirmed anchorage, docks, housing, supplies, repair capacity, governance,
 defenses, and repeatable routes through the Shipbreaker Sea.
 
-Declan's death left the Chain without a lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin recommends transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios, with Aelwyn as her locally credible second.
+Declan's death left the Chain without a formally installed lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin and the party proposed transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios, with Aelwyn as her locally credible second. Mathilda has agreed to the proposal, but the formal transfer, installation, and Aelwyn's appointment remain pending or unrecorded.
 
 The six surviving Pirate Kings and Queens are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. The Storm King is a separate storm giant rather than a council member.
 
@@ -99,7 +99,17 @@ Wayfinders control reliable navigation, enable otherwise prohibitively expensive
 
 ## Scepter of Keto
 
-The Scepter of Keto can bypass the spell Poseidon placed over the Isles of Berres that makes navigation exceptionally difficult. During the Stormspire operation, the crews distracted the Storm King while Odysseus stole the final component needed to complete it. The record does not yet establish whether the Scepter has been assembled, who carries it, how it is activated, or whether bypassing the curse has geographic or temporal limits.
+The Scepter of Keto can bypass the spell Poseidon placed over the Isles of
+Berres that makes navigation exceptionally difficult. After the party rescued
+Odysseus from Misthold, the Stormspire operation concealed his theft inside a
+major diversion: elven Aristea sold goods, Demidius and Roy performed, and
+Amparo, Tulip, and others held a cookoff in a pavilion erected for the storm
+giants. Odysseus stole the final component and sabotaged the city; Maarin
+prevented its fall. The Scepter was subsequently operational: during the
+retreat from Stormspire, Maarin used it to find the way through Poseidon's
+navigation curse while Smokey Roberts supercharged Odysseus's separate
+wayfinding curse. Its current bearer, activation method, and geographic or
+temporal limits remain unrecorded.
 
 Unlike a single Wayfinder, the Scepter may offer the party an independent answer to Poseidon's monopoly over navigation. That makes it a fleet-scale strategic asset and a likely target for the Council of Seven, Poseidon, and other powers invested in controlling Berresian travel.
 
@@ -132,7 +142,7 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - Keep the Deck untouched unless the campaign situation justifies irreducible risk.
 - Secure Declan's Wayfinder and determine who controls the Wayfinder associated with Sly, his deceased second-in-command.
 - Define Sounon's anchorage, defenses, governance, and supply routes before treating it as a secure base.
-- Decide whether to approve Maarin's proposed transfer of the Sunlit Chain claim to Dame Mathilda.
+- Formalize the accepted transfer of the Sunlit Chain claim and Declan's Wayfinder to Dame Mathilda; establish whether and when Aelwyn is appointed as her second.
 
 ## Canonical detail
 

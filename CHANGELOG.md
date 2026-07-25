@@ -1,5 +1,142 @@
 # Change Log
 
+## Tulip cookbook, wedding, and cookoff cleanup - 2026-07-25
+
+- Added an illustrated collection of Tulip's ten signature recipes, with
+  practical yields, ingredients, and methods and no unapproved mechanical
+  bonuses.
+- Added a dedicated page for Tulip and Alley's wedding immediately before the
+  Odysseus rescue mission, including separate ceremony and reception art.
+- Linked the cookbook and wedding from Tulip, Alley, the Matcha Frappuccino,
+  the campaign timeline, the documentation index, and the wiki sidebar.
+- Cleaned the Stormspire festival illustration by removing the smoky,
+  double-exposed veil over the foreground characters while preserving their
+  corrected canonical identities and the existing composition.
+
+## Demidius canonical art page - 2026-07-25
+
+- Added a dedicated current-era Demidius art page to the repository
+  documentation and GitHub wiki.
+- Created a new high-resolution reference panel using the locked *Kiss from a
+  Rose* face and hair, current pink-purple eyes, Dawnrunner uniform, metallic
+  gold tattoos, Hermes' Earrings of Arcane Refrain, and the glowing purple
+  Eyebrow Piercing of Confidence.
+- Added separate close-up panels for both pieces of jewelry and linked the new
+  page from Demidius's profile, the documentation index, and the wiki sidebar.
+
+## Canonical identity corrections in campaign scenes - 2026-07-25
+
+- Corrected Demidius's face and hair in the planning meeting with Queen Lidda
+  Beaumont and in the Stormspire cookoff scene, using the canonical Kiss from
+  a Rose facial reference while preserving each original composition.
+- Corrected Roy's face, blond curls, pointed ears, and violet styling in the
+  prison-break artwork within the Escape from Misthold sequence.
+- Corrected Roy's same canonical identity details in the Stormspire feast and
+  cookoff artwork while retaining his purple uniform, ocarina, and pose.
+- Restored historical elven Aristea and Tulip to their canonical appearances
+  in the same Stormspire artwork: Aristea again has her silver-white hair,
+  pale-blue eyes, and refined elven features, while Tulip is once more the
+  compact dark-curled gnome cook with a goatee and single unicorn horn.
+- Repaired Siopi's two malformed Paradox links so both resolve directly to the
+  existing `Paradox` wiki page.
+- Updated the matching repository and wiki image copies without changing the
+  surrounding event text.
+
+## Demidius face-and-hair identity lock - 2026-07-25
+
+- Confirmed that the newly supplied reference is byte-for-byte identical to
+  the preserved `Demidius-canonical-face-reference.png`.
+- Made that image the sole authority for Demidius's facial structure, cleft
+  chin, complexion, hairline, curl pattern, face-framing locks, and hair
+  volume.
+- Separated immutable identity from era-specific overlays: historical
+  Demidius retains blue-violet eyes and no divine tattoos; current Demidius
+  adds the slight pink-purple eye shift and metallic-gold rose-and-thorn
+  tattoos without changing his face or hair.
+- Strengthened the character bible, art-style guide, ComfyUI prompt library,
+  critical reminders, and wiki appearance text against recent identity drift.
+
+## Demidius canonical face and prison-break artwork correction - 2026-07-25
+
+- Established the supplied Kiss from a Rose scene as the canonical facial
+  reference for Demidius and preserved it in the dedicated artwork library.
+- Corrected the Rescue of the Champions and Blessed artwork so the Key of
+  Daedalus is a believable hand-held size.
+- Corrected Demidius's face in the same scene to follow the canonical
+  reference, including his subtle cleft chin.
+
+## Illustrated Odysseus quest and divine-prisoner rescue - 2026-07-25
+
+- Added separate illustrated wiki and repository pages for Queen Lidda
+  Beaumont's quest to recover Odysseus and the prison break that freed the
+  champions, blessed heroes, and other captives.
+- Linked both stages to Misthold, the campaign timeline, the rescued
+  characters, and the existing Escape from Misthold page.
+- Preserved the three-part event structure: mission and discovery, prison
+  break, then maritime escape.
+
+## Gideon's Sunshot and Odysseus's navigation curse - 2026-07-25
+
+- Added an illustrated event page for Gideon's destruction of Bluebeard's
+  flagship during the escape from Misthold.
+- Recorded the solar backlash that terribly burned Gideon and his recovery
+  under the crews' care.
+- Recorded Odysseus's curse of losing his way, its -40 penalty while Demidius
+  hosted him, and the resulting +73 modifier from Demidius's recorded +113
+  Profession (sailor).
+- Recorded Smokey Roberts supercharging the curse after Stormspire, the loss
+  of almost every accompanying ship, Maarin's use of the completed Scepter of
+  Keto, and Demidius's successful navigation by exceptional sailing skill.
+- Updated the campaign chronology, ship records, strategic assets, wiki links,
+  and durable project notes without inventing unrecorded ship losses or curse
+  mechanics.
+
+## Gideon and Crystal missing during the Culling - 2026-07-25
+
+- Recorded that Dawnrunner Elites Gideon and Crystal were kidnapped during the
+  Culling.
+- Marked both as missing and believed dead while preserving that their deaths
+  have not been confirmed.
+- Updated their profiles, the Dawnrunner and party rosters, the Culling,
+  campaign timeline, workbook reconciliation, and durable project records.
+- Left their kidnappers, abduction circumstances, location, motive, evidence,
+  and ultimate fates unresolved.
+
+## Dame Mathilda accepts the Sunlit Chain proposal - 2026-07-25
+
+- Confirmed that Dame Mathilda agreed to Maarin and the party's proposal that
+  she succeed Declan as lord of the Sunlit Chain.
+- Updated the campaign timeline, strategic record, campaign guide, setting
+  reference, people index, and relevant wiki pages.
+- Preserved the formal abdication, Wayfinder transfer, installation, Aelwyn's
+  appointment as second, and future invasion as pending or unrecorded.
+
+## Nyssa's last confirmed appearance - 2026-07-25
+
+- Revealed Nyssa as an agent of Smokey Roberts.
+- Added her final confirmed encounter with the crew, in which she attacked
+  alongside Tenor and her unnamed husband.
+- Recorded the husband as a child of Smokey Roberts who looked almost exactly
+  like Demidius and was killed before his body fell into the sea.
+- Updated Nyssa, Tenor, Demidius's romantic history, notable figures, the
+  campaign timeline, and durable project records while preserving Nyssa's
+  present status and location as unknown.
+- Corrected the Misthold bloodline tournament venue to a huge colosseum and
+  replaced its event artwork with a monumental, fully occupied arena scene.
+
+## Tenor's bloodline rite and Misthold tournament - 2026-07-25
+
+- Added Tenor, Smokey Roberts's deceased gunslinger fixer, and the ritual that
+  linked Smokey's children through lethal power transfer.
+- Confirmed Siopi as Smokey's eldest child and documented the tournament held
+  at Misthold after their death.
+- Added the Culling-exemption peaches and the unnamed sibling who killed more
+  than fifty siblings, became a mortal god, and swore to kill Demidius.
+- Preserved unknown identities, mechanics, and Siopi's unresolved cause of
+  death instead of filling gaps by inference.
+- Added two original event illustrations and preserved the already-canonical
+  Misthold map unchanged.
+
 ## Canonical Glistria map upgrade - 2026-07-24
 
 - Replaced the compressed Glistria wiki map presentation with the supplied
@@ -956,3 +1093,26 @@
 - Updated Demidius's primary reference art with emerging pink-purple Aphroditean eyes while retaining older blue-eyed art as valid.
 - Updated the project character bible, reader-facing repository summary, notable-figure record, and Wiki pages.
 - Corrected the tattoo map so the sternum and central chest remain bare and the face and neck remain completely untattooed.
+## Illustrated Misthold escape and Stormspire diversion - 2026-07-25
+
+- Added dedicated illustrated event pages for the Escape from Misthold and the
+  Stormspire Festival Diversion.
+- Added unique panoramic artwork for Maarin's catastrophic tsunami and the
+  party's market, music, and cookoff diversion for the storm giants.
+- Linked both events through the Misthold, Stormspire, and campaign timeline
+  pages and added them to wiki navigation.
+
+## Misthold rescue and Stormspire diversion - 2026-07-25
+
+- Recorded Queen Lidda Beaumont's mission to recover her missing operative,
+  Odysseus, from Rosalind Galeheart's great games at Misthold.
+- Recorded the party's infiltration, the divine prisoners freed through the
+  Key of Daedalus, and the escape to the newly completed Dawnrunner and Matcha
+  Frappuccino.
+- Recorded Maarin's tsunami destroying more than seventy ships of the line and
+  killing countless thousands during the retreat.
+- Expanded the Stormspire operation with Aristea's trade, Demidius and Roy's
+  music, and Amparo and Tulip's cookoff as the diversion for Odysseus's theft.
+- Corrected the campaign chronology so Odysseus's recovery precedes the
+  Stormspire operation and kept this event distinct from the later Misthold
+  bloodline tournament.

@@ -33,5 +33,14 @@ The **Eyebrow Piercing of Confidence** is a small magical piercing at the outer
 eyebrow with a controlled purple glow. It must not be converted into a
 forehead gem, tattoo, scar, or painted symbol.
 
-See [Demidius Thorne](demidius-thorne.md) for the complete character record.
+## Personal heraldry
 
+![Canonical personal heraldry of Demidius Thorne](assets/heraldry/demidius-thorne-personal-heraldry.png)
+
+This is Demidius's definitive personal heraldic symbol: an engraved silver
+fleur-de-lis before silver-and-black feathered wings, two deep-crimson roses,
+and crossed silver thorn branches on black. Its proportions, arrangement,
+materials, and colors are fixed. It is related to the Dawnrunner's visual
+language but must not be silently replaced by the ship's complete heraldry.
+
+See [Demidius Thorne](demidius-thorne.md) for the complete character record.

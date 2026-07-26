@@ -22,17 +22,18 @@ This wiki is the readable front door to the repository. It summarizes establishe
 | Aristea's pilgrimages, divine mantle, and earlier life | [Aristea's Backstory](../campaign/aristea_backstory.md) |
 | Aristea's current reincarnated kobold incarnation | [Aristea Enontië](../campaign/aristea_enontie.md) |
 | The campaign as it currently stands | [Campaign Guide](campaign-guide.md) |
-| Events and the story in chronological order | [Campaign Timeline](../campaign/timeline.md) |
-| Zatera, Berres, Sounon, the Sunlit Chain, and Nysia | [Campaign Setting](campaign-setting.md) |
+| Events and the story in chronological order | [Events and Timeline](../campaign/events-and-timeline.md) |
+| Zatera and the Post-Arrival world | [Campaign Setting](campaign-setting.md) |
+| The Isles of Berres and its mapped regions | [Isles of Berres](isles-of-berres.md) |
 | The Dawnrunner, its officers, and named crew | [Dawnrunner](dawnrunner.md) |
 | Tulip's illustrated galley favorites | [Tulip's Top 10 Recipes](tulips-top-10-recipes.md) |
 | Tulip and Alley's wedding before the Misthold mission | [Wedding of Tulip and Alley](events/wedding-of-tulip-and-alley.md) |
 | His divine gifts and dangerous relics | [Artifacts and Divine Gifts](artifacts-and-gifts.md) |
+| Every illustrated Arverdon Palace auction lot | [Auction Artifact Catalog](artifacts/auction/index.md) |
 | The people, gods, and places in the record | [People and Places](people-and-places.md) |
 | The illustrated Greek gods, Titans, and primordial powers | [Greek Mythology](../Demidius-Pathfinder-Codex.wiki/Greek-Mythology.md) |
-| The strategy behind the build | [The Five Pillars](../codex/01_PILLARS_OF_DEMIDIUS.md) |
-| Precise table rulings | [Campaign Rules](../appendices/campaign-rules.md) |
-| The campaign's 10th- and 11th-level spells | [Epic Spells](../reference/spells/EPIC_SPELL_COMPENDIUM.md) |
+| Demidius's build, engines, pillars, and current priorities | [Demidius Optimization](demidius-optimization.md) |
+| Campaign rules, godling bloodlines, Fatal Flaws, and epic spells | [Rules](rules.md) |
 | The complete optimization reference | [Master Codex](../codex/MASTER_CODEX.md) |
 
 ## The Arrival in one page
@@ -46,30 +47,32 @@ Aristea in a kobold body as **Aristea Enontië**. Her half-elven incarnation
 remains deceased; the current questions concern her post-reincarnation
 mechanics, memories, enlargement, and duties.
 
-## The five pillars
-
-Every major recommendation is judged by its contribution to one or more of these priorities:
-
-1. **Probability — Control the die.** Reserve luck resources for rolls that change the encounter or campaign.
-2. **Magical Supremacy — Decide whose magic works.** Remove protections, prevent recovery, and exploit the opening.
-3. **Influence — Build trust, organizations, and authority.** Turn personal Charisma into campaign-scale reach.
-4. **Infrastructure — Control the conditions.** Use ships, gates, time, logistics, and sanctuaries to prepare the field.
-5. **Divinity — Approach apotheosis without losing the moral center.** Treat divine gifts and Fatal Flaws as parts of the same progression.
-
 ## Campaign reference
 
 - [Campaign Setting](campaign-setting.md) — world maps, regional politics, navigation, and locations.
 
-- [Timeline](../campaign/timeline.md) — dated events and undated milestones.
+- [Events and Timeline](../campaign/events-and-timeline.md) — master event catalog.
+- [Grand Artifact Auction](events/grand-artifact-auction.md) — Arverdon Palace auction results and known lot properties.
+- [Auction Artifact Catalog](artifacts/auction/index.md) — dedicated page and unique art for every recorded lot.
+- [Demidius's Speech to the Crafter's Bow](events/demidius-speech-to-the-crafters-bow.md) — the post-auction appeal to replace looting with civic guardianship.
+- [Detailed Timeline](../campaign/timeline.md) — earlier chronology retained for compatibility.
 - [Notable Figures](../campaign/notable_figures.md) — confirmed identities and relationships.
 - [Strategic Assets](../campaign/strategic_assets.md) — operational value, limits, and risks.
 - [Dawnrunner](dawnrunner.md) — vessel statistics, officers, specialists, and crew stories.
 - [Planar Operations](../codex/PLANAR_OPERATIONS.md) — Aristea recovery and corridor security.
-- [Fatal Flaws](../appendices/fatal_flaws.md) — divine costs and mitigation procedures.
+
+## Optimization
+
+The [Demidius Optimization](demidius-optimization.md) hub contains the five
+pillars, current priorities, build resources, and links to every engine. The
+home page remains focused on the campaign rather than duplicating that
+material.
 
 ## Optimization engines
 
-The [Epic Spells](../reference/spells/EPIC_SPELL_COMPENDIUM.md) reference catalogs 58 unique arcane and divine spells of levels 10 and 11, with transcription confidence notes.
+The [Rules](rules.md) hub includes the campaign's epic spell reference, which
+catalogs 58 unique arcane and divine spells of levels 10 and 11 with
+transcription confidence notes.
 
 | Engine | Question it answers |
 |---|---|

@@ -54,6 +54,20 @@ Their real value is information superiority. They are useful in divine politics,
 
 Demidius holds an untouched standard Pathfinder Deck of Many Things. No one has drawn from it. The Deck is a usable strategic reserve, but it is the inverse of Demidius's normal doctrine: it introduces enormous variance rather than controlling it. It should remain a last-resort campaign decision, never casual equipment.
 
+## Arverdon Palace auction
+
+The [Grand Artifact Auction](events/grand-artifact-auction.md) records
+twenty-one named lots, nineteen listed prices totaling 16,625,000 gp, and two
+objects without recorded prices. Heartthorn Ward has confirmed shield
+mechanics; the Shard of First Light has confirmed primordial lore; most other
+lots currently have only a name and sale price. Fate's Sword accounts for two
+lots because its known half and the presumed-lost second half of the former
+Scissors of the Fates were auctioned separately.
+
+The [Auction Artifact Catalog](artifacts/auction/index.md) gives all twenty
+distinct artifacts dedicated illustrated entries without inventing unrevealed
+mechanics.
+
 ## Canonical entries
 
 - [Artifact Compendium](../codex/ARTIFACT_COMPENDIUM.md)

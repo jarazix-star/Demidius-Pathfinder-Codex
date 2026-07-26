@@ -7,6 +7,8 @@ last_updated: 2026-07-23
 
 # Campaign Rules Appendix
 
+![An ordered campaign codex, scales, dice, and sealed rulings aboard the Dawnrunner](../docs/assets/systems/campaign-rules.png)
+
 This appendix is the canonical source for rulings used throughout **The Arrival** and the Demidius Pathfinder Research Codex. Each rule has a stable identifier so dependent chapters and database entries can cite it without restating the ruling.
 
 ## Verification labels

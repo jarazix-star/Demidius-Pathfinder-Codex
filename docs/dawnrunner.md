@@ -8,6 +8,21 @@ last_updated: 2026-07-23
 
 The Dawnrunner is Demidius Thorne's galleon, mobile headquarters, and command organization.
 
+## Flag and ensign
+
+![Canonical flag of Demidius and the Dawnrunner](assets/dawnrunner/dawnrunner-flag-canonical.png)
+
+This is the canonical flag of Demidius and the Dawnrunner. Its black field
+bears a large engraved silver fleur-de-lis backed by symmetrical silver wings.
+Deep-crimson roses and silver thorned rose vines surround the central device,
+with restrained gold ornament at a few junctions and on the spear-shaped
+finial.
+
+The flag is the definitive authority for the vessel's ensign, command colors,
+and future sail or hull heraldry. It remains distinct from Demidius's simpler
+personal heraldry and from the Matcha Frappuccino's black-green, matcha, cream,
+crossed-oar, and botanical visual identity.
+
 ## Senior officers
 
 | Name | Position | Workbook details |

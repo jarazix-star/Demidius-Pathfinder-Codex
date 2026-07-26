@@ -93,6 +93,7 @@ confirmed in play as interpretive.
 | The Crafter's Bow | `docs/assets/factions/crafters-bow-warehouse.png` | Demidius, Vornix, and Alley examine a seized merchant warehouse |
 | Cobras | `docs/assets/factions/cobras-old-nysia.png` | Roy, Aristea Enontie, and Okeanikos contain Cobra lookouts |
 | Grand Artifact Auction | `docs/assets/events/arverdon-grand-artifact-auction.png` | Demidius, Maarin, Roy, and Aristea inspect guarded auction displays |
+| Demidius's Speech to the Crafter's Bow | `docs/assets/events/demidius-speech-to-crafters-bow.png` | Demidius appeals to tradespeople and vigilantes in damaged Tradegulf while Maarin stands beside him, visibly unimpressed |
 | Rickard | `docs/assets/characters/rickard-dawnrunner-paladin.png` | Lilly and Bix welcome the closed-helmeted paladin aboard the Dawnrunner |
 
 ## Canonical Glistria map - 2026-07-24
@@ -115,6 +116,7 @@ confirmed in play as interpretive.
 | Escape from Misthold | `docs/assets/events/escape-from-misthold.png` | Maarin commands a catastrophic tsunami while the distinct Matcha Frappuccino and Dawnrunner escape the destruction of Misthold's pursuing fleet |
 | Stormspire Festival Diversion | `docs/assets/events/stormspire-festival-diversion.png` | Elven Aristea trades, Demidius and Roy perform, and Amparo and Tulip conduct a cookoff while Odysseus approaches the final Scepter component |
 | Gideon's Sunshot | `docs/assets/events/gideons-sunshot.png` | Gideon releases one sun-charged arrow from the Dawnrunner toward Bluebeard's flagship while two ships of the line pursue |
+| Dawnrunner | `docs/assets/dawnrunner/dawnrunner-flag-canonical.png` | Canonical black, silver, crimson-rose, winged-fleur-de-lis, and thorn-vine flag of Demidius and the Dawnrunner |
 | Quest to Rescue Odysseus | `docs/assets/events/quest-to-rescue-odysseus.png` | Queen Lidda Beaumont commissions Demidius and Maarin over a map of Misthold marked with Odysseus's portrait |
 | Rescue of the Champions and Blessed | `docs/assets/events/rescue-of-the-champions-and-blessed.png` | Demidius opens Misthold's cells with the Key of Daedalus while Roy diverts guards and the divine prisoners escape |
 
@@ -128,3 +130,36 @@ confirmed in play as interpretive.
 
 The Stormspire Festival Diversion asset was also replaced with a cleaned
 identity-preserving edit that removes the foreground haze and double-texture.
+
+## Grand Artifact Auction catalog - 2026-07-26
+
+Twenty unique artifact portraits and twenty dedicated artifact pages were
+added, plus an illustrated catalog hub. Unknown appearances are explicitly
+treated as interpretive visualizations rather than mechanical canon.
+
+| Wiki page | Repository asset |
+|---|---|
+| Heartthorn Ward | `docs/assets/artifacts/auction/heartthorn-ward.png` |
+| The Shard of First Light | `docs/assets/artifacts/auction/shard-of-first-light.png` |
+| Rivenheart Crown | `docs/assets/artifacts/auction/rivenheart-crown.png` |
+| Shard of the Shield of Ajax | `docs/assets/artifacts/auction/shard-of-shield-of-ajax.png` |
+| Tiara of Decay | `docs/assets/artifacts/auction/tiara-of-decay.png` |
+| Fate's Sword | `docs/assets/artifacts/auction/fates-sword.png` |
+| Echo Blade | `docs/assets/artifacts/auction/echo-blade.png` |
+| Halfhead's Halfblade | `docs/assets/artifacts/auction/halfheads-halfblade.png` |
+| Horn of Resnik | `docs/assets/artifacts/auction/horn-of-resnik.png` |
+| Grimoire of Honesty | `docs/assets/artifacts/auction/grimoire-of-honesty.png` |
+| Aethereal Crown | `docs/assets/artifacts/auction/aethereal-crown.png` |
+| Ichor of Virility | `docs/assets/artifacts/auction/ichor-of-virility.png` |
+| Rod of Mending | `docs/assets/artifacts/auction/rod-of-mending.png` |
+| Arch of Persecution | `docs/assets/artifacts/auction/arch-of-persecution.png` |
+| Bawery Slab | `docs/assets/artifacts/auction/bawery-slab.png` |
+| Grimoire of Doom | `docs/assets/artifacts/auction/grimoire-of-doom.png` |
+| Gauntlet of Sentience | `docs/assets/artifacts/auction/gauntlet-of-sentience.png` |
+| Ichor of Chaos | `docs/assets/artifacts/auction/ichor-of-chaos.png` |
+| Obsidian Bracelet | `docs/assets/artifacts/auction/obsidian-bracelet.png` |
+| Lifeblood Tome | `docs/assets/artifacts/auction/lifeblood-tome.png` |
+
+Fate's Sword records two sale lots on one page because the known half and the
+presumed-lost half of the former Scissors of the Fates were auctioned
+separately.

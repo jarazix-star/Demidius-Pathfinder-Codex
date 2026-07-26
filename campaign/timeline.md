@@ -5,6 +5,9 @@ status: canonical
 last_updated: 2026-07-23
 ---
 
+> This detailed chronology is now cataloged and cross-linked from
+> [Events and Timeline](events-and-timeline.md).
+
 # The Arrival — Campaign Timeline
 
 This chronology separates dated events from verified milestones whose exact campaign dates have not yet been recorded. Dates use the research record's calendar notation.
@@ -108,14 +111,27 @@ expanded its anti-corruption vigilante operations, while the Cobras absorbed
 smaller criminal gangs. The party subsequently fought vigilantes in a ruined
 Old Nysian city; the faction and outcome remain pending the next session.
 
-At the same time, a recurring auction of some of the world's most valuable
-artifacts is approaching at Arverdon Palace. The event occurs only once every
-several years. Its collection was among the principal targets of Declan's raid,
-but Odysseus had substituted false artifacts for the genuine pieces. Declan's
-forces therefore stole fakes. The timing and method of the substitution, the
-present custody of the authentic artifacts, and whether the surviving raiders
-have discovered the deception remain unrecorded, as do the auction's host,
-rules, bidders, security, lots, and prices.
+The recurring Grand Artifact Auction was subsequently held at Arverdon Palace.
+Its authentic lots were sold after Odysseus's earlier substitution caused
+Declan's raiders to steal false artifacts.
+
+Just after the auction, Demidius addressed the Crafter's Bow with Maarin
+beside him and giving him a notably disapproving look. The encounter made
+clear to them that the faction's leaders were members or agents of the Maker's
+Knot, although its rank and file did not know this.
+
+Demidius confessed that he had once trusted righteous rhetoric and thereby
+aided evil men and slavers through his own Maker's Knot association. He called
+on the faction to stop looting, return what could be returned, protect
+Tradegulf's markets, workshops, caravans, roads, and docks, and pursue
+exploiters through evidence rather than indiscriminate seizure.
+
+The speech worked well, sometimes too well: members guarded people who did not
+need protection. Demidius recruited volunteers for the temples, worked with
+Amparo to build homes and feed people, and gave daily speeches to prevent the
+movement from becoming an unruly mob. This relief work also served as
+restitution for his former Maker's Knot association. Whether the reform
+becomes permanent remains unknown.
 
 ### Tulip and Alley marry
 

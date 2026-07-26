@@ -50,6 +50,21 @@ Demidius is a handsome, lean, clean-shaven musetouched aasimar with long dark ha
 
 His permanent identifying details are metallic-gold rose-and-vine tattoos along the outer upper chest and pectoral edges, metallic-gold thorn tattoos over the backs of his hands and fingers, and the small glowing-purple Eyebrow Piercing of Confidence. The center of his chest and sternum remain bare, and he has no tattoos on his face or neck. As his Aphroditean power grows, his eyes are shifting into a luminous blend of pink and purple.
 
+## Personal heraldry
+
+![Canonical personal heraldry of Demidius Thorne](assets/heraldry/demidius-thorne-personal-heraldry.png)
+
+This is **Demidius Thorne's canonical personal heraldic symbol**. It places an
+engraved silver fleur-de-lis before a pair of silver-and-black feathered wings,
+with two deep-crimson roses above crossed silver thorn branches on a black
+field. The design unites the rose, thorn, wing, and fleur-de-lis motifs already
+associated with Demidius while remaining a distinct, fixed personal mark.
+
+When Demidius's personal heraldry appears on a seal, banner, garment, armor, or
+piece of equipment, this exact arrangement and color treatment should be used.
+It should not be replaced by a simplified generated crest, the Dawnrunner's
+complete ship heraldry, or the Matcha Frappuccino's flag.
+
 ## Magic items
 
 - **[Hermes’ Earrings of Arcane Refrain](../systems/magic_items/HERMES_EARRINGS_OF_ARCANE_REFRAIN.md):** grants **Quicken Spell**, **Reach Spell**, and **Selective Spell** while worn.

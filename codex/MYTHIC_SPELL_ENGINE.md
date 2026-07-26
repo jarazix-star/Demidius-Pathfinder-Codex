@@ -1,5 +1,9 @@
 # Mythic Spell Selection Engine
 
+This is a Demidius-specific advancement resource within the
+[[Demidius Optimization]] codex. It records spell-selection strategy rather
+than general campaign rules.
+
 ## Selection rule
 
 Demidius should select spells based on **problem solved per action**, not damage per slot.

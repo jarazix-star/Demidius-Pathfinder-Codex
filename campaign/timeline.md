@@ -272,16 +272,42 @@ Demidius. Nyssa's husband was killed during the exchange and his body fell into
 the sea. The date and location of the battle, the husband's identity, and
 Nyssa's present location and status remain unrecorded.
 
-## Demidius and Amparo become Champions
+## Battle beneath the Champions' garrison
 
-Demidius and Amparo defeated the leader of the Champions. The victory completed
-Demidius's third trial for Hermes and Amparo's third trial for Hestia. With
-both Champion offices vacant, Demidius became Champion of Hermes and Amparo
-became Champion of Hestia.
+A few days after Demidius addressed the Crafter's Bow, Maarin asked him to
+accompany her to meet Oros of the Blossom. With several companions already
+going, the entire party came. The apparent Oros commanded Champions of several
+minor New Gods and justified their savage beating of a thief as preventing
+greater harm.
 
-The current faction record identifies Oros of the Blossom as the leader of the
-Champions, but the full story of the encounter, its exact date, and Oros's fate
-remain pending.
+Demidius concealed his use of Queen Beaumont's alignment-revealing artifact.
+It identified the apparent Oros as Lawful Evil, and for an instant Demidius
+perceived a kobold beneath the disguise. He warned Maarin telepathically that he
+believed the Lords of Order were involved. When Maarin revealed their
+suspicion, the impostor dropped the act and attempted unsuccessfully to dominate
+the reincarnated kobold Aristea Enontië.
+
+Demidius stripped away the impostor's protections and disguise, revealing an
+unnamed kobold mortal god of Fel. Aristea struck with ice rays and Maarin
+followed in melee. A contingency restored the enemy's position, but his
+retaliation passed harmlessly through Demidius's incorporeal form. The enemy
+fled toward the garrison basement while Maarin and Okeanikos made short work
+of his remaining henchmen. Demidius's attempt to rally the assembled Champions
+met with mixed success.
+
+Maarin teleported into the basement and fell. Demidius and Amparo arrived in
+time to revive her before her final breath. The kobold fought beside an
+abomination described as a clone of Fel and a shield guardian. At one point
+only three members of the party remained standing. Amparo restored the group
+with extraordinary healing, and Roy seized control of the shield guardian and
+turned it against the Fel clone. The party then defeated the kobold.
+
+The victory completed a divine trial. Roy and Maarin received three Boons each;
+Aristea and Okeanikos received two each. Demidius became Champion of Hermes and
+Amparo became Champion of Hestia. The true Oros's location and fate, the
+infiltrator's name, and the extent of the compromised Champions remain unknown.
+
+See [Battle beneath the Champions' garrison](../docs/events/battle-beneath-the-champions-garrison.md).
 
 ## Current Culling losses
 

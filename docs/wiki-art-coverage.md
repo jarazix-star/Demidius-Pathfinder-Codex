@@ -45,7 +45,7 @@ All new artwork was generated in built-in image-generation mode and is mirrored 
 
 ## Intentional exceptions
 
-The sidebar's Reference section does not require art: Campaign Rules, Boons, Campaign Assumptions, Mythic Spell Research, Epic Spells, Option Index, Getting Started, and Editorial Standards. Administrative pages, repository architecture, processing logs, scope documents, and legacy alias pages are likewise exempt because they are navigation or maintenance surfaces rather than campaign articles.
+The sidebar's Reference section does not require art: Campaign Rules, Boons, Campaign Assumptions, Epic Spells, Option Index, Getting Started, and Editorial Standards. Administrative pages, repository architecture, processing logs, scope documents, and legacy alias pages are likewise exempt because they are navigation or maintenance surfaces rather than campaign articles.
 
 ## Verification standard
 
@@ -94,6 +94,7 @@ confirmed in play as interpretive.
 | Cobras | `docs/assets/factions/cobras-old-nysia.png` | Roy, Aristea Enontie, and Okeanikos contain Cobra lookouts |
 | Grand Artifact Auction | `docs/assets/events/arverdon-grand-artifact-auction.png` | Demidius, Maarin, Roy, and Aristea inspect guarded auction displays |
 | Demidius's Speech to the Crafter's Bow | `docs/assets/events/demidius-speech-to-crafters-bow.png` | Demidius appeals to tradespeople and vigilantes in damaged Tradegulf while Maarin stands beside him, visibly unimpressed |
+| Battle Beneath the Champions' Garrison | `docs/assets/events/false-oros-revealed.png`, `docs/assets/events/champions-recognized.png` | The false Oros is exposed as a kobold mortal god of Fel; Demidius and Amparo receive divine recognition after the basement victory |
 | Rickard | `docs/assets/characters/rickard-dawnrunner-paladin.png` | Lilly and Bix welcome the closed-helmeted paladin aboard the Dawnrunner |
 
 ## Canonical Glistria map - 2026-07-24

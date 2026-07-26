@@ -8,6 +8,9 @@ last_updated: 2026-07-23
 
 The Dawnrunner is Demidius Thorne's galleon, mobile headquarters, and command organization.
 
+Its canonical exterior, figurehead, sail plan, flag, stern, and rear captain's
+quarters are documented in the [Dawnrunner ship-design guide](dawnrunner-ship-design.md).
+
 ## Flag and ensign
 
 ![Canonical flag of Demidius and the Dawnrunner](assets/dawnrunner/dawnrunner-flag-canonical.png)

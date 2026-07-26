@@ -167,10 +167,11 @@ formed the Champions. The group charges protection fees but patrols streets,
 suppresses crime, cleans neighborhoods, protects refugees, and controls roads
 and the ferry route between Tradegulf and Glistria.
 
-Demidius and Amparo later defeated the leader of the Champions, completing
-their third trials for Hermes and Hestia respectively. The current record
-identifies Oros as that leader, but his fate, the full encounter, and the
-faction's successor leadership remain pending.
+During the [Battle Beneath the Champions' Garrison](events/battle-beneath-the-champions-garrison.md),
+the party exposed the apparent Oros as an unnamed kobold mortal god of Fel.
+The infiltrator was defeated, completing Demidius's third Hermes trial and
+Amparo's third Hestia trial. The real Oros's fate and the faction's successor
+leadership remain unknown.
 
 ### The Crafter's Bow
 

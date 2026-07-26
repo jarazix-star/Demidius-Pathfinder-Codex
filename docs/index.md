@@ -60,6 +60,7 @@ mechanics, memories, enlargement, and duties.
 - [Grand Artifact Auction](events/grand-artifact-auction.md) — Arverdon Palace auction results and known lot properties.
 - [Auction Artifact Catalog](artifacts/auction/index.md) — dedicated page and unique art for every recorded lot.
 - [Demidius's Speech to the Crafter's Bow](events/demidius-speech-to-the-crafters-bow.md) — the post-auction appeal to replace looting with civic guardianship.
+- [Battle Beneath the Champions' Garrison](events/battle-beneath-the-champions-garrison.md) — the exposure of the false Oros and the trials that made Demidius and Amparo Champions.
 - [Detailed Timeline](../campaign/timeline.md) — earlier chronology retained for compatibility.
 - [Notable Figures](../campaign/notable_figures.md) — confirmed identities and relationships.
 - [Strategic Assets](../campaign/strategic_assets.md) — operational value, limits, and risks.

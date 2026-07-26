@@ -25,10 +25,12 @@ mirrored in the GitHub wiki as `Events-and-Timeline.md`.
    and Aristea's reincarnation as Aristea Enontië.
 8. **Roberts bloodline conflict:** Nyssa's betrayal and the Misthold tournament
    in which one sibling became a mortal god.
-9. **Champions of Hermes and Hestia:** Demidius and Amparo defeated the leader
-   of the Champions, completing their respective third trials. With both divine
-   offices vacant, Demidius became Champion of Hermes and Amparo became
-   Champion of Hestia. The encounter's full story remains pending.
+9. **[Battle beneath the Champions' garrison](../docs/events/battle-beneath-the-champions-garrison.md):**
+   A few days after the Crafter's Bow address, the party exposed the apparent
+   Oros of the Blossom as a Lawful Evil, magically disguised kobold mortal god
+   of Fel. The resulting surface and basement battles ended with the party
+   defeating the infiltrator, a Fel abomination, and a shield guardian.
+   Demidius became Champion of Hermes and Amparo became Champion of Hestia.
 10. **Ongoing Culling losses:** the New Gods' Lodingen raid, deaths and
     resurrection attempts among gods and pirate powers, and Apollo's
     catastrophic plague of the Berres mainland are tracked in the

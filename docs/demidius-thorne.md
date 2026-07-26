@@ -76,8 +76,11 @@ Older blue-eyed art and earlier approved costumes remain valid historical depict
 ## Champion of Hermes
 
 Demidius first became Blessed of Hermes after completing two trials. He later
-completed his third Hermes trial when he and Amparo defeated the leader of the
-Champions. With Hermes's Champion office vacant, Demidius became the god's
+completed his third Hermes trial during the
+[Battle Beneath the Champions' Garrison](events/battle-beneath-the-champions-garrison.md),
+where he exposed the false Oros, stripped the kobold mortal god of Fel's
+protections and disguise, and helped save the party. With Hermes's Champion
+office vacant, Demidius became the god's
 unique Champion and a leader among Hermes's followers.
 
 He retains the Advanced simple template granted by the Blessed stage and gains
@@ -85,10 +88,9 @@ two additional godly powers drawn from Hermes's domains. Those powers have not
 yet been identified. Under the campaign's mythic formula, the two powers add
 two Mythic Tiers and four Mythic Power relative to his pre-Champion state.
 
-The full circumstances of the victory and the fate of the Champions' leader
-are awaiting the later story. This status is separate from Demidius's Aphrodite
-bloodline, demigod rank, and the individual gifts he has received through
-Hermes's custom divine progression.
+The false Oros's personal name and the real Oros's fate remain unknown. This
+status is separate from Demidius's Aphrodite bloodline, demigod rank, and the
+individual gifts he has received through Hermes's custom divine progression.
 
 ## Early life
 

@@ -27,7 +27,7 @@ crossed-oar, and botanical visual identity.
 
 | Name | Position | Workbook details |
 |---|---|---|
-| Demidius Thorne | Captain | Level 17; neutral good; Blessed of Hermes after two trials |
+| Demidius Thorne | Captain | Level 17; neutral good; Champion of Hermes after three trials |
 | Roy | First mate | Level 17 bard; pure mortal; worships Hestia; legendary liar and trusted morale leader |
 | Aristea Enontië | Post-return office not yet reconfirmed | Living reincarnated kobold, permanently enlarged to party-scale height; latest confirmed build remains level 17 Exploiter Wizard 9 / Crossblooded Wildblooded Sorcerer 1 / Arcane Trickster 7; former navigator and chief engineer, water-and-cold specialist, Animal Lord of the Tides, primary crafter, shapeshifter, and Demidius's cohort |
 | Lilly | Bosun | Demigod of Hermes; runs logistics and keeps Zujuck in line |

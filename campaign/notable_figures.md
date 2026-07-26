@@ -13,7 +13,7 @@ Only confirmed relationships and campaign facts are recorded here. Unknown biogr
 
 ## Demidius Thorne
 
-Charisma-centered oracle, mythic controller, captain, party face, demigod, and Blessed of Hermes. Demidius completed two Hermes trials, bears the Advanced simple template, and is recognizable to Hermes's followers as favored; the trials themselves remain unrecorded. He commands the Dawnrunner. His strategic doctrine emphasizes certainty, magical defense removal, action-economy control, party enablement, influence, and infrastructure rather than personal weapon damage. His permanent visual identifiers include gold rose-and-vine tattoos framing the outer chest while leaving the sternum bare, gold thorn tattoos over his hands, and a glowing purple artifact eyebrow piercing; he has no face or neck tattoos, and his eyes are beginning to blend pink and purple as his Aphroditean power grows.
+Charisma-centered oracle, mythic controller, captain, party face, demigod, and Champion of Hermes. Demidius completed his third Hermes trial when he and Amparo defeated the leader of the Champions. He retains the Advanced simple template from his Blessed stage and gains two Hermes-domain godly powers whose identities remain unrecorded. He commands the Dawnrunner. His strategic doctrine emphasizes certainty, magical defense removal, action-economy control, party enablement, influence, and infrastructure rather than personal weapon damage. His permanent visual identifiers include gold rose-and-vine tattoos framing the outer chest while leaving the sternum bare, gold thorn tattoos over his hands, and a glowing purple artifact eyebrow piercing; he has no face or neck tattoos, and his eyes are beginning to blend pink and purple as his Aphroditean power grows.
 
 **Key relationships:** patronage from Hermes; alliance or gift relationship with Queen Beaumont; loyalty relationship with Aristea through the inherited demiplane; heir to his deceased brother's demiplane.
 
@@ -21,7 +21,7 @@ Demidius was born in Lodingen to Philomela Thorne and Pirate King Smokey Roberts
 
 ## Amparo Decoris Ignatius
 
-A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, meaning they completed two Hestian trials, Hestia's followers can sense the god's favor upon them, and they possess the Advanced simple template. The details of those Hestian trials remain unrecorded. Amparo was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future Champion and confirmed that Amparo had completed a first Eris trial by helping sow discord into the world. Whether Amparo knowingly accepted that path remains unrecorded. Amparo and the minor goddess Ena share the same father and are half-sisters; their father's identity remains unrecorded.
+A level 17 nonbinary undine life oracle, player character, first mate of the *Matcha Frappuccino*, and Champion of Hestia. Amparo completed their third Hestian trial when they and Demidius defeated the leader of the Champions. They retain the Advanced simple template from their Blessed stage and gain two Hestia-domain godly powers whose identities remain unrecorded. Amparo was born into Hestia's bloodline as a one-quarter godling. Eating an Apple of Discord elevated them to demigodhood and gave Eris a claim over them. At the Battle for Tradegulf, Eris called Amparo her future Champion and confirmed that Amparo had completed a first Eris trial by helping sow discord into the world. That separate Eris claim remains unresolved. Amparo and the minor goddess Ena share the same father and are half-sisters; their father's identity remains unrecorded.
 
 ## Queen Lidda Beaumont of Nysia
 
@@ -81,7 +81,7 @@ Former Pirate King and lord of the Sunlit Chain. Declan could call a kraken and 
 
 ## The surviving Pirate Kings and Queens
 
-The six surviving council members are Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Smokey is a demigod of Athena and was targeted by the Godclaw's attempted war-god breeding program. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
+Immediately after Declan's death, six council members remained. Bloody Anne has since died during the Culling, leaving five named living rulers: Smokey Roberts, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Smokey was killed during the Culling but successfully resurrected. He is a demigod of Athena and was targeted by the Godclaw's attempted war-god breeding program. Santiago and Roberts are the two Maarin specifically identified as immediate dangers to a party-held Sunlit Chain. The Storm King is a separate storm giant and is not a council member.
 
 During the escape from Misthold, Bluebeard chased the party through his
 territory with his flagship and two ships of the line. Gideon stopped the

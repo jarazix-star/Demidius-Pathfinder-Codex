@@ -11,7 +11,7 @@ last_updated: 2026-07-23
 See the [canonical Demidius art page](demidius-art.md) for the current visual
 identity reference and dedicated details of his earrings and eyebrow piercing.
 
-Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Blessed of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
+Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Champion of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
 
 ## Role in the party
 
@@ -33,7 +33,7 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Current level | 17 |
 | Class identity | Oracle and divine spellcaster |
 | Campaign role | Captain, face, controller, and party enabler |
-| Divine relationship | Blessed of Hermes after completing two Hermes trials; servant and beneficiary of Hermes |
+| Divine relationship | Champion of Hermes after completing three Hermes trials; unique leader among Hermes's followers |
 | Family | Philomela Thorne, mother; Smokey Roberts, father; Siopi, Paradox, Aelwyn, Tulip, a deceased brother, and other scattered siblings |
 | Birthplace | Lodingen |
 | Childhood home | Motu Leilani in the Isles of Berres |
@@ -73,11 +73,22 @@ Older blue-eyed art and earlier approved costumes remain valid historical depict
 
 ![Earlier approved looks and the tattoo-and-piercing detail reference](assets/people/demidius-approved-older-looks-tattoo-reference.png)
 
-## Blessed of Hermes
+## Champion of Hermes
 
-Demidius has completed two trials for Hermes and is therefore Blessed of Hermes. Hermes's followers can sense the god's favor upon him, and Demidius gains the Advanced simple template. The identities and circumstances of the two trials are not yet recorded.
+Demidius first became Blessed of Hermes after completing two trials. He later
+completed his third Hermes trial when he and Amparo defeated the leader of the
+Champions. With Hermes's Champion office vacant, Demidius became the god's
+unique Champion and a leader among Hermes's followers.
 
-This status is separate from Demidius's Aphrodite bloodline, demigod rank, and the individual gifts he has received through Hermes's custom divine progression.
+He retains the Advanced simple template granted by the Blessed stage and gains
+two additional godly powers drawn from Hermes's domains. Those powers have not
+yet been identified. Under the campaign's mythic formula, the two powers add
+two Mythic Tiers and four Mythic Power relative to his pre-Champion state.
+
+The full circumstances of the victory and the fate of the Champions' leader
+are awaiting the later story. This status is separate from Demidius's Aphrodite
+bloodline, demigod rank, and the individual gifts he has received through
+Hermes's custom divine progression.
 
 ## Early life
 

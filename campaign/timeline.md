@@ -272,6 +272,39 @@ Demidius. Nyssa's husband was killed during the exchange and his body fell into
 the sea. The date and location of the battle, the husband's identity, and
 Nyssa's present location and status remain unrecorded.
 
+## Demidius and Amparo become Champions
+
+Demidius and Amparo defeated the leader of the Champions. The victory completed
+Demidius's third trial for Hermes and Amparo's third trial for Hestia. With
+both Champion offices vacant, Demidius became Champion of Hermes and Amparo
+became Champion of Hestia.
+
+The current faction record identifies Oros of the Blossom as the leader of the
+Champions, but the full story of the encounter, its exact date, and Oros's fate
+remain pending.
+
+## Current Culling losses
+
+The ongoing Culling has killed or temporarily removed major divine, political,
+and military powers:
+
+- The New Gods raided Lodingen and killed two of the ten Lords of Order
+  champions stationed there.
+- Alexander was killed and cannot be resurrected for fifty years.
+- Smokey Roberts was killed and successfully resurrected.
+- Bloody Anne, Morgan the Runner, and Darkness were killed.
+- Apollo and Artemis are temporarily dead.
+- Apollo's death released a plague that killed roughly ninety percent of
+  Smokey Roberts's territory / the Berres mainland.
+- The vice admirals of Black Beard, Warlord Santiago, Bluebeard, and The
+  Hammer, as well as the New Iron Tyrant, remain dead after the recorded
+  numbers of failed resurrection attempts.
+- Sly has accumulated three failed resurrection attempts despite not being
+  Culling-eligible.
+
+See the [Culling casualty ledger](culling_casualty_ledger.md) for exact
+resurrection-failure counts and identity safeguards.
+
 ## Open chronology questions
 
 - When did Demidius's brother die, and when did the inheritance occur?

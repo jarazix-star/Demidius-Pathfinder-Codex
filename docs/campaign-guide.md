@@ -28,6 +28,14 @@ The first dated event in the record occurred outside Tradegulf on 2026-06-28. Ar
 
 The heavens proclaimed her **Queen of Nysia, Slayer of War, and Minor Goddess of Dueling (War Subdomain)**. Her later gift of the Glasses of Beaumont places Demidius in a direct relationship with one of the newly ascended powers.
 
+The upheaval has since spread far beyond Tradegulf. The New Gods killed two of
+the ten Lords of Order champions in a raid on Lodingen. Alexander is dead and
+cannot be resurrected for fifty years; Apollo and Artemis are temporarily
+dead; Smokey Roberts died and returned through successful resurrection; and
+Bloody Anne remains dead. Apollo's death released a plague that killed roughly
+ninety percent of Smokey Roberts's territory / the Berres mainland. See the
+[current Culling casualty ledger](../campaign/culling_casualty_ledger.md).
+
 ## The Aristea objective
 
 Aristea has died, and her soul is imprisoned in Tartarus. The campaign record is explicit that resurrection magic does not bypass soul imprisonment. A successful recovery therefore has four distinct problems:

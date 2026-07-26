@@ -12,11 +12,22 @@ This page collects the setting names that appear in the verified campaign record
 
 ### Demidius Thorne
 
-Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Blessed of Hermes after two completed Hermes trials. He bears the Advanced simple template, and Hermes's followers can sense the god's favor upon him. See the [character overview](demidius-thorne.md).
+Oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and
+Champion of Hermes after three completed Hermes trials. He retains the Advanced
+simple template from the Blessed stage and gains two Hermes-domain godly powers.
+See the [character overview](demidius-thorne.md).
 
 ### Amparo Decoris Ignatius
 
-A level 17 nonbinary undine life oracle, player character, and first mate of the *Matcha Frappuccino*. Amparo is Blessed of Hestia, which means they completed two Hestian trials, bear the Advanced simple template, and are recognizable to Hestia's followers as favored. They were born a one-quarter godling of Hestia's bloodline and became a demigod by eating an Apple of Discord. At Tradegulf, Eris named Amparo her future Champion and confirmed that the battle completed Amparo's first Eris trial toward that separate path. Amparo and the minor goddess Ena share the same father and are half-sisters; their father's identity remains unrecorded.
+A level 17 nonbinary undine life oracle, player character, first mate of the
+*Matcha Frappuccino*, and Champion of Hestia after three completed Hestian
+trials. They retain the Advanced simple template from the Blessed stage and
+gain two Hestia-domain godly powers. They were born a one-quarter godling of
+Hestia's bloodline and became a demigod by eating an Apple of Discord. At
+Tradegulf, Eris named Amparo her future Champion and confirmed that the battle
+completed Amparo's first Eris trial toward that separate path, which remains
+unresolved. Amparo and the minor goddess Ena share the same father and are
+half-sisters; their father's identity remains unrecorded.
 
 ### Queen Lidda Beaumont of Nysia
 
@@ -36,7 +47,7 @@ Alexander is a primordial silver dragon, Lord of the Earth, and one of the four 
 
 ### The Council of Seven
 
-The Pirate Kings and Queens who rule the Isles of Berres. At campaign start they were Sea Serpent Declan, Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Declan's death leaves six active members. Smokey Roberts is a demigod of Athena whom the Godclaw targeted as the paternal source for an attempted new god of war. The Storm King is a separate storm giant rather than a council member.
+The Pirate Kings and Queens who rule the Isles of Berres. At campaign start they were Sea Serpent Declan, Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Declan and Bloody Anne are now dead, leaving five named living rulers while the succession of their seats remains unrecorded. Smokey Roberts was killed during the present Culling but successfully resurrected. He is a demigod of Athena whom the Godclaw targeted as the paternal source for an attempted new god of war. The Storm King is a separate storm giant rather than a council member.
 
 ### Hermes
 
@@ -155,6 +166,11 @@ second survivor joined former guardsmen, seized the Tradegulf garrison, and
 formed the Champions. The group charges protection fees but patrols streets,
 suppresses crime, cleans neighborhoods, protects refugees, and controls roads
 and the ferry route between Tradegulf and Glistria.
+
+Demidius and Amparo later defeated the leader of the Champions, completing
+their third trials for Hermes and Hestia respectively. The current record
+identifies Oros as that leader, but his fate, the full encounter, and the
+faction's successor leadership remain pending.
 
 ### The Crafter's Bow
 

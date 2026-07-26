@@ -46,7 +46,7 @@ The seven Pirate Kings and Queens at the campaign's start were:
 6. Wavelord Santiago.
 7. Morrigan “the Burner” Crossfire.
 
-Declan's death leaves six active council members. The heroes hold his Wayfinder and therefore possess both a navigation asset and a politically significant succession token.
+Declan's death initially left six active council members. Bloody Anne was subsequently killed during the Culling, leaving five named living rulers while the succession of both vacated seats remains unrecorded. The heroes hold Declan's Wayfinder and therefore possess both a navigation asset and a politically significant succession token.
 
 ## Sounon and the Sunlit Chain
 

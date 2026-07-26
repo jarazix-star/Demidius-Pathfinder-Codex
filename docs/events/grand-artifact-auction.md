@@ -26,7 +26,7 @@ Every named lot has a dedicated illustrated entry in the
 | [Shard of the Shield of Ajax](../artifacts/auction/shard-of-the-shield-of-ajax.md) | 200,000 gp | Further properties unknown |
 | [Tiara of Decay](../artifacts/auction/tiara-of-decay.md) | 1,000,000 gp | Further properties unknown |
 | [Fate's Sword — known half](../artifacts/auction/fates-sword.md) | 450,000 gp | One half of the former Scissors of the Fates |
-| [Echo Blade](../artifacts/auction/echo-blade.md) | 200,000 gp | Further properties unknown |
+| [Echo Blade](../artifacts/auction/echo-blade.md) | 200,000 gp | +5 sword; ignores Power Attack-style attack penalties; 30+ arguing soul-memory echoes impose −10 Perception |
 | [Halfhead's Halfblade](../artifacts/auction/halfheads-halfblade.md) | 250,000 gp | Name slightly uncertain |
 | [Fate's Sword — presumed-lost half](../artifacts/auction/fates-sword.md) | 1,500,000 gp | Unexpected recovery drove the price dramatically higher |
 | [Horn of Resnik](../artifacts/auction/horn-of-resnik.md) | 450,000 gp | Further properties unknown |

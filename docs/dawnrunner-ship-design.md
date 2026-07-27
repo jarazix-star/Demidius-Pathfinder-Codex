@@ -74,6 +74,12 @@ and complete heraldic arrangement. Its raven-black field carries an engraved
 silver fleur-de-lis backed by silver wings, framed by deep-crimson roses and
 silver thorn vines.
 
+## Ship interiors
+
+The approved captain's command suite, arcane workshop, cargo hold, crew
+quarters, and officer/guest cabins are collected in the
+[Dawnrunner interiors record](dawnrunner-interiors.md).
+
 ## Rear captain's quarters
 
 ![Rear captain's quarters](assets/ships/dawnrunner/dawnrunner-captains-quarters-reference-sheet.png)
@@ -98,7 +104,7 @@ wall panels.
 
 ## Canonical reference packs
 
-The Dawnrunner is separated into seven ComfyUI packs so a specific component
+The Dawnrunner is separated into component-specific ComfyUI packs so a specific component
 can be locked without forcing unrelated ship details into a scene:
 
 - `Ship_Dawnrunner` — complete ship and four-view exterior geometry;
@@ -108,7 +114,17 @@ can be locked without forcing unrelated ship details into a scene:
 - `Ship_Dawnrunner_Sails` — complete sail plan and emblem hierarchy;
 - `Heraldry_Dawnrunner_Flag` — exact flag and heraldic palette; and
 - `Ship_Interior_Dawnrunner_Captains_Quarters` — rear cabin architecture and
-  furnishings.
+  furnishings;
+- `Ship_Interior_Dawnrunner_Magical_Workshop` — the two-level arcane
+  laboratory, library gallery, and central worktable;
+- `Ship_Interior_Dawnrunner_Cargo_Hold` — the principal hold, structural
+  rhythm, and organized storage bays; and
+- `Ship_Interior_Dawnrunner_Crew_Sleeping_Quarters` — shared sleeping,
+  circulation, hammock, wash, and personal-storage references.
+
+The approved single-cabin officer/guest view is also recorded in the
+[interiors guide](dawnrunner-interiors.md). It establishes the standard cabin
+appearance without claiming a fixed occupant or exact deck-plan location.
 
 The packs are stored under:
 
@@ -117,4 +133,3 @@ The packs are stored under:
 The durable approved art masters are stored under:
 
 `C:\Users\coutu\Documents\Codex\Documents\Dawnrunner\Ship Design`
-

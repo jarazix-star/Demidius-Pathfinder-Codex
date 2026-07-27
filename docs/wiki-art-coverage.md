@@ -164,3 +164,23 @@ treated as interpretive visualizations rather than mechanical canon.
 Fate's Sword records two sale lots on one page because the known half and the
 presumed-lost half of the former Scissors of the Fates were auctioned
 separately.
+
+## Dawnrunner interior expansion - 2026-07-26
+
+| Interior | Repository assets |
+|---|---|
+| Captain's command suite | `docs/assets/dawnrunner/interiors/captains-quarters/` |
+| Arcane workshop | `docs/assets/dawnrunner/interiors/arcane-workshop/dawnrunner-arcane-workshop.png` |
+| Cargo hold | `docs/assets/dawnrunner/interiors/cargo-hold/` |
+| General crew quarters | `docs/assets/dawnrunner/interiors/crew-quarters/dawnrunner-crew-quarters-canonical.jpg` |
+| Officer and guest quarters | `docs/assets/dawnrunner/interiors/officer-guest-quarters/dawnrunner-officer-guest-quarters-canonical.jpg` |
+
+The reader-facing descriptions and visual-authority notes are consolidated in
+`docs/dawnrunner-interiors.md`. The user-approved crew and officer/guest views
+supplement their matching Canonical Reference Packs rather than silently
+superseding coordinated multi-view production packs.
+
+The Battle Beneath the Champions' Garrison scene at
+`docs/assets/events/false-oros-revealed.png` and its corresponding wiki asset
+were corrected to remove Aristea Enontië's duplicate tail while preserving
+the intended visible tail.

@@ -1,6 +1,6 @@
 # Events and Timeline
 
-![A chart-table chronicle of the Arrival](../docs/assets/events/events-and-timeline.png)
+![A chart-table chronicle of the Arrival](../docs/assets/events/events-and-timeline-v2.png)
 
 This is the repository's master event catalog. The reader-facing version is
 mirrored in the GitHub wiki as `Events-and-Timeline.md`.

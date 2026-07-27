@@ -10,6 +10,9 @@ The Dawnrunner is Demidius Thorne's galleon, mobile headquarters, and command or
 
 Its canonical exterior, figurehead, sail plan, flag, stern, and rear captain's
 quarters are documented in the [Dawnrunner ship-design guide](dawnrunner-ship-design.md).
+The approved captain's command suite, arcane workshop, cargo hold, general
+crew quarters, and officer/guest cabins are collected in the
+[Dawnrunner interiors record](dawnrunner-interiors.md).
 
 ## Flag and ensign
 

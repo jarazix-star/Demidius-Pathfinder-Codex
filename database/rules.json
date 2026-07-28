@@ -178,5 +178,47 @@
     "title": "Class-feature scaling after level 20",
     "status": "Verified Campaign Rule",
     "text": "Existing class features that scale by class level continue becoming more powerful beyond effective class level 20, including through Evangelist's Aligned Class. No new named base-class abilities are automatically gained beyond the printed class table. Continued scaling of existing progressions is allowed, but printed capstones and unique named abilities are not repeated."
+  },
+  {
+    "id": "CR-31",
+    "title": "Renown and Leadership",
+    "status": "Verified Campaign Rule",
+    "text": "Every current party member gains a +2 bonus to Leadership from the party's growing renown. Apply it after the normal Leadership score and other campaign modifiers."
+  },
+  {
+    "id": "CR-32",
+    "title": "Realm-magic sources and blood vulnerability",
+    "status": "Verified Campaign Rule",
+    "text": "Realm magic requires an Arcane Source or Divine Source. Blood from the party's demigods can serve as a realm-magic link, including for Bloodline Destruction; Divine Sources and protective rituals mitigate the hazard. Demidius's temple is currently a Level 3 Divine Source, treated as Level 4 because he is a Champion, and can support realm magic once per six months."
+  },
+  {
+    "id": "CR-33",
+    "title": "Isles of Berres navigation benchmarks",
+    "status": "Verified Campaign Rule",
+    "text": "Navigation in the Isles of Berres uses DC 25. Navigating at night imposes a -20 penalty, and navigating a coral reef imposes a -10 penalty."
+  },
+  {
+    "id": "CR-34",
+    "title": "Culling duration, end condition, and eligibility",
+    "status": "Verified Campaign Rule",
+    "text": "A Culling can last from one day to ten years, commonly six to twelve months, and ends when approximately half of the world's powerful mortals have died. A creature normally needs a capstone-level degree of power to be Culling-eligible."
+  },
+  {
+    "id": "CR-35",
+    "title": "Freeing a captured soul",
+    "status": "Verified Campaign Rule",
+    "text": "The identified method is miracle followed by true resurrection. The miracle step has a base 25% chance; spending 1 Boon raises it to 50%, and spending 3 Boons raises it to the stated maximum of 75%."
+  },
+  {
+    "id": "CR-36",
+    "title": "Ship cargo calculation",
+    "status": "Verified Campaign Rule",
+    "text": "Apply percentage increases and decreases to base cargo first, then subtract cargo consumed by upgrades, weapons, supplies, and other contents."
+  },
+  {
+    "id": "CR-37",
+    "title": "Extreme Aphrodite enchantment specialization",
+    "status": "Verified Campaign Rule",
+    "text": "A demigod of Aphrodite who invests fully in enchantment can affect everyone and ignore immunity to mind-affecting effects. This is a narrow campaign-specific result of extreme divine specialization, not a general rule for enchantment casters."
   }
 ]

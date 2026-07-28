@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Alecia",
+    "recorded_role": "Healer",
+    "class_level": "Human paladin 9",
+    "alignment": "LG",
+    "deity": "Apollo",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Unni",
+    "recorded_role": "Bard and musician",
+    "class_level": "Half-elf bard 10",
+    "alignment": "LG",
+    "deity": "Apollo",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Erika",
+    "recorded_role": "Cook",
+    "class_level": "Half-elf sorcerer 6",
+    "alignment": "NG",
+    "deity": "Hestia",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Shas",
+    "recorded_role": "Security and escort",
+    "class_level": "Lizardfolk fighter 8",
+    "alignment": "NG",
+    "deity": "Hermes",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Zel",
+    "recorded_role": "Healer",
+    "class_level": "Sylph oracle 7",
+    "alignment": "NG",
+    "deity": "Hermes",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Matthias",
+    "recorded_role": "Siege engineer",
+    "class_level": "Human hunter 7",
+    "alignment": "LN",
+    "deity": "Artemis",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Rurd",
+    "recorded_role": "Engineer",
+    "class_level": "Gnome wizard 7",
+    "alignment": "LG",
+    "deity": "Hephaestus",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  },
+  {
+    "name": "Jenqa the Green Revenger",
+    "recorded_role": "Counter-piracy",
+    "class_level": "Goblin 10",
+    "alignment": "LG/LN",
+    "deity": "Athena",
+    "record_status": "confirmed recruited at source date; current ship and status unconfirmed",
+    "confirmation_required": true
+  }
+]

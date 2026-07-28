@@ -1,6 +1,6 @@
 ---
 title: The Arrival — Campaign Assumptions and House Rules
-version: 2.1.0
+version: 2.2.0
 status: canonical
 depends:
   - CR-01
@@ -24,6 +24,13 @@ depends:
   - CR-28
   - CR-29
   - CR-30
+  - CR-31
+  - CR-32
+  - CR-33
+  - CR-34
+  - CR-35
+  - CR-36
+  - CR-37
 ---
 
 # Campaign Assumptions and House Rules
@@ -45,6 +52,13 @@ The canonical rule text is maintained in [Campaign Rules Appendix](../appendices
 - Deity-specific prestige-class access: CR-28.
 - Spell progression after level 20: CR-29.
 - Existing class-feature scaling, with no new post-20 base-class abilities: CR-30.
+- Renown-based Leadership: CR-31.
+- Realm-magic sources, demigod-blood vulnerability, and Demidius's current Divine Source: CR-32.
+- Isles of Berres navigation benchmarks: CR-33.
+- Culling duration, end condition, and eligibility: CR-34.
+- Captured-soul recovery: CR-35.
+- Ship cargo order of operations: CR-36.
+- Extreme Aphrodite enchantment specialization: CR-37.
 
 ## Aristea-related rules
 

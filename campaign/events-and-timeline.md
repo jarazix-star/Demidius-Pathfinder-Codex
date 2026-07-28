@@ -35,6 +35,28 @@ mirrored in the GitHub wiki as `Events-and-Timeline.md`.
     resurrection attempts among gods and pirate powers, and Apollo's
     catastrophic plague of the Berres mainland are tracked in the
     [Culling casualty ledger](culling_casualty_ledger.md).
+11. **[Necropolis expedition](events/necropolis-expedition.md):** the party returned with 200 of its 250-person
+    force, but the allied forces of Persephone, Hades, Hermes, and Prince Luis
+    suffered catastrophic losses. Pete was restored by Hermes, Alley passed a
+    God save, and several named leaders could not be resurrected.
+12. **Recovery of the Silent Court ledgers:** the records exposed the Maker's
+    Knot slave-sales network, its Underdark and political clients, Praxius's
+    hidden leadership of the Ivory Ladder, and large contracts for enchanted
+    arms and armor.
+13. **Recovered Dawnrunner design history:** the vessel's original order
+    included an underwater-access smuggling hold intended for trafficking
+    enslaved people. This records the builders' intended use, not the ship's
+    present purpose under Demidius.
+14. **Glistria cartography guild explosion:** the destruction of the guild
+    killed approximately 500 people and deprived the region of navigational
+    expertise valuable in the cursed waters of Berres.
+15. **Tradegulf-Glistria corridor:** Tradegulf contains three monoliths, and
+    the recorded ferry journey between Tradegulf and Glistria takes about
+    three hours.
+16. **Sabotage toward Sounon:** a recovered witch's journal records deliberate
+    sabotage of a ship and its navigation toward Sounon. It also records a
+    demigod of Hermes charged with assembling the Scepter of Keto for an
+    invasion, a recovered claw, and rumors concerning the connector.
 
 See `campaign/timeline.md` for the older detailed chronology and the wiki master
 index for direct links to every event page.

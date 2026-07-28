@@ -11,6 +11,10 @@ last_updated: 2026-07-28
 Nereus is the **Old Man of the Sea**, a primordial god of **Sea, Knowledge,
 and Prophecy**. His alignment and present faction remain unrecorded.
 
+Sea, Knowledge, and Prophecy are the confirmed campaign domains. The isolated
+Hospitality, Travelers, and Merchants wording is superseded and is not an
+alternate domain list.
+
 Campaign legends call Nereus the most accurate prophet in the cosmos. They
 say that he only gives a prophecy to someone who captures him. Once caught,
 he answers exactly one question before escaping and disappearing again. No

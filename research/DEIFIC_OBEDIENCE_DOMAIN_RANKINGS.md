@@ -8,7 +8,8 @@ This repository copy records the current conclusions for the character guides an
 ## Eligibility
 
 - Hermes: Trickery, Travel, Community, Liberation, or Luck.
-- Nereus: Knowledge, Shapeshifting, or Sea/Water, pending final GM confirmation of his formal campaign domain list.
+- Nereus: Sea, Knowledge, or Prophecy. This is the confirmed formal campaign
+  domain list. Shapeshifting is a major theme, not a separate domain.
 
 ## Demidius
 

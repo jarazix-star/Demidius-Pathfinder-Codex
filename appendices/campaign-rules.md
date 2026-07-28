@@ -1,8 +1,8 @@
 ---
 title: Campaign Rules Appendix
-version: 3.1.0
+version: 3.2.0
 status: canonical
-last_updated: 2026-07-23
+last_updated: 2026-07-28
 ---
 
 # Campaign Rules Appendix
@@ -248,6 +248,54 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 - **Evangelist:** Aligned Class counts as levels in the selected class for spell progression and for scaling already-possessed class features. Demidius's revelations and comparable Oracle features therefore continue scaling when Evangelist advances Oracle.
 - **No new base-class abilities:** Effective base-class levels above 20 do not automatically grant new named class abilities beyond the printed class table.
 - **Existing progressions:** Continued numerical advancement of an already-possessed feature is scaling, not a new named ability. This includes the campaign-approved continuation of Arcane Trickster sneak attack through Evangelist. A printed capstone or other unique named ability is not gained a second time.
+
+### CR-31 — Renown and Leadership
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** Every current party member gains a +2 bonus to Leadership from the party's growing renown.
+- **Application:** Add this after the normal Leadership score and other campaign modifiers. Recalculate follower and cohort totals from the final score.
+
+### CR-32 — Realm-magic sources and blood vulnerability
+
+- **Status:** Verified Campaign Rule
+- **Source requirement:** Realm magic requires an Arcane Source or Divine Source. A sufficiently populated temple led by the caster or ruler can qualify as a Divine Source.
+- **Blood hazard:** Blood taken from the party's demigods can be used as a realm-magic link, including for effects such as *Bloodline Destruction*.
+- **Countermeasures:** Divine Sources and protective rituals can mitigate this vulnerability.
+- **Demidius's source progression:** His earlier, weaker source was a shrine (Level 1, treated as Level 2). He later locked his Divine Source to a temple; these are successive stages rather than conflicting descriptions.
+- **Current Demidius source:** Demidius's temple is a Level 3 Divine Source, treated as Level 4 because he is a Champion. It can presently support one use of realm magic per six months. Deeds and artifacts can improve it.
+
+### CR-33 — Isles of Berres navigation benchmarks
+
+- **Status:** Verified Campaign Rule
+- **Base check:** Navigation within the Isles of Berres uses DC 25.
+- **Night:** Navigating at night imposes a –20 penalty.
+- **Coral reef:** Navigating a coral reef imposes a –10 penalty.
+- **Scope:** These are campaign navigation procedures, not general Pathfinder rules.
+
+### CR-34 — Culling duration, end condition, and eligibility
+
+- **Status:** Verified Campaign Rule
+- **Duration:** A Culling can last from one day to ten years and commonly lasts six to twelve months.
+- **End condition:** It ends when approximately half of the world's powerful mortals have died.
+- **Eligibility:** A creature normally requires a capstone-level degree of power to be Culling-eligible. Eligibility remains subject to current campaign adjudication.
+
+### CR-35 — Freeing a captured soul
+
+- **Status:** Verified Campaign Rule
+- **Procedure:** The identified recovery method is *miracle* followed by *true resurrection*.
+- **Chance:** The base *miracle* chance is 25%. Spending 1 Boon raises it to 50%; spending 3 Boons raises it to the stated maximum of 75%.
+- **Limit:** Boons improve the *miracle* step but do not remove the need for *true resurrection*.
+
+### CR-36 — Ship cargo calculation
+
+- **Status:** Verified Campaign Rule
+- **Order of operations:** Apply all percentage increases and decreases to base cargo first. Then subtract cargo consumed by upgrades, weapons, supplies, or other contents.
+
+### CR-37 — Extreme Aphrodite enchantment specialization
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** A demigod of Aphrodite who invests fully in enchantment can affect everyone and ignore immunity to mind-affecting effects.
+- **Scope:** This is a narrow, campaign-specific result of extreme divine specialization. It does not grant every enchantment caster the ability to bypass mind-affecting immunity.
 ## Dependency map
 
 | Rule | Primary dependents |
@@ -276,6 +324,13 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 | CR-28 | Prestige-class eligibility, patron adaptation, class guides, and obedience packages |
 | CR-29 | Epic spellcasting, caster-level projections, spell-slot planning, and prestige-class progression |
 | CR-30 | Evangelist Aligned Class, Oracle revelations, Arcane Trickster sneak attack, and post-20 class planning |
+| CR-31 | Leadership Engine, cohort level, and follower totals |
+| CR-32 | Realm magic, temple development, divine security, and blood-countermeasure planning |
+| CR-33 | Isles of Berres navigation, Profession (sailor), and fleet-route planning |
+| CR-34 | Culling risk, eligibility, casualty tracking, and divine strategy |
+| CR-35 | Soul recovery, Boon reserves, *miracle*, and *true resurrection* |
+| CR-36 | Ship upgrades, cargo capacity, supplies, and fleet logistics |
+| CR-37 | Aphrodite enchantment specialization and immunity-bypass analysis |
 
 ## Change control
 

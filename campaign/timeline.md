@@ -56,6 +56,13 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 
 ## Verified milestones — date not yet recorded
 
+### Service aboard the Pumpkin Spice
+
+Before the *Dawnrunner* and *Matcha Frappuccino* were built, both allied crews
+served aboard the *Pumpkin Spice*. Maarin captained the ship and Aelwyn served
+as bosun. When the crews transferred to the new sister galleons, Maarin took
+command of the *Matcha Frappuccino* and Aelwyn continued as her bosun.
+
 ### The Olympian Council bans The Mother's Lament
 
 After the fall of the Titans, the Olympian Council banned *The Mother's Lament*. The Council feared that its accounts of Keto, Echidna, Gaia, and their children would reduce worship of Hades, Zeus, and Poseidon while increasing worship of the three Mothers of Monsters. Its author, original publication date, and present enforcement remain unknown.
@@ -337,6 +344,48 @@ and military powers:
 
 See the [Culling casualty ledger](culling_casualty_ledger.md) for exact
 resurrection-failure counts and identity safeguards.
+
+## Additional confirmed events and consequences
+
+### [Necropolis expedition](events/necropolis-expedition.md)
+
+The party returned with **200 of its 250-person force**. Persephone's force
+returned with 400 of 1,000, Hades's with 500 of 1,000, Hermes's with 100 of
+250 transformed into ghouls, and Prince Luis's with 100 of 500. Kamryn died
+and was resurrected; Ezra died and refused resurrection; Leo and Prince Luis
+died and could not be resurrected. Pete died but was restored by Hermes away
+from the battlefield. Alley died and passed the associated God save. The
+other named petty officers present survived.
+
+### Recovery of the Silent Court ledgers
+
+Recovered ledgers exposed a Maker's Knot slave-sales network connected to an
+Underdark city-state, the Silent Council, the head of the Merchant Guild, the
+Ivory Ladder, nobles, roughly fifteen senators, and several magistrates.
+Praxius was identified as the Merchant Guild's hidden fourth owner and leader
+of the Ivory Ladder. The records also contained contracts priced at roughly
+1,000 gp each for +1 weapons, armor, and shields.
+
+### Recovered Dawnrunner design history
+
+The Dawnrunner's original order included an underwater-access smuggling hold
+intended for trafficking enslaved people. This is the recovered intent of the
+vessel's builders, not the present use of the ship under Demidius.
+
+### Glistria and the Tradegulf corridor
+
+An explosion destroyed Glistria's cartography guild and killed approximately
+500 people. Tradegulf contains three monoliths. Under the recorded conditions,
+the ferry journey between Tradegulf and Glistria takes approximately three
+hours.
+
+### Sabotage toward Sounon
+
+A recovered witch's journal records that a ship and its navigation were
+deliberately sabotaged toward Sounon. It also records that a demigod of Hermes
+was tasked with assembling the Scepter of Keto for an invasion. The journal
+mentions a recovered claw and rumors concerning the connector, but does not
+resolve every participant, target, or motive.
 
 ## Open chronology questions
 

@@ -1,5 +1,22 @@
 # Change Log
 
+## Verified Discord canon integration - 2026-07-28
+
+- Added CR-31 through CR-37 for renown-based Leadership, realm magic,
+  Berres navigation, Culling operation, captured-soul recovery, ship cargo,
+  and extreme Aphrodite enchantment specialization.
+- Added the Necropolis casualty record and integrated the Silent Court
+  ledgers, Dawnrunner's recovered design history, Glistria explosion,
+  Tradegulf geography, Sounon sabotage, Sly's combat profile, and the complete
+  Eyebrow Piercing power.
+- Clarified Demidius's Divine Source progression: the earlier Level 1 source
+  (treated as Level 2) was a shrine, before he locked the source to the current
+  temple.
+- Confirmed Nereus's domains as Sea, Knowledge, and Prophecy and retired the
+  conflicting Hospitality, Travelers, and Merchants wording.
+- Limited this pass to direct GM rulings and explicit campaign facts; disputed
+  identities and incomplete artifact mechanics remain in research notes.
+
 ## Main-page events navigation - 2026-07-25
 
 - Added a prominent **Events and the story in chronological order** link to

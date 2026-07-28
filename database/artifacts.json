@@ -46,5 +46,61 @@
     "type": "Banned Book / Campaign Artifact",
     "provenance": "Banned by the Olympian Council after the fall of the Titans",
     "file": "systems/artifacts/THE_MOTHERS_LAMENT.md"
+  },
+  {
+    "id": "A-07",
+    "name": "Gorgon Artifact Set",
+    "status": "recovered mechanics; Unblinking Idol Mask unresolved",
+    "type": "Artifact Set",
+    "provenance": "Associated with the immortal gorgon sisters",
+    "file": "systems/artifacts/GORGON_ARTIFACT_SET.md"
+  },
+  {
+    "id": "A-08",
+    "name": "Obsidian Crown",
+    "status": "recovered mechanics",
+    "type": "Cursed Artifact",
+    "provenance": "Campaign recovery",
+    "file": "systems/artifacts/OBSIDIAN_CROWN.md"
+  },
+  {
+    "id": "A-09",
+    "name": "Tiara of the Ancients",
+    "status": "partial mechanics; claimed by Maarin",
+    "type": "Artifact",
+    "provenance": "Later sea-raiding find",
+    "file": "systems/artifacts/TIARA_OF_THE_ANCIENTS.md"
+  },
+  {
+    "id": "A-10",
+    "name": "Ring of Embers",
+    "status": "recovered mechanics",
+    "type": "Artifact Ring",
+    "provenance": "Later sea-raiding find",
+    "file": "systems/artifacts/RING_OF_EMBERS.md"
+  },
+  {
+    "id": "A-11",
+    "name": "Halfhead's Halfblade",
+    "status": "partial mechanics",
+    "type": "Artifact Weapon",
+    "provenance": "Arverdon Palace artifact auction",
+    "file": "systems/artifacts/HALFHEADS_HALFBLADE.md"
+  },
+  {
+    "id": "A-12",
+    "name": "Rhopalon",
+    "status": "named item; mechanics unresolved",
+    "type": "Artifact Weapon",
+    "provenance": "Retained for auction",
+    "file": "systems/artifacts/RHOPALON.md"
+  },
+  {
+    "id": "A-13",
+    "name": "Mirror of True Divination",
+    "status": "unresolved item lead",
+    "type": "Artifact",
+    "provenance": "Campaign treasure ledger",
+    "file": "systems/artifacts/MIRROR_OF_TRUE_DIVINATION.md"
   }
 ]

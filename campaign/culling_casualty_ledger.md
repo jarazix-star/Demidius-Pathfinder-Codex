@@ -1,7 +1,7 @@
 ---
 title: Culling Casualty Ledger
 status: current campaign canon
-last_updated: 2026-07-26
+last_updated: 2026-07-28
 ---
 
 # Culling Casualty Ledger
@@ -26,6 +26,19 @@ resurrection failure, and Culling eligibility.
 | The New Iron Tyrant | Dead | Four failed resurrection attempts |
 | Sly | Dead | Three failed resurrection attempts; not Culling-eligible |
 
+## Necropolis expedition
+
+| Force | Recorded result |
+|---|---|
+| Persephone's force | About 400 of 1,000 survived; Kamryn died and was resurrected |
+| Hades's force | About 500 of 1,000 survived; Ezra died and refused resurrection |
+| Hermes's force | About 100 of 250 remained as ghouls; Leo died and could not be resurrected |
+| Prince Luis's force | About 100 of 500 survived; Prince Luis died and could not be resurrected |
+| Party force | About 200 of 250 survived |
+
+Pete died and Hermes restored him away from the battlefield. Alley died but
+passed the relevant God save. The other named petty officers survived.
+
 ## Lodingen raid
 
 The New Gods raided Lodingen and killed **two of the ten Lords of Order
@@ -39,4 +52,3 @@ unidentified.
 - Do not identify Warlord Santiago as Wavelord Santiago without confirmation.
 - Sly was not Culling-eligible despite dying at Tradegulf and subsequently
   accumulating three failed resurrection attempts.
-

@@ -13,6 +13,8 @@ quarters are documented in the [Dawnrunner ship-design guide](dawnrunner-ship-de
 The approved captain's command suite, arcane workshop, cargo hold, general
 crew quarters, and officer/guest cabins are collected in the
 [Dawnrunner interiors record](dawnrunner-interiors.md).
+The crew's best-known song is preserved as
+[The Ballad of the Dawnrunner](ballad-of-the-dawnrunner.md).
 
 ## Flag and ensign
 

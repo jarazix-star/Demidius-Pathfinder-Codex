@@ -30,6 +30,13 @@ and an enslaved grippli population that included Bix. The island is now known
 as Sounon, lies within the Sunlit Chain, and will become the shared home of
 Demidius's and Maarin's crews.
 
+The grippli's spiritual leader was Ulaa, a cleric of Hermes. He later took
+most of the freed grippli to purchase passage toward another settlement,
+leaving Pete and six grippli aboard with the party. Those six became
+Demidius's followers. Ulaa's parting gift was the green-obsidian Ember Blade,
+which Hermes had instructed him to steal years before. Ulaa was last seen on
+an island destroyed soon afterward; his fate remains unknown.
+
 By 150 P.A., the Lodingen Republic had become the Lodingen Empire, the Fye Empire had fallen, Nysia had risen as a semi-constitutional monarchy, and the Isles of Berres had expanded.
 
 ### CY-2026-06-28 — The Culling begins: Beaumont slays Ares

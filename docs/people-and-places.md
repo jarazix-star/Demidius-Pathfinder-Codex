@@ -1,7 +1,7 @@
 ---
 title: People and Places
 status: reader-facing summary
-last_updated: 2026-07-15
+last_updated: 2026-07-28
 ---
 
 # People and Places
@@ -45,6 +45,20 @@ A lawful-evil primordial blue dragon from the Outer Realms, Fel is Lord of the U
 
 Alexander is a primordial silver dragon, Lord of the Earth, and one of the four primary gods of the Lords of Order. His half-celestial aasimar mortal avatar retained Alexander's appearance from life and ruled as Emperor of Lodingen for hundreds of years.
 
+### The Ash Prophet
+
+![The Ash Prophet amid the cinders of a ruined Lodingen shrine](assets/people/ash-prophet.png)
+
+The Ash Prophet is a former Lodingen citizen and fire-focused wizard. He
+worshiped Lodingen's version of Ena as Echidna, the chaotic-evil Ravager and
+Mother of Monsters, whose domains were Freedom, Destruction, Fire, and Chaos.
+After Sea Serpent Declan slew that Ena at her hidden Lavawyn Point temple
+thirty-eight years ago, he lost his faith until visions convinced him that her
+child, the Destroyer, would be born and
+replace her. He favors fire spells, especially *scorching ray*. The visions
+are his sincere interpretation rather than confirmed prophecy. See the
+[complete record](people/ash-prophet.md).
+
 ### The Council of Seven
 
 The Pirate Kings and Queens who rule the Isles of Berres. At campaign start they were Sea Serpent Declan, Smokey Roberts, Bloody Anne, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire. Declan and Bloody Anne are now dead, leaving five named living rulers while the succession of their seats remains unrecorded. Smokey Roberts was killed during the present Culling but successfully resurrected. He is a demigod of Athena whom the Godclaw targeted as the paternal source for an attempted new god of war. The Storm King is a separate storm giant rather than a council member.
@@ -83,7 +97,7 @@ Declan's second-in-command. Eris killed Sly with *death knell* during the Battle
 
 ### Okeanikos
 
-A level 15 male mortal god, sorcerer, Dragon Disciple, child of Echidna, and one of the group's major damage specialists. The party rescued his egg after Maarin received a dark prophecy of his coming birth. Maarin took him as her cohort; he now worships her and regards her as his sister. See his illustrated page in the GitHub wiki.
+A level 15 male mortal god, sorcerer, Dragon Disciple, child of Echidna, and one of the group's major damage specialists. The party rescued his egg from the hidden temple at Lavawyn Point after Maarin received a dark prophecy of his coming birth. Maarin took him as her cohort; he now worships her and regards her as his sister. See his illustrated page in the GitHub wiki.
 
 ### Filius and Maarin's first Dark Prophecy
 
@@ -156,6 +170,14 @@ The party later learned that Nyssa was an agent of Smokey Roberts. In the last e
 ### The New Gods
 
 A divine grouping or order mentioned in Queen Beaumont's final offer to Ares. The current record confirms the name and the possibility of reconciliation with them, but does not yet define membership, doctrine, or hierarchy.
+
+### Nereus
+
+The Old Man of the Sea and primordial god of Sea, Knowledge, and Prophecy.
+Legend calls him the most accurate prophet in the cosmos, but says he answers
+only someone who captures him, allows one question, and then escapes. Rumors
+also describe his temple as an ancient testing ground for gods. See the
+[divine record](people/nereus.md).
 
 ### Oros of the Blossom and the Champions
 
@@ -243,6 +265,62 @@ The island in the Sunlit Chain where the campaign began. It will become the shar
 
 Sea Serpent Declan's former Berresian island domain. It includes Sounon, Caldoran, Ironclaw Isle, Volcara Isle, Rylkora, and many smaller islands and settlements. Declan's death left the Chain without a lord, and the heroes hold his Wayfinder.
 
+### Lavawyn Point
+
+Lavawyn Point lies on Volcaris in the Sunlit Chain. It was historically
+considered uninhabitable because fumaroles cover the island; further reliable
+geographical detail requires Knowledge (geography).
+
+One tradition says its hidden sanctuary began as Echidna's temple in Lodingen,
+was cleared and rededicated to the Olympians by demigods, and became a testing
+ground for divine champions. The Sundering of Ena's Revenge stranded its land
+in the Isles of Berres. Echidna reclaimed it after the Dogs of War raised
+Polemosland and occupied the original Isle of Monsters. For roughly a century,
+pilgrims believed Echidna sometimes appeared there to bless worshipers.
+
+Another strong inquiry identified Nereus as the original dedicatee. These
+accounts remain unresolved competing traditions.
+
+Thirty-eight years ago, Sea Serpent Declan attacked the sanctuary. Pilgrims
+said a visibly weakened Echidna repeatedly exposed herself while preventing
+his crew from entering. She sealed the temple before Declan killed her and
+removed her heart. The pilgrims could not reenter and believed the seal
+required divine patronage. Volcanic activity increased significantly after her
+death. The party later entered the temple and recovered Okeanikos's egg; the
+intervention that allowed them to cross the seal remains unrecorded.
+
+The gate itself bears the inscription, **“No name binds the unborn. Only
+those who know what must not be chained may enter.”** A series of stone
+guardians shaped like lamias stand before it. Rumor holds that approaching the
+sealed gate causes one guardian to animate and ask, **“For what purpose do you
+approach the mother's lair?”** The expected answer, the consequences of an
+unacceptable response, and whether “the unborn” refers to Okeanikos remain
+unknown.
+
+Echidna historically gives birth to either one child or three at a time.
+Maarin's vision indicates that the Lavawyn event was probably intended as a
+tri-birth. Echidna's death likely delayed and weakened the birth; two eggs may
+have died prematurely, but their fate remains unconfirmed. Okeanikos is the
+only known survivor.
+
+Popular accounts incorrectly flatten Echidna's children into natural
+aggressors. The less-known record says the Chimera was the only famous child
+who independently chose to terrorize others. Medusa and her immortal Gorgon
+sisters defended themselves; Hera raised and weaponized the Sphinx, Nemean
+Lion, and Hydra; and other gods took some of Echidna's children as guardians.
+Echidna normally gave birth and left her children to live independently,
+although she raged against those who harmed or exploited them.
+
+### Palmara Reef
+
+During Okeanikos's birth at Lavawyn Point, a lava comet launched from Volcaris
+and produced an active **Lava Haze** around Palmara Reef. A successful
+Profession (sailor) check carried the party's ships out of the worst
+concentration, but the island remains surrounded by a sitting cloud of steam,
+hydrochloric acid, and tiny volcanic-glass shards. The airborne glass can cut
+exposed eyes and lungs. The haze's duration, exact boundaries, and game
+statistics remain unrecorded.
+
 ### Shipbreaker Sea
 
 Poseidon's cursed waters around the Isles of Berres. Ordinary compasses fail and nightly clouds conceal the stars and moon. Fourteen Wayfinders function within the curse.
@@ -304,3 +382,11 @@ A private sanctuary formerly owned by Demidius's brother. It has adjustable time
 - The exact nature of Aristea's prison in Tartarus.
 - Whether the Post-Arrival calendar begins with Fel's arrival or Cronus's release.
 - The custody of the Wayfinder associated with Sly, Declan's deceased second-in-command.
+
+## Ulaa
+
+Ulaa is a grippli cleric of Hermes and the spiritual leader of the grippli
+freed on Sounon. He led most of his people away from the party to relocate.
+Pete and six grippli remained aboard; the six grippli became Demidius's
+followers. Ulaa's current whereabouts and survival are unknown. His parting
+gift was the green-obsidian [Ember Blade](artifacts/ember-blade.md).

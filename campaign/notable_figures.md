@@ -139,6 +139,16 @@ A male kobold petty officer hired by Demidius for the Dawnrunner. Vornix calls D
 
 A male gnome, skilled artificer, mystery-box merchant, and Dawnrunner petty officer. Pete sells mystery boxes to the crew in every port, and Demidius is his best customer. He owns a shop in Glistria with portals to both the Dawnrunner and Matcha Frappuccino. Pete is in a relationship with Fizz, an avatar of Hermes. Pete's level, class mechanics, exact shipboard duty, shop name and location within Glistria, and the portals' operating and security rules remain unrecorded.
 
+## Ulaa
+
+A grippli cleric of Hermes and spiritual leader of the grippli freed on
+Sounon. Ulaa led most of the grippli away to purchase passage to another
+village or island, believing the party should not be involved in their
+relocation. Pete and six grippli stayed aboard; those six remain Demidius's
+followers. Ulaa was last seen leaving the party on an island that was
+destroyed soon afterward, but his survival is unknown. He gave the party the
+Ember Blade, a green-obsidian sword stolen years earlier at Hermes's direction.
+
 ## Fizz
 
 A gnome avatar of Hermes, a distinct person with an orange goatee, and Pete's partner. Fizz's gender, pronouns, other appearance details, powers, divine duties, present location, and degree of independence from Hermes remain unrecorded.

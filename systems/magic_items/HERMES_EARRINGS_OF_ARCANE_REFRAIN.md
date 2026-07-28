@@ -1,41 +1,38 @@
 ---
-name: Hermes’ Earrings of Arcane Refrain
-type: Magic Item
+name: Hermes' Earrings of Arcane Refrain
+type: Unique Major Artifact
 status: active; confirmed
 provenance: Associated with Hermes
 wearer: Demidius Thorne
-granted_feats: [Quicken Spell, Reach Spell, Selective Spell]
+hero_lab_id: ioCdxArcRf
+granted_feats:
+  - Quicken Spell
+  - Reach Spell
+  - Selective Spell
+  - Signature Skill (Diplomacy)
+  - Deceitful
+  - Extra Traits
+  - Extra Revelation
 ---
 
-# Hermes’ Earrings of Arcane Refrain
+# Hermes' Earrings of Arcane Refrain
 
 Demidius wears these matched gold-and-blue earrings as part of his canonical
 appearance.
 
-Each earring has three closely connected elements:
+Each earring has a polished-gold wing fitting, one short connecting link, and
+an elongated faceted sapphire-blue crystal in a pointed gold frame.
 
-- a sculpted polished-gold wing forms the upper ear fitting;
-- one very short gold link allows natural movement; and
-- an elongated faceted sapphire-blue crystal hangs within a slender gold frame
-  ending in a pointed lower tip.
+## Granted feats
 
-They are elegant, visibly magical, unmistakably Hermetic, and made as a matched
-pair. The blue crystal drops hang vertically beside the neck without crossing
-the cheek or jaw.
+- Quicken Spell
+- Reach Spell
+- Selective Spell
+- Signature Skill (Diplomacy)
+- Deceitful
+- Extra Traits
+- Extra Revelation
 
-## Granted metamagic feats
-
-While Demidius wears the earrings, they grant him the following metamagic
-feats:
-
-- **Quicken Spell**
-- **Reach Spell**
-- **Selective Spell**
-
-The item grants the feats themselves. No additional daily-use restriction,
-metamagic-level reduction, or action-economy exception has been recorded.
-
-## Unresolved record
-
-The earrings’ acquisition, aura, caster level, market value, construction
-requirements, and precise body-slot adjudication have not yet been supplied.
+The Hero Lab implementation grants each feat only when Demidius does not
+already possess it from another source. The artifact adds no separate
+daily-use limit or metamagic-level reduction.

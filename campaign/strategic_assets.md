@@ -125,7 +125,7 @@ The glasses provide unerring alignment revelation three times per day and *true 
 
 ## Hermes's Boots of Speed
 
-Three free-action quickened spells per day preserve Demidius's swift action while accelerating his casting. The once-daily +5 save DC belongs to a spell capable of deciding an encounter after defenses are removed.
+Functions as boots of striding and springing. Three times per day, as a free action, casts quickened *haste* at CL 15 (preserving the swift action). The once-daily +5 save DC belongs to a spell capable of deciding an encounter after defenses are removed.
 
 ## Deck of Many Things
 

@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Hermes's Boots of Speed powers corrected
+
+- Continuous: functions as boots of striding and springing.
+- 3/day: free action, quickened *haste* at CL 15 (not generic free-action quicken of any spell).
+- 1/day: +5 to one spell's save DC (unchanged).
+- Updated CR-23, systems artifact entry, engines, wiki artifact pages, and Demidius Magic Items.
 ## Sounon opening arc: Temple of Poseidon and Claw of Keto
 
 - Recorded the full opening story of Awakening on Sounon from player recollection: stasis and unmovable sleepers, offshore wreck trap, kuo-toa food quota, grippli Hermes cult and cursed statue, Pete, captain mind control, Maarin's vision, Temple of Poseidon, fake claw then true Claw of Keto in a coral golem, olive mural boon, and Paradox's loss to ghouls.
@@ -1151,4 +1157,5 @@
 - Corrected the campaign chronology so Odysseus's recovery precedes the
   Stormspire operation and kept this event distinct from the later Misthold
   bloodline tournament.
+
 

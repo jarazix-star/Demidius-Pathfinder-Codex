@@ -1,4 +1,4 @@
----
+﻿---
 title: Strategic Assets
 version: 1.1.0
 status: canonical
@@ -20,7 +20,7 @@ These assets change what the party can attempt at campaign scale. Their value is
 | *Matcha Frappuccino* | Galleon and sister ship | Allied command and fleet capacity | AC 44; HP 1,250; 160 crew; 30 officers; magical upgrades and siege battery | Current assignment and some officer duties not recorded |
 | Deck of Many Things | Major artifact | Extreme-variance strategic reserve | Untouched | Severe unpredictable outcomes |
 | Glasses of Beaumont | Artifact gift | Alignment intelligence and *true seeing* | Active | Limited daily uses |
-| Hermes's Boots of Speed | Divine artifact gift | Free-action spell acceleration and DC spike | Active | Scarce encounter-defining uses |
+| Hermes's Boots of Speed | Divine artifact gift | Boots of striding and springing; free-action quickened *haste* (CL 15) 3/day; +5 spell DC 1/day | Active | Scarce encounter-defining uses |
 | Eyebrow Piercing of Confidence | Legendary item | Mental ability scores and Charisma scaling | Active | Raises all Fatal Flaw DCs |
 | Seven-Pipped Gem | Divine ability | Post-roll certainty on pivotal d20 checks | Active | Immediate-action conflict and daily limit |
 | Sounon | Island home base | Shared home for the Dawnrunner and *Matcha Frappuccino* crews | Selected; infrastructure unrecorded | Shipbreaker navigation, construction, defense, and local unknowns |
@@ -51,10 +51,10 @@ The Dawnrunner is a galleon that combines transport, headquarters, symbol of aut
 
 Demidius possesses two doses of blood from the true Lernaean Hydra. The supplied account describes ten vials but does not establish whether each vial equals a dose or who holds the remainder. The campaign poison uses DC 40, begins with a save versus death that still deals 1d6 Constitution damage on a success, then deals 2d6 Constitution damage per round for ten rounds and requires three consecutive saves to end. See the [full consumable record](../systems/consumables/BLOOD_OF_THE_LERNAEAN_HYDRA.md) before use.
 
-Its visual identity uses black, silver, and deep crimson with a winged silver fleur-de-lis, roses, and protective thorns. The Thorne Knights wear hooded, faceless heavy plate with rib-like chest armor, thorn-wrapped straight swords, tall fleur-de-lis shields, and elaborately embroidered black-and-crimson capes. The older “Royal Marines” wording survives only on historical artwork. Exact Thorne Knight numbers, ranks, training, and equipment statistics remain unrecorded.
+Its visual identity uses black, silver, and deep crimson with a winged silver fleur-de-lis, roses, and protective thorns. The Thorne Knights wear hooded, faceless heavy plate with rib-like chest armor, thorn-wrapped straight swords, tall fleur-de-lis shields, and elaborately embroidered black-and-crimson capes. The older â€œRoyal Marinesâ€ wording survives only on historical artwork. Exact Thorne Knight numbers, ranks, training, and equipment statistics remain unrecorded.
 
 Aristea served as navigator and chief engineer before the death of her elven
-incarnation. She has returned as the kobold Aristea Enontië, but her
+incarnation. She has returned as the kobold Aristea EnontiÃ«, but her
 post-return office has not yet been reconfirmed. Lilly runs logistics as bosun,
 Bix is an officer, and the specialist crew supplies healing, engineering,
 artillery, security, music, cooking, and counter-piracy capabilities. Current
@@ -89,7 +89,7 @@ defenses, and repeatable routes through the Shipbreaker Sea.
 
 Declan's death left the Chain without a formally installed lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin and the party proposed transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios, with Aelwyn as her locally credible second. Mathilda has agreed to the proposal, but the formal transfer, installation, and Aelwyn's appointment remain pending or unrecorded.
 
-Immediately after Declan's death, six Pirate Kings and Queens remained. Bloody Anne has since died during the Culling. The five named living rulers are Smokey Roberts, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan “the Burner” Crossfire; succession to Declan's and Bloody Anne's seats remains unresolved. The Storm King is a separate storm giant rather than a council member.
+Immediately after Declan's death, six Pirate Kings and Queens remained. Bloody Anne has since died during the Culling. The five named living rulers are Smokey Roberts, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan â€œthe Burnerâ€ Crossfire; succession to Declan's and Bloody Anne's seats remains unresolved. The Storm King is a separate storm giant rather than a council member.
 
 ## Wayfinders and navigation control
 

@@ -9,7 +9,7 @@ depends: [CR-05, CR-18, CR-23]
 
 ## Primary assets
 
-- Hermes's Boots of Speed: free-action quicken 3/day.
+- Hermes's Boots of Speed: free-action quickened *haste* (CL 15) 3/day; also boots of striding and springing.
 - Mythic greater dispel magic: immediate-action counterspell augment.
 - Seven-Pipped Gem: immediate-action post-roll bonus.
 - Contingency Plan and ordinary contingency effects.

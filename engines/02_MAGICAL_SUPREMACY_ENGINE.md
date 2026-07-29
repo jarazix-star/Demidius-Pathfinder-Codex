@@ -19,7 +19,7 @@ Magical Supremacy is the broader successor to the Dispel Engine. It covers dispe
 
 ## Artifact support
 
-- Hermes's Boots of Speed: free-action quicken 3/day and +5 spell DC 1/day.
+- Hermes's Boots of Speed: boots of striding and springing; free-action quickened *haste* (CL 15) 3/day; +5 spell DC 1/day.
 - Glasses of Beaumont: unerring alignment reading 3/day and true seeing 3/day.
 - Key of Daedalus: divine-lock access, maze immunity, and planar corridors.
 

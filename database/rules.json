@@ -135,7 +135,7 @@
     "id": "CR-23",
     "title": "Hermes's Boots of Speed",
     "status": "Verified Campaign Artifact",
-    "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Hermes. - **3/day:** As a free action, quicken a spell. - **1/day:** Add +5 to the save DC of one spell."
+    "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Hermes. - **Continuous:** Functions as boots of striding and springing. - **3/day:** As a free action, cast quickened *haste* at caster level 15. - **1/day:** Add +5 to the save DC of one spell."
   },
   {
     "id": "CR-24",
@@ -220,5 +220,11 @@
     "title": "Extreme Aphrodite enchantment specialization",
     "status": "Verified Campaign Rule",
     "text": "A demigod of Aphrodite who invests fully in enchantment can affect everyone and ignore immunity to mind-affecting effects. This is a narrow campaign-specific result of extreme divine specialization, not a general rule for enchantment casters."
+  },
+  {
+    "id": "CR-38",
+    "title": "Perception is always a class skill",
+    "status": "Verified Campaign Rule",
+    "text": "Perception is a class skill for every character regardless of class, archetype, race, or multiclass combination. A character with at least 1 rank in Perception receives the normal +3 trained class-skill bonus."
   }
 ]

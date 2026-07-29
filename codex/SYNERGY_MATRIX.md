@@ -86,7 +86,7 @@ Divine ability provides a post-roll +10 luck burst at 17 HD, but competes for th
 
 ### Hermes's Boots → Magical Supremacy
 
-Free-action quicken 3/day allows a dispel-plus-control turn while preserving the normal action and swift action. The 1/day +5 DC effect is reserved for the decisive follow-up spell.
+Free-action quickened *haste* (CL 15) 3/day accelerates the party while preserving Demidius's normal and swift actions. The 1/day +5 DC effect is reserved for the decisive follow-up spell. Continuous boots of striding and springing support positioning.
 
 ### Glasses of Beaumont → Influence and Magical Supremacy
 

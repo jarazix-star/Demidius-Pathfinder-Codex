@@ -9,9 +9,15 @@ depends: [CR-23]
 
 # Hermes's Boots of Speed
 
-Gifted by Hermes.
+Gifted by Hermes to Demidius.
 
-- **3/day:** as a free action, quicken a spell.
-- **1/day:** add +5 to the save DC of one spell.
+## Continuous
 
-The free-action wording is strategically important because it preserves the swift action. The +5 DC should be reserved for an encounter-defining spell after relevant immunities and protections are removed.
+- Functions as **boots of striding and springing**.
+
+## Daily powers
+
+- **3/day:** as a free action, cast **quickened *haste*** at **CL 15**.
+- **1/day:** add **+5** to one spell's saving-throw DC.
+
+The free-action *haste* preserves the swift action for other tools. The +5 DC should be reserved for an encounter-defining spell after relevant immunities and protections are removed.

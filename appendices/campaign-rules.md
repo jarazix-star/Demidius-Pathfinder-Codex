@@ -1,6 +1,6 @@
 ---
 title: Campaign Rules Appendix
-version: 3.2.0
+version: 3.2.1
 status: canonical
 last_updated: 2026-07-28
 ---
@@ -182,7 +182,8 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 
 - **Status:** Verified Campaign Artifact
 - **Provenance:** Gift from Hermes.
-- **3/day:** As a free action, quicken a spell.
+- **Continuous:** Functions as boots of striding and springing.
+- **3/day:** As a free action, cast quickened *haste* at caster level 15.
 - **1/day:** Add +5 to the save DC of one spell.
 
 ### CR-24 — Glasses of Beaumont
@@ -296,6 +297,13 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 - **Status:** Verified Campaign Rule
 - **Ruling:** A demigod of Aphrodite who invests fully in enchantment can affect everyone and ignore immunity to mind-affecting effects.
 - **Scope:** This is a narrow, campaign-specific result of extreme divine specialization. It does not grant every enchantment caster the ability to bypass mind-affecting immunity.
+### CR-38 — Perception is always a class skill
+
+- **Status:** Verified Campaign Rule
+- **Ruling:** Perception is a class skill for every character, regardless of class, archetype, race, or multiclass combination.
+- **Application:** A character with at least 1 rank in Perception receives the normal +3 trained class-skill bonus. This changes only whether Perception is a class skill; ranks, ability modifiers, and other bonuses are calculated normally.
+- **Hero Lab:** Implemented as a global campaign mechanic that assigns the `ClassSkill.skPercep` tag to every hero.
+
 ## Dependency map
 
 | Rule | Primary dependents |
@@ -331,6 +339,7 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 | CR-35 | Soul recovery, Boon reserves, *miracle*, and *true resurrection* |
 | CR-36 | Ship upgrades, cargo capacity, supplies, and fleet logistics |
 | CR-37 | Aphrodite enchantment specialization and immunity-bypass analysis |
+| CR-38 | Character skill totals, Perception checks, class-skill validation, and Hero Lab portfolios |
 
 ## Change control
 

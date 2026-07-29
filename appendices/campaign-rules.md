@@ -182,7 +182,8 @@ This appendix is the canonical source for rulings used throughout **The Arrival*
 
 - **Status:** Verified Campaign Artifact
 - **Provenance:** Gift from Hermes.
-- **Continuous:** Functions as boots of striding and springing.
+- **Continuous:** Functions as boots of striding and springing and as winged boots.
+- **3/day (flight):** Fly 60 ft. (average) for up to 5 minutes per use, as winged boots.
 - **3/day:** As a free action, cast quickened *haste* at caster level 15.
 - **1/day:** Add +5 to the save DC of one spell.
 

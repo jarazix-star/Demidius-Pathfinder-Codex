@@ -1,4 +1,4 @@
----
+﻿---
 title: Action Economy Engine
 version: 3.0.0
 status: canonical
@@ -9,7 +9,7 @@ depends: [CR-05, CR-18, CR-23]
 
 ## Primary assets
 
-- Hermes's Boots of Speed: free-action quickened *haste* (CL 15) 3/day; also boots of striding and springing.
+- Hermes's Boots of Speed: free-action quickened *haste* (CL 15) 3/day; boots of striding and springing + winged boots.
 - Mythic greater dispel magic: immediate-action counterspell augment.
 - Seven-Pipped Gem: immediate-action post-roll bonus.
 - Contingency Plan and ordinary contingency effects.
@@ -17,3 +17,4 @@ depends: [CR-05, CR-18, CR-23]
 ## Conflict rule
 
 A free-action quicken preserves the swift action, but Seven-Pipped Gem and immediate counterspelling still compete for the immediate action. Plan the round around the enemy caster's likely response.
+

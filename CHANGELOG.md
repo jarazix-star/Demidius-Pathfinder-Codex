@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## Hermes's Boots of Speed: winged boots + Hero Lab pack
+
+- Continuous effects now include **boots of striding and springing** and **winged boots**.
+- Daily powers unchanged: free-action quickened *haste* (CL 15) 3/day; +5 spell DC 1/day.
+- Added Hero Lab pack `Codex_Hermes_Boots_of_Speed.user` (installed to ProgramData pathfinder data).
 ## Hermes's Boots of Speed powers corrected
 
 - Continuous: functions as boots of striding and springing.
@@ -1157,5 +1162,6 @@
 - Corrected the campaign chronology so Odysseus's recovery precedes the
   Stormspire operation and kept this event distinct from the later Misthold
   bloodline tournament.
+
 
 

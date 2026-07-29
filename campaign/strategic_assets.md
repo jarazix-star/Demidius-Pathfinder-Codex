@@ -20,7 +20,7 @@ These assets change what the party can attempt at campaign scale. Their value is
 | *Matcha Frappuccino* | Galleon and sister ship | Allied command and fleet capacity | AC 44; HP 1,250; 160 crew; 30 officers; magical upgrades and siege battery | Current assignment and some officer duties not recorded |
 | Deck of Many Things | Major artifact | Extreme-variance strategic reserve | Untouched | Severe unpredictable outcomes |
 | Glasses of Beaumont | Artifact gift | Alignment intelligence and *true seeing* | Active | Limited daily uses |
-| Hermes's Boots of Speed | Divine artifact gift | Boots of striding and springing; free-action quickened *haste* (CL 15) 3/day; +5 spell DC 1/day | Active | Scarce encounter-defining uses |
+| Hermes's Boots of Speed | Divine artifact gift | Boots of striding and springing + winged boots; free-action quickened *haste* (CL 15) 3/day; +5 spell DC 1/day | Active | Scarce encounter-defining uses |
 | Eyebrow Piercing of Confidence | Legendary item | Mental ability scores and Charisma scaling | Active | Raises all Fatal Flaw DCs |
 | Seven-Pipped Gem | Divine ability | Post-roll certainty on pivotal d20 checks | Active | Immediate-action conflict and daily limit |
 | Sounon | Island home base | Shared home for the Dawnrunner and *Matcha Frappuccino* crews | Selected; infrastructure unrecorded | Shipbreaker navigation, construction, defense, and local unknowns |
@@ -125,7 +125,7 @@ The glasses provide unerring alignment revelation three times per day and *true 
 
 ## Hermes's Boots of Speed
 
-Functions as boots of striding and springing. Three times per day, as a free action, casts quickened *haste* at CL 15 (preserving the swift action). The once-daily +5 save DC belongs to a spell capable of deciding an encounter after defenses are removed.
+Functions as boots of striding and springing and as winged boots. Three times per day, as a free action, casts quickened *haste* at CL 15 (preserving the swift action). The once-daily +5 save DC belongs to a spell capable of deciding an encounter after defenses are removed.
 
 ## Deck of Many Things
 
@@ -150,3 +150,4 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - [Artifact Compendium](../codex/ARTIFACT_COMPENDIUM.md)
 - [Leadership and Dawnrunner Engine](../codex/LEADERSHIP_ENGINE.md)
 - [Risk Management Engine](../engines/08_RISK_MANAGEMENT_ENGINE.md)
+

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "CR-01",
     "title": "Fortune's Child",
@@ -81,7 +81,7 @@
     "id": "CR-14",
     "title": "Demidius's combat role",
     "status": "Verified Build Assumption",
-    "text": "- **Status:** Verified Build Assumption - **Ruling:** Optimize first for certainty, magical defense removal, battlefield control, party enablement, and social command—not personal weapon damage. - **Consequence:** The rapier and Divine Fighting Technique are backup tools and retraining candidates."
+    "text": "- **Status:** Verified Build Assumption - **Ruling:** Optimize first for certainty, magical defense removal, battlefield control, party enablement, and social commandâ€”not personal weapon damage. - **Consequence:** The rapier and Divine Fighting Technique are backup tools and retraining candidates."
   },
   {
     "id": "CR-15",
@@ -135,7 +135,7 @@
     "id": "CR-23",
     "title": "Hermes's Boots of Speed",
     "status": "Verified Campaign Artifact",
-    "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Hermes. - **Continuous:** Functions as boots of striding and springing. - **3/day:** As a free action, cast quickened *haste* at caster level 15. - **1/day:** Add +5 to the save DC of one spell."
+    "text": "- **Status:** Verified Campaign Artifact - **Provenance:** Gift from Hermes. - **Continuous:** Functions as boots of striding and springing and as winged boots. - **3/day (flight):** Fly 60 ft. (average) up to 5 minutes per use. - **3/day:** As a free action, cast quickened *haste* at caster level 15. - **1/day:** Add +5 to the save DC of one spell."
   },
   {
     "id": "CR-24",
@@ -228,3 +228,4 @@
     "text": "Perception is a class skill for every character regardless of class, archetype, race, or multiclass combination. A character with at least 1 rank in Perception receives the normal +3 trained class-skill bonus."
   }
 ]
+

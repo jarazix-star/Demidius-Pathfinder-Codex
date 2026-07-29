@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-rules = json.loads((ROOT / "database" / "rules.json").read_text(encoding="utf-8"))
+rules = json.loads((ROOT / "database" / "rules.json").read_text(encoding="utf-8-sig"))
 ids = [r["id"] for r in rules]
 errors = []
 if len(ids) != len(set(ids)):

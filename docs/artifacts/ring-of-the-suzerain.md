@@ -17,7 +17,10 @@ Freedom of Movement, and Ring of the Ecclesiarch.
 
 - Evasion.
 - Continuous *freedom of movement*.
-- +5 competence bonus on Diplomacy checks.
+- +5 competence bonus on all Charisma checks and Charisma-based skill checks.
+- +5 competence bonus on all Dexterity checks and Dexterity-based skill checks.
+- +5 competence bonus on Intelligence-based skill checks.
+- +5 competence bonus on initiative checks.
 - +5 competence bonus on Knowledge (religion) checks.
 - Divine signet, seal, and marking functions.
 - Twice the normal number of Leadership followers.

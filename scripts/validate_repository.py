@@ -21,19 +21,19 @@ if missing:
         print(f'- {item}')
     sys.exit(1)
 
-rules = json.loads((root / 'database/rules.json').read_text(encoding='utf-8'))
+rules = json.loads((root / 'database/rules.json').read_text(encoding='utf-8-sig'))
 ids = [r['id'] for r in rules]
 for expected in [f'CR-{i:02d}' for i in range(1, 25)]:
     if expected not in ids:
         print('Missing rule', expected)
         sys.exit(1)
 
-artifacts = json.loads((root / 'database/artifacts.json').read_text(encoding='utf-8'))
+artifacts = json.loads((root / 'database/artifacts.json').read_text(encoding='utf-8-sig'))
 if any(a['name'] == 'Seven-Pipped Gem' for a in artifacts):
     print('Seven-Pipped Gem incorrectly classified as artifact')
     sys.exit(1)
 
-divine = json.loads((root / 'database/divine_abilities.json').read_text(encoding='utf-8'))
+divine = json.loads((root / 'database/divine_abilities.json').read_text(encoding='utf-8-sig'))
 if not any(a['name'] == 'Seven-Pipped Gem' for a in divine):
     print('Seven-Pipped Gem missing from divine abilities')
     sys.exit(1)

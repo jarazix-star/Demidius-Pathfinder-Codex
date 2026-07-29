@@ -15,7 +15,10 @@ Freedom of Movement, and Ring of the Ecclesiarch.
 
 - Evasion.
 - Continuous *freedom of movement*.
-- +5 competence to Diplomacy.
+- +5 competence on all Charisma checks and Charisma-based skill checks.
+- +5 competence on all Dexterity checks and Dexterity-based skill checks.
+- +5 competence on Intelligence-based skill checks.
+- +5 competence on initiative checks.
 - +5 competence to Knowledge (religion).
 - Twice the normal Leadership followers.
 - Followers gain +4 morale on Will saves against enchantment.

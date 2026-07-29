@@ -1,5 +1,23 @@
 ﻿# Change Log
 
+## Character canon, navigation, and companion updates - 2026-07-29
+
+- Established Roy's current hair as black curls with selected pink and purple
+  dyed sections; his earlier blond appearance remains valid in historical art.
+- Replaced Roy's main character collage with the current look and updated the
+  Roy and Dawnrunner-uniform canonical reference packs.
+- Added Roy's flower-decorated adamantine shield guardian as a major companion
+  with spell stealing or absorption and a vorpal punch, including its own wiki
+  page and canonical reference pack.
+- Expanded Maarin's canonical record with Cathy as player, she/her pronouns,
+  mistsoul undine ancestry, 18th-level warpriest class, combat role,
+  personality, intelligent sword, command history, and objective to kill
+  Poseidon.
+- Corrected the Wiki sidebar entries that were unintentionally nested beneath
+  the Ash Prophet.
+- Replaced the Sounon Hermes-statue scene with the user-approved depiction of
+  Pete among the grippli community.
+
 ## Hermes's Boots of Speed: winged boots + Hero Lab pack
 
 - Continuous effects now include **boots of striding and springing** and **winged boots**.

@@ -1,4 +1,16 @@
-# Change Log
+﻿# Change Log
+
+## Sounon opening arc: Temple of Poseidon and Claw of Keto
+
+- Recorded the full opening story of Awakening on Sounon from player recollection: stasis and unmovable sleepers, offshore wreck trap, kuo-toa food quota, grippli Hermes cult and cursed statue, Pete, captain mind control, Maarin's vision, Temple of Poseidon, fake claw then true Claw of Keto in a coral golem, olive mural boon, and Paradox's loss to ghouls.
+- Named the temple and artifact as **Temple of Poseidon** and **Claw of Keto** (one of three Scepter of Keto components).
+- Expanded project campaign setting, guide, and timeline; wiki pages and event art published separately to the wiki remote.
+- Added interpretive event art under docs/assets/events for survivors awakening, Temple of Poseidon / Claw of Keto, and grippli Hermes statue.
+## Perception class-skill house rule - 2026-07-28
+
+- Added CR-38: Perception is always a class skill for every character.
+- Recorded the matching global Hero Lab implementation and its normal +3
+  trained class-skill application.
 
 ## Verified Discord canon integration - 2026-07-28
 
@@ -163,7 +175,7 @@
 ## Canonical Glistria map upgrade - 2026-07-24
 
 - Replaced the compressed Glistria wiki map presentation with the supplied
-  lossless 6144 × 4608 PNG.
+  lossless 6144 Ã— 4608 PNG.
 - Preserved every label and spatial relationship without generative alteration.
 - Added a direct full-resolution link to the Glistria page and mirrored the
   canonical map into the project asset library.
@@ -183,7 +195,7 @@
 
 ## Paradox definitive artwork update - 2026-07-24
 
-- Adopted the user-supplied Alear “Paradox” Vorex panel as the definitive
+- Adopted the user-supplied Alear â€œParadoxâ€ Vorex panel as the definitive
   version 5 visual reference.
 - Updated the canonical repository and wiki to use the new panel while
   preserving earlier versions as historical artwork.
@@ -227,7 +239,7 @@
 
 ## Magic-item index earring design synchronization - 2026-07-23
 
-- Added the canonical Hermes’ Earrings artwork directly to the Demidius
+- Added the canonical Hermesâ€™ Earrings artwork directly to the Demidius
   magic-item index.
 - Explicitly identified the gold-wing, short-link, sapphire-blue crystal-drop
   design as replacing every earlier provisional earring version.
@@ -236,8 +248,8 @@
 
 - Adopted the user-selected full Demidius character panel as the new canonical
   reference artwork.
-- Replaced the inaccurate tide-and-wind quotation with: “Chance is merely
-  probability waiting to be persuaded.”
+- Replaced the inaccurate tide-and-wind quotation with: â€œChance is merely
+  probability waiting to be persuaded.â€
 - Synchronized the canonical local-library, repository, and wiki copies.
 
 ## Full Demidius art-panel regeneration - 2026-07-23
@@ -254,7 +266,7 @@
 ## Compact Hermes earrings redesign - 2026-07-23
 
 - Regenerated Demidius's canonical reference sheet with much smaller,
-  non-dangling Hermes’ Earrings of Arcane Refrain.
+  non-dangling Hermesâ€™ Earrings of Arcane Refrain.
 - Replaced the obsolete long pendant product art with compact winged
   lightning-and-caduceus ear ornaments.
 - Preserved the restored high-detail upper figures and all established
@@ -268,9 +280,9 @@
   vertically behind the jaw rather than projecting forward beside the cheek.
 - Replaced the synchronized local-library, repository, and wiki copies.
 
-## Hermes’ Earrings of Arcane Refrain - 2026-07-23
+## Hermesâ€™ Earrings of Arcane Refrain - 2026-07-23
 
-- Replaced Demidius’s provisional wing earrings with the canonical matched
+- Replaced Demidiusâ€™s provisional wing earrings with the canonical matched
   gold lightning-medallion and winged-caduceus design.
 - Added the supplied exact jewelry reference to the main repository, wiki, and
   local art library.
@@ -278,7 +290,7 @@
 - Recorded that the earrings grant Quicken Spell, Reach Spell, and Selective
   Spell while worn; unsupplied construction and acquisition details remain
   unresolved.
-- Updated Demidius’s canonical appearance artwork to show the new earrings.
+- Updated Demidiusâ€™s canonical appearance artwork to show the new earrings.
 
 ## Aristea character sheet RC3 page-one alignment repair - 2026-07-23
 
@@ -394,7 +406,7 @@
 ## Maarin weather-control art correction - 2026-07-23
 
 - Corrected Maarin's reference sheet to replace seasonal-control language with extreme-weather language.
-- Replaced “Storm & Seasons” with “Storm & Tempest” and “Seasonal Warden” with “Tempest Warden.”
+- Replaced â€œStorm & Seasonsâ€ with â€œStorm & Tempestâ€ and â€œSeasonal Wardenâ€ with â€œTempest Warden.â€
 - Confirmed that Maarin can create and control extreme weather but cannot change or control seasons.
 - Added the limitation to the wiki, campaign record, durable project canon, and art-direction safeguards.
 
@@ -452,7 +464,7 @@
 
 ## Thorne Knights and Kiss from a Rose - 2026-07-23
 
-- Established **Thorne Knights** as the canonical title for every soldier aboard the Dawnrunner, superseding the “Royal Marines” wording retained on older artwork.
+- Established **Thorne Knights** as the canonical title for every soldier aboard the Dawnrunner, superseding the â€œRoyal Marinesâ€ wording retained on older artwork.
 - Added **Kiss from a Rose**, Demidius's hostel in a suburb of Glistria, and recorded Siopi's donation of half its opening money.
 - Recorded the hostel's humble simulacra of Demidius and Aristea, added unique location artwork, and linked the new page across character, city, roster, and strategic-asset records.
 
@@ -519,9 +531,9 @@
 
 ## Tagata Fetu kobold canon correction - 2026-07-22
 
-- Confirmed the Tagata Fetu as a kobold people and Fetu’mana as a kobold lorekeeper.
+- Confirmed the Tagata Fetu as a kobold people and Fetuâ€™mana as a kobold lorekeeper.
 - Recorded Demidius and Philomela as the community's only known non-kobold residents.
-- Corrected the Tagata Fetu gathering and Fetu’mana portrait so their artwork matches campaign canon.
+- Corrected the Tagata Fetu gathering and Fetuâ€™mana portrait so their artwork matches campaign canon.
 - Reconciled the correction across Demidius's backstory, campaign setting, people-and-places records, wiki pages, and durable project memory.
 
 ## Aphrodite portrait revision - 2026-07-22
@@ -602,7 +614,7 @@
 - Expanded Siopi's page with their role in deciphering *The Mother's Lament*, surviving visual reference, family connections, and a new reference-based portrait.
 - Updated Paradox's page to record his death and the unresolved consequences for his seven wives and children.
 
-## Complete Greek Divine Portrait Pass — 2026-07-22
+## Complete Greek Divine Portrait Pass â€” 2026-07-22
 
 - Replaced the remaining historical and shared-collage images on Greek divine, Titan, primordial, and mythic-power wiki pages with original campaign portraits.
 - Added 40 new high-contrast mythic action-game portraits, including dedicated treatments for Keto, the Fates, the Furies, and primordial Eros.
@@ -610,7 +622,7 @@
 - Updated artwork-source notes across the divine pages while retaining historical links as mythology references.
 - Preserved the superseded Athena draft as an intentionally unpublished local file.
 
-## Maarin's first Dark Prophecy — 2026-07-21
+## Maarin's first Dark Prophecy â€” 2026-07-21
 
 - Recorded the full first vision caused by Maarin's Dark Prophecy Fatal Flaw.
 - Identified the stone-covered victim with Filius because the vision led the party to him, while preserving uncertainty about his staff and the prophecy's causal mechanics.
@@ -618,7 +630,7 @@
 - Added a campaign prophecy registry and linked Maarin, Filius, Gaia, Fatal Flaws, the timeline, and the wiki sidebar.
 - Recorded the golden-scythe wielder, anguiped giants, primordial war, galaxy-eyed observer, cosmic experiment, and reset as unresolved prophetic elements.
 
-## The Mother's Lament — 2026-07-21
+## The Mother's Lament â€” 2026-07-21
 
 - Added the world-famous banned book as a confirmed important campaign artifact.
 - Recorded its three narratives concerning Keto, Echidna, Gaia, their children, Hercules's Labors, and divine abuse while attributing contested historical claims to the book.
@@ -626,41 +638,41 @@
 - Added Keto's campaign page and cross-links to Echidna, Gaia, Poseidon, Athena, Amphitrite, Zeus, Hades, the Lernaean Hydra blood, and the Scepter of Keto.
 - Left authorship, custody, copies, magical properties, and present enforcement explicitly unresolved.
 
-## Blood of the Lernaean Hydra — 2026-07-21
+## Blood of the Lernaean Hydra â€” 2026-07-21
 
 - Recorded Demidius's two doses of blood from the true Lernaean Hydra and the larger ten-vial account.
 - Preserved the supplied DC 40, first-round save-versus-death, Constitution damage, ten-round duration, and three-consecutive-save mechanics without silently converting them to standard poison rules.
 - Added a consumables register, strategic-asset entry, risk doctrine, wiki page, and explicit interpretation questions.
 - Classified the blood as a unique campaign poison and limited consumable rather than assuming artifact status.
 
-## Qarvel Drah'kar and Zephyra Coralshade — 2026-07-21
+## Qarvel Drah'kar and Zephyra Coralshade â€” 2026-07-21
 
 - Added two separately confirmed sea elf petty officers hired by Demidius.
 - Recorded Qarvel's sea-game trade and community-restitution counter-piracy proposal, including the Dawnrunner's proposed 10% acquisition fee.
 - Recorded Zephyra's paired-fare luxury passage proposal and clarified that 300 total passengers means 150 paying fares, 150 free passages, and 75,000 gp in gross revenue before expenses.
 - Preserved the distinction between these later confirmations and the historical workbook roster counts.
 
-## Vornix Drazgul and the Maker's Knot proposal — 2026-07-21
+## Vornix Drazgul and the Maker's Knot proposal â€” 2026-07-21
 
 - Added Vornix Drazgul as a separately confirmed kobold petty officer hired by Demidius.
 - Recorded his title for Demidius and his charitable anti-corruption proposal.
 - Created a Maker's Knot organization placeholder without treating Vornix's suggested partnership as accepted or active.
 - Preserved the distinction between workbook roster counts and Vornix's separately supplied crew record.
 
-## Paradox family and portrait — 2026-07-21
+## Paradox family and portrait â€” 2026-07-21
 
 - Expanded Paradox from a placeholder into a full family and relationship record based on the supplied ten-year report.
 - Confirmed Paradox and Siopi as children of Smokey Roberts and former party mates.
 - Recorded Paradox's seven wives, six reported biological children, and Phoebe's two adopted nephew figures while preserving unresolved and contradictory details.
 - Added a new reference-based portrait preserving Paradox's red-and-blue eyes, hair, armor, tattoo, and crescent weapon.
 
-## Kaelen Thorne backstory — 2026-07-21
+## Kaelen Thorne backstory â€” 2026-07-21
 
 - Added Kaelen Thorne as a deceased former player character and elven druid.
 - Recorded her parents, training under Ylvara, bond with animals, rescue and raising of an orphaned beaver pup, and belief that nature's balance sometimes must be enforced.
 - Left her death, mechanics, appearance, and possible relationship to the wider Thorne family explicitly unresolved.
 
-## Four Lords of Order canon — 2026-07-21
+## Four Lords of Order canon â€” 2026-07-21
 
 - Recorded Zeus as Lord of the Air, Hera as Lord of the Sea, Fel as Lord of the Underworld, and Alexander as Lord of the Earth.
 - Identified Fel as a primordial blue dragon and Alexander as a primordial silver dragon.
@@ -673,7 +685,7 @@
 - Kept the full page-text corpus in ignored local storage while committing URLs, hashes, attribution metadata, citations, and original analysis.
 - Verified *wandering weather*, *calculated luck*, and *scrying familiarity* against local Paizo books before promotion.
 - Added conditional third-party research for *billow the sail* and *fill the sails*, preserving their publisher status and GM-approval requirement.
-- Recorded the Product Identity naming hazard demonstrated by d20PFSRD's “Storm Pilot” page and Paizo's original *Abendego Pilot* name.
+- Recorded the Product Identity naming hazard demonstrated by d20PFSRD's â€œStorm Pilotâ€ page and Paizo's original *Abendego Pilot* name.
 - Integrated *wandering weather*, *billow the sail*, and *calculated luck* into the master Optimization Codex, relevant engines, structured option database, and wiki decision page.
 
 ## Pathfinder Campaign folder content-level review
@@ -765,7 +777,7 @@
 ## Demidius Thorne backstory
 
 - Added Demidius's birth in Lodingen, childhood captivity and testing, and escape with his mother Philomela from the Hellknight Order of the Godclaw.
-- Added Motu Leilani, the Tagata Fetu, Fetu’mana's vision, Demidius's juju training, and his departure ten years before the present account.
+- Added Motu Leilani, the Tagata Fetu, Fetuâ€™mana's vision, Demidius's juju training, and his departure ten years before the present account.
 - Confirmed Philomela Thorne as his mother, Smokey Roberts as his father, Siopi as a half-sibling, and Paradox as a half-brother.
 - Corrected Aelwyn and Demidius to paternal half-siblings through Smokey Roberts.
 - Recorded the unnamed long-lost vessel without assuming it was the Dawnrunner.
@@ -797,7 +809,7 @@
 
 ## Okeanikos relationship wording
 
-- Removed the unclear description of Maarin as Okeanikos's “divine focus.”
+- Removed the unclear description of Maarin as Okeanikos's â€œdivine focus.â€
 - Retained the confirmed relationship: Maarin is his rescuer and cohort leader, he worships her, and he regards her as his sister.
 
 ## Mythic Tier and Mythic Power formulas
@@ -933,7 +945,7 @@
 - Initially imported the workbook's historical level-14 entry for Roy along with his Hestia worship and morale role; his current level was later corrected to 17.
 - Recorded Bix as a chaotic-good grippli godling of Hermes, a Dawnrunner officer, and the spouse of another crew member.
 - Recorded Lilly's logistics role, Zujuck's level and alignment, and Binky's siege-engineer position.
-- Preserved established spellings for Lilly and Zujuck where the workbook uses “Lily” and “Zujuc.”
+- Preserved established spellings for Lilly and Zujuck where the workbook uses â€œLilyâ€ and â€œZujuc.â€
 
 ## Campaign vessel update - Galleons
 
@@ -1000,7 +1012,7 @@
 - Added a 20-option Demidius/Aristea shortlist with prerequisites, page citations, ratings, and GM-review flags.
 - Identified Soul Safe, Abundant Revelations, Ring of Returning, Seeking Spell, Rod of Spell Focusing, and Orb of the Seventh Star as leading candidates.
 
-## v3.5 — Super Genius Demidius and Aristea Deep Dive
+## v3.5 â€” Super Genius Demidius and Aristea Deep Dive
 
 ### Added
 
@@ -1066,7 +1078,7 @@
 - Demidius field/reference guide.
 
 
-## v3.2 — Super Genius Advanced Options
+## v3.2 â€” Super Genius Advanced Options
 
 - Completed content-level extraction of four Super Genius Games PDFs.
 - Added 97 indexed options with page citations, ratings, tags, pillar impacts, and campaign relevance.
@@ -1074,13 +1086,13 @@
 - Elevated Navigator, Doom Gaze, Wish Giver, Rune Hex, Spagyric Devices, Mass Production, and Esoteric Studies for further review.
 
 
-## v3.3 — Super Genius Batch 2
+## v3.3 â€” Super Genius Batch 2
 
 - Completed content-level extraction of 6 additional books.
 - Added 126 indexed options with page references, ratings, tags, and pillar relevance.
 - Added per-book reports, a batch high-value index, and a combined Super Genius database.
 
-## v3.4 — Integrated Codex Update
+## v3.4 â€” Integrated Codex Update
 
 - Promoted high-value extracted material into active Codex recommendations.
 - Added a Super Genius/Rogue Genius integration chapter.
@@ -1090,7 +1102,7 @@
 - Added individual recommendation pages with source, page, verification, and acquisition status.
 - Distinguished source verification from campaign legality and acquisition.
 
-## Aristea Character Sheet — Release Candidate 1
+## Aristea Character Sheet â€” Release Candidate 1
 
 - Added a reproducible parallel character-sheet treatment for Aristea.
 - Preserved all 15 source pages, statistics, tables, and pagination.
@@ -1100,7 +1112,7 @@
 - Removed source product branding without obscuring character data.
 - Added render-and-verify checks for the first page, dense interior content, and final page.
 
-## Aristea Character Sheet — Release Candidate 2
+## Aristea Character Sheet â€” Release Candidate 2
 
 - Preserved the complete RC1 blue-parchment, silver-border, ice-and-water visual treatment.
 - Rebuilt only page 1 around two independently cropped and scaled Hero Lab information columns.
@@ -1139,3 +1151,4 @@
 - Corrected the campaign chronology so Odysseus's recovery precedes the
   Stormspire operation and kept this event distinct from the later Misthold
   bloodline tournament.
+

@@ -2,11 +2,8 @@
 title: The Arrival — Campaign Timeline
 version: 1.1.0
 status: canonical
-last_updated: 2026-07-23
+last_updated: 2026-07-15
 ---
-
-> This detailed chronology is now cataloged and cross-linked from
-> [Events and Timeline](events-and-timeline.md).
 
 # The Arrival — Campaign Timeline
 
@@ -20,22 +17,9 @@ P.A. means Post-Arrival. The event defining year 0 may be Fel's arrival in Zater
 
 ### 150 P.A. — The campaign begins on Sounon
 
-Approximately one hundred years after the previous campaign, the heroes began
-as a group of shipwreck survivors on an unidentified island in the Isles of
-Berres. Every member of the shipwrecked group had spent ten years in magical
-stasis. Confirmed survivors included Siopi, Maarin, Paradox, Kaelen Thorne,
-Alley, and Tulip, plus others not yet recalled. Pete was present, but whether
-he shared their shipwreck and stasis is unknown. The island held many kuo-toa
-and an enslaved grippli population that included Bix. The island is now known
-as Sounon, lies within the Sunlit Chain, and will become the shared home of
-Demidius's and Maarin's crews.
+Approximately one hundred years after the previous campaign, the heroes began on an unidentified island in the Isles of Berres. Survivors woke from ten-year magical stasis and found one another; some companions remained asleep and could not be woken, harmed, or moved. The island is now known as Sounon, lies within the Sunlit Chain, and will become the shared home of Demidius's and Maarin's crews.
 
-The grippli's spiritual leader was Ulaa, a cleric of Hermes. He later took
-most of the freed grippli to purchase passage toward another settlement,
-leaving Pete and six grippli aboard with the party. Those six became
-Demidius's followers. Ulaa's parting gift was the green-obsidian Ember Blade,
-which Hermes had instructed him to steal years before. Ulaa was last seen on
-an island destroyed soon afterward; his fate remains unknown.
+Opening arc (relative order): offshore wreck trap and kuo-toa food quota; contact with Hermes-worshiping grippli, Pete, Tulip, Alley, a bounty hunter, and a mind-controlling captain who was later killed; Maarin's vision of the Claw of Keto in the Temple of Poseidon; false claw under ghoul attack; true Claw of Keto recovered from a coral golem; olive mural completed for a divine boon; ghouls overrun the party and Paradox is lost. Full narrative is maintained on the wiki page *Awakening on Sounon*.
 
 By 150 P.A., the Lodingen Republic had become the Lodingen Empire, the Fye Empire had fallen, Nysia had risen as a semi-constitutional monarchy, and the Isles of Berres had expanded.
 
@@ -56,34 +40,13 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 
 ## Verified milestones — date not yet recorded
 
-### Service aboard the Pumpkin Spice
-
-Before the *Dawnrunner* and *Matcha Frappuccino* were built, both allied crews
-served aboard the *Pumpkin Spice*. Maarin captained the ship and Aelwyn served
-as bosun. When the crews transferred to the new sister galleons, Maarin took
-command of the *Matcha Frappuccino* and Aelwyn continued as her bosun.
-
-### The Olympian Council bans The Mother's Lament
-
-After the fall of the Titans, the Olympian Council banned *The Mother's Lament*. The Council feared that its accounts of Keto, Echidna, Gaia, and their children would reduce worship of Hades, Zeus, and Poseidon while increasing worship of the three Mothers of Monsters. Its author, original publication date, and present enforcement remain unknown.
-
 ### Philomela escapes Lodingen with Demidius
 
-During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw. The order was attempting to elevate an Athena-descended demigod into a new god of war loyal to the Godclaw. It targeted Athena's demigod son Smokey Roberts and used attractive women to produce children it could exploit for the project; Demidius and Paradox were confirmed results. Whether Smokey, the women, or Athena knew the true purpose remains unrecorded. Philomela and Demidius found refuge among the kobold Tagata Fetu on Motu Leilani as the community's only known non-kobold residents.
-
-### Paradox escapes the Godclaw
-
-Paradox was raised and invasively tested by the Godclaw. His mother, the daughter of a Godclaw captain, conspired with Lodingen rebels for months before escaping with Paradox aboard a smuggling ship. Her father intercepted and destroyed the ship without knowing they were aboard. Paradox survived through an unexplained natural affinity for the sea and was rescued by smugglers led by a wayang shadow master, who taught him shadow magic. His mother's fate remains unconfirmed.
-
-### Paradox and Siopi are lost to the kraken
-
-As an adult, Paradox found his half-sibling Siopi and sailed with them. A
-kraken destroyed their vessel. They later awoke with the shipwrecked group on
-Sounon after spending ten years in magical stasis.
+During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the Tagata Fetu on Motu Leilani.
 
 ### Demidius leaves Motu Leilani
 
-Ten years before the present account, the kobold Tagata Fetu lorekeeper Fetu’mana received a vision that Demidius must leave the island and seek his scattered siblings. Philomela revealed the craft she had hidden and entrusted him with what she knew of some of his kin. Demidius began searching the Isles for Siopi, Paradox, and others still unknown.
+Ten years before the present account, the Tagata Fetu lorekeeper Fetu’mana received a vision that Demidius must leave the island and seek his scattered siblings. Philomela revealed the craft she had hidden and entrusted him with what she knew of some of his kin. Demidius began searching the Isles for Siopi, Paradox, and others still unknown.
 
 ### Demidius recovers a long-lost vessel
 
@@ -107,117 +70,21 @@ The witnessed onset occurred as soon as Declan died: the world shook, the ocean 
 
 Declan's death reduced the active Council of Seven to six and left the Sunlit Chain without a lord.
 
-### Gideon and Crystal are kidnapped during the Culling
-
-Gideon and Crystal, petty officers and Elites aboard the Dawnrunner, were kidnapped during the Culling. Both remain missing and are believed dead, but neither death has been confirmed. The kidnappers, date and place of the abduction, motive, evidence supporting the belief that they died, and their ultimate fates remain unrecorded.
-
-### Old Nysia enters a post-guild power vacuum
-
-The destruction of Old Nysia's corrupt guilds—caused primarily by Roy,
-Demidius, and Siopi—also dismantled much of the cities' infrastructure,
-administration, and legal system. Unpaid guards quit, waste collection failed,
-looting spread, and neighborhoods became guarded enclaves. The Culling
-intensified the crisis but did not create it.
-
-The Champions seized Tradegulf's garrison under Oros of the Blossom and an
-unidentified second survivor of the Culling's opening battle. The Crafter's Bow
-expanded its anti-corruption vigilante operations, while the Cobras absorbed
-smaller criminal gangs. The party subsequently fought vigilantes in a ruined
-Old Nysian city; the faction and outcome remain pending the next session.
-
-The recurring Grand Artifact Auction was subsequently held at Arverdon Palace.
-Its authentic lots were sold after Odysseus's earlier substitution caused
-Declan's raiders to steal false artifacts.
-
-Just after the auction, Demidius addressed the Crafter's Bow with Maarin
-beside him and giving him a notably disapproving look. The encounter made
-clear to them that the faction's leaders were members or agents of the Maker's
-Knot, although its rank and file did not know this.
-
-Demidius confessed that he had once trusted righteous rhetoric and thereby
-aided evil men and slavers through his own Maker's Knot association. He called
-on the faction to stop looting, return what could be returned, protect
-Tradegulf's markets, workshops, caravans, roads, and docks, and pursue
-exploiters through evidence rather than indiscriminate seizure.
-
-The speech worked well, sometimes too well: members guarded people who did not
-need protection. Demidius recruited volunteers for the temples, worked with
-Amparo to build homes and feed people, and gave daily speeches to prevent the
-movement from becoming an unruly mob. This relief work also served as
-restitution for his former Maker's Knot association. Whether the reform
-becomes permanent remains unknown.
-
-### Tulip and Alley marry
-
-Immediately before the party departed to recover Odysseus, Tulip and Alley
-married. The *Matcha Frappuccino*'s head chef and healer and its spymaster
-entered the Misthold operation as newlyweds. The officiant, vows, full guest
-list, and exact ceremony details have not yet been recorded.
-
-### Beaumont's mission and the Misthold prison break
-
-Queen Lidda Beaumont sent the party to recover her operative Odysseus, who had
-been missing for twenty years. The newly completed Dawnrunner and Matcha
-Frappuccino were teleported to Rosalind Galeheart's lands for a great event at
-Misthold that served as a temporary truce among Pirate Lords. Smokey Roberts
-attended, as did Achilles, the unmatched great champion of the Dogs of War.
-
-The party found Odysseus and several divine heroes imprisoned to fight in the
-games. With guard uniforms supplied by Odysseus, Demidius's diplomacy, and
-Roy's deception, the heroes entered the prison. Demidius used the Key of
-Daedalus to free Odysseus, Gideon (Champion of Apollo), Crystal (Champion of
-Artemis), Binky (Blessed of Ena), Rickard (a neutral-good paladin of Hermes),
-an unnamed Blessed of Hades, and other captives. The Key then carried them to
-the two ships outside Misthold's docks.
-
-Maarin stopped pursuit with a catastrophic tsunami that destroyed more than
-seventy ships of the line and killed countless thousands. The party escaped
-with Odysseus and continued to Stormspire.
-
-### Gideon's Sunshot
-
-The escape route crossed Bluebeard's territory. Bluebeard pursued with his
-flagship and two ships of the line and steadily gained on the fugitives. When
-escape appeared impossible, Gideon used the whole of his godly power for the
-first time and fired a single arrow carrying the power of the sun. The shot
-killed everyone aboard Bluebeard's flagship except Bluebeard himself.
-
-Channeling that power burned Gideon terribly and left him in immense pain. The
-crews nursed him back to health.
-
-During the retreat, the party learned that Odysseus is cursed to lose his way.
-Demidius hosted him because Demidius's Profession (sailor) modifier was the
-stronger option, but Odysseus imposed a -40 penalty on those checks. Against
-Demidius's recorded +113 modifier, that produces +73 before other situational
-modifiers.
-
 ### The Stormspire operation
 
-At Stormspire, the party staged a large diversion for the storm giants. The
-elven incarnation of Aristea sold huge quantities of goods, Demidius and Roy
-performed music, and Amparo, Tulip, and others held a cookoff in a vast
-pavilion erected by Demidius.
+The heroes traveled to Stormspire, the Storm King's floating city. While the crews distracted the Storm King, Odysseus stole the final component needed to complete the Scepter of Keto, an artifact capable of bypassing Poseidon's navigation curse over the Isles of Berres.
 
-While the crowds and the Storm King were occupied, Odysseus stole the final
-component needed to complete the Scepter of Keto, an artifact capable of
-bypassing Poseidon's navigation curse over the Isles of Berres. The theft and
-Odysseus's deliberate sabotage prompted the floating city to fall. He intended
-to eliminate an enemy of Nysia and the New Gods regardless of the lives below;
-Maarin used her weather power to stop Stormspire's fall and save the
-settlement.
+Odysseus deliberately sabotaged Stormspire's flight so the city would crash into the settlement below, intending to eliminate an enemy of Nysia and the New Gods regardless of the lives sacrificed without their consent. Maarin used her weather power to arrest the city's fall and save the settlement.
 
-After the party reached Stormspire, Smokey Roberts supercharged Odysseus's
-curse. Almost every other ship traveling with the heroes was lost at sea
-during the ensuing retreat. Maarin found her way by means of the now-complete
-Scepter of Keto, while Demidius brought the Dawnrunner through by exceptional
-sailing skill despite hosting Odysseus. Which other vessels were lost and the
-exact mechanics of Smokey's intervention remain unrecorded.
+### The party recovers Odysseus
 
-### Dame Mathilda accepts the Sunlit Chain proposal
+The party recovered Odysseus after he had been missing for twenty years. He is a level-30 rogue of an unspecified specialization and a tactical genius. His commitment to the greater good is ruthlessly utilitarian: he is willing to sacrifice people without their consent to achieve strategic goals.
+
+### Maarin proposes Dame Mathilda for the Sunlit Chain
 
 Maarin believes the party has the strongest succession claim through her killing blow, possession of Declan's Wayfinder, and the party's Berresian origin. She also believes the heroes cannot hold the domain against the surviving Pirate Kings, particularly Wavelord Santiago and Smokey Roberts, or the separate storm-giant power called the Storm King.
 
-Maarin proposed abdicating in favor of Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. The party supported the plan, and Mathilda agreed to it. Aelwyn is intended to serve as Mathilda's second. The formal abdication, Wayfinder transfer, installation, Aelwyn's appointment, and future invasion of Nysia remain pending or unrecorded.
+Maarin proposes abdicating in favor of Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second. The proposal, Wayfinder transfer, appointment, and future invasion of Nysia remain pending.
 
 ### Demidius inherits his brother's demiplane
 
@@ -227,13 +94,9 @@ After the death of his brother, Demidius inherited a private demiplane with adju
 
 Poseidon created a storm that killed Maarin's family. The date, location, reason for the storm, and whether the family was deliberately targeted remain unrecorded. Maarin made revenge and the eventual killing of Poseidon one of her defining life goals.
 
-### Maarin's first Dark Prophecy leads to Filius
-
-Shortly after returning from Yuletown, Maarin received her first vision from the Dark Prophecy Fatal Flaw. It showed Filius being killed by a cloaked golden-scythe wielder roughly ten years into a possible future. His death was followed by Gaia's awakening, the release of serpentine-limbed giants, a primordial war against every pantheon, the collapse of the Material Plane, and an unidentified galaxy-eyed observer erasing and restarting the cosmos. The vision led the party to Filius, who is presently alive.
-
 ### Maarin foresees Okeanikos and the party rescues his egg
 
-Maarin later received a prophecy of the coming birth of Okeanikos, a child of Echidna. Because whoever recovered his egg would greatly influence what he became, the party hunted for and rescued the egg. Maarin later took Okeanikos as her cohort. He became her worshiper and came to regard her as his sister. The relationship between this later prophecy and the Dark Prophecy Fatal Flaw remains unrecorded.
+Maarin received a dark prophecy of the coming birth of Okeanikos, a child of Echidna. Because whoever recovered his egg would greatly influence what he became, the party hunted for and rescued the egg. Maarin later took Okeanikos as her cohort. He became her worshiper and came to regard her as his sister.
 
 ### Demidius receives Hermes's gifts
 
@@ -247,27 +110,9 @@ Demidius acquired the Key of Daedalus. Its first use permanently imposed the Par
 
 Both are confirmed to have slept in the demiplane. Each received full healing, a one-time permanent increase of 50 maximum hit points, and the Loyalty Fatal Flaw directed toward Demidius.
 
-### Kaelen Thorne lives and dies — date not yet recorded
-
-Kaelen Thorne, an elven druid, worshiper of Hermes, and student of the elder Ylvara, was a member of the adventuring party. Her childhood included comforting a dying beaver and raising its orphaned pup, an experience that reflected her lifelong connection to animals and nature. Kaelen is deceased, but the record does not yet establish when or how she died, when she joined the party, or whether she was related to Demidius.
-
 ### Aristea's soul is trapped in Tartarus after Tradegulf
 
 Eris killed Aristea with *death knell* during the Battle for Tradegulf, concealed the death by making her appear alive but unconscious, and pulled her soul into Tartarus. Resurrection alone cannot return her because her soul is imprisoned. Recovery requires locating, reaching, and releasing the soul before restoration magic can succeed.
-
-### Demidius sacrifices the Key and Aristea returns
-
-Demidius left the Key of Daedalus among narcissus flowers as an offering to
-Persephone, confessed his love for Aristea, and asked for “one spring of my
-own.” Persephone accepted the sacrifice and returned Aristea in a kobold body.
-She took the High Elvish surname Enontië, meaning “reincarnated,” and is
-permanently enlarged to a stature comparable with the other player characters.
-
-### Aristea reunites with Demidius and Philomela
-
-Aristea Enontië reunited with Demidius and Philomela Thorne in the damaged
-coastal city of Tradegulf. Relief workers, including Amparo, fed survivors,
-treated the wounded, and constructed temporary shelters around them.
 
 ### Demidius receives the Glasses of Beaumont
 
@@ -277,121 +122,10 @@ Queen Lidda Beaumont gifted Demidius an artifact capable of unerring alignment r
 
 Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouched; no draw has been made.
 
-### Nyssa's last confirmed appearance
-
-The party learned that Nyssa was an agent of Smokey Roberts. In the last
-encounter in which the crew saw her, Nyssa attacked alongside Tenor and her
-husband, an unnamed child of Smokey Roberts who looked almost exactly like
-Demidius. Nyssa's husband was killed during the exchange and his body fell into
-the sea. The date and location of the battle, the husband's identity, and
-Nyssa's present location and status remain unrecorded.
-
-## Battle beneath the Champions' garrison
-
-A few days after Demidius addressed the Crafter's Bow, Maarin asked him to
-accompany her to meet Oros of the Blossom. With several companions already
-going, the entire party came. The apparent Oros commanded Champions of several
-minor New Gods and justified their savage beating of a thief as preventing
-greater harm.
-
-Demidius concealed his use of Queen Beaumont's alignment-revealing artifact.
-It identified the apparent Oros as Lawful Evil, and for an instant Demidius
-perceived a kobold beneath the disguise. He warned Maarin telepathically that he
-believed the Lords of Order were involved. When Maarin revealed their
-suspicion, the impostor dropped the act and attempted unsuccessfully to dominate
-the reincarnated kobold Aristea Enontië.
-
-Demidius stripped away the impostor's protections and disguise, revealing an
-unnamed kobold mortal god of Fel. Aristea struck with ice rays and Maarin
-followed in melee. A contingency restored the enemy's position, but his
-retaliation passed harmlessly through Demidius's incorporeal form. The enemy
-fled toward the garrison basement while Maarin and Okeanikos made short work
-of his remaining henchmen. Demidius's attempt to rally the assembled Champions
-met with mixed success.
-
-Maarin teleported into the basement and fell. Demidius and Amparo arrived in
-time to revive her before her final breath. The kobold fought beside an
-abomination described as a clone of Fel and a shield guardian. At one point
-only three members of the party remained standing. Amparo restored the group
-with extraordinary healing, and Roy seized control of the shield guardian and
-turned it against the Fel clone. The party then defeated the kobold.
-
-The victory completed a divine trial. Roy and Maarin received three Boons each;
-Aristea and Okeanikos received two each. Demidius became Champion of Hermes and
-Amparo became Champion of Hestia. The true Oros's location and fate, the
-infiltrator's name, and the extent of the compromised Champions remain unknown.
-
-See [Battle beneath the Champions' garrison](../docs/events/battle-beneath-the-champions-garrison.md).
-
-## Current Culling losses
-
-The ongoing Culling has killed or temporarily removed major divine, political,
-and military powers:
-
-- The New Gods raided Lodingen and killed two of the ten Lords of Order
-  champions stationed there.
-- Alexander was killed and cannot be resurrected for fifty years.
-- Smokey Roberts was killed and successfully resurrected.
-- Bloody Anne, Morgan the Runner, and Darkness were killed.
-- Apollo and Artemis are temporarily dead.
-- Apollo's death released a plague that killed roughly ninety percent of
-  Smokey Roberts's territory / the Berres mainland.
-- The vice admirals of Black Beard, Warlord Santiago, Bluebeard, and The
-  Hammer, as well as the New Iron Tyrant, remain dead after the recorded
-  numbers of failed resurrection attempts.
-- Sly has accumulated three failed resurrection attempts despite not being
-  Culling-eligible.
-
-See the [Culling casualty ledger](culling_casualty_ledger.md) for exact
-resurrection-failure counts and identity safeguards.
-
-## Additional confirmed events and consequences
-
-### [Necropolis expedition](events/necropolis-expedition.md)
-
-The party returned with **200 of its 250-person force**. Persephone's force
-returned with 400 of 1,000, Hades's with 500 of 1,000, Hermes's with 100 of
-250 transformed into ghouls, and Prince Luis's with 100 of 500. Kamryn died
-and was resurrected; Ezra died and refused resurrection; Leo and Prince Luis
-died and could not be resurrected. Pete died but was restored by Hermes away
-from the battlefield. Alley died and passed the associated God save. The
-other named petty officers present survived.
-
-### Recovery of the Silent Court ledgers
-
-Recovered ledgers exposed a Maker's Knot slave-sales network connected to an
-Underdark city-state, the Silent Council, the head of the Merchant Guild, the
-Ivory Ladder, nobles, roughly fifteen senators, and several magistrates.
-Praxius was identified as the Merchant Guild's hidden fourth owner and leader
-of the Ivory Ladder. The records also contained contracts priced at roughly
-1,000 gp each for +1 weapons, armor, and shields.
-
-### Recovered Dawnrunner design history
-
-The Dawnrunner's original order included an underwater-access smuggling hold
-intended for trafficking enslaved people. This is the recovered intent of the
-vessel's builders, not the present use of the ship under Demidius.
-
-### Glistria and the Tradegulf corridor
-
-An explosion destroyed Glistria's cartography guild and killed approximately
-500 people. Tradegulf contains three monoliths. Under the recorded conditions,
-the ferry journey between Tradegulf and Glistria takes approximately three
-hours.
-
-### Sabotage toward Sounon
-
-A recovered witch's journal records that a ship and its navigation were
-deliberately sabotaged toward Sounon. It also records that a demigod of Hermes
-was tasked with assembling the Scepter of Keto for an invasion. The journal
-mentions a recovered claw and rumors concerning the connector, but does not
-resolve every participant, target, or motive.
-
 ## Open chronology questions
 
 - When did Demidius's brother die, and when did the inheritance occur?
-- When did Maarin receive the later Okeanikos prophecy, where was his egg found, and who else sought it?
-- When did the party visit Yuletown, how did the first Dark Prophecy direct them to Filius, and where was he found?
+- When did Maarin receive the prophecy, where was Okeanikos's egg found, and who else sought it?
 - Was the Key of Daedalus acquired before or after the demiplane?
 - When did Hermes grant each divine gift?
 - When and why did Beaumont present the glasses?
@@ -399,4 +133,4 @@ resolve every participant, target, or motive.
 - When and where did Poseidon's storm kill Maarin's family?
 - Which event defines the Post-Arrival calendar: Fel's arrival or Cronus's release?
 - When exactly did the Battle for Tradegulf occur?
-- When will the party formally transfer its claim and Declan's Wayfinder to Dame Mathilda, and when will she be installed?
+- Will Dame Mathilda accept the Sunlit Chain lordship?

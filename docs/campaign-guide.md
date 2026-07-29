@@ -1,14 +1,10 @@
 ---
 title: The Arrival — Campaign Guide
 status: reader-facing summary
-last_updated: 2026-07-22
+last_updated: 2026-07-15
 ---
 
 # The Arrival — Campaign Guide
-
-![The Dawnrunner and Matcha Frappuccino navigating the fractured seas of The Arrival](assets/scenes/campaign-guide-arrival-seascape.png)
-
-*The Dawnrunner and Matcha Frappuccino navigate the island labyrinth as the heavens fracture, the divine order changes, and Tartarus waits beneath the sea.*
 
 **The Arrival** takes place on Zatera in **150 P.A. (Post-Arrival)**, approximately one hundred years after the previous campaign. The calendar's Arrival may have been Fel's coming from the Outer Realms or Cronus's release; its origin remains disputed. The campaign combines Pathfinder 1e, mythic rules, compatible third-party material, custom divine progression, and advancement beyond level 20. See the [Campaign Setting](campaign-setting.md).
 
@@ -17,9 +13,9 @@ last_updated: 2026-07-22
 Five pressures define the current campaign record:
 
 - **The Culling has begun.** Gods may be challenged, killed, replaced, or reconciled with the New Gods. Queen Beaumont's defeat of Ares proves that the divine order is changing in public and permanent ways.
-- **Aristea has returned in a new body.** Persephone accepted the Key of Daedalus and returned her as Aristea Enontië, a permanently enlarged kobold. Her deceased half-elven incarnation remains a distinct historical record.
+- **Aristea is beyond ordinary resurrection.** Her soul is trapped in Tartarus. The party needs an extraction operation, not merely a resurrection spell.
 - **Demidius's reach is outgrowing one adventuring party.** The Dawnrunner, Epic Leadership, divine alliances, an inherited demiplane, and planar corridors all require procedures, officers, and security.
-- **Sounon is becoming the crews' shared home.** The campaign began there after Siopi, Maarin, Paradox, Kaelen, Alley, Tulip, and other survivors were shipwrecked and held in ten years of magical stasis. The island held many kuo-toa and an enslaved grippli population that included Bix. It now lies in the leaderless Sunlit Chain and needs anchorage, infrastructure, governance, defenses, supplies, and reliable routes.
+- **Sounon is becoming the crews' shared home.** The island is where the campaign began: ten-year stasis, kuo-toa food quota, the **Temple of Poseidon**, and the recovery of the **Claw of Keto**. It now lies in the leaderless Sunlit Chain and needs anchorage, infrastructure, governance, defenses, supplies, and reliable routes.
 - **Navigation is political power.** Poseidon's Shipbreaker Sea curse makes the fourteen Wayfinders central to travel, trade, succession, and warfare.
 
 ## The Culling
@@ -27,14 +23,6 @@ Five pressures define the current campaign record:
 The first dated event in the record occurred outside Tradegulf on 2026-06-28. Ares challenged Queen Lidda Beaumont of Nysia. Beaumont offered him a final chance to withdraw and reconcile with the New Gods. When he refused and attacked, she drew a red-tasseled longsword, addressed Perlot while calling it “our blade,” and decapitated Ares in one blow.
 
 The heavens proclaimed her **Queen of Nysia, Slayer of War, and Minor Goddess of Dueling (War Subdomain)**. Her later gift of the Glasses of Beaumont places Demidius in a direct relationship with one of the newly ascended powers.
-
-The upheaval has since spread far beyond Tradegulf. The New Gods killed two of
-the ten Lords of Order champions in a raid on Lodingen. Alexander is dead and
-cannot be resurrected for fifty years; Apollo and Artemis are temporarily
-dead; Smokey Roberts died and returned through successful resurrection; and
-Bloody Anne remains dead. Apollo's death released a plague that killed roughly
-ninety percent of Smokey Roberts's territory / the Berres mainland. See the
-[current Culling casualty ledger](../campaign/culling_casualty_ledger.md).
 
 ## The Aristea objective
 
@@ -55,7 +43,7 @@ The Dawnrunner is a galleon and the center of an expanding organization. It serv
 
 Maarin killed Sea Serpent Declan during the Battle for Tradegulf, and the heroes now hold his Wayfinder. His death reduced the Council of Seven to six and left the Sunlit Chain without a lord. Maarin believes the party has the strongest succession claim but cannot survive a direct contest with the remaining Pirate Kings or the separate Storm King.
 
-Her solution is to transfer the claim and Wayfinder to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. The party supported the proposal, and Mathilda agreed to it. Aelwyn is intended to serve as Mathilda's second and provide regional legitimacy. The formal transfer, installation, and Aelwyn's appointment remain pending or unrecorded.
+Her proposed solution is to transfer the claim and Wayfinder to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second and provide regional legitimacy. The plan remains unapproved and Mathilda has not accepted.
 
 Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the named crew includes healers, engineers, musicians, security, a cook, and counter-piracy specialists. The current navigator, succession plan, and coverage after Aristea's death remain important open questions.
 

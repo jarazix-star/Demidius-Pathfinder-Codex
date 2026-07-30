@@ -1189,3 +1189,11 @@
 
 
 
+## Maarin's magical girl transformation - 2026-07-29
+
+- Added Maarin's newly gained ability to transform using a magical ring and
+  tiara.
+- Added a dedicated wiki page and the user-supplied canonical transformation
+  panel.
+- Recorded the form as current alternate-form canon without inventing
+  unprovided item mechanics.

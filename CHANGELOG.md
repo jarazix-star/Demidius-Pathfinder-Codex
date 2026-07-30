@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Roy's magical girl transformation - 2026-07-29
+
+- Added Roy's newly gained ability to transform into a magical girl using a magical wand.
+- Added a dedicated wiki page and canonical reference art for the transformed appearance.
+- Recorded the transformation as current canon while leaving its unconfirmed activation limits and mechanical effects open.
+
 ## Character canon, navigation, and companion updates - 2026-07-29
 
 - Established Roy's current hair as black curls with selected pink and purple

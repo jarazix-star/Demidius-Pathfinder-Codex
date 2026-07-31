@@ -1,5 +1,14 @@
 ﻿# Change Log
 
+## Aurellion's defeat resolved: family, a soul-tome, and Aphrodite's quest - 2026-07-31
+
+- Resolved the confrontation closing The Assault on the Silent Court. Moving inside the keep, the party was trapped between the general (likely Seraphel) and Aurellion at once, defeated the general, then pressed on toward Aurellion himself.
+- Confronted directly, Aurellion offered to let the party live upon recognizing Demidius as his brother - the direct result of his confirmed Fatal Flaw, that he must always give family a chance. He did not become a Lich through the standard rite; an artifact book was the source of his lichdom.
+- Fought straight he would have won - he continually pulled his punches, especially against Demidius. The party instead beat him by realizing his soul-tome was nearly full and deliberately overfilling it, freeing every soul it held and throwing the Necropolis into chaos as freed undead turned on those still controlled. How he survived that defeat to end up alive and hidden under Aphrodite's protection remains untold.
+- Retroactively placed at the party's entry into the Necropolis: Aphrodite gave Demidius a quest to kill one of her own demigods who had "become ugly" through undeath - flagged as a likely, unconfirmed reference to Aurellion himself, whose living glamour conceals exactly that.
+- Updated The-Assault-on-the-Silent-Court, Grave-Regent, Demidius Thorne, Aphrodite, Seraphel, Fatal-Flaws, and Battle-for-the-Bone-Market.
+- Also includes new canonical artwork for several recently-added pages (Battle for the Bone Market, Lady Morveth), added by another process.
+
 ## The Assault on the Silent Court added - 2026-07-31
 
 - Added The-Assault-on-the-Silent-Court.md, continuing directly from the Party's Assault on the Necropolis. Long-range cannons killed Demidius's summoned planetar almost instantly on arrival; the party fought ghouls and a general (likely Seraphel again) at Aurellion's keep walls, then chose to push inside after Aurellion himself rather than press the general's strong position, facing his followers there.

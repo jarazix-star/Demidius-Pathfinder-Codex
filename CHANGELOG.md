@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## Terra Obscura and the Court of Roses added - 2026-07-31
+
+- Added Terra-Obscura.md and Court-of-Roses.md: the archmage mapmaker whose reality-altering ink erased whatever a map omitted (including Siopi's own people and mother), the party's failed direct confrontation and infiltration, and Queen Lidda Beaumont's intervention that closed the guild. The Court of Roses alias belongs to Roy and Demidius; Siopi followed Maarin's lead instead.
+- Updated Siopi, Zujuck, Lilly (confirming a ~10-foot radius on Zujuck's alcohol-to-water effect), Makers-Knot, Old-Nysian-Power-Vacuum, Roy, Queen-Lidda-Beaumont, Campaign-Timeline, and the sidebar.
+
 ## The Journey to Nysia added: Sarpedon's archmage, Tradegulf, the new ships - 2026-07-31
 
 - Added Journey-to-Nysia.md and Pumpkin-Spice.md, recording how the party left the Isles of Berres for good: an archmage freed at the Sunken Temple of Sarpedon gated the party's shared ship, the Pumpkin Spice, to Nysia; the party found her own tower sealed for 1,000 years; and they chose Tradegulf as their destination, where they first encountered the Maker's Knot (posing as the city's temple of Hermes) and commissioned the Dawnrunner and Matcha Frappuccino.

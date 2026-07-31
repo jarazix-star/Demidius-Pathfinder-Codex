@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## The Journey to Nysia added: Sarpedon's archmage, Tradegulf, the new ships - 2026-07-31
+
+- Added Journey-to-Nysia.md and Pumpkin-Spice.md, recording how the party left the Isles of Berres for good: an archmage freed at the Sunken Temple of Sarpedon gated the party's shared ship, the Pumpkin Spice, to Nysia; the party found her own tower sealed for 1,000 years; and they chose Tradegulf as their destination, where they first encountered the Maker's Knot (posing as the city's temple of Hermes) and commissioned the Dawnrunner and Matcha Frappuccino.
+- Updated Sunken-Temple-of-Sarpedon, Matcha-Frappuccino, Dawnrunner, Makers-Knot, Tradegulf, Nysia, Campaign-Timeline, and the sidebar to cross-link the new story, answering a long-open question about when and where the Dawnrunner and Matcha Frappuccino were commissioned.
+
 ## The Grave Regent named Aurellion; sibling-parentage reasoning corrected - 2026-07-31
 
 - Named the Grave Regent: Aurellion, a human demigod of Aphrodite. Propagated the name across every page that referenced him.

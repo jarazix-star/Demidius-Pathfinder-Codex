@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Siopi's betrayal of Demidius - 2026-07-31
+
+- Even after recovering her family, Siopi grew obsessed with Terra Obscura's ink and kept studying it against Demidius's and Maarin's warnings. A breakthrough shattered her psyche and forced a choice of who to age near death; she chose Demidius over a stranger, nearly killing him.
+- Demidius considers it a betrayal and stopped pushing her to stop; Maarin remained desperate to help regardless. Flagged as an unconfirmed but plausible link to Siopi's later vulnerability to Hastur's spell.
+- Updated Siopi.md, Demidius Thorne.md, and Maarin.md.
+
 ## Siopi's family recovered from outside time and space - 2026-07-31
 
 - While the Court of Roses/Maker's Knot fallout played out, Siopi grew increasingly reclusive studying Terra Obscura's mapmaker's ink.

@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## The Assault on the Silent Court added - 2026-07-31
+
+- Added The-Assault-on-the-Silent-Court.md, continuing directly from the Party's Assault on the Necropolis. Long-range cannons killed Demidius's summoned planetar almost instantly on arrival; the party fought ghouls and a general (likely Seraphel again) at Aurellion's keep walls, then chose to push inside after Aurellion himself rather than press the general's strong position, facing his followers there.
+- The confrontation with Aurellion is still to come - this account is deliberately left unfinished pending the full story from the user.
+- Updated The-Partys-Assault-on-the-Necropolis, Silent-Court, Seraphel, and Grave-Regent.
+
 ## The Party's Assault on the Necropolis added - 2026-07-31
 
 - Added The-Partys-Assault-on-the-Necropolis.md: the party's own front of the Necropolis Expedition, fought in parallel with the Battle of the Feeding Pits. Maarin blocked the walkways for time; Demidius's Greater Planar Ally brought a planetar to dispel the enemy general's (likely Seraphel's) spells.

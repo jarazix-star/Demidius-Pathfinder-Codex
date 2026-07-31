@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Glistria's Monoliths, Queen Beaumont detail, auction houses, downtime color - 2026-07-31
+
+- Glistria: five Monoliths total (the destroyed Gatekeeper's Key among them, theories ranging from lost-society construction to prisons), and a fix for a pre-existing error attributing a ~500-dead cartography-guild destruction to Glistria instead of Terra Obscura in Tradegulf.
+- Queen Lidda Beaumont: 200+ years old, a halfling-shaped aasimar, unmarried and waiting on Perlot; Prince Luis is magically created and blessed by Perlot; the coming Culling is her fourth and Luis's first.
+- Auction houses: full commercial terms for the Grand Artifact Auction, plus a new page for three more houses (Epinsel Institute of Magic, Royal Academy of Music & Arts, Jester's Chalice).
+- Downtime color: Filius's Oread card game, Okeanikos's Nereid Galatea, and the Tulip/Alley/Valax/Pete/Fizz Tradegulf charity.
+
 ## The Silent Council added; the Grave Regent revealed as a Lich - 2026-07-31
 
 - Named the Necropolis's ruling body, the Silent Council: the Grave Regent (Aurellion, revealed to have been a Lich during the Necropolis Expedition), Praxius/Praxus the Flesh Artisan (a Drow noble wizard - same character as the already-recorded Ivory Ladder leader), Vorun the Ravenous King (ghoul barbarian Suzerain, Champion of Pik), and Seraphel the Fallen General (Wight Oracle of Bones, former Solar General of Apollo).

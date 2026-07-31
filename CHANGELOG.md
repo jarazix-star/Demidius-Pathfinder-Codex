@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Raid on the Maker's Knot added - 2026-07-31
+
+- Added Raid-on-the-Makers-Knot.md: Demidius's pact with an advanced pixie (Tute-Tute) confirmed a secret underwater slave-smuggling compartment aboard the Dawnrunner. Split assault - Maarin/Roy/Amparo via the front, Demidius/Aristea via the basement, where the slaves were found. An enchanter locked the front group; Demidius overcame a basement trap and turned the tide; Leo and an unnamed warrior dwarf struggled against the Knot's three leaders until the rest of the party arrived to win.
+- The basement held the route slaves were sent to the ghouls on - the passage that led directly into the Necropolis Expedition.
+- Updated Dawnrunner, Makers-Knot, Necropolis-Expedition, Aristea, Leo, Roy, Maarin, and Amparo Decoris Ignatius.
+- Also includes new canonical artwork for several recently-added pages (Bone Market, Bone Warden, Dream, Grave Regent, Nightmare, Sunken Temple of Sarpedon, Terra Obscura, Thousand Wick Lantern), added by another process.
+
 ## Siopi's full arc resolved: Dream/Nightmare, the Attack on the Warehouse, her death - 2026-07-31
 
 - Added Dream and Nightmare cosmology (Dream Lords, Nightmare Lords, Vara's mortal-era ward on Nysia). Siopi's ink research accidentally opened a Nightmare gate in the party's warehouse, breaching that ward and fracturing her mind - one personality fell under Hastur's spell, finally explaining that long-standing open question.

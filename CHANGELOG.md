@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Artifact updates: Obsidian Crown, Key of Daedalus, Thousand Wick Lantern - 2026-07-31
+
+- Obsidian Crown: recorded its physical form (a jagged black-and-green obsidian head-slot crown) and origin (a gift from Hades to the first Drow ruler); existing mechanics confirmed unchanged.
+- Key of Daedalus: added its plain-brass-key appearance and tightened its mechanics to the user's confirmed wording (full-round-action unlocking, spell-penetration check for godly locks, maze immunity, Labyrinth exit-declaration, 3/day one-week planar corridors).
+- Added a new artifact, Thousand Wick Lantern: divines a being's true name or secret via a burned belonging or a summoning's connection; rumored created by the architect of an Abyssal War to control and summon demons out of Tartarus.
+
 ## Terra Obscura and the Court of Roses added - 2026-07-31
 
 - Added Terra-Obscura.md and Court-of-Roses.md: the archmage mapmaker whose reality-altering ink erased whatever a map omitted (including Siopi's own people and mother), the party's failed direct confrontation and infiltration, and Queen Lidda Beaumont's intervention that closed the guild. The Court of Roses alias belongs to Roy and Demidius; Siopi followed Maarin's lead instead.

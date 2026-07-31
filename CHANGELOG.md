@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Siopi's family recovered from outside time and space - 2026-07-31
+
+- While the Court of Roses/Maker's Knot fallout played out, Siopi grew increasingly reclusive studying Terra Obscura's mapmaker's ink.
+- The party determined Terra Obscura's erased victims weren't dead, but exiled outside time and space, and spent Boons to retrieve Siopi's people, including her mother - turning a previously permanent-seeming tragedy into a recovered loss.
+- Updated Siopi.md, Terra-Obscura.md, and Boons.md.
+
 ## Roy's disappearance resolved; the White Flask; Praxius's Tower explodes - 2026-07-31
 
 - Roy vanished after discovering the Merchant Guild/Terra Obscura/Ivory Ladder/Maker's Knot slaver conspiracy and reporting it directly to the Crown. Demidius reunited with him at Arverdon Palace before Prince Luis Beaumont, the Crown's Chief Investigator; Demidius was released, Roy held longer.

@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Autonomous cleanup pass: broken links, Ena, stale Gem values - 2026-07-31
+
+- Corrected a flawed broken-link audit (the first pass had the pipe-link direction backwards) and found two real issues: one broken link, and Ena missing a dedicated page despite real substance scattered across four other pages. Added Ena.md and fixed the link.
+- Cross-linked the Grave Regent and Bix/Paradox threads into Philomela Thorne, Inherited Demiplane, and The Culling; fixed three pages that still had pre-confirmation Bix wording.
+- Found and corrected stale pre-level-18 Seven-Pipped Gem numbers on six pages, including a marked GENERATED FILE, missed when Demidius leveled up earlier.
+
 ## The Grave Regent; Bix confirmed as Paradox reincarnated - 2026-07-31
 
 - Added the Grave Regent: a third, secret brother of Demidius, thought dead, protected by Aphrodite, resembling Demidius but more invested in his own beauty, and confirmed as leader of the Necropolis itself - tying him directly to the Necropolis Expedition. Full connecting story pending from the user; recorded only confirmed facts.

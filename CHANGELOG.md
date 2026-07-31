@@ -1,5 +1,14 @@
 ﻿# Change Log
 
+## Sunken Temple of Sarpedon, Scepter of Keto completion, and continuity pass - 2026-07-30
+
+- Added the Hastur wiki page: the Yellow King, one of the outsider entities who crossed with Fel at the Arrival, with the Yellow Sign symbol and lore drawn from published Pathfinder material.
+- Corrected the Arrival across the wiki: it is Fel's crossing from the Outer Realms (not a disputed choice between Fel and Kronos); Kronos's escape is a consequence of the Arrival, not its namesake. Removed "the Schism" as a proper name throughout and standardized the Titan's name to "Kronos" everywhere, including Greek-myth sections that previously used "Cronus".
+- Fixed Roy's pronouns to he/him throughout the wiki (was inconsistently they/them).
+- Leveled up Demidius, Aristea Enontië, Amparo, and Roy to 18 and Okeanikos to 16 across every wiki mention; fixed a stray "level 17" for Maarin that should have read 18.
+- Recorded the Scepter of Keto's completion: all three parts (the Claw of Keto, the Sarpedon connector, and the Shaft stolen by Odysseus at Stormspire) are recovered and fully assembled via a ritual at Volcaris.
+- Added the Sunken Temple of Sarpedon wiki page recording that expedition (Siopi, Demidius, Roy, Maarin, and Okeanikos) in full, closing the long-open Gorgon-sisters/Sarpedon thread from Nyssa's and Siopi's pages and resolving how Filius was rescued and joined the *Matcha Frappuccino*.
+
 ## Wiki Changelog page and Boons artwork - 2026-07-30
 
 - Added a dedicated `Changelog.md` page to the published GitHub Wiki, backfilling a reverse-chronological, date-grouped record of prior wiki commits per `CHANGE_POLICY.md` §16.

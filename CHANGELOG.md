@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## The Silent Court added; resolved against the Silent Council - 2026-07-31
+
+- Added Silent-Court.md: a building, not the same thing as the Silent Council - the Grave Regent's residence and the Necropolis's main government building. Records its floor layout (meeting room, offices, and the General's quarters on the main floor; his lab and bodyguard on the 2nd; his residence on the 3rd; servants and controlled undead in the basement).
+- Updated Silent-Council.md, Grave-Regent.md, Praxius.md, and Seraphel.md to reflect the resolved Court/Council distinction.
+
 ## Glistria's Monoliths, Queen Beaumont detail, auction houses, downtime color - 2026-07-31
 
 - Glistria: five Monoliths total (the destroyed Gatekeeper's Key among them, theories ranging from lost-society construction to prisons), and a fix for a pre-existing error attributing a ~500-dead cartography-guild destruction to Glistria instead of Terra Obscura in Tradegulf.

@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## The Grave Regent; Bix confirmed as Paradox reincarnated - 2026-07-31
+
+- Added the Grave Regent: a third, secret brother of Demidius, thought dead, protected by Aphrodite, resembling Demidius but more invested in his own beauty, and confirmed as leader of the Necropolis itself - tying him directly to the Necropolis Expedition. Full connecting story pending from the user; recorded only confirmed facts.
+- Confirmed Bix is Paradox's reincarnation, correcting the wiki's previous speculative (and misattributed) guess across six pages. Demidius does not know.
+- Clarified Demidius's Aphrodite lineage runs through his mother Philomela, not his father; Paradox/Bix and Aelwyn carry no Aphrodite blood as a result.
+- Recorded that Tulip's fear-of-enchanters Fatal Flaw creates real tension with Demidius's own enchantment magic, resolved by the two serving on different ships, and tied the masquerade mask from Demidius's Tradegulf plan to the Grave Regent's concealment.
+
 ## Tradegulf plan, Notable Figures reorg, Perlot split, Divine Anchoring rewrite - 2026-07-31
 
 - Added Demidius's Plan to Save Tradegulf as a wiki page (sourced from a user-supplied planning document): intelligence-gathering, restoring leadership, a provisional Council of Restoration, the Tradegulf Civic Corps and the Hundred, rebuilding with Aristea's Mythic Fabricate, food/commerce/justice/morale, approaching Aphrodite, and the eventual transfer of power. Flagged rather than resolved: a reference to "my other brother" whose memory was removed, which doesn't cleanly match either previously recorded sibling thread.

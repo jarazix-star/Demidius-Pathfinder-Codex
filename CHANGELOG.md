@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## The Silent Council added; the Grave Regent revealed as a Lich - 2026-07-31
+
+- Named the Necropolis's ruling body, the Silent Council: the Grave Regent (Aurellion, revealed to have been a Lich during the Necropolis Expedition), Praxius/Praxus the Flesh Artisan (a Drow noble wizard - same character as the already-recorded Ivory Ladder leader), Vorun the Ravenous King (ghoul barbarian Suzerain, Champion of Pik), and Seraphel the Fallen General (Wight Oracle of Bones, former Solar General of Apollo).
+- Revealed that most of the Council besides Aurellion began as servants of rival pantheons that invaded during past Cullings, dominated by Aurellion into defending Nysia. Reaction to the Lich's apparent defeat during the expedition was mixed among the New Gods.
+- Added Silent-Council.md, Vorun.md, Seraphel.md, and Kamryn.md (source of the Vorun reveal); merged the Flesh Artisan material into the existing Praxius page; substantially updated Grave-Regent.md, Necropolis-Expedition.md, The-Culling.md, Pik.md, and Notable-Figures.md; added the Shroud of the Last Light artifact.
+
 ## Artifact updates: Obsidian Crown, Key of Daedalus, Thousand Wick Lantern - 2026-07-31
 
 - Obsidian Crown: recorded its physical form (a jagged black-and-green obsidian head-slot crown) and origin (a gift from Hades to the first Drow ruler); existing mechanics confirmed unchanged.

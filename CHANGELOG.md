@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Demidius unmasked as the Black Rose; 250,000 gp bounty - 2026-07-31
+
+- Roy revealed Demidius's Court of Roses codename ("the Black Rose") to the authorities after Terra Obscura's closure, tying him to Zujuck's presence at the bar crawl. Demidius was fined 50,000 gp, talked down to 35,000.
+- Confirmed a major reveal: the Ivory Ladder, the Maker's Knot, the Merchant Guild, and Terra Obscura were all the same organization.
+- Between Roy's reveal and Maarin separately naming Demidius re: Terra Obscura, the Merchant Guild placed a 250,000 gp bounty on his head.
+- Updated Court-of-Roses, Terra-Obscura, Demidius Thorne, Roy, Maarin, Lilly, Zujuck, Makers-Knot, Praxius, Old-Nysian-Power-Vacuum, and Strategic-Assets.
+
 ## The Battle of the Feeding Pits added; Leo's death explained - 2026-07-31
 
 - Added Battle-of-the-Feeding-Pits.md: the Necropolis Expedition's opening engagement. Demidius's livestock-and-bomb tactic (bombs supplied via a raid on the Maker's Knot) killed ~1,000 ghouls outright; Persephone's forces were then overwhelmed and Hermes's forces bogged down.

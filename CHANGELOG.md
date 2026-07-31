@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Demidius joins the Maker's Knot: the fallout - 2026-07-31
+
+- A separate 150,000 gp bounty landed on Roy and all his officers; Roy disappeared for a long while afterward. Maarin's own reveal of Demidius came from a relationship that was at best contentious, including a prior death threat.
+- The Merchant Guild had Demidius's ship order cancelled outright, confirming the motive behind the shipbuilders' earlier refund. Isolated, Demidius turned to the Maker's Knot, who offered to erase the bounty via membership, credit-claiming, or protection, for 100,000 gp, a job, or two Hermes Boons.
+- Demidius chose membership plus three jobs. The first confirmed the previously-rumored Maker's Knot arson pattern: he talked them into threatening a blacksmith instead of burning him out, delivering the threat personally as the Black Rose. The bounty is gone, but Tradegulf's other shipbuilders still won't deal with him - the Maker's Knot is his only ship source now.
+
 ## Demidius unmasked as the Black Rose; 250,000 gp bounty - 2026-07-31
 
 - Roy revealed Demidius's Court of Roses codename ("the Black Rose") to the authorities after Terra Obscura's closure, tying him to Zujuck's presence at the bar crawl. Demidius was fined 50,000 gp, talked down to 35,000.

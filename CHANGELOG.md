@@ -1,5 +1,14 @@
 ﻿# Change Log
 
+## Siopi's full arc resolved: Dream/Nightmare, the Attack on the Warehouse, her death - 2026-07-31
+
+- Added Dream and Nightmare cosmology (Dream Lords, Nightmare Lords, Vara's mortal-era ward on Nysia). Siopi's ink research accidentally opened a Nightmare gate in the party's warehouse, breaching that ward and fracturing her mind - one personality fell under Hastur's spell, finally explaining that long-standing open question.
+- Corrected a chronology error: Siopi's earlier "betrayal" of Demidius (aging him near death) happened pre-Tradegulf during a separate Seed of the World Tree side quest, not as part of this arc.
+- Terra Obscura's later ~500-dead destruction explained: Siopi's Hastur-personality took a cartographer job there, spread the Yellow Sign, mass-printed a book on Hastur, and likely opened the guild's vaults to get "the key to Tartarus," prompting Hades and Persephone to destroy it.
+- Added The-Attack-on-the-Warehouse.md: Hades, Hermes, and Persephone (led by Leo) struck the party's warehouse; Leo struck Siopi down fleeing, but Maarin and Demidius spent Boons to have the gods cure and spare her, at the cost of her family a second time.
+- Siopi then left the party (funding Kiss from a Rose on her way out); her player rolled Amparo Decoris Ignatius as her replacement. Siopi's true final death is now confirmed: killed off-camera by Tenor, and she cannot be resurrected.
+- Corrected the numbering of Maarin's Dark Prophecy visions (2nd Okeanikos, 3rd Filius, 4th the Necropolis-penance vision that finally explains why the Necropolis Expedition happened).
+
 ## Siopi's betrayal of Demidius - 2026-07-31
 
 - Even after recovering her family, Siopi grew obsessed with Terra Obscura's ink and kept studying it against Demidius's and Maarin's warnings. A breakthrough shattered her psyche and forced a choice of who to age near death; she chose Demidius over a stranger, nearly killing him.

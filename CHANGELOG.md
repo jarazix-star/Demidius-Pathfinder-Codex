@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## The Battle of the Feeding Pits added; Leo's death explained - 2026-07-31
+
+- Added Battle-of-the-Feeding-Pits.md: the Necropolis Expedition's opening engagement. Demidius's livestock-and-bomb tactic (bombs supplied via a raid on the Maker's Knot) killed ~1,000 ghouls outright; Persephone's forces were then overwhelmed and Hermes's forces bogged down.
+- Leo's death finally has a definitive account: killed and devoured by Vorun, the Ravenous King, in their second encounter (the first is unrecorded), since Vorun healed off every bite and was immune to Leo's sneak attacks.
+- Reconciled casualty figures: Persephone's 1,000 reduced to 600 at this battle specifically, consistent with (not contradicting) the previously-recorded final tally of ~400 expedition-wide survivors.
+- Updated Leo, Vorun, Kamryn, Makers-Knot, Necropolis-Expedition, and Demidius Thorne.
+
 ## The Bone Market and the Battle fought there added - 2026-07-31
 
 - Added Bone-Market.md, Lady-Morveth.md, Flesh-Broker.md, and Bone-Warden.md: the Necropolis's undead housing district and its leadership, including an unresolved tension between Lady Morveth's described "Silent Court membership" and the already-established Court/Council distinction.

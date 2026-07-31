@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Tradegulf plan, Notable Figures reorg, Perlot split, Divine Anchoring rewrite - 2026-07-31
+
+- Added Demidius's Plan to Save Tradegulf as a wiki page (sourced from a user-supplied planning document): intelligence-gathering, restoring leadership, a provisional Council of Restoration, the Tradegulf Civic Corps and the Hundred, rebuilding with Aristea's Mythic Fabricate, food/commerce/justice/morale, approaching Aphrodite, and the eventual transfer of power. Flagged rather than resolved: a reference to "my other brother" whose memory was removed, which doesn't cleanly match either previously recorded sibling thread.
+- Reorganized Notable Figures from one flat 30+ entry list into six categories, and split Perlot off into his own page now that he has real substance (Prince Luis's father).
+- Rewrote Divine Anchoring: no longer a settled one-time event — the party's growing power makes them plausible Bloodline Destruction targets, and protective rituals must be actively maintained.
+- Also folded in overnight continuation work from a parallel agent session: the Tradegulf plan page and duplicate-image cleanup were committed, Roy's limericks expanded from five to ten, and a new flavor-lore page (Tales of Fated Divine Lovers) was added with generated art.
+
 ## Drowsy Dread, Praxius, Valax, Prince Luis, Leo, and Roy's limericks - 2026-07-30
 
 - Gap-analysis pass against the Discord campaign-dump extraction found most named content already well covered (Council of Seven, Gorgon Artifact Set, all twenty auction artifacts); added the two real gaps found: Drowsy Dread (a level-30 mortal god of Hypnos/Hecate who planned to sleep a city and gate in an invasion) and Praxius (the Silent Court network's named leader).

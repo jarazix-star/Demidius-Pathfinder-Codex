@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Roy's disappearance resolved; the White Flask; Praxius's Tower explodes - 2026-07-31
+
+- Roy vanished after discovering the Merchant Guild/Terra Obscura/Ivory Ladder/Maker's Knot slaver conspiracy and reporting it directly to the Crown. Demidius reunited with him at Arverdon Palace before Prince Luis Beaumont, the Crown's Chief Investigator; Demidius was released, Roy held longer.
+- Added The-White-Flask.md, an Ivory Ladder tavern haunt with a lead toward Praxius via his uniquely ivory pin.
+- Recorded Maarin's dismissal of the Maker's Knot's fake Hermes claim, the "keep your head down for credit" mechanic, Demidius's attempted Necropolis-as-job argument, and a militia arms contract lost when Praxius's Tower exploded.
+
 ## Demidius joins the Maker's Knot: the fallout - 2026-07-31
 
 - A separate 150,000 gp bounty landed on Roy and all his officers; Roy disappeared for a long while afterward. Maarin's own reveal of Demidius came from a relationship that was at best contentious, including a prior death threat.

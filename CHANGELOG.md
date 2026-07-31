@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## The Bone Market and the Battle fought there added - 2026-07-31
+
+- Added Bone-Market.md, Lady-Morveth.md, Flesh-Broker.md, and Bone-Warden.md: the Necropolis's undead housing district and its leadership, including an unresolved tension between Lady Morveth's described "Silent Court membership" and the already-established Court/Council distinction.
+- Added Battle-for-the-Bone-Market.md: fought after the party defeated the Grave Regent (full story of that defeat still to come). Filius's scrying recorded a vampire-consuming greatsword, looting toward the Underdark, and Vorun's escape through a Necropolis Vault.
+
 ## Praxius's Tower and the Forges added (Discord-sourced, partial record) - 2026-07-31
 
 - Added Praxius-Tower.md: Praxius's own sealed tower, separate from the Silent Court, admitting no one but his experiments and shield guardian (Drider maids, two Chimera guard dogs, and his Bone Golem/Shield Guardian confirmed inside) - explicitly a partial record per a failed information-gathering roll.

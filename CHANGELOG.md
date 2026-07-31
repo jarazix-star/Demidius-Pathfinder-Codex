@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## The Party's Assault on the Necropolis added - 2026-07-31
+
+- Added The-Partys-Assault-on-the-Necropolis.md: the party's own front of the Necropolis Expedition, fought in parallel with the Battle of the Feeding Pits. Maarin blocked the walkways for time; Demidius's Greater Planar Ally brought a planetar to dispel the enemy general's (likely Seraphel's) spells.
+- The party's front went comparably well against the rest of the expedition, but the general escaped and the party's spells were severely depleted.
+- Updated Necropolis-Expedition, Seraphel, Demidius Thorne, and Maarin.
+
 ## Raid on the Maker's Knot added - 2026-07-31
 
 - Added Raid-on-the-Makers-Knot.md: Demidius's pact with an advanced pixie (Tute-Tute) confirmed a secret underwater slave-smuggling compartment aboard the Dawnrunner. Split assault - Maarin/Roy/Amparo via the front, Demidius/Aristea via the basement, where the slaves were found. An enchanter locked the front group; Demidius overcame a basement trap and turned the tide; Leo and an unnamed warrior dwarf struggled against the Knot's three leaders until the rest of the party arrived to win.

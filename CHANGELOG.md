@@ -1,5 +1,40 @@
 ﻿# Change Log
 
+## Wiki Changelog page and Boons artwork - 2026-07-30
+
+- Added a dedicated `Changelog.md` page to the published GitHub Wiki, backfilling a reverse-chronological, date-grouped record of prior wiki commits per `CHANGE_POLICY.md` §16.
+- Gave the Boons reference page its first artwork: an altar bearing rune-carved divine tokens.
+
+## Wiki encoding-artifact fixes - 2026-07-30
+
+- Repaired stray text-encoding artifacts introduced while authoring the Tradegulf Senate address, Mayor of Tradegulf, engagement, and Divine Anchoring pages.
+- Added missing page art flagged by the same pass.
+
+## Tradegulf Senate address, mayorship, and Divine Anchoring - 2026-07-30
+
+- Added `Demidius's Address to the Senate of Tradegulf` and `Demidius, Mayor of Tradegulf`, recording the Senate's appointment of Demidius as Mayor with municipal authority but no tax base or municipal budget to fund reconstruction.
+- Added `Divine Anchoring` and `Maarin's Divine Anchor` as new reference/character pages.
+- Cross-referenced the new pages against roughly twenty existing campaign, character, and artifact pages (Tradegulf, Battle for Tradegulf, Hermes, Persephone, Aristea Enontie, Demidius Thorne, Campaign Rules, and others) and updated the sidebar.
+
+## Demidius and Aristea's engagement - 2026-07-30
+
+- Recorded Demidius's proposal to Aristea beneath the moonlit harbor days after the Battle Beneath the Champions' Garrison, and her acceptance (after a well-earned slap).
+- Added a dedicated `Demidius and Aristea's Engagement` wiki page and linked it from `Demidius Thorne`, `Aristea Enontie`, `Demidius's Romantic History`, `Aristea's Reincarnation`, `Battle Beneath the Champions Garrison`, and `Events and Timeline`.
+- Added four new event images: before the proposal, the proposal, the slap, and the engagement.
+
+## Aristea's Tradegulf rebuilding artwork - 2026-07-29
+
+- Added day and night reference artwork of Aristea leading Tradegulf's rebuilding efforts, later used on the Mayor of Tradegulf page.
+
+## Maarin's magical girl transformation - 2026-07-29
+
+- Added Maarin's newly gained ability to transform using a magical ring and
+  tiara.
+- Added a dedicated wiki page and the user-supplied canonical transformation
+  panel.
+- Recorded the form as current alternate-form canon without inventing
+  unprovided item mechanics.
+
 ## Roy's magical girl transformation - 2026-07-29
 
 - Added Roy's newly gained ability to transform into a magical girl using a magical wand.
@@ -1186,14 +1221,3 @@
 - Corrected the campaign chronology so Odysseus's recovery precedes the
   Stormspire operation and kept this event distinct from the later Misthold
   bloodline tournament.
-
-
-
-## Maarin's magical girl transformation - 2026-07-29
-
-- Added Maarin's newly gained ability to transform using a magical ring and
-  tiara.
-- Added a dedicated wiki page and the user-supplied canonical transformation
-  panel.
-- Recorded the form as current alternate-form canon without inventing
-  unprovided item mechanics.

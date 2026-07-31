@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Praxius's Tower and the Forges added (Discord-sourced, partial record) - 2026-07-31
+
+- Added Praxius-Tower.md: Praxius's own sealed tower, separate from the Silent Court, admitting no one but his experiments and shield guardian (Drider maids, two Chimera guard dogs, and his Bone Golem/Shield Guardian confirmed inside) - explicitly a partial record per a failed information-gathering roll.
+- Added The-Forges.md: the Necropolis's industrial complex, with two castes of slave labor (self-deceived "necromancers" vs. aware slaves) and chimeric creations pressed into mining.
+- Confirmed and noted that this whole Necropolis-leadership thread is sourced directly from the Discord chat logs.
+
 ## The Silent Court added; resolved against the Silent Council - 2026-07-31
 
 - Added Silent-Court.md: a building, not the same thing as the Silent Council - the Grave Regent's residence and the Necropolis's main government building. Records its floor layout (meeting room, offices, and the General's quarters on the main floor; his lab and bodyguard on the 2nd; his residence on the 3rd; servants and controlled undead in the basement).

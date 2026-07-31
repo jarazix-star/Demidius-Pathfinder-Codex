@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Drowsy Dread, Praxius, Valax, Prince Luis, Leo, and Roy's limericks - 2026-07-30
+
+- Gap-analysis pass against the Discord campaign-dump extraction found most named content already well covered (Council of Seven, Gorgon Artifact Set, all twenty auction artifacts); added the two real gaps found: Drowsy Dread (a level-30 mortal god of Hypnos/Hecate who planned to sleep a city and gate in an invasion) and Praxius (the Silent Court network's named leader).
+- Added Roy's Five Favorite Dirty Limericks, original tavern-flavor content linked from his page.
+- Added Valax: a pure mortal male fighter and Matcha Frappuccino officer who holds four of the eight known pieces of the Shield of Ajax, significantly advancing that previously dormant artifact thread.
+- Added Prince Luis (child of Perlot and Queen Lidda Beaumont, died at the Necropolis Expedition, revived through an expensive ritual by Demidius, nicknamed "Luis the Roach") and Leo (the Champion of Hermes before Demidius, whose death with his soul locked away explains why that office was vacant, and who brought Siopi to justice for the gods after Siopi came under Hastur's spell — a precipitating event in Siopi's eventual death). Cross-linked the full causal chain across the Necropolis Expedition, Siopi, Hastur, and Demidius Thorne's pages.
+
 ## Sunken Temple of Sarpedon, Scepter of Keto completion, and continuity pass - 2026-07-30
 
 - Added the Hastur wiki page: the Yellow King, one of the outsider entities who crossed with Fel at the Arrival, with the Yellow Sign symbol and lore drawn from published Pathfinder material.

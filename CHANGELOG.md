@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## The Grave Regent named Aurellion; sibling-parentage reasoning corrected - 2026-07-31
+
+- Named the Grave Regent: Aurellion, a human demigod of Aphrodite. Propagated the name across every page that referenced him.
+- Corrected the working assumption that Philomela Thorne had to be Tulip's and Aurellion's shared mortal mother - the user confirmed she is not. Added a general rule to Gods and Divine Factions: "demigod of a god" is a blood-strength designation, not strict biology, so a demigod's biological parent and their divine "blood parent" need not be the same person. Demidius, Tulip, and Aurellion are established as brothers through their shared divine parent, Aphrodite, rather than a shared mortal one.
+
 ## Autonomous cleanup pass: broken links, Ena, stale Gem values - 2026-07-31
 
 - Corrected a flawed broken-link audit (the first pass had the pipe-link direction backwards) and found two real issues: one broken link, and Ena missing a dedicated page despite real substance scattered across four other pages. Added Ena.md and fixed the link.

@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## Add Demidius & Aristea Financial Ledger - 2026-07-31
+
+- New page tracking their shared 66/33 partnership finances: starting capital, shared income and purchases (including the Obsidian Bracelet's 100,000g acquisition cost, separate from Demidius later gifting it to Hades's church), the outstanding Horn of Resnik debt tracked apart from current holdings, and personal income/expenses reconciling to current gold totals of 309,800g (Demidius) and 300,900g (Aristea).
+- Cross-linked from and to Demidius Thorne, Aristea Enontie, and the sidebar.
+
 ## Resolve Obsidian Crown/Bracelet as separate items - 2026-07-31
 
 - Confirmed by the user: the Obsidian Crown and Obsidian Bracelet are two separate Drow artifacts of Hades, each cursed by another god, with it unknown whether they're part of a matched set.

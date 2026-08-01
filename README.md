@@ -13,6 +13,21 @@ A private, source-backed Pathfinder 1e optimization knowledge base for **The Arr
 - `research/SOURCE_PROCESSING_LOG.md` - evidence and extraction status
 - `CHANGELOG.md` - repository history
 
+## Wiki validation
+
+The published GitHub Wiki is a separate repository at
+`Demidius-Pathfinder-Codex.wiki`. Before committing Wiki changes, run:
+
+```powershell
+.\scripts\test_audit_wiki_links.ps1
+.\scripts\audit_wiki_links.ps1 -WikiRoot .\Demidius-Pathfinder-Codex.wiki -FailOnIssues
+```
+
+The audit validates Markdown and legacy Wiki links, local images and files,
+required artwork, and inbound navigation. Fenced and inline code examples are
+ignored. See the Project directory's `WIKI_AUDIT_WORKFLOW.md` for the complete
+maintenance procedure.
+
 ## Current character guides
 
 - [Demidius level 17-35 class advancement](guides/DEMIDIUS_LEVEL_17_35_CLASS_ADVANCEMENT_GUIDE.md)

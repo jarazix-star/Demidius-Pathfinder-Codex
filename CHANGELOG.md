@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Strengthen Wiki validation and maintenance workflow - 2026-08-01
+
+- Replaced the legacy-only Wiki link check with a Markdown-aware audit covering page links, local files, images, artwork requirements, and orphan pages.
+- Added code-block filtering, an explicit metadata-page art exemption, machine-readable counts, failure mode for validation runs, and a regression test fixture.
+- Updated the Project status collector to consume the authoritative audit instead of maintaining a divergent parser.
+- Documented the Wiki validation commands and governing workflow.
+
 ## Add Cleomenes, Aetherion, and Harmonia god pages - 2026-08-01
 
 - User supplied the full divine roster spreadsheet (~75 gods across New Gods, Lords of Order, Neutral Immortal Alliance, Titans, Dogs of War, and Primordials/Undecided) and asked for a page per god missing one.

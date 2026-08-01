@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Valax corrected to hobgoblin pit-fighter; Razin added - 2026-07-31
+
+- Valax is a pure mortal female hobgoblin fighter (previously recorded as male), a former slave pit fighter forced to fight for hobgoblins. Now holds five of the eight Shield of Ajax pieces (was four). Fights with her artifact bow at sea and a falcata and shield on land.
+- Added Razin.md: an ifrit caster and Matcha Frappuccino officer, previously named only in crew lists, confirmed so gorgeous he lives in a bubble.
+- Updated Valax, Shard-of-the-Shield-of-Ajax, Matcha-Frappuccino, Recovered-Artifacts-and-Magic-Items, Maarin, People-and-Places, and Strategic-Assets.
+
 ## Clarify Obsidian Bracelet gift timing - 2026-07-31
 
 - Confirmed by the user: the Bracelet's gift to Hades's church happened well before the events tracked on the Financial Ledger, resolving why that ledger's Obsidian Bracelet line (its 100,000g acquisition cost) doesn't mention the later church gift. No contradiction - the two records cover different points in time.

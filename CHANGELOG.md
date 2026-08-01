@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Resolve Obsidian Crown/Bracelet as separate items - 2026-07-31
+
+- Confirmed by the user: the Obsidian Crown and Obsidian Bracelet are two separate Drow artifacts of Hades, each cursed by another god, with it unknown whether they're part of a matched set.
+- Confirmed the actual transactions: Hades's church bought the Crown from Demidius (a sale); Demidius gave them the Bracelet outright (a gift). It was the gift that eased the church's earlier contempt over the Aurellion affair, not the Crown sale.
+- Rewrote Obsidian-Bracelet.md from a thin auction stub into a real page. Updated Obsidian-Crown.md, Hades.md, Demidius Thorne.md, and Aurellions-Resurrection.md to distinguish the sale from the gift and drop the now-resolved naming-ambiguity language.
+
 ## Format audit and cleanup - 2026-07-31
 
 - Scanned every page for structural inconsistencies. Standardized 5 artifact pages that used an inline "See also [...]" sentence instead of the standard Related pages heading and bullet list used by ~290 other pages.

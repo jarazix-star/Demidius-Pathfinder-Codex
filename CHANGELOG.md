@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Wiki-wide staleness pass - 2026-07-31
+
+- Audited the whole wiki (not just Necropolis pages) for stale information or spots where this session's knowledge should be added, per the user's request.
+- Fixed Demidius-Plan-to-Save-Tradegulf.md's Step 10: the planned Aphrodite conversation about "his other brother" and hidden resources was written when both were hypothetical - Demidius has since met Aurellion in person, confirmed alive, and received his vault secret. Added an update note rather than rewriting the historical plan.
+- Refreshed Notable-Figures.md's Aurellion entry, which still described only his Lich-era defeat with no mention of the resurrection or secret-patriot reveal.
+- Most of a broad grep for staleness phrases across all 327 wiki pages came back as false positives (genuinely open questions unrelated to this session); this was a targeted pass on pages plausibly touched by recent reveals, not an exhaustive line-by-line read.
+
 ## Necropolis consistency audit - 2026-07-31
 
 - Checked the whole Necropolis arc for holes and new-page candidates at the user's request. Found and fixed several pages that still described Aurellion's survival as unresolved/forthcoming even though it had already been answered - no new facts, just alignment with the existing resolution.

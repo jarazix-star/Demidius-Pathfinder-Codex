@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## Replace Maarin's Third Dark Prophecy artwork - 2026-08-01
+
+- Added the canonical third-prophecy asset mirror at `docs/assets/events/maarins-third-dark-prophecy.png`.
+- The new composition matches the second and fourth prophecies by showing Maarin kneeling before the vision rather than discussing it afterward aboard ship.
+
 ## Strengthen Wiki validation and maintenance workflow - 2026-08-01
 
 - Replaced the legacy-only Wiki link check with a Markdown-aware audit covering page links, local files, images, artwork requirements, and orphan pages.

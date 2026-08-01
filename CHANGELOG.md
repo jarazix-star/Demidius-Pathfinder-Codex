@@ -1,5 +1,13 @@
 ﻿# Change Log
 
+## Aurellion's dying warning and a Haunt - 2026-07-31
+
+- As Aurellion died, he said it was too bad he would not be there to save the queen - deeply worrying Demidius. Which queen he meant is unconfirmed; treated as a likely, unconfirmed reference to Queen Lidda Beaumont and tracked as an open threat.
+- Speak with Dead, cast to press him further, was empowered by something about the Necropolis itself: instead of a brief exchange, Aurellion became a Haunt, speaking with Demidius directly and growing angry (moving small objects) when ignored.
+- How a Haunt at his death site squares with his separately established survival under Aphrodite's protection is flagged as an open, unresolved question rather than answered.
+- Updated The-Assault-on-the-Silent-Court, Grave-Regent, Silent-Court, Queen-Lidda-Beaumont, and Strategic-Assets.
+- Also folds in ChatGPT-generated Lady Morveth canonical art.
+
 ## Aurellion's defeat resolved: family, a soul-tome, and Aphrodite's quest - 2026-07-31
 
 - Resolved the confrontation closing The Assault on the Silent Court. Moving inside the keep, the party was trapped between the general (likely Seraphel) and Aurellion at once, defeated the general, then pressed on toward Aurellion himself.

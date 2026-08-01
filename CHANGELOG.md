@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Sidebar cleanup - 2026-07-31
+
+- Audited _Sidebar.md against the actual 327-page wiki: the existing 200 entries had zero broken links and zero duplicates, but 125 real pages had no navigation entry at all - most notably almost every individual god page, Necropolis-Expedition.md (this session's arc hub), Prince-Luis.md, six Dawnrunner sub-pages, and about 28 artifact pages.
+- Flagged to the user, not silently resolved: one of the missing artifacts is Obsidian-Bracelet.md, a distinct pre-existing page separate from Obsidian-Crown.md. Recent Aurellion/Hades-church content currently assumes they're the same item - that may need correcting depending on the user's answer.
+- Added a new "Gods and Pantheon" section and folded the rest into existing sections. Left out 5 pages not meant for player-facing navigation (3 internal docs, 2 name-compatibility redirect stubs). Verified afterward: 320 links, zero broken, zero duplicates, zero orphans outside the intentional exclusions.
+
 ## Aurellion confirmed as demiplane's owner; Maarin's second hunt - 2026-07-31
 
 - Corrected the prior "overtaken by events" framing: Demidius's plan to ask Aphrodite for help is current, not superseded - Tradegulf's government is broke and the city remains ruined, so the underlying need is as urgent as ever.

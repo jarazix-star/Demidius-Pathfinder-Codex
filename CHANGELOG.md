@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Broken-link audit - 2026-07-31
+
+- Scanned every page (not just the sidebar) for broken internal links and image references. Found 15 real broken links across 12 files, almost all caused by the earlier link-markup repair stripping apostrophes from slugs: Crafters-Bow should have been Crafter's-Bow, Qarvel-Drahkar should have been Qarvel-Drah'kar, Hermess-Boots-of-Speed should have been Hermes's-Boots-of-Speed. Also fixed one unrelated broken link on Maarin.md pointing at a nonexistent page, retargeted to Court-of-Roses.
+- Fixed Artifacts, Dawnrunner, Demidius-Magic-Items, Demidius-Mayor-of-Tradegulf, Maarin, Makers-Knot, Notable-Figures, Party-Roster, People-and-Places, Praxius, Strategic-Assets, Tradegulf, and the sidebar.
+- Verified afterward: zero broken internal links, zero broken images, zero leftover old-style wiki-link syntax anywhere in the wiki.
+
 ## Rebuilding Tradegulf added - 2026-07-31
 
 - New synthesis page pulling together the scattered pieces of the city's ongoing restoration: why it's needed, the appeal and mayoral appointment, the still-unresolved funding problem (both the Aphrodite conversation and Aurellion's vault secret untapped), and who's actually doing the work.

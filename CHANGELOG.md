@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## Format audit and cleanup - 2026-07-31
+
+- Scanned every page for structural inconsistencies. Standardized 5 artifact pages that used an inline "See also [...]" sentence instead of the standard Related pages heading and bullet list used by ~290 other pages.
+- Fixed two Related Pages (capital P) headings to match the dominant casing, and added a missing Related pages section to Campaign-Timeline.md.
+- Identified 18 auto-generated engine/rules pages seeded from an external canonical source, marked not for direct editing - their terser format is by design, not a defect, though a few were hand-edited earlier this session to fix outdated facts.
+- Found a harmless content duplicate between Divine-Abilities.md and Seven-Pipped-Gem.md (same mechanic, different titles) - left alone since one side is generated.
+
 ## Broken-link audit - 2026-07-31
 
 - Scanned every page (not just the sidebar) for broken internal links and image references. Found 15 real broken links across 12 files, almost all caused by the earlier link-markup repair stripping apostrophes from slugs: Crafters-Bow should have been Crafter's-Bow, Qarvel-Drahkar should have been Qarvel-Drah'kar, Hermess-Boots-of-Speed should have been Hermes's-Boots-of-Speed. Also fixed one unrelated broken link on Maarin.md pointing at a nonexistent page, retargeted to Court-of-Roses.

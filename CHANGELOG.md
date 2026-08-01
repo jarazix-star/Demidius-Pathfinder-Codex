@@ -1,5 +1,14 @@
 ﻿# Change Log
 
+## Aurellion's Resurrection: a patriot, a botched ritual, and a confirmed queen - 2026-07-31
+
+- Maarin, paranoid about the Haunt, forced two failed destruction rituals through Okeanikos, who Aurellion disrupted himself the first time. On a third attempt, with Demidius distracting Aurellion over a game of chess, the ritual completed but accidentally resurrected Aurellion to life instead of destroying him.
+- Demidius let his brother leave with a few items, torn spellbook pages, and the secret to his own vault, rather than kill him or hand him over. Maarin took this as a betrayal.
+- Confirmed: Aurellion had repeatedly saved Queen Lidda Beaumont and defeated her enemies throughout the Culling, and may have funded the Nysian government outright - a secret patriot despite ruling the Necropolis as a Lich. Confirmed: Beaumont is who Aurellion meant in his dying warning.
+- Aphrodite was satisfied by the outcome and Demidius's quest is now effectively confirmed to have been about Aurellion. Persephone's and Hades's churches now hold Demidius in contempt for letting Aurellion go, though not Maarin or Okeanikos.
+- Also records a divine code - hospitality, and never killing kin - with the user's own caveat that Demidius's vastly weaker position may have been the deciding factor regardless of principle.
+- Added Aurellions-Resurrection.md. Updated Grave-Regent, The-Assault-on-the-Silent-Court, Queen-Lidda-Beaumont, Strategic-Assets, Necropolis-Expedition, Demidius Thorne, Aphrodite, Maarin, Okeanikos, Persephone, Hades, and Gods-and-Divine-Factions.
+
 ## Aurellion's dying warning and a Haunt - 2026-07-31
 
 - As Aurellion died, he said it was too bad he would not be there to save the queen - deeply worrying Demidius. Which queen he meant is unconfirmed; treated as a likely, unconfirmed reference to Queen Lidda Beaumont and tracked as an open threat.

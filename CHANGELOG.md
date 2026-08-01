@@ -1,5 +1,13 @@
 ﻿# Change Log
 
+## Aurellion confirmed as demiplane's owner; Maarin's second hunt - 2026-07-31
+
+- Corrected the prior "overtaken by events" framing: Demidius's plan to ask Aphrodite for help is current, not superseded - Tradegulf's government is broke and the city remains ruined, so the underlying need is as urgent as ever.
+- Confirmed directly by the user: Aurellion is both the Inherited Demiplane's former owner and the unnamed "other brother" from that plan - always the same person.
+- New event, confirmed to have happened after the Necropolis Expedition concluded (not before it, and not the origin of his original "presumed dead" status, which remains separate and unrecorded): Maarin hunted Aurellion down a second time and believes she killed him. She's wrong - Aphrodite showed Demidius the truth again, and Demidius deliberately erased that specific memory into gems, necessary because Maarin's Sense Motive operates at preternatural levels. Maarin still doesn't know.
+- Explains the plan's careful "my other brother" phrasing and the masquerade mask's real purpose (Aurellion attending the wedding in disguise).
+- Updated Demidius-Plan-to-Save-Tradegulf, Grave-Regent, Maarin, Aphrodite, Demidius Thorne, Notable-Figures, Inherited-Demiplane, Campaign-Guide, Campaign-Rules, Infrastructure-Engine, and People-and-Places.
+
 ## Wiki-wide staleness pass - 2026-07-31
 
 - Audited the whole wiki (not just Necropolis pages) for stale information or spots where this session's knowledge should be added, per the user's request.

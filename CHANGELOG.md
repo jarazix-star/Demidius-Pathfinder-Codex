@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## Clarify Obsidian Bracelet gift timing - 2026-07-31
+
+- Confirmed by the user: the Bracelet's gift to Hades's church happened well before the events tracked on the Financial Ledger, resolving why that ledger's Obsidian Bracelet line (its 100,000g acquisition cost) doesn't mention the later church gift. No contradiction - the two records cover different points in time.
+- Updated Obsidian-Bracelet.md and Demidius-Aristea-Financial-Ledger.md.
+
 ## Add Demidius & Aristea Financial Ledger - 2026-07-31
 
 - New page tracking their shared 66/33 partnership finances: starting capital, shared income and purchases (including the Obsidian Bracelet's 100,000g acquisition cost, separate from Demidius later gifting it to Hades's church), the outstanding Horn of Resnik debt tracked apart from current holdings, and personal income/expenses reconciling to current gold totals of 309,800g (Demidius) and 300,900g (Aristea).

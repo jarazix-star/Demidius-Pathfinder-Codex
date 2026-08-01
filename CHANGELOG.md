@@ -1,5 +1,16 @@
 ﻿# Change Log
 
+## Church grudges over Aurellion eased - 2026-07-31
+
+- Persephone's church's contempt over Demidius letting Aurellion go has softened, in light of his earlier sacrifice of the Key of Daedalus to her.
+- Hades's church has fully forgiven him after he donated the Obsidian Crown to their church. The user referred to it as "the obsidian bracelet" - treated as very likely the same recorded item, flagged as a naming discrepancy rather than silently resolved.
+- Updated Persephone, Hades, Obsidian-Crown, Aurellions-Resurrection, and Demidius Thorne.
+
+## Correction: the third ritual attempt wasn't a distraction - 2026-07-31
+
+- The prior entry below describes Demidius "distracting" Aurellion with chess during the third ritual attempt. Corrected: Demidius was simply away playing chess with his brother - not a deliberate tactic - and this happened to be the only one of the three attempts Aurellion didn't personally disrupt. The ritual itself then botched supremely on its own, resurrecting rather than destroying him.
+- Fixed Aurellions-Resurrection, Maarin, and Okeanikos.
+
 ## Aurellion's Resurrection: a patriot, a botched ritual, and a confirmed queen - 2026-07-31
 
 - Maarin, paranoid about the Haunt, forced two failed destruction rituals through Okeanikos, who Aurellion disrupted himself the first time. On a third attempt, with Demidius distracting Aurellion over a game of chess, the ritual completed but accidentally resurrected Aurellion to life instead of destroying him.

@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Rebuilding Tradegulf added - 2026-07-31
+
+- New synthesis page pulling together the scattered pieces of the city's ongoing restoration: why it's needed, the appeal and mayoral appointment, the still-unresolved funding problem (both the Aphrodite conversation and Aurellion's vault secret untapped), and who's actually doing the work.
+- Added the requested aristea-tradegulf-rebuilding-night.png art.
+- Cross-linked from and to Demidius-Mayor-of-Tradegulf, Demidius-Plan-to-Save-Tradegulf, Address-to-the-Senate-of-Tradegulf, and the sidebar.
+
 ## Sidebar cleanup - 2026-07-31
 
 - Audited _Sidebar.md against the actual 327-page wiki: the existing 200 entries had zero broken links and zero duplicates, but 125 real pages had no navigation entry at all - most notably almost every individual god page, Necropolis-Expedition.md (this session's arc hub), Prince-Luis.md, six Dawnrunner sub-pages, and about 28 artifact pages.

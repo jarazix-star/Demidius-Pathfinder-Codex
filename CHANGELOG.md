@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Necropolis consistency audit - 2026-07-31
+
+- Checked the whole Necropolis arc for holes and new-page candidates at the user's request. Found and fixed several pages that still described Aurellion's survival as unresolved/forthcoming even though it had already been answered - no new facts, just alignment with the existing resolution.
+- Updated Grave-Regent, Battle-for-the-Bone-Market, Necropolis-Expedition, The-Culling, and Silent-Council.
+- Considered but held off on new pages for Prince Luis's resurrection ritual and the Silent Court ledgers scandal - both already have real coverage and too little additional detail yet to justify splitting out.
+
 ## Church grudges over Aurellion eased - 2026-07-31
 
 - Persephone's church's contempt over Demidius letting Aurellion go has softened, in light of his earlier sacrifice of the Key of Daedalus to her.

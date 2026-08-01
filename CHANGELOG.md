@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## Add Cleomenes, Aetherion, and Harmonia god pages - 2026-08-01
+
+- User supplied the full divine roster spreadsheet (~75 gods across New Gods, Lords of Order, Neutral Immortal Alliance, Titans, Dogs of War, and Primordials/Undecided) and asked for a page per god missing one.
+- Checked all names against the existing file list - only three were missing: Cleomenes (chaotic good New God), Aetherion (New God, minimal recorded data), and Harmonia (lawful neutral Neutral Immortal Alliance minor goddess).
+- Added Cleomenes, Aetherion, and Harmonia pages. Linked from Gods-and-Divine-Factions and the sidebar.
+
 ## Valax corrected to hobgoblin pit-fighter; Razin added - 2026-07-31
 
 - Valax is a pure mortal female hobgoblin fighter (previously recorded as male), a former slave pit fighter forced to fight for hobgoblins. Now holds five of the eight Shield of Ajax pieces (was four). Fights with her artifact bow at sea and a falcata and shield on land.

@@ -1,5 +1,16 @@
 ﻿# Change Log
 
+## Add AncientOne Codex Hero Lab sheet v4.15 - 2026-08-02
+
+- Added the intended AncientOne v4.15 custom-output derivative alongside the
+  earlier Armidale experiment and updated the recovery manifest to 40 runtime
+  files.
+- Preserved AncientOne's dense layout and native field colors while adding the
+  lower 30% portrait watermark, fixed Race display, omitted product logos, and
+  complete Godling/Mythic output.
+- Documented the source sheet's modification permission and retained only the
+  project-specific derivative, not a separate untouched v4.14 copy.
+
 ## Back up project-authored Hero Lab Classic files - 2026-08-02
 
 - Added a recoverable `systems/herolab` mirror of all 36 active project-authored

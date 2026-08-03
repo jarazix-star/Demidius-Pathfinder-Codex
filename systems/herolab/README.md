@@ -10,7 +10,11 @@ project-authored Hero Lab Classic Pathfinder extensions.
 - `customoutput/pathfinder/ArmidaleCodex/`: the side-by-side Armidale Codex
   v3.18 custom output, including the Godling/Mythic page and page-one portrait
   watermark.
-- `MANIFEST.sha256`: hashes for all 38 backed-up runtime files.
+- `customoutput/pathfinder/AncientOneCodex/`: the intended side-by-side
+  AncientOne Codex v4.15 output, preserving AncientOne's dense layout while
+  adding the Godling/Mythic page, lower portrait watermark, Race truncation,
+  and product-logo removal.
+- `MANIFEST.sha256`: hashes for all 40 backed-up runtime files.
 
 The snapshot intentionally excludes portfolios (`.por`), extracted character
 data, portraits, temporary renders, stock Hero Lab files, community packs,
@@ -21,7 +25,7 @@ ShadowChemosh imports, failed experiments, and retired/duplicate files.
 1. Install Hero Lab Classic and its licensed Pathfinder game system.
 2. Copy the contents of `data/pathfinder/` into
    `C:\ProgramData\Hero Lab\data\pathfinder\`.
-3. Copy the `ArmidaleCodex` directory into
+3. Copy the `ArmidaleCodex` and/or `AncientOneCodex` directories into
    `C:\ProgramData\Hero Lab\customoutput\pathfinder\`.
 4. Start Hero Lab and use **Develop -> Quick Reload Data Files**.
 5. Test with a disposable portfolio before opening or saving a live campaign
@@ -40,3 +44,7 @@ confirmed byte-identical to the active installed `Codex_*` files.
 Hero Lab and Pathfinder are trademarks of their respective owners. This mirror
 contains project-authored extensions and does not include the underlying game
 system, community data packs, sourcebooks, or a Hero Lab license.
+
+AncientOne's v4.14 sheet explicitly permits modification and reuse in its
+stylesheet header. The repository stores the project-specific v4.15 derivative,
+not a separate untouched copy of the third-party v4.14 package.

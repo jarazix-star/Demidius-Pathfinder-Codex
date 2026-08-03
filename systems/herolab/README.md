@@ -12,8 +12,8 @@ project-authored Hero Lab Classic Pathfinder extensions.
   watermark.
 - `customoutput/pathfinder/AncientOneCodex/`: the intended side-by-side
   AncientOne Codex v4.15 output, preserving AncientOne's dense layout while
-  adding the Godling/Mythic page, lower portrait watermark, Race truncation,
-  and product-logo removal.
+  adding the Godling/Mythic page, lower full-color portrait watermark, Race
+  truncation, and product-logo removal.
 - `MANIFEST.sha256`: hashes for all 40 backed-up runtime files.
 
 The snapshot intentionally excludes portfolios (`.por`), extracted character

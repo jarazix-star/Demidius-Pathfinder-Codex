@@ -2,6 +2,8 @@
 
 ## Add AncientOne Codex Hero Lab sheet v4.15 - 2026-08-02
 
+- Changed the portrait watermark from grayscale to full color while retaining
+  its 30% opacity and approved lower-page placement.
 - Added the intended AncientOne v4.15 custom-output derivative alongside the
   earlier Armidale experiment and updated the recovery manifest to 40 runtime
   files.

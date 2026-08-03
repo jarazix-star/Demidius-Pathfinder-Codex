@@ -47,7 +47,7 @@
                       z-index: 0; text-align: center; overflow: hidden; pointer-events: none;
                    }
                    .codex-watermark img {
-                      max-width: 100%; max-height: 100%; opacity: 0.30; filter: grayscale(100%);
+                      max-width: 100%; max-height: 100%; opacity: 0.30;
                       -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
                    }
                    .codex-race-value { white-space: nowrap; overflow: hidden; text-overflow: clip; }

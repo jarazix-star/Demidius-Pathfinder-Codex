@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <portal id="gpPowers" style="Table">
+    <table_dynamic component="Ability" showtemplate="cdxGodPick" choosetemplate="cdxGodThing" addpick="resCdxGod" ismultiadd="no" descwidth="425">
+      <list>Custom.CdxGodPow</list>
+      <candidate inheritlist="yes"/>
+      <titlebar><![CDATA[
+        @text = "Add a Godly Power"
+      ]]></titlebar>
+      <description/>
+      <headertitle><![CDATA[
+        @text = "Godly Powers - " & hero.child[resCdxGod].field[resSpent].value & " of " & hero.child[resCdxGod].field[resMax].value
+      ]]></headertitle>
+      <additem><![CDATA[
+        if (hero.child[resCdxGod].field[resLeft].value = 0) then
+          @text = "{text clrgrey}"
+        elseif (hero.child[resCdxGod].field[resLeft].value < 0) then
+          @text = "{text clrwarning}"
+          endif
+        @text &= "Add New Godly Power"
+      ]]></additem>
+    </table_dynamic>
+  </portal>
+
+  <template id="cdxGodMain" name="Godly Powers Configuration" compset="Ability" marginhorz="5" marginvert="5">
+    <portal id="gpTitle" style="lblTitle"><label istitle="yes" text="Godly Powers"/></portal>
+    <portal id="gpStrLbl" style="lblNormal"><label text="Bloodline Strength:"/></portal>
+    <portal id="gpStrVal" style="lblLeft"><label><labeltext><![CDATA[@text = tagnames[CdxGodStr.?, ""]]]></labeltext></label></portal>
+    <portal id="gpTierLb" style="lblNormal"><label text="Mythic Tier (1-10):"/></portal>
+    <portal id="gpTier" style="menuNormal">
+      <menu_literal field="actUser">
+        <choice value="1" display="1"/>
+        <choice value="2" display="2"/>
+        <choice value="3" display="3"/>
+        <choice value="4" display="4"/>
+        <choice value="5" display="5"/>
+        <choice value="6" display="6"/>
+        <choice value="7" display="7"/>
+        <choice value="8" display="8"/>
+        <choice value="9" display="9"/>
+        <choice value="10" display="10"/>
+      </menu_literal>
+    </portal>
+    <portal id="gpAncLbl" style="lblNormal"><label text="Ancestor Type:"/></portal>
+    <portal id="gpAnc" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="12"/></portal>
+    <portal id="gpModLbl" style="lblNormal"><label text="Bloodline DC Modifier:"/></portal>
+    <portal id="gpModVal" style="lblLeft"><label><labeltext><![CDATA[
+      if (tagis[CdxGodStr.Pure] <> 0) then
+        @text = "+0 (Pure Mortal)"
+      else
+        @text = "+" & field[abValue2].value
+        endif
+    ]]></labeltext></label></portal>
+    <portal id="gpFlawLbl" style="lblNormal"><label text="Fatal Flaws Earned:"/></portal>
+    <portal id="gpFlawVal" style="lblLeft"><label><labeltext><![CDATA[@text = field[abValue3].value]]></labeltext></label></portal>
+    <portal id="gpDcLbl" style="lblNormal"><label text="Fatal Flaw Save DC:"/></portal>
+    <portal id="gpDcVal" style="lblLeft"><label><labeltext><![CDATA[@text = field[abValue].value]]></labeltext></label></portal>
+    <portal id="gpMPLbl" style="lblNormal"><label text="Mythic Power Points:"/></portal>
+    <portal id="gpMPVal" style="lblLeft"><label><labeltext><![CDATA[
+      @text = hero.child[trkMythic].field[trkLeft].value & " / " & hero.child[trkMythic].field[trkMax].value
+    ]]></labeltext></label></portal>
+    <position><![CDATA[
+      portal[gpTitle].width = width
+
+      perform portal[gpStrLbl].alignrel[ttob,gpTitle,15]
+      portal[gpStrLbl].left = 10
+      portal[gpStrLbl].width = 150
+      perform portal[gpStrVal].centeron[vert,gpStrLbl]
+      perform portal[gpStrVal].alignrel[ltor,gpStrLbl,10]
+      portal[gpStrVal].width = width - portal[gpStrVal].left - 10
+
+      perform portal[gpTierLb].alignrel[ttob,gpStrLbl,12]
+      portal[gpTierLb].left = 10
+      portal[gpTierLb].width = 150
+      perform portal[gpTier].centeron[vert,gpTierLb]
+      perform portal[gpTier].alignrel[ltor,gpTierLb,10]
+      portal[gpTier].width = 80
+
+      perform portal[gpAncLbl].alignrel[ttob,gpTierLb,12]
+      portal[gpAncLbl].left = 10
+      portal[gpAncLbl].width = 150
+      perform portal[gpAnc].centeron[vert,gpAncLbl]
+      perform portal[gpAnc].alignrel[ltor,gpAncLbl,10]
+      portal[gpAnc].width = 230
+
+      perform portal[gpModLbl].alignrel[ttob,gpAncLbl,12]
+      portal[gpModLbl].left = 10
+      portal[gpModLbl].width = 150
+      perform portal[gpModVal].centeron[vert,gpModLbl]
+      perform portal[gpModVal].alignrel[ltor,gpModLbl,10]
+      portal[gpModVal].width = 180
+
+      perform portal[gpFlawLbl].alignrel[ttob,gpModLbl,12]
+      portal[gpFlawLbl].left = 10
+      portal[gpFlawLbl].width = 150
+      perform portal[gpFlawVal].centeron[vert,gpFlawLbl]
+      perform portal[gpFlawVal].alignrel[ltor,gpFlawLbl,10]
+      portal[gpFlawVal].width = 180
+
+      perform portal[gpDcLbl].alignrel[ttob,gpFlawLbl,12]
+      portal[gpDcLbl].left = 10
+      portal[gpDcLbl].width = 150
+      perform portal[gpDcVal].centeron[vert,gpDcLbl]
+      perform portal[gpDcVal].alignrel[ltor,gpDcLbl,10]
+      portal[gpDcVal].width = 180
+
+      perform portal[gpMPLbl].alignrel[ttob,gpDcLbl,12]
+      portal[gpMPLbl].left = 10
+      portal[gpMPLbl].width = 150
+      perform portal[gpMPVal].centeron[vert,gpMPLbl]
+      perform portal[gpMPVal].alignrel[ltor,gpMPLbl,10]
+      portal[gpMPVal].width = 180
+
+      if (tagis[CdxGodStr.Pure] <> 0) then
+        portal[gpAncLbl].visible = 0
+        portal[gpAnc].visible = 0
+        endif
+
+      height = portal[gpMPLbl].bottom + 5
+    ]]></position>
+  </template>
+
+  <template id="cdxGodThing" name="Godly Power Choice" compset="CdxGodPwr" marginhorz="3" marginvert="3">
+    <portal id="name" style="lblNormal" showinvalid="yes"><label field="name"/></portal>
+    <portal id="info" style="actInfo"><action action="info"/><mouseinfo/></portal>
+    <position><![CDATA[
+      height = portal[info].height
+      doneif (issizing <> 0)
+      perform portal[info].alignedge[right,0]
+      portal[name].left = 0
+      portal[name].width = portal[info].left - 5
+      perform portal[name].centeron[vert,info]
+    ]]></position>
+  </template>
+
+  <template id="cdxGodPick" name="Godly Power Pick" compset="CdxGodPwr" marginhorz="3" marginvert="2">
+    <portal id="name" style="lblNormal" showinvalid="yes"><label field="name"/></portal>
+    <portal id="custom" style="cdxEdit"><edit field="cdxGPName"/></portal>
+    <portal id="info" style="actInfo"><action action="info"/><mouseinfo/></portal>
+    <portal id="delete" style="actDelete" tiptext="Click to delete this Godly Power"><action action="delete"/></portal>
+    <position><![CDATA[
+      height = portal[info].height
+      doneif (issizing <> 0)
+      perform portal[delete].alignedge[right,0]
+      perform portal[info].alignrel[rtol,delete,5]
+      portal[name].left = 5
+      portal[name].width = portal[info].left - portal[name].left - 5
+      perform portal[name].centeron[vert,info]
+      portal[custom].left = portal[name].left
+      portal[custom].width = portal[name].width
+      perform portal[custom].centeron[vert,info]
+      if (tagis[Custom.CdxGodName] <> 0) then
+        portal[name].visible = 0
+      else
+        portal[custom].visible = 0
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxGodAdj" name="Fatal Flaw DC Adjustment" compset="Ability" marginhorz="5" marginvert="5">
+    <portal id="gpAdjLbl" style="lblNormal"><label text="Fatal Flaw DC Adjustment:"/></portal>
+    <portal id="gpAdj" style="incrSimple"><incrementer field="actUser"/></portal>
+    <portal id="gpAdjTip" style="lblSecond"><label text="Leave at 0 for the standard formula; use only for campaign-specific exceptions."/></portal>
+    <position><![CDATA[
+      portal[gpAdjLbl].left = 10
+      portal[gpAdjLbl].width = 150
+      perform portal[gpAdj].centeron[vert,gpAdjLbl]
+      perform portal[gpAdj].alignrel[ltor,gpAdjLbl,10]
+      perform portal[gpAdjTip].alignrel[ttob,gpAdjLbl,8]
+      portal[gpAdjTip].left = 10
+      portal[gpAdjTip].width = width - 20
+      if (hero.child[xCdxGodCfg].tagis[CdxGodStr.Pure] <> 0) then
+        portal[gpAdjLbl].visible = 0
+        portal[gpAdj].visible = 0
+        portal[gpAdjTip].visible = 0
+        height = 0
+      else
+        height = portal[gpAdjTip].bottom + 5
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxFlw01" name="Fatal Flaw Selection 1" compset="Ability" marginhorz="5" marginvert="2">
+    <portal id="gfSlotLb" style="lblNormal"><label text="Fatal Flaw 1:"/></portal>
+    <portal id="gfSlot" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="20"/></portal>
+    <position><![CDATA[
+      if (hero.child[xCdxGodCfg].field[abValue3].value < 1) then
+        portal[gfSlotLb].visible = 0
+        portal[gfSlot].visible = 0
+        height = 0
+      else
+        portal[gfSlotLb].left = 10
+        portal[gfSlotLb].width = 150
+        perform portal[gfSlot].centeron[vert,gfSlotLb]
+        perform portal[gfSlot].alignrel[ltor,gfSlotLb,10]
+        portal[gfSlot].width = 300
+        height = portal[gfSlotLb].bottom + 3
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxFlw02" name="Fatal Flaw Selection 2" compset="Ability" marginhorz="5" marginvert="2">
+    <portal id="gfSlotLb" style="lblNormal"><label text="Fatal Flaw 2:"/></portal>
+    <portal id="gfSlot" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="20"/></portal>
+    <position><![CDATA[
+      if (hero.child[xCdxGodCfg].field[abValue3].value < 2) then
+        portal[gfSlotLb].visible = 0
+        portal[gfSlot].visible = 0
+        height = 0
+      else
+        portal[gfSlotLb].left = 10
+        portal[gfSlotLb].width = 150
+        perform portal[gfSlot].centeron[vert,gfSlotLb]
+        perform portal[gfSlot].alignrel[ltor,gfSlotLb,10]
+        portal[gfSlot].width = 300
+        height = portal[gfSlotLb].bottom + 3
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxFlw03" name="Fatal Flaw Selection 3" compset="Ability" marginhorz="5" marginvert="2">
+    <portal id="gfSlotLb" style="lblNormal"><label text="Fatal Flaw 3:"/></portal>
+    <portal id="gfSlot" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="20"/></portal>
+    <position><![CDATA[
+      if (hero.child[xCdxGodCfg].field[abValue3].value < 3) then
+        portal[gfSlotLb].visible = 0
+        portal[gfSlot].visible = 0
+        height = 0
+      else
+        portal[gfSlotLb].left = 10
+        portal[gfSlotLb].width = 150
+        perform portal[gfSlot].centeron[vert,gfSlotLb]
+        perform portal[gfSlot].alignrel[ltor,gfSlotLb,10]
+        portal[gfSlot].width = 300
+        height = portal[gfSlotLb].bottom + 3
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxFlw04" name="Fatal Flaw Selection 4" compset="Ability" marginhorz="5" marginvert="2">
+    <portal id="gfSlotLb" style="lblNormal"><label text="Fatal Flaw 4:"/></portal>
+    <portal id="gfSlot" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="20"/></portal>
+    <position><![CDATA[
+      if (hero.child[xCdxGodCfg].field[abValue3].value < 4) then
+        portal[gfSlotLb].visible = 0
+        portal[gfSlot].visible = 0
+        height = 0
+      else
+        portal[gfSlotLb].left = 10
+        portal[gfSlotLb].width = 150
+        perform portal[gfSlot].centeron[vert,gfSlotLb]
+        perform portal[gfSlot].alignrel[ltor,gfSlotLb,10]
+        portal[gfSlot].width = 300
+        height = portal[gfSlotLb].bottom + 3
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxFlw05" name="Fatal Flaw Selection 5" compset="Ability" marginhorz="5" marginvert="2">
+    <portal id="gfSlotLb" style="lblNormal"><label text="Fatal Flaw 5:"/></portal>
+    <portal id="gfSlot" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="20"/></portal>
+    <position><![CDATA[
+      if (hero.child[xCdxGodCfg].field[abValue3].value < 5) then
+        portal[gfSlotLb].visible = 0
+        portal[gfSlot].visible = 0
+        height = 0
+      else
+        portal[gfSlotLb].left = 10
+        portal[gfSlotLb].width = 150
+        perform portal[gfSlot].centeron[vert,gfSlotLb]
+        perform portal[gfSlot].alignrel[ltor,gfSlotLb,10]
+        portal[gfSlot].width = 300
+        height = portal[gfSlotLb].bottom + 3
+        endif
+    ]]></position>
+  </template>
+
+  <template id="cdxFlw06" name="Fatal Flaw Selection 6" compset="Ability" marginhorz="5" marginvert="2">
+    <portal id="gfSlotLb" style="lblNormal"><label text="Fatal Flaw 6:"/></portal>
+    <portal id="gfSlot" style="menuNormal"><menu_things field="usrChosen1" component="Ability" candidatefield="usrCandid1" maxvisible="20"/></portal>
+    <position><![CDATA[
+      if (hero.child[xCdxGodCfg].field[abValue3].value < 6) then
+        portal[gfSlotLb].visible = 0
+        portal[gfSlot].visible = 0
+        height = 0
+      else
+        portal[gfSlotLb].left = 10
+        portal[gfSlotLb].width = 150
+        perform portal[gfSlot].centeron[vert,gfSlotLb]
+        perform portal[gfSlot].alignrel[ltor,gfSlotLb,10]
+        portal[gfSlot].width = 300
+        height = portal[gfSlotLb].bottom + 3
+        endif
+    ]]></position>
+  </template>
+
+  <layout id="cdxGodLay">
+    <portalref portal="gpPowers" taborder="20"/>
+    <portalref portal="myOthAbil" taborder="21"/>
+    <portalref portal="myPathAbil" taborder="22"/>
+    <portalref portal="myFeat" taborder="23"/>
+    <templateref template="cdxGodMain" thing="xCdxGodCfg" taborder="10"/>
+    <templateref template="cdxGodAdj" thing="xCdxGodAdj" taborder="30"/>
+    <templateref template="cdxFlw01" thing="xCdxFlw1" taborder="31"/>
+    <templateref template="cdxFlw02" thing="xCdxFlw2" taborder="32"/>
+    <templateref template="cdxFlw03" thing="xCdxFlw3" taborder="33"/>
+    <templateref template="cdxFlw04" thing="xCdxFlw4" taborder="34"/>
+    <templateref template="cdxFlw05" thing="xCdxFlw5" taborder="35"/>
+    <templateref template="cdxFlw06" thing="xCdxFlw6" taborder="36"/>
+    <position><![CDATA[
+      perform template[cdxGodMain].autoplace
+      portal[gpPowers].width = width
+      portal[myOthAbil].width = width
+      portal[myPathAbil].width = width
+      portal[myFeat].width = width
+      perform portal[gpPowers].autoplace
+      perform portal[myOthAbil].autoplace
+      perform portal[myPathAbil].autoplace
+      perform portal[myFeat].autoplace
+      perform template[cdxGodAdj].autoplace
+      perform template[cdxFlw01].autoplace
+      perform template[cdxFlw02].autoplace
+      perform template[cdxFlw03].autoplace
+      perform template[cdxFlw04].autoplace
+      perform template[cdxFlw05].autoplace
+      perform template[cdxFlw06].autoplace
+    ]]></position>
+  </layout>
+
+  <panel id="cdxGodPwr" name="Godly Powers" marginhorz="5" marginvert="5" order="365">
+    <live>CdxGodStr.Active</live>
+    <layoutref layout="cdxGodLay"/>
+    <position><![CDATA[]]></position>
+  </panel>
+</document>

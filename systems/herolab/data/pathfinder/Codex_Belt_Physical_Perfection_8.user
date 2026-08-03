@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Belt of Physical Perfection +8"/>
+
+  <!--
+    Epic extension of the standard Belt of Physical Perfection progression.
+    The +8 enhancement bonus replaces, rather than stacks with, lower
+    enhancement bonuses to Strength, Dexterity, and Constitution.
+  -->
+  <thing
+    id="ioCdxPhP8"
+    name="Belt of Physical Perfection +8"
+    description="This thick leather belt is woven with strands of giant hair and set with three polished stones. While worn, it grants a +8 enhancement bonus to Strength, Dexterity, and Constitution.\n\nThis is an epic campaign extension of the standard belt of physical perfection progression.\n\n{b}Construction{/b}\n{b}Requirements{/b} Craft Wondrous Item, {i}bear's endurance{/i}, {i}bull's strength{/i}, {i}cat's grace{/i}; {b}Cost{/b} 128,000 gp\n\n{b}Slot{/b} belt; {b}Price{/b} 256,000 gp; {b}Weight{/b} 1 lb."
+    compset="Wondrous"
+    summary="+8 enhancement bonus to Strength, Dexterity, and Constitution."
+    uniqueness="unique">
+
+    <fieldval field="gWeight" value="1"/>
+    <fieldval field="gCost" value="256000"/>
+    <fieldval field="iCL" value="20"/>
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="iSchool" tag="Transmutat"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Hero" tag="EqpWaist"/>
+
+    <eval phase="PreLevel" priority="5000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      #enhancementbonus[hero.child[aSTR],8]
+      #enhancementbonus[hero.child[aDEX],8]
+      #enhancementbonus[hero.child[aCON],8]
+      ]]></eval>
+  </thing>
+</document>

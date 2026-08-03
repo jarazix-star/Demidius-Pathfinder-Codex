@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <thing id="ioCdxRoTat" name="Robe of Arcane Heritage Tattoo" description="This elaborate tattoo depicts the folds, gold stitching, and bloodline motifs of a set of dark purple and royal blue robes. Its arcane lines subtly change to match the sorcerous heritage of its bearer. The tattoo is slotless and does not prevent its bearer from wearing a robe or other body-slot item. The bearer treats her sorcerer level as 4 higher than normal for the purpose of determining what bloodline powers she can use and their effects.\n\n{b}Construction{/b}\n{b}Requirements{/b} Craft Wondrous Item, {i}speak with dead{/i}, creator must be a sorcerer; {b}Cost{/b} 8,000 gp" compset="Wondrous">
+    <fieldval field="gWeight" value="0"/>
+    <fieldval field="gCost" value="16000"/>
+    <fieldval field="iCL" value="9"/>
+    <usesource source="APG" parent="APGHeader" name="Advanced Player&apos;s Guide"/>
+    <usesource source="UltEquip" parent="UEHeader" name="Ultimate Equipment"/>
+    <tag group="iSchool" tag="Necromancy" name="Necromancy" abbrev="Necro"/>
+    <tag group="Helper" tag="EquipAvail" name="EquipAvail" abbrev="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag" name="EquipMag" abbrev="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec" name="Show Spec" abbrev="Show Spec"/>
+    <tag group="gType" tag="Wonder" name="Wondrous Item" abbrev="Wonder"/>
+    <eval phase="First" priority="496"><![CDATA[
+      ~ The timing is important here - the gIsEquip field is calculated at First/495,
+      ~ and the bootstraps for things such as immunities granted by bloodlines evaluate at First/500
+      if (field[gIsEquip].value <> 0) then
+        perform hero.assign[ClsAblLive.Sorcerer]
+        perform hero.assign[ClsAblLive.Sorcerer]
+        perform hero.assign[ClsAblLive.Sorcerer]
+        perform hero.assign[ClsAblLive.Sorcerer]
+        endif]]>
+      <after name="Calc gIsEquip"/>
+      </eval>
+    <eval phase="PreLevel" priority="10000" index="2"><![CDATA[
+      if (field[gIsEquip].value <> 0) then
+        foreach pick in hero from BaseCustSp where "abCategory.SorBlood | abCategory.SorBloMut"
+          eachpick.field[xExtraLev].value += 4
+          nexteach
+        endif]]></eval>
+    </thing>
+  <thing id="ioCdxCyTat" name="Cyclops Helm Tattoo" description="This tattoo resembles a stylized cyclopean eye framed by the heavy contours of an ancient helm. It grants a limited version of a cyclops's flash of insight ability without occupying the head slot. Once per day as an immediate action, the bearer can choose the result of the die roll instead of rolling her next attack roll, saving throw, skill check, or ability check.\n\n{b}Construction{/b}\n{b}Requirements{/b} Craft Wondrous Item, {i}true strike{/i}; {b}Cost{/b} 2,800 gp" compset="Wondrous">
+    <fieldval field="gWeight" value="0"/>
+    <fieldval field="gCost" value="5600"/>
+    <fieldval field="iCL" value="1"/>
+    <fieldval field="trkMax" value="1"/>
+    <usesource source="ModEmerSpi" parent="PathModule" name="The Emerald Spire"/>
+    <tag group="User" tag="Tracker" name="Modern Action Points" abbrev="Modern Action Points"/>
+    <tag group="gType" tag="Wonder" name="Wondrous Item" abbrev="Wonder"/>
+    <tag group="iSchool" tag="Divination" name="Divination" abbrev="Div"/>
+    <tag group="Helper" tag="EquipAvail" name="EquipAvail" abbrev="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag" name="EquipMag" abbrev="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec" name="Show Spec" abbrev="Show Spec"/>
+    <tag group="Usage" tag="Day" name="/day" abbrev="/day"/>
+    </thing>
+  </document>

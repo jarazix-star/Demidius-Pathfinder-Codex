@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<document signature="Lone Wolf Custom Output" product="Hero Lab">
+<output
+  folder="ArmidaleCodex"
+  name="Armidale's Pathfinder Sheet - Codex v3.18"
+  summary="Official-style Pathfinder sheet with Godling/Mythic output and a page-one portrait watermark."
+  description="Preserves Armidale's Pathfinder styling and color accents while adding complete Godling/Mythic tracking and print-safe portrait watermarking."
+  filename="statblock.xsl"
+  major="3" minor="18"
+  images="files">
+  </output>
+</document>

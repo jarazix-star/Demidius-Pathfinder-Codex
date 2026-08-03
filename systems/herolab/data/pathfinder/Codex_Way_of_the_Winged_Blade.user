@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Way of the Winged Blade"/>
+
+  <!--
+    Demidius-project adaptation of Divine Fighting Technique
+    (Desna's Shooting Star) for Hermes and the rapier.
+
+    The Hermes-followership requirement is intentionally descriptive only,
+    as requested. The mechanical implementation applies Hero Lab's native
+    attack- and damage-ability substitution tags to every rapier pick.
+  -->
+  <thing
+    id="fCdxWingBl"
+    name="Way of the Winged Blade"
+    description="Followers of Hermes learn to fight with wit, confidence, and perfect timing, guiding a rapier's point as naturally as the Messenger guides travelers along a fortunate road.\n\n{b}Optional Prerequisite{/b}: You must be a follower of Hermes. This requirement is presented as campaign text and is not mechanically enforced by Hero Lab.\n\n{b}Benefit{/b}: You can use your Charisma modifier in place of your Strength or Dexterity modifier on attack rolls and damage rolls made with rapiers. If you do so, you do not also modify those attack rolls or damage rolls with Strength, Dexterity, or another ability score.\n\nThis is a campaign-specific Divine Fighting Technique modeled on Desna's Shooting Star."
+    compset="Feat"
+    summary="Use Charisma for rapier attack and damage rolls"
+    uniqueness="useronce">
+
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="fCategory" tag="Combat"/>
+
+    <eval phase="PostLevel" priority="5000"><![CDATA[
+      ~ If the feat is disabled, do nothing.
+      doneif (tagis[Helper.FtDisable] <> 0)
+
+      ~ Apply Hero Lab's native ability-substitution options to every rapier,
+      ~ including magical and custom rapiers that inherit IsWeapon.wRapier.
+      foreach pick in hero from BaseWep where "IsWeapon.wRapier"
+        perform eachpick.assign[MelAttOpt.aCHA]
+        perform eachpick.assign[DamageOpt.aCHA]
+        nexteach
+      ]]></eval>
+  </thing>
+</document>

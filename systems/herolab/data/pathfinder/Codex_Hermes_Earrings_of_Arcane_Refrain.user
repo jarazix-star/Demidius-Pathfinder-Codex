@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Hermes Earrings of Arcane Refrain"/>
+
+  <!--
+    Demidius-project major artifact.
+
+    The earrings are slotless because Pathfinder has no dedicated ear slot and
+    the established character already uses both head and eyes artifacts. Each
+    granted feat is equip-gated. The Diplomacy choice for Signature Skill is
+    fixed by the artifact rather than presented as a user choice.
+  -->
+  <thing
+    id="ioCdxArcRf"
+    name="Hermes' Earrings of Arcane Refrain"
+    description="These matched earrings embody Hermes' command of inspired speech, artful deception, revelation, and magic reshaped in the instant of casting. Each earring has a sculpted polished-gold wing as its upper fitting, one short gold link, and an elongated faceted sapphire-blue crystal held in a slender gold frame. When worn, they grant the wearer the benefits of Reach Spell, Quicken Spell, Selective Spell, Signature Skill (Diplomacy), Deceitful, Additional Traits, and Extra Revelation.\n\nThe artifact fixes Signature Skill to Diplomacy. Additional Traits grants two additional character traits, and Extra Revelation grants one additional revelation for which the wearer qualifies. If the wearer already possesses any granted feat, the earrings do not require that feat to be selected again; the duplicate source represents the same benefit and does not stack with itself.\n\n{b}Slot{/b} none; {b}Price{/b} -; {b}Weight{/b} -\n\n{b}Major Artifact{/b}"
+    compset="Wondrous"
+    summary="Grants seven feats: Reach, Quicken, Selective, Signature Skill (Diplomacy), Deceitful, Additional Traits, and Extra Revelation."
+    uniqueness="unique">
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="ArtiMajor"/>
+
+    <bootstrap thing="fReachSpl">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fReachSpl & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+    </bootstrap>
+    <bootstrap thing="fQuickSpl">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fQuickSpl & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+    </bootstrap>
+    <bootstrap thing="fSelectSpl">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fSelectSpl & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+    </bootstrap>
+    <bootstrap thing="fSigSkill">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fSigSkill & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+      <autotag group="Target" tag="skDiplo"/>
+    </bootstrap>
+    <bootstrap thing="fDeceit">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fDeceit & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+    </bootstrap>
+    <bootstrap thing="fAddTrait">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fAddTrait & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+    </bootstrap>
+    <bootstrap thing="fExRevelat">
+      <containerreq phase="First" priority="500"><![CDATA[!HasFeat.fExRevelat & fieldval:gIsEquip <> 0]]></containerreq>
+      <autotag group="thing" tag="skipprereq"/>
+    </bootstrap>
+  </thing>
+</document>

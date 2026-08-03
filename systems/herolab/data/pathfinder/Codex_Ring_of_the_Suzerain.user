@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Ring of the Suzerain"/>
+
+  <!--
+    Demidius-project major artifact.
+
+    This is one independent item rather than three bootstrapped ring Things.
+    Hero Lab does not activate the equipment scripts of bootstrapped Wondrous
+    items, and doing so also exposes three unwanted child rows in the gear
+    list. The Ring of the Suzerain therefore applies the mechanically relevant
+    effects directly while preserving the complete source-ring rules in its
+    description.
+  -->
+  <thing
+    id="irCdxSuzer"
+    name="Ring of the Suzerain"
+    description="This unique artifact ring embodies the authority, liberty, and supernatural resilience of a true suzerain. Its dark metal band bears a winged silver fleur-de-lis entwined with crimson roses and fine golden thorns. While worn and equipped, it grants all benefits of a ring of evasion, a ring of freedom of movement, and a ring of the ecclesiarch.\n\nThe wearer continually gains evasion and acts as though under a freedom of movement spell. After the ring has been worn for 24 hours, its golden signet incorporates the holy symbol of the wearer's deity. It can seal parchments or mark a surface as arcane mark at will. The wearer gains a +5 competence bonus on Initiative checks, all Charisma checks, all Dexterity checks, and all skill checks based on Charisma, Dexterity, or Intelligence. The ring also grants a +5 competence bonus on Knowledge (religion) checks. If the wearer has the Leadership feat, the wearer attracts double the normal number of followers, and those followers gain a +4 morale bonus on Will saves against enchantment spells and effects. Once per day, the wearer can use prayer and enter image.\n\n{b}Slot{/b} ring; {b}Price{/b} -; {b}Weight{/b} -\n\n{b}Major Artifact{/b}"
+    compset="Wondrous"
+    summary="+5 competence to Initiative, Charisma/Dexterity checks, and Charisma-, Dexterity-, or Intelligence-based skills; evasion; freedom of movement."
+    uniqueness="unique">
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="ArtiMajor"/>
+    <tag group="Hero" tag="EqpRing"/>
+
+    <!-- Ring of Evasion: expose a clean, artifact-specific Evasion special
+         only while the combined artifact is equipped. Bootstrapping the
+         native cEvasion class special onto a wondrous item causes Hero Lab's
+         class-level field calculations to target the ring and throw errors. -->
+    <bootstrap thing="raCdxSuzEv">
+      <containerreq phase="First" priority="500"><![CDATA[fieldval:gIsEquip <> 0]]></containerreq>
+      </bootstrap>
+
+    <!-- The ring grants +5 competence on raw Charisma and Dexterity checks
+         (shown as situational modifiers), on skills based on Charisma,
+         Dexterity, or Intelligence, and on Knowledge (religion). The follower multiplier, follower
+         save bonus, prayer, enter image, signet, and constant freedom of
+         movement remain fully recorded in the item description because Hero
+         Lab has no general calculated fields for those effects. -->
+    <eval phase="PreLevel" priority="10000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      #situational[hero.child[aCHA],"+5 competence bonus to Charisma checks.",field[name].text]
+      #situational[hero.child[aDEX],"+5 competence bonus to Dexterity checks.",field[name].text]
+      #applybonus[BonComp, hero.child[Initiative], 5]
+
+      foreach pick in hero from BaseSkill
+        if (eachpick.tagis[SkillOver.aCHA] <> 0) then
+          #applybonus[BonComp, eachpick, 5]
+        elseif (eachpick.linkage[skillattr].tagis[thingid.aCHA] <> 0) then
+          #applybonus[BonComp, eachpick, 5]
+        elseif (eachpick.tagis[SkillOver.aDEX] <> 0) then
+          #applybonus[BonComp, eachpick, 5]
+        elseif (eachpick.linkage[skillattr].tagis[thingid.aDEX] <> 0) then
+          #applybonus[BonComp, eachpick, 5]
+        elseif (eachpick.tagis[SkillOver.aINT] <> 0) then
+          #applybonus[BonComp, eachpick, 5]
+        elseif (eachpick.linkage[skillattr].tagis[thingid.aINT] <> 0) then
+          #applybonus[BonComp, eachpick, 5]
+        endif
+      nexteach
+
+      #applybonus[BonComp, hero.child[skKnowRel], 5]
+      ]]></eval>
+  </thing>
+
+  <thing
+    id="raCdxSuzEv"
+    name="Evasion (Ring of the Suzerain)"
+    description="The Ring of the Suzerain grants evasion while equipped. If the wearer succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, the wearer instead takes no damage. Evasion can be used only while the wearer is not helpless."
+    compset="RaceSpec"
+    uniqueness="useronce">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="abAction" tag="None"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="SpecType" tag="Defense"/>
+  </thing>
+</document>

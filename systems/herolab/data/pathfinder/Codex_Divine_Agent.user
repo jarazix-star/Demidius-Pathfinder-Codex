@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Divine Agent MCA"/>
+
+  <!--
+    Divine Agent (Cleric/Rogue multiclass archetype)
+    Rules: d20PFSRD Cartmanbeck MCA
+    HL base recipe: ShadowChemosh (WolfLair thread 59636) + Codex rule fixes 2026-07-28
+
+    Helper cHelpS2DiA / ClassLevel cS2DivAge keep SC IDs so forum recipes still match.
+    Install ONLY this file OR PFRPG_Divine_Agent.user — never both.
+  -->
+
+  <!-- ===================== CLASS HELPER ===================== -->
+  <thing id="cHelpS2DiA" name="Divine Agent" compset="Class" uniqueness="unique">
+    <fieldval field="cSecSpName" value="domain spells"/>
+    <fieldval field="cSecSplReq" value="1"/>
+    <fieldval field="cSpecSing" value="Domain"/>
+    <fieldval field="cSpec2ndSi" value="Rogue Talent"/>
+    <fieldval field="cBackTable" value="see Table 1-36: Cleric Backgrounds"/>
+    <fieldval field="cSCRNumDce" value="4"/>
+    <fieldval field="cSCRDceSiz" value="6"/>
+    <fieldval field="cSCRMult" value="10"/>
+    <fieldval field="cAbbr" value="DiA"/>
+    <fieldval field="cHDSides" value="8"/>
+    <fieldval field="cSkills" value="4"/>
+    <fieldval field="srcBookInf" value=" [Codex/MCA]"/>
+
+    <!-- Diminished spell matrix (0.1 = domain/Wis-only when table shows 0) -->
+    <arrayval field="cCastTot" index="0" value="2"/>
+    <arrayval field="cCastTot" index="0" column="1" value="0.1"/>
+    <arrayval field="cCastTot" index="1" value="3"/>
+    <arrayval field="cCastTot" index="1" column="1" value="1"/>
+    <arrayval field="cCastTot" index="2" value="3"/>
+    <arrayval field="cCastTot" index="2" column="1" value="1"/>
+    <arrayval field="cCastTot" index="2" column="2" value="0.1"/>
+    <arrayval field="cCastTot" index="3" value="3"/>
+    <arrayval field="cCastTot" index="3" column="1" value="2"/>
+    <arrayval field="cCastTot" index="3" column="2" value="1"/>
+    <arrayval field="cCastTot" index="4" value="3"/>
+    <arrayval field="cCastTot" index="4" column="1" value="2"/>
+    <arrayval field="cCastTot" index="4" column="2" value="1"/>
+    <arrayval field="cCastTot" index="4" column="3" value="0.1"/>
+    <arrayval field="cCastTot" index="5" value="3"/>
+    <arrayval field="cCastTot" index="5" column="1" value="2"/>
+    <arrayval field="cCastTot" index="5" column="2" value="2"/>
+    <arrayval field="cCastTot" index="5" column="3" value="1"/>
+    <arrayval field="cCastTot" index="6" value="3"/>
+    <arrayval field="cCastTot" index="6" column="1" value="3"/>
+    <arrayval field="cCastTot" index="6" column="2" value="2"/>
+    <arrayval field="cCastTot" index="6" column="3" value="1"/>
+    <arrayval field="cCastTot" index="6" column="4" value="0.1"/>
+    <arrayval field="cCastTot" index="7" value="3"/>
+    <arrayval field="cCastTot" index="7" column="1" value="3"/>
+    <arrayval field="cCastTot" index="7" column="2" value="2"/>
+    <arrayval field="cCastTot" index="7" column="3" value="2"/>
+    <arrayval field="cCastTot" index="7" column="4" value="1"/>
+    <arrayval field="cCastTot" index="8" value="3"/>
+    <arrayval field="cCastTot" index="8" column="1" value="3"/>
+    <arrayval field="cCastTot" index="8" column="2" value="3"/>
+    <arrayval field="cCastTot" index="8" column="3" value="2"/>
+    <arrayval field="cCastTot" index="8" column="4" value="1"/>
+    <arrayval field="cCastTot" index="8" column="5" value="0.1"/>
+    <arrayval field="cCastTot" index="9" value="3"/>
+    <arrayval field="cCastTot" index="9" column="1" value="3"/>
+    <arrayval field="cCastTot" index="9" column="2" value="3"/>
+    <arrayval field="cCastTot" index="9" column="3" value="2"/>
+    <arrayval field="cCastTot" index="9" column="4" value="2"/>
+    <arrayval field="cCastTot" index="9" column="5" value="1"/>
+    <arrayval field="cCastTot" index="10" value="3"/>
+    <arrayval field="cCastTot" index="10" column="1" value="3"/>
+    <arrayval field="cCastTot" index="10" column="2" value="3"/>
+    <arrayval field="cCastTot" index="10" column="3" value="3"/>
+    <arrayval field="cCastTot" index="10" column="4" value="2"/>
+    <arrayval field="cCastTot" index="10" column="5" value="1"/>
+    <arrayval field="cCastTot" index="10" column="6" value="0.1"/>
+    <arrayval field="cCastTot" index="11" value="3"/>
+    <arrayval field="cCastTot" index="11" column="1" value="3"/>
+    <arrayval field="cCastTot" index="11" column="2" value="3"/>
+    <arrayval field="cCastTot" index="11" column="3" value="3"/>
+    <arrayval field="cCastTot" index="11" column="4" value="2"/>
+    <arrayval field="cCastTot" index="11" column="5" value="2"/>
+    <arrayval field="cCastTot" index="11" column="6" value="1"/>
+    <arrayval field="cCastTot" index="12" value="3"/>
+    <arrayval field="cCastTot" index="12" column="1" value="3"/>
+    <arrayval field="cCastTot" index="12" column="2" value="3"/>
+    <arrayval field="cCastTot" index="12" column="3" value="3"/>
+    <arrayval field="cCastTot" index="12" column="4" value="3"/>
+    <arrayval field="cCastTot" index="12" column="5" value="2"/>
+    <arrayval field="cCastTot" index="12" column="6" value="1"/>
+    <arrayval field="cCastTot" index="12" column="7" value="0.1"/>
+    <arrayval field="cCastTot" index="13" value="3"/>
+    <arrayval field="cCastTot" index="13" column="1" value="3"/>
+    <arrayval field="cCastTot" index="13" column="2" value="3"/>
+    <arrayval field="cCastTot" index="13" column="3" value="3"/>
+    <arrayval field="cCastTot" index="13" column="4" value="3"/>
+    <arrayval field="cCastTot" index="13" column="5" value="2"/>
+    <arrayval field="cCastTot" index="13" column="6" value="2"/>
+    <arrayval field="cCastTot" index="13" column="7" value="1"/>
+    <arrayval field="cCastTot" index="14" value="3"/>
+    <arrayval field="cCastTot" index="14" column="1" value="3"/>
+    <arrayval field="cCastTot" index="14" column="2" value="3"/>
+    <arrayval field="cCastTot" index="14" column="3" value="3"/>
+    <arrayval field="cCastTot" index="14" column="4" value="3"/>
+    <arrayval field="cCastTot" index="14" column="5" value="3"/>
+    <arrayval field="cCastTot" index="14" column="6" value="2"/>
+    <arrayval field="cCastTot" index="14" column="7" value="1"/>
+    <arrayval field="cCastTot" index="14" column="8" value="0.1"/>
+    <arrayval field="cCastTot" index="15" value="3"/>
+    <arrayval field="cCastTot" index="15" column="1" value="3"/>
+    <arrayval field="cCastTot" index="15" column="2" value="3"/>
+    <arrayval field="cCastTot" index="15" column="3" value="3"/>
+    <arrayval field="cCastTot" index="15" column="4" value="3"/>
+    <arrayval field="cCastTot" index="15" column="5" value="3"/>
+    <arrayval field="cCastTot" index="15" column="6" value="2"/>
+    <arrayval field="cCastTot" index="15" column="7" value="2"/>
+    <arrayval field="cCastTot" index="15" column="8" value="1"/>
+    <arrayval field="cCastTot" index="16" value="3"/>
+    <arrayval field="cCastTot" index="16" column="1" value="3"/>
+    <arrayval field="cCastTot" index="16" column="2" value="3"/>
+    <arrayval field="cCastTot" index="16" column="3" value="3"/>
+    <arrayval field="cCastTot" index="16" column="4" value="3"/>
+    <arrayval field="cCastTot" index="16" column="5" value="3"/>
+    <arrayval field="cCastTot" index="16" column="6" value="3"/>
+    <arrayval field="cCastTot" index="16" column="7" value="2"/>
+    <arrayval field="cCastTot" index="16" column="8" value="1"/>
+    <arrayval field="cCastTot" index="16" column="9" value="0.1"/>
+    <arrayval field="cCastTot" index="17" value="3"/>
+    <arrayval field="cCastTot" index="17" column="1" value="3"/>
+    <arrayval field="cCastTot" index="17" column="2" value="3"/>
+    <arrayval field="cCastTot" index="17" column="3" value="3"/>
+    <arrayval field="cCastTot" index="17" column="4" value="3"/>
+    <arrayval field="cCastTot" index="17" column="5" value="3"/>
+    <arrayval field="cCastTot" index="17" column="6" value="3"/>
+    <arrayval field="cCastTot" index="17" column="7" value="2"/>
+    <arrayval field="cCastTot" index="17" column="8" value="2"/>
+    <arrayval field="cCastTot" index="17" column="9" value="1"/>
+    <arrayval field="cCastTot" index="18" value="3"/>
+    <arrayval field="cCastTot" index="18" column="1" value="3"/>
+    <arrayval field="cCastTot" index="18" column="2" value="3"/>
+    <arrayval field="cCastTot" index="18" column="3" value="3"/>
+    <arrayval field="cCastTot" index="18" column="4" value="3"/>
+    <arrayval field="cCastTot" index="18" column="5" value="3"/>
+    <arrayval field="cCastTot" index="18" column="6" value="3"/>
+    <arrayval field="cCastTot" index="18" column="7" value="3"/>
+    <arrayval field="cCastTot" index="18" column="8" value="2"/>
+    <arrayval field="cCastTot" index="18" column="9" value="2"/>
+    <arrayval field="cCastTot" index="19" value="3"/>
+    <arrayval field="cCastTot" index="19" column="1" value="3"/>
+    <arrayval field="cCastTot" index="19" column="2" value="3"/>
+    <arrayval field="cCastTot" index="19" column="3" value="3"/>
+    <arrayval field="cCastTot" index="19" column="4" value="3"/>
+    <arrayval field="cCastTot" index="19" column="5" value="3"/>
+    <arrayval field="cCastTot" index="19" column="6" value="3"/>
+    <arrayval field="cCastTot" index="19" column="7" value="3"/>
+    <arrayval field="cCastTot" index="19" column="8" value="3"/>
+    <arrayval field="cCastTot" index="19" column="9" value="3"/>
+
+    <!-- One domain from 1st -->
+    <arrayval field="cCustTot" index="0" value="1"/>
+    <!-- Rogue talents: 1,4,7,10,13,16,19 (cumulative) -->
+    <arrayval field="cCustScTot" index="0" value="1"/>
+    <arrayval field="cCustScTot" index="3" value="2"/>
+    <arrayval field="cCustScTot" index="6" value="3"/>
+    <arrayval field="cCustScTot" index="9" value="4"/>
+    <arrayval field="cCustScTot" index="12" value="5"/>
+    <arrayval field="cCustScTot" index="15" value="6"/>
+    <arrayval field="cCustScTot" index="18" value="7"/>
+
+    <tag group="Language" tag="lAbyssal"/>
+    <tag group="Language" tag="lCelestial"/>
+    <tag group="Language" tag="lInfernal"/>
+    <tag group="SQListHide" tag="Primary"/>
+    <tag group="SQListHide" tag="Quaternary"/>
+    <tag group="SecSplMech" tag="ReqClass"/>
+    <tag group="cAttack" tag="Medium"/>
+    <!-- Codex fix: Fort poor, Ref good, Will good -->
+    <tag group="cFort" tag="Poor"/>
+    <tag group="cRef" tag="Good"/>
+    <tag group="cWill" tag="Good"/>
+    <tag group="AlgnReq" tag="Deity1Step"/>
+    <tag group="CastInfini" tag="0"/>
+    <tag group="CasterSrc" tag="Divine"/>
+    <tag group="CasterType" tag="MemAll"/>
+    <tag group="ClassPanel" tag="DeityTurn"/>
+    <tag group="ClassPanel" tag="ExNeeded"/>
+    <tag group="ClassRole" tag="Spell"/>
+    <tag group="sClass" tag="cHelpClr"/>
+    <tag group="AllowCust" tag="cHelpClr"/>
+    <tag group="Classes" tag="S2DivAge" name="Divine Agent" abbrev="Divine Agent"/>
+    <tag group="ConsClSkil" tag="cskReligio"/>
+    <tag group="ConsClSkil" tag="cskSpellcr"/>
+    <tag group="ConsClSkil" tag="cskSurviva"/>
+    <tag group="Helper" tag="IncGodName"/>
+    <tag group="Helper" tag="NoExSpells"/>
+    <tag group="Hero" tag="NoAllDom"/>
+    <tag group="LGClTable1" tag="ClerDomain"/>
+    <tag group="LGMyClass" tag="cHelpClr"/>
+    <tag group="AgeColumn" tag="3"/>
+    <tag group="CSCountAs" tag="Rogue"/>
+    <tag group="CSCountAs" tag="Ninja"/>
+
+    <!-- Cleric class skills -->
+    <tag group="ClassSkill" tag="Craft"/>
+    <tag group="ClassSkill" tag="Profession"/>
+    <tag group="ClassSkill" tag="skAppraise"/>
+    <tag group="ClassSkill" tag="skDiplo"/>
+    <tag group="ClassSkill" tag="skHeal"/>
+    <tag group="ClassSkill" tag="skKnowArca"/>
+    <tag group="ClassSkill" tag="skKnowHist"/>
+    <tag group="ClassSkill" tag="skKnowNobl"/>
+    <tag group="ClassSkill" tag="skKnowPlan"/>
+    <tag group="ClassSkill" tag="skKnowRel"/>
+    <tag group="ClassSkill" tag="skLinguist"/>
+    <tag group="ClassSkill" tag="skSenseMot"/>
+    <tag group="ClassSkill" tag="skSpellcr"/>
+    <!--
+      RAW: pick six rogue skills. HL has no free skill chooser here; Codex grants the
+      common divine-agent set. Drop unused ranks at the table if desired.
+    -->
+    <tag group="ClassSkill" tag="skAcrobat"/>
+    <tag group="ClassSkill" tag="skBluff"/>
+    <tag group="ClassSkill" tag="skClimb"/>
+    <tag group="ClassSkill" tag="skDisable"/>
+    <tag group="ClassSkill" tag="skDisguise"/>
+    <tag group="ClassSkill" tag="skEscape"/>
+    <tag group="ClassSkill" tag="skIntim"/>
+    <tag group="ClassSkill" tag="skPercep"/>
+    <tag group="ClassSkill" tag="skSleight"/>
+    <tag group="ClassSkill" tag="skStealth"/>
+    <tag group="ClassSkill" tag="skSwim"/>
+    <tag group="ClassSkill" tag="skUMD"/>
+    <tag group="ClassSkill" tag="skKnowDung"/>
+    <tag group="ClassSkill" tag="skKnowLoc"/>
+
+    <!-- Extra weapon proficiencies (simple is bootstrapped) -->
+    <tag group="WepProf" tag="wCrsHand"/>
+    <tag group="WepProf" tag="wRapier"/>
+    <tag group="WepProf" tag="wSap"/>
+    <tag group="WepProf" tag="wShortbow"/>
+    <tag group="WepProf" tag="wShortswd"/>
+
+    <bootstrap thing="fSimple"></bootstrap>
+    <bootstrap thing="fArmLight"></bootstrap>
+    <bootstrap thing="fArmMedium"></bootstrap>
+    <!-- no shields (MCA) -->
+
+    <bootstrap thing="cClrAura">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cClrDeiWep">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <!-- NO cClrSpont — replaced by Channeling Strike line -->
+
+    <bootstrap thing="cDiAS2Dom">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cDiAS2Chan">
+      <autotag group="ClSpecWhen" tag="2"/>
+      </bootstrap>
+    <bootstrap thing="cDiAS2Str">
+      <autotag group="ClSpecWhen" tag="3"/>
+      </bootstrap>
+    <bootstrap thing="cDiAS2GStr">
+      <autotag group="ClSpecWhen" tag="11"/>
+      </bootstrap>
+    <bootstrap thing="cDiAS2DiSt">
+      <autotag group="ClSpecWhen" tag="20"/>
+      </bootstrap>
+
+    <!-- Sneak Attack +1d6 each: 1,4,8,12,16,20 -->
+    <bootstrap thing="cSneakAtt">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cSneakAtt">
+      <autotag group="ClSpecWhen" tag="4"/>
+      </bootstrap>
+    <bootstrap thing="cSneakAtt">
+      <autotag group="ClSpecWhen" tag="8"/>
+      </bootstrap>
+    <bootstrap thing="cSneakAtt">
+      <autotag group="ClSpecWhen" tag="12"/>
+      </bootstrap>
+    <bootstrap thing="cSneakAtt">
+      <autotag group="ClSpecWhen" tag="16"/>
+      </bootstrap>
+    <bootstrap thing="cSneakAtt">
+      <autotag group="ClSpecWhen" tag="20"/>
+      </bootstrap>
+
+    <link linkage="spellattr" thing="aWIS"/>
+    <link linkage="maxsplattr" thing="aWIS"/>
+
+    <eval phase="First" priority="10000"><![CDATA[
+      ~ Cannot cast alignment-opposed spells
+      perform hero.assign[Hero.DeiAlgnSpl]
+      ]]></eval>
+
+    <eval phase="Final" priority="99999999" index="2"><![CDATA[
+      ~ Secondary chooser = primary rogue/ninja talents (+ DA secondary things)
+      ~ Hide advanced talents until level 13 (fan-content limitation; still honor RAW)
+      if (field[cTotalLev].value < 13) then
+        field[cCstS2Expr].text = "((SpecSource.cHelpS2DiA & Helper.Secondary) | (abCategory.NinTri|abCategory.RogTal)) & !abCategory.RogTalAdv & !abCategory.NinTriMas & !Helper.Tertiary & !Helper.Quaternary & !Helper.Quintenary & !Helper.Obsolete"
+      else
+        field[cCstS2Expr].text = "((SpecSource.cHelpS2DiA & Helper.Secondary) | (abCategory.NinTri|abCategory.RogTal)) & !Helper.Tertiary & !Helper.Quaternary & !Helper.Quintenary & !Helper.Obsolete"
+        endif
+      ]]></eval>
+
+    <eval phase="First" priority="10000" index="3"><![CDATA[
+      ~ Ultimate Magic: optional Variant Channeling quaternary slot
+      if (hero.tagis[source.UltMagic] <> 0) then
+        field[cSpec4thSi].text = "Variant Channeling"
+        field[cSpec4thNm].text = "Variant Channeling"
+        field[cCustQuTot].arrayvalue[0] = 1
+        perform assign[Helper.OptCustQua]
+        endif
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== CLASS LEVEL ===================== -->
+  <thing id="cS2DivAge" name="Divine Agent" description="Divine agents walk a thin line between divine enlightenment and the dark shadows of the underworld. As special servants of their respective sects, the divine agent wields the power of her god while employing stealth and legerdemain to accomplish her appointed duty. With spells, stealth, and innate agility, the divine agent can ferret out those who oppose her god, and strike them down in the same breath.\n\n{b}Primary{/b} Cleric · {b}Secondary{/b} Rogue (Cartmanbeck MCA).\n{b}HD{/b} d8 · {b}BAB{/b} 3/4 · {b}Saves{/b} Fort poor, Ref/Will good · {b}Skills{/b} 4+Int.\n{b}Armor{/b} light and medium, no shields. Extra weapons: hand crossbow, rapier, sap, shortbow, short sword, plus deity favored weapon.\n{b}Spellcasting{/b} diminished cleric list, one domain, no spontaneous casting.\n{b}Codex{/b} HL data: ShadowChemosh base + Codex fixes. See HEROLAB_DIVINE_AGENT_HANDOFF.md." compset="ClassLevel" maxlimit="20">
+    <tag group="ClassType" tag="Normal"/>
+    <bootstrap thing="cHelpS2DiA"></bootstrap>
+    <link linkage="helper" thing="cHelpS2DiA"/>
+  </thing>
+
+  <!-- ===================== DOMAIN ACCESS HELPER ===================== -->
+  <thing id="cDiAS2Dom" name="Domain" description="The divine agent selects only one domain. She may choose a domain belonging to her deity, the Trickery domain or any of its subdomains (even if her deity does not grant them), the Stealth domain, or an alignment domain (Chaos, Evil, Good, or Law) matching her alignment. She otherwise follows the cleric domain rules for a single domain." compset="ClSpecial" summary="Select one domain (deity, Trickery/subdomains, Stealth, or alignment).">
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="AbilType" tag="Extra"/>
+    <eval phase="Final" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] <> 1)
+      doneif (tagis[Helper.SpcDisable] <> 0)
+      ~ Always available beyond deity list for this MCA
+      perform hero.assign[AllowDom.cdTrickery]
+      perform hero.assign[AllowDom.cdCdxStlth]
+      perform hero.assign[AllowDom.cdChaos]
+      perform hero.assign[AllowDom.cdEvil]
+      perform hero.assign[AllowDom.cdGood]
+      perform hero.assign[AllowDom.cdLaw]
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== CHANNEL ENERGY ===================== -->
+  <thing id="cDiAS2Chan" name="Channel Energy" description="This functions as the cleric ability of the same name, except the amount of damage dealt or healed is 1d6 at 2nd level, plus 1d6 for every four divine agent levels beyond 2nd (2d6 at 6th, 3d6 at 10th, 4d6 at 14th, 5d6 at 18th).\n\nA good divine agent (or a neutral agent who worships a good deity) channels positive energy. An evil agent (or a neutral agent who worships an evil deity) channels negative energy. A neutral agent of a neutral deity must choose positive or negative once; this choice cannot be reversed.\n\nChanneling energy is a standard action that does not provoke, affects living or undead in a 30-foot burst, uses/day = 3 + Cha modifier, Will half (DC 10 + 1/2 class level + Cha). Present a holy symbol to use this ability.\n\n{b}Note{/b} Divine agents do not gain spontaneous casting; Channeling Strike replaces that package." compset="ClSpecial" summary="Channel energy 1d6 at 2nd, +1d6/4 levels (max 5d6 at 18th).">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <bootstrap thing="xChannel">
+      <autotag group="SpecialTab" tag="SQClsAbil"/>
+      </bootstrap>
+    <eval phase="PostLevel" priority="1000" name="DA sets channel type"><![CDATA[
+      doneif (tagis[Helper.FirstCopy] = 0)
+      doneif (tagis[Helper.ShowSpec] = 0)
+      doneif (tagis[Helper.SpcDisable] <> 0)
+
+      var v_turnname as string
+      call cClrTurnNm
+      field[livename].text = v_turnname
+
+      var tagexpr as string
+      tagexpr = "SpecSource.cHelpS2DiA"
+      call ChanEnFind
+      doneif (state.isfocus = 0)
+
+      ~ Half-level into abValue yields DA channel dice schedule
+      ~ (1d6@2, 2d6@6, 3d6@10, 4d6@14, 5d6@18) via core channel math.
+      focus.field[abValue].value += round(field[xAllLev].value/2,0,-1)
+
+      perform focus.pushtags[Helper.Channel?]
+      ]]></eval>
+    <eval phase="PostAttr" priority="10000" index="2"><![CDATA[
+      doneif (tagis[Helper.FirstCopy] = 0)
+      doneif (tagis[Helper.ShowSpec] = 0)
+      doneif (tagis[Helper.SpcDisable] <> 0)
+
+      var tagexpr as string
+      tagexpr = "SpecSource.cHelpS2DiA"
+      call ChanEnFind
+      doneif (state.isfocus = 0)
+
+      focus.field[trkMax].value += 3 + hero.child[aCHA].field[aModBonus].value
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== CHANNELING STRIKE LINE ===================== -->
+  <thing id="cDiAS2Str" name="Channeling Strike" description="At 3rd level, a divine agent can channel divine energy through a sneak attack. Before the attack roll, she may spend one use of channel energy as a swift action.\n\nIf she channels positive energy, her weapon gains the {i}holy{/i} weapon special ability until the end of her turn (good-aligned for DR). On a successful sneak attack against an evil creature, she deals extra holy damage equal to her channel positive energy dice. If she channels negative energy, the weapon gains {i}unholy{/i} instead, and the extra damage applies to good creatures.\n\nThe target may attempt a Will save (DC 10 + 1/2 divine agent level + Cha modifier) to halve the extra channel damage (not sneak attack). A miss still expends the channel use.\n\nThis ability and greater channeling strike replace spontaneous casting." compset="ClSpecial" summary="Swift: spend 1 channel to add holy/unholy SA damage (Cha DC).">
+    <tag group="StandardDC" tag="aCHA"/>
+    <tag group="abSave" tag="Will"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="AbilType" tag="Super"/>
+  </thing>
+
+  <thing id="cDiAS2GStr" name="Greater Channeling Strike" description="At 11th level, when making a channeling strike, the dice from channel energy form a pool. Before each sneak attack that turn, allocate dice from the pool as extra damage (evil targets for positive energy, good for negative). Will half (DC 10 + 1/2 level + Cha). Extra damage is not multiplied on a critical hit. Missed attacks return dice to the pool; unspent dice waste at end of turn.\n\nThis ability and channeling strike replace spontaneous casting." compset="ClSpecial" summary="Channel dice become a per-turn pool for channeling strikes.">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="abSave" tag="Will"/>
+    <tag group="StandardDC" tag="aCHA"/>
+  </thing>
+
+  <thing id="cDiAS2DiSt" name="Divine Strike" description="At 20th level, each time the divine agent successfully makes a channeling strike, she may choose either to deal twice the damage from her channel energy ability, or (if the target is an outsider) force the target to attempt a save against {i}banishment{/i} (CL = divine agent level).\n\nRegardless of choice, the target receives a Will save (DC 10 + 1/2 level + Cha) for half damage, or the normal save vs banishment. Once targeted by this agent&apos;s divine strike, a creature is immune to that agent&apos;s divine strike for 24 hours.\n\nCreatures immune to sneak attack take no SA dice from this ability but still take the channeled energy damage.\n\nThis ability and talents replace the second domain." compset="ClSpecial" summary="On channeling strike: double channel damage or banish outsider (Cha DC).">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="abSave" tag="Will"/>
+    <tag group="StandardDC" tag="aCHA"/>
+  </thing>
+
+  <!-- ===================== STEALTH DOMAIN ===================== -->
+  <thing id="cdCdxStlth" name="Stealth" description="You are a master of stealth and the use of shadows to surprise your enemies or vanish from sight. Bluff, Disable Device, and Stealth are class skills.\n\n{b}Granted Powers{/b}\n{b}Sudden Shift (Sp){/b}: As an immediate action after you are missed by a melee attack, teleport up to 10 feet to a space you can see that is still within the attacker&apos;s reach. Uses/day = 3 + Wisdom modifier.\n{b}Hide in Plain Sight (Su){/b}: At 8th level, within 10 feet of dim light you may use Stealth while observed (not in your own shadow). Minutes/day = your cleric/divine agent level; minutes need not be consecutive.\n\n{b}Domain Spells{/b}: 1st—{i}vanish{/i}, 2nd—{i}invisibility{/i}, 3rd—{i}nondetection{/i}, 4th—{i}greater invisibility{/i}, 5th—{i}shadow step{/i}, 6th—{i}mislead{/i}, 7th—{i}shadow walk{/i}, 8th—{i}mass invisibility{/i}, 9th—{i}greater shadow conjuration{/i}.\n\nClerics with Trickery as a deity domain may select Stealth instead. Divine agents may always select Stealth." compset="ClerDomain">
+    <tag group="ClassSkill" tag="skBluff"/>
+    <tag group="ClassSkill" tag="skDisable"/>
+    <tag group="ClassSkill" tag="skStealth"/>
+    <tag group="SpecSource" tag="cHelpClr"/>
+    <tag group="ClsScAllSp" tag="spVanish1"/>
+    <tag group="ClsScAllSp" tag="spInvisib2"/>
+    <tag group="ClsScAllSp" tag="spNondete3"/>
+    <tag group="ClsScAllSp" tag="spInviGre4"/>
+    <tag group="ClsScAllSp" tag="spShadSte4"/>
+    <tag group="ClsScAllSp" tag="spMislead6"/>
+    <tag group="ClsScAllSp" tag="spShadWal6"/>
+    <tag group="ClsScAllSp" tag="spInviMas7"/>
+    <tag group="ClsScAllSp" tag="spShadCon7"/>
+    <bootstrap thing="cDiAS2SudS">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cDiAS2HiPS">
+      <autotag group="ClSpecWhen" tag="8"/>
+      </bootstrap>
+  </thing>
+
+  <thing id="cDiAS2SudS" name="Sudden Shift" description="As an immediate action after you are missed by a melee attack, you may teleport up to 10 feet to a space you can see. That space must remain within the reach of the creature that attacked you. You can use this ability a number of times per day equal to 3 + your Wisdom modifier." compset="ClSpecial" summary="Immediate 10-ft teleport after a melee miss (3+Wis/day).">
+    <tag group="AbilType" tag="SpellLike"/>
+    <tag group="User" tag="Tracker"/>
+    <tag group="Usage" tag="Day"/>
+    <tag group="Helper" tag="UseOwnLev"/>
+    <eval phase="PostAttr" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] = 0)
+      doneif (tagis[Helper.SpcDisable] <> 0)
+      field[trkMax].value += 3 + hero.child[aWIS].field[aModBonus].value
+      field[livename].text = field[thingname].text & " (" & field[trkMax].value & "/day)"
+      ]]></eval>
+  </thing>
+
+  <thing id="cDiAS2HiPS" name="Hide in Plain Sight" description="At 8th level, you can use the Stealth skill even while being observed, as long as you are within 10 feet of an area of dim light. You cannot hide in your own shadow. You can use this ability for a number of minutes per day equal to your cleric or divine agent level. These minutes need not be consecutive." compset="ClSpecial" summary="Stealth while observed near dim light (minutes/day = level).">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="User" tag="Tracker"/>
+    <tag group="Usage" tag="DayMinute"/>
+    <tag group="Helper" tag="UseOwnLev"/>
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] = 0)
+      doneif (tagis[Helper.SpcDisable] <> 0)
+      field[trkMax].value += field[xAllLev].value
+      field[livename].text = field[thingname].text & " (" & field[trkMax].value & " min/day)"
+      ]]></eval>
+  </thing>
+
+</document>

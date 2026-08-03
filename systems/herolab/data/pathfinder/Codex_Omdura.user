@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Omdura Class"/>
+
+  <!--
+    Omdura (base class) — Pathfinder RPG: Niobe (Paizo 2019)
+    Rules: https://www.d20pfsrd.com/classes/base-classes/omdura/
+    Codex HL pack 2026-07-28
+
+    Scope / honesty notes for Hero Lab:
+    - Chassis, SPD, spells known, features, tracking, and choosers are implemented.
+    - Spell list is spontaneous divine (Cha). Primary list tags Inquisitor so known-spell
+      picking works. Cleric 0–6 spells that are not on the inquisitor list (or that
+      appear at a lower inquisitor level) may need to be added via Custom / Adjust as
+      Omdura RAW uses the *lower* of the two lists. Full automated dual-list merge is
+      not practical in a single .user without core edits.
+    - Divine Touch reuses paladin Lay on Hands math patterns; mercies/cruelties use
+      custom choosers that point at stock paladin mercy / antipaladin cruelty categories
+      when available.
+    - Divine Weapon lists abilities as text + a use tracker; apply the +enhancement in
+      Adjust or on the weapon as needed for full automation of each special.
+  -->
+
+  <!-- ===================== CLASS HELPER ===================== -->
+  <thing id="cHelpCdxOmd" name="Omdura" compset="Class" uniqueness="unique">
+    <fieldval field="cAbbr" value="Omd"/>
+    <fieldval field="cHDSides" value="8"/>
+    <fieldval field="cSkills" value="4"/>
+    <fieldval field="cSCRNumDce" value="4"/>
+    <fieldval field="cSCRDceSiz" value="6"/>
+    <fieldval field="cSCRMult" value="10"/>
+    <fieldval field="srcBookInf" value=" [Niobe/Codex]"/>
+    <fieldval field="cSpecSing" value="Divine Infusion"/>
+    <fieldval field="cSpec2ndSi" value="Invocation Notes"/>
+
+    <!-- Spells per day: Inquisitor-style 6-level spontaneous (matches visible 1st-col on PFSRD table) -->
+    <!-- index = class level - 1; columns = spell levels 1..6 (orisons infinite) -->
+    <arrayval field="cCastTot" index="0" column="1" value="1"/>
+    <arrayval field="cCastTot" index="1" column="1" value="2"/>
+    <arrayval field="cCastTot" index="2" column="1" value="3"/>
+    <arrayval field="cCastTot" index="3" column="1" value="3"/>
+    <arrayval field="cCastTot" index="3" column="2" value="1"/>
+    <arrayval field="cCastTot" index="4" column="1" value="4"/>
+    <arrayval field="cCastTot" index="4" column="2" value="2"/>
+    <arrayval field="cCastTot" index="5" column="1" value="4"/>
+    <arrayval field="cCastTot" index="5" column="2" value="3"/>
+    <arrayval field="cCastTot" index="6" column="1" value="4"/>
+    <arrayval field="cCastTot" index="6" column="2" value="3"/>
+    <arrayval field="cCastTot" index="6" column="3" value="1"/>
+    <arrayval field="cCastTot" index="7" column="1" value="4"/>
+    <arrayval field="cCastTot" index="7" column="2" value="4"/>
+    <arrayval field="cCastTot" index="7" column="3" value="2"/>
+    <arrayval field="cCastTot" index="8" column="1" value="5"/>
+    <arrayval field="cCastTot" index="8" column="2" value="4"/>
+    <arrayval field="cCastTot" index="8" column="3" value="3"/>
+    <arrayval field="cCastTot" index="9" column="1" value="5"/>
+    <arrayval field="cCastTot" index="9" column="2" value="4"/>
+    <arrayval field="cCastTot" index="9" column="3" value="3"/>
+    <arrayval field="cCastTot" index="9" column="4" value="1"/>
+    <arrayval field="cCastTot" index="10" column="1" value="5"/>
+    <arrayval field="cCastTot" index="10" column="2" value="4"/>
+    <arrayval field="cCastTot" index="10" column="3" value="4"/>
+    <arrayval field="cCastTot" index="10" column="4" value="2"/>
+    <arrayval field="cCastTot" index="11" column="1" value="5"/>
+    <arrayval field="cCastTot" index="11" column="2" value="5"/>
+    <arrayval field="cCastTot" index="11" column="3" value="4"/>
+    <arrayval field="cCastTot" index="11" column="4" value="3"/>
+    <arrayval field="cCastTot" index="12" column="1" value="5"/>
+    <arrayval field="cCastTot" index="12" column="2" value="5"/>
+    <arrayval field="cCastTot" index="12" column="3" value="4"/>
+    <arrayval field="cCastTot" index="12" column="4" value="3"/>
+    <arrayval field="cCastTot" index="12" column="5" value="1"/>
+    <arrayval field="cCastTot" index="13" column="1" value="5"/>
+    <arrayval field="cCastTot" index="13" column="2" value="5"/>
+    <arrayval field="cCastTot" index="13" column="3" value="4"/>
+    <arrayval field="cCastTot" index="13" column="4" value="4"/>
+    <arrayval field="cCastTot" index="13" column="5" value="2"/>
+    <arrayval field="cCastTot" index="14" column="1" value="5"/>
+    <arrayval field="cCastTot" index="14" column="2" value="5"/>
+    <arrayval field="cCastTot" index="14" column="3" value="5"/>
+    <arrayval field="cCastTot" index="14" column="4" value="4"/>
+    <arrayval field="cCastTot" index="14" column="5" value="3"/>
+    <arrayval field="cCastTot" index="15" column="1" value="5"/>
+    <arrayval field="cCastTot" index="15" column="2" value="5"/>
+    <arrayval field="cCastTot" index="15" column="3" value="5"/>
+    <arrayval field="cCastTot" index="15" column="4" value="4"/>
+    <arrayval field="cCastTot" index="15" column="5" value="3"/>
+    <arrayval field="cCastTot" index="15" column="6" value="1"/>
+    <arrayval field="cCastTot" index="16" column="1" value="5"/>
+    <arrayval field="cCastTot" index="16" column="2" value="5"/>
+    <arrayval field="cCastTot" index="16" column="3" value="5"/>
+    <arrayval field="cCastTot" index="16" column="4" value="4"/>
+    <arrayval field="cCastTot" index="16" column="5" value="4"/>
+    <arrayval field="cCastTot" index="16" column="6" value="2"/>
+    <arrayval field="cCastTot" index="17" column="1" value="5"/>
+    <arrayval field="cCastTot" index="17" column="2" value="5"/>
+    <arrayval field="cCastTot" index="17" column="3" value="5"/>
+    <arrayval field="cCastTot" index="17" column="4" value="5"/>
+    <arrayval field="cCastTot" index="17" column="5" value="4"/>
+    <arrayval field="cCastTot" index="17" column="6" value="3"/>
+    <arrayval field="cCastTot" index="18" column="1" value="5"/>
+    <arrayval field="cCastTot" index="18" column="2" value="5"/>
+    <arrayval field="cCastTot" index="18" column="3" value="5"/>
+    <arrayval field="cCastTot" index="18" column="4" value="5"/>
+    <arrayval field="cCastTot" index="18" column="5" value="5"/>
+    <arrayval field="cCastTot" index="18" column="6" value="4"/>
+    <arrayval field="cCastTot" index="19" column="1" value="5"/>
+    <arrayval field="cCastTot" index="19" column="2" value="5"/>
+    <arrayval field="cCastTot" index="19" column="3" value="5"/>
+    <arrayval field="cCastTot" index="19" column="4" value="5"/>
+    <arrayval field="cCastTot" index="19" column="5" value="5"/>
+    <arrayval field="cCastTot" index="19" column="6" value="5"/>
+
+    <!-- Spells known (0–6) from Table: Omdura Spells Known -->
+    <arrayval field="cKnowTot" index="0" value="4"/>
+    <arrayval field="cKnowTot" index="0" column="1" value="2"/>
+    <arrayval field="cKnowTot" index="1" value="5"/>
+    <arrayval field="cKnowTot" index="1" column="1" value="3"/>
+    <arrayval field="cKnowTot" index="2" value="6"/>
+    <arrayval field="cKnowTot" index="2" column="1" value="4"/>
+    <arrayval field="cKnowTot" index="3" value="6"/>
+    <arrayval field="cKnowTot" index="3" column="1" value="4"/>
+    <arrayval field="cKnowTot" index="3" column="2" value="2"/>
+    <arrayval field="cKnowTot" index="4" value="6"/>
+    <arrayval field="cKnowTot" index="4" column="1" value="4"/>
+    <arrayval field="cKnowTot" index="4" column="2" value="3"/>
+    <arrayval field="cKnowTot" index="5" value="6"/>
+    <arrayval field="cKnowTot" index="5" column="1" value="4"/>
+    <arrayval field="cKnowTot" index="5" column="2" value="4"/>
+    <arrayval field="cKnowTot" index="6" value="6"/>
+    <arrayval field="cKnowTot" index="6" column="1" value="5"/>
+    <arrayval field="cKnowTot" index="6" column="2" value="4"/>
+    <arrayval field="cKnowTot" index="6" column="3" value="2"/>
+    <arrayval field="cKnowTot" index="7" value="6"/>
+    <arrayval field="cKnowTot" index="7" column="1" value="5"/>
+    <arrayval field="cKnowTot" index="7" column="2" value="4"/>
+    <arrayval field="cKnowTot" index="7" column="3" value="3"/>
+    <arrayval field="cKnowTot" index="8" value="6"/>
+    <arrayval field="cKnowTot" index="8" column="1" value="5"/>
+    <arrayval field="cKnowTot" index="8" column="2" value="4"/>
+    <arrayval field="cKnowTot" index="8" column="3" value="4"/>
+    <arrayval field="cKnowTot" index="9" value="6"/>
+    <arrayval field="cKnowTot" index="9" column="1" value="5"/>
+    <arrayval field="cKnowTot" index="9" column="2" value="5"/>
+    <arrayval field="cKnowTot" index="9" column="3" value="4"/>
+    <arrayval field="cKnowTot" index="9" column="4" value="2"/>
+    <arrayval field="cKnowTot" index="10" value="6"/>
+    <arrayval field="cKnowTot" index="10" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="10" column="2" value="5"/>
+    <arrayval field="cKnowTot" index="10" column="3" value="4"/>
+    <arrayval field="cKnowTot" index="10" column="4" value="3"/>
+    <arrayval field="cKnowTot" index="11" value="6"/>
+    <arrayval field="cKnowTot" index="11" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="11" column="2" value="5"/>
+    <arrayval field="cKnowTot" index="11" column="3" value="4"/>
+    <arrayval field="cKnowTot" index="11" column="4" value="4"/>
+    <arrayval field="cKnowTot" index="12" value="6"/>
+    <arrayval field="cKnowTot" index="12" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="12" column="2" value="5"/>
+    <arrayval field="cKnowTot" index="12" column="3" value="5"/>
+    <arrayval field="cKnowTot" index="12" column="4" value="4"/>
+    <arrayval field="cKnowTot" index="12" column="5" value="2"/>
+    <arrayval field="cKnowTot" index="13" value="6"/>
+    <arrayval field="cKnowTot" index="13" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="13" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="13" column="3" value="5"/>
+    <arrayval field="cKnowTot" index="13" column="4" value="4"/>
+    <arrayval field="cKnowTot" index="13" column="5" value="3"/>
+    <arrayval field="cKnowTot" index="14" value="6"/>
+    <arrayval field="cKnowTot" index="14" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="14" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="14" column="3" value="5"/>
+    <arrayval field="cKnowTot" index="14" column="4" value="4"/>
+    <arrayval field="cKnowTot" index="14" column="5" value="4"/>
+    <arrayval field="cKnowTot" index="15" value="6"/>
+    <arrayval field="cKnowTot" index="15" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="15" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="15" column="3" value="5"/>
+    <arrayval field="cKnowTot" index="15" column="4" value="5"/>
+    <arrayval field="cKnowTot" index="15" column="5" value="4"/>
+    <arrayval field="cKnowTot" index="15" column="6" value="2"/>
+    <arrayval field="cKnowTot" index="16" value="6"/>
+    <arrayval field="cKnowTot" index="16" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="16" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="16" column="3" value="6"/>
+    <arrayval field="cKnowTot" index="16" column="4" value="5"/>
+    <arrayval field="cKnowTot" index="16" column="5" value="4"/>
+    <arrayval field="cKnowTot" index="16" column="6" value="3"/>
+    <arrayval field="cKnowTot" index="17" value="6"/>
+    <arrayval field="cKnowTot" index="17" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="17" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="17" column="3" value="6"/>
+    <arrayval field="cKnowTot" index="17" column="4" value="5"/>
+    <arrayval field="cKnowTot" index="17" column="5" value="4"/>
+    <arrayval field="cKnowTot" index="17" column="6" value="4"/>
+    <arrayval field="cKnowTot" index="18" value="6"/>
+    <arrayval field="cKnowTot" index="18" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="18" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="18" column="3" value="6"/>
+    <arrayval field="cKnowTot" index="18" column="4" value="5"/>
+    <arrayval field="cKnowTot" index="18" column="5" value="5"/>
+    <arrayval field="cKnowTot" index="18" column="6" value="4"/>
+    <arrayval field="cKnowTot" index="19" value="6"/>
+    <arrayval field="cKnowTot" index="19" column="1" value="6"/>
+    <arrayval field="cKnowTot" index="19" column="2" value="6"/>
+    <arrayval field="cKnowTot" index="19" column="3" value="6"/>
+    <arrayval field="cKnowTot" index="19" column="4" value="6"/>
+    <arrayval field="cKnowTot" index="19" column="5" value="5"/>
+    <arrayval field="cKnowTot" index="19" column="6" value="5"/>
+
+    <!-- Divine infusions: 1 at 3, +1 every 3 levels (3,6,9,12,15,18) cumulative -->
+    <arrayval field="cCustTot" index="2" value="1"/>
+    <arrayval field="cCustTot" index="5" value="2"/>
+    <arrayval field="cCustTot" index="8" value="3"/>
+    <arrayval field="cCustTot" index="11" value="4"/>
+    <arrayval field="cCustTot" index="14" value="5"/>
+    <arrayval field="cCustTot" index="17" value="6"/>
+
+    <tag group="cAttack" tag="Medium"/>
+    <tag group="cFort" tag="Good"/>
+    <tag group="cRef" tag="Poor"/>
+    <tag group="cWill" tag="Good"/>
+    <tag group="AlgnReq" tag="Deity1Step"/>
+    <tag group="CastInfini" tag="0"/>
+    <tag group="CasterSrc" tag="Divine"/>
+    <tag group="CasterType" tag="SpontKnow"/>
+    <tag group="ClassPanel" tag="DeityTurn"/>
+    <tag group="ClassPanel" tag="ExNeeded"/>
+    <tag group="ClassRole" tag="Spell"/>
+    <tag group="Classes" tag="CdxOmdura" name="Omdura" abbrev="Omdura"/>
+    <tag group="AgeColumn" tag="3"/>
+    <tag group="Helper" tag="IncGodName"/>
+    <tag group="Helper" tag="NoExSpells"/>
+    <!-- Spontaneous known: primary Inquisitor list for picker UX -->
+    <tag group="sClass" tag="cHelpInq"/>
+    <tag group="AllowCust" tag="cHelpInq"/>
+    <tag group="AllowCust" tag="cHelpClr"/>
+    <tag group="LGMyClass" tag="cHelpInq"/>
+    <tag group="ConsClSkil" tag="cskReligio"/>
+    <tag group="ConsClSkil" tag="cskSpellcr"/>
+
+    <!-- Class skills (RAW) -->
+    <tag group="ClassSkill" tag="Craft"/>
+    <tag group="ClassSkill" tag="Profession"/>
+    <tag group="ClassSkill" tag="skAppraise"/>
+    <tag group="ClassSkill" tag="skBluff"/>
+    <tag group="ClassSkill" tag="skDiplo"/>
+    <tag group="ClassSkill" tag="skHeal"/>
+    <tag group="ClassSkill" tag="skIntim"/>
+    <tag group="ClassSkill" tag="skKnowArca"/>
+    <tag group="ClassSkill" tag="skKnowNobl"/>
+    <tag group="ClassSkill" tag="skKnowPlan"/>
+    <tag group="ClassSkill" tag="skKnowRel"/>
+    <tag group="ClassSkill" tag="skLinguist"/>
+    <tag group="ClassSkill" tag="skPercep"/>
+    <tag group="ClassSkill" tag="skSenseMot"/>
+    <tag group="ClassSkill" tag="skSpellcr"/>
+
+    <!-- Proficiencies: simple, light, medium, shields (no tower), deity weapon -->
+    <bootstrap thing="fSimple"></bootstrap>
+    <bootstrap thing="fArmLight"></bootstrap>
+    <bootstrap thing="fArmMedium"></bootstrap>
+    <bootstrap thing="fArmShield"></bootstrap>
+
+    <bootstrap thing="cClrAura">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cClrDeiWep">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+
+    <bootstrap thing="cCdxOmdDet">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdInv">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdTouch">
+      <autotag group="ClSpecWhen" tag="2"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdInf">
+      <autotag group="ClSpecWhen" tag="3"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdMight">
+      <autotag group="ClSpecWhen" tag="4"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdWep">
+      <autotag group="ClSpecWhen" tag="5"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdComm">
+      <autotag group="ClSpecWhen" tag="7"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdImIn">
+      <autotag group="ClSpecWhen" tag="11"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdGMg">
+      <autotag group="ClSpecWhen" tag="18"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdGIn">
+      <autotag group="ClSpecWhen" tag="20"/>
+      </bootstrap>
+    <bootstrap thing="cCdxOmdCure">
+      <autotag group="ClSpecWhen" tag="1"/>
+      </bootstrap>
+
+    <link linkage="spellattr" thing="aCHA"/>
+    <link linkage="maxsplattr" thing="aCHA"/>
+
+    <eval phase="First" priority="10000"><![CDATA[
+      ~ Cannot cast alignment-opposed spells
+      perform hero.assign[Hero.DeiAlgnSpl]
+      ]]></eval>
+
+    <eval phase="Final" priority="99999999" index="2"><![CDATA[
+      ~ Primary custom = divine infusions (mercies if positive / cruelties if negative)
+      ~ Prefer paladin mercy category; if using negative energy, pick antipaladin cruelties in UI notes
+      field[cCstSpExpr].text = "(abCategory.PalMercy | abCategory.AntCruel | SpecSource.cHelpCdxOmd) & !Helper.Secondary & !Helper.Tertiary & !Helper.Obsolete"
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== CLASS LEVEL ===================== -->
+  <thing id="cCdxOmdura" name="Omdura" description="Acting as divine warriors, omduras embody the tenets of their gods and serve as divine vessels. In Asunda, omdura means “leader of souls.” These mortals spread their god’s faith and defeat its enemies, and can grant the same divine power they hold to allies.\n\n{b}Source{/b} Pathfinder RPG: Niobe (Paizo 2019) · d20PFSRD.\n{b}HD{/b} d8 · {b}BAB{/b} 3/4 · {b}Saves{/b} Fort/Will good, Ref poor · {b}Skills{/b} 4+Int.\n{b}Armor{/b} light, medium, shields (no tower) · deity’s favored weapon.\n{b}Spellcasting{/b} Spontaneous divine (Cha), orisons + spells known. List = cleric 0–6 + inquisitor, lower level wins.\n{b}Key features{/b} Aura, detect alignment, invocation (minutes/day), divine touch, divine infusions, divine might, divine weapon, commune, improved/greater invocation, greater divine might.\n\n{b}Codex HL notes{/b} Spontaneous known picker uses Inquisitor as primary list. Add missing cleric-only (or lower-level) spells via Adjust/Custom if needed. Full dual-list automation is not in this pack." compset="ClassLevel" maxlimit="20">
+    <tag group="ClassType" tag="Normal"/>
+    <bootstrap thing="cHelpCdxOmd"></bootstrap>
+    <link linkage="helper" thing="cHelpCdxOmd"/>
+  </thing>
+
+  <!-- ===================== CURE/INFLICT KNOWN PACKAGE ===================== -->
+  <thing id="cCdxOmdCure" name="Cure or Inflict Spells Known" description="In addition to spells gained from the spells known table, each omdura adds all cure spells or all inflict spells to her list of spells known (as soon as she can cast them).\n\n• Good omdura (or neutral of a good deity): must select cure.\n• Evil omdura (or neutral of an evil deity): must select inflict.\n• Neither good nor evil, and deity neither good nor evil: choose cure or inflict at 1st level (permanent).\n\nThese cannot be swapped for other spells known.\n\n{b}HL{/b} Add the appropriate cure/inflict spells to Spells Known as you gain levels (or via Adjust). This ability is the rules reminder." compset="ClSpecial" summary="All cure or all inflict spells added to known (alignment choice).">
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="Helper" tag="ClExLose"/>
+  </thing>
+
+  <!-- ===================== DETECT ALIGNMENT ===================== -->
+  <thing id="cCdxOmdDet" name="Detect Alignment" description="At will, an omdura can cast detect chaos, detect evil, detect good, or detect law. She can use only one of these at any given time." compset="ClSpecial" summary="At will: detect chaos/evil/good/law (one at a time).">
+    <tag group="AbilType" tag="SpellLike"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+  </thing>
+
+  <!-- ===================== INVOCATION ===================== -->
+  <thing id="cCdxOmdInv" name="Invocation" description="As a standard action (move at 7th, swift at 13th), call forth divine power and choose one invocation to grant to allies within 30 feet. Duration: minutes/day equal to omdura level (spent in 1-minute increments; need not be consecutive). Changing invocation is a swift action but spends another 1-minute increment.\n\nCannot be disrupted, but ends if the omdura is killed, paralyzed, stunned, or unconscious. Evil omduras grant profane bonuses; neutral omduras permanently choose sacred or profane.\n\n{b}Invocations{/b}\n• Destruction: +1 sacred weapon damage (+1/3 levels).\n• Healing: fast healing 1 (+1/3 levels).\n• Justice: +1 attack (+1/5 levels); at 10th doubled on crit confirms.\n• Piercing: +1 concentration and CL vs SR (+1/3 levels).\n• Protection: +1 AC (+1/5 levels); at 10th doubled vs crit confirms.\n• Purify: +1 saves (+1/5 levels); at 10th doubled vs curse/disease/poison.\n• Resiliency: DR 1/magic (+1/5 levels); at 10th becomes DR/opposed alignment (neutral keeps magic).\n• Resistance: resist 2 to one energy (+2/3 levels).\n• Smiting: weapons count as magic; 6th also one alignment (must match omdura); 10th also adamantine for DR only.\n\n{b}Improved (11th){/b} Choose two invocations for allies; omdura also gains one of them at half bonus.\n{b}Greater (20th){/b} Each day, one invocation is always active on self and allies at full bonus (in addition to uses)." compset="ClSpecial" summary="Ally auras minutes/day = level; choose type (Destruction, Healing, etc.).">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="Usage" tag="DayMinute"/>
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] <> 1)
+      ~ Minutes per day = class level
+      field[trkMax].value = field[xAllLev].value
+      field[livename].text = field[thingname].text & " (" & field[trkMax].value & " min/day)"
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== DIVINE TOUCH ===================== -->
+  <thing id="cCdxOmdTouch" name="Divine Touch" description="At 2nd level, deliver divine energy by touch (one free hand). Choose positive or negative energy when gained (good/good-deity must pick positive; evil/evil-deity must pick negative; true neutral of neutral deity chooses permanently).\n\nUses/day = 1/2 omdura level + Cha modifier.\nHeal (or harm living with negative) 1d6 per 2 omdura levels. Standard action (swift if self). Harm requires melee touch, no save, no AoO.\nUndead: positive harms, negative heals.\n\nModified by feats/effects that work with lay on hands (e.g. Extra Lay On Hands grants +2 uses)." compset="ClSpecial" summary="Touch heal/harm 1d6/2 levels; uses = 1/2 level + Cha.">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="Usage" tag="Day"/>
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] <> 1)
+      var lev as number
+      var dice as number
+      var uses as number
+      lev = field[xAllLev].value
+      dice = round(lev/2,0,-1)
+      if (dice < 1) then
+        dice = 1
+        endif
+      uses = dice + hero.child[aCHA].field[aModBonus].value
+      if (uses < 1) then
+        uses = 1
+        endif
+      field[abValue].value = dice
+      field[trkMax].value = uses
+      field[livename].text = field[thingname].text & " (" & dice & "d6, " & uses & "/day)"
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== DIVINE INFUSION ===================== -->
+  <thing id="cCdxOmdInf" name="Divine Infusion" description="At 3rd level and every 3 levels thereafter, select one divine infusion.\n• Positive divine touch: add a mercy (treat omdura level as paladin level; divine touch as lay on hands).\n• Negative divine touch: add a cruelty (treat omdura level as antipaladin level; divine touch as touch of corruption).\nAt 6th, 9th, and 12th, expanded infusion lists follow paladin/antipaladin progression.\n\n{b}HL{/b} Use the class custom chooser (Domain/Infusion slot) to pick mercies or cruelties as available. Counts as mercy/cruelty for feats that care." compset="ClSpecial" summary="Add mercy or cruelty to divine touch (every 3 levels from 3rd).">
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="SpecSource" tag="cHelpCdxOmd"/>
+  </thing>
+
+  <!-- ===================== DIVINE MIGHT ===================== -->
+  <thing id="cCdxOmdMight" name="Divine Might" description="At 4th level, once per day as a swift action, choose a target within sight. If the target is opposed to your alignment on either axis, add half Cha bonus (min 0) to attack rolls and half omdura level to damage vs that target, and gain deflection AC equal to half Cha vs its attacks.\n\nNeutral omdura: any target, but only 1/3 Cha and 1/3 level to attack/damage, and 1/3 Cha to deflection AC.\nIf a non-neutral omdura targets a non-opposed creature, the use is wasted.\n\nLasts until the target dies or you rest. Extra uses: 2/day at 9th, 3/day at 14th, 4/day at 19th.\n\n{b}Greater Divine Might (18th){/b} Use full Cha and full level (neutral: full Cha and level − 3)." compset="ClSpecial" summary="Smite-like vs opposed alignment; uses scale 4/9/14/19.">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="Usage" tag="Day"/>
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] <> 1)
+      var lev as number
+      var uses as number
+      lev = field[xAllLev].value
+      uses = 1
+      if (lev >= 9) then
+        uses = 2
+        endif
+      if (lev >= 14) then
+        uses = 3
+        endif
+      if (lev >= 19) then
+        uses = 4
+        endif
+      field[trkMax].value = uses
+      field[abValue].value = round(lev/2,0,-1)
+      field[livename].text = field[thingname].text & " (" & uses & "/day)"
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== DIVINE WEAPON ===================== -->
+  <thing id="cCdxOmdWep" name="Divine Weapon" description="At 5th level, as a standard action, call a divine spirit into your weapon for 1 minute/level. Weapon sheds torch light.\n\nEnhancement: +1 at 5th, +1 per 3 levels beyond 5th (max +6 at 20th). Stack with existing bonuses up to +5, or spend bonus on: brilliant energy, defending, flaming, flaming burst, keen, speed.\n• Lawful: axiomatic, merciful\n• Chaotic: anarchic, vicious\n• Good: disruption, holy\n• Evil: unholy, wounding\n• Neutral: vorpal\nMust put at least +1 enhancement on a nonmagical weapon before specials. Double weapons: one end only. Benefits only while you wield it.\n\nUses/day: 1 at 5th, +1/4 levels (max 4/day at 17th).\nIf the bonded weapon is destroyed: lose this ability for 30 days or until you gain a level (whichever first), and −1 attack/damage during that time.\n\n{b}HL{/b} Track uses here; apply temporary enhancement via Adjust or weapon custom mods." compset="ClSpecial" summary="Weapon spirit +1 to +6, 1 min/level; uses 1 + 1/4 levels after 5th.">
+    <tag group="AbilType" tag="Super"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="Usage" tag="Day"/>
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] <> 1)
+      var lev as number
+      var bonus as number
+      var uses as number
+      var tmp as number
+      lev = field[xAllLev].value
+      tmp = lev - 5
+      if (tmp < 0) then
+        tmp = 0
+        endif
+      bonus = 1 + round(tmp/3,0,-1)
+      if (bonus > 6) then
+        bonus = 6
+        endif
+      uses = 1 + round(tmp/4,0,-1)
+      if (uses > 4) then
+        uses = 4
+        endif
+      field[abValue].value = bonus
+      field[trkMax].value = uses
+      field[livename].text = field[thingname].text & " (+" & bonus & ", " & uses & "/day, " & lev & " min)"
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== COMMUNE ===================== -->
+  <thing id="cCdxOmdComm" name="Commune" description="At 7th level, cast commune once per day as a spell-like ability. At 15th level, twice per day." compset="ClSpecial" summary="Commune SLA 1/day (2/day at 15th).">
+    <tag group="AbilType" tag="SpellLike"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+    <tag group="Usage" tag="Day"/>
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      doneif (tagis[Helper.ShowSpec] <> 1)
+      if (field[xAllLev].value >= 15) then
+        field[trkMax].value = 2
+      else
+        field[trkMax].value = 1
+        endif
+      field[livename].text = field[thingname].text & " (" & field[trkMax].value & "/day)"
+      ]]></eval>
+  </thing>
+
+  <!-- ===================== IMPROVED INVOCATION ===================== -->
+  <thing id="cCdxOmdImIn" name="Improved Invocation" description="At 11th level, when using invocation, choose two invocations to grant allies. You also benefit from any one invocation you call, but only half the granted bonus." compset="ClSpecial" summary="Two ally invocations; self at half bonus.">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+  </thing>
+
+  <!-- ===================== GREATER DIVINE MIGHT ===================== -->
+  <thing id="cCdxOmdGMg" name="Greater Divine Might" description="At 18th level, use full Charisma bonus and full omdura level with divine might. A neutral omdura uses full Cha and omdura level − 3." compset="ClSpecial" summary="Divine might uses full Cha and level (neutral: level−3).">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+  </thing>
+
+  <!-- ===================== GREATER INVOCATION ===================== -->
+  <thing id="cCdxOmdGIn" name="Greater Invocation" description="At 20th level, each day when you regain spell slots, choose one invocation that is active on yourself and your allies for the entire day at full bonus. This is in addition to normal invocation uses." compset="ClSpecial" summary="One all-day invocation on self and allies.">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="Helper" tag="SpecUp"/>
+    <tag group="Helper" tag="ClExLose"/>
+  </thing>
+
+</document>

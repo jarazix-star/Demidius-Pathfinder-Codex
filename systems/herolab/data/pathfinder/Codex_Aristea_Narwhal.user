@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Aristea Narwhal Animal Lord"/>
+
+  <!--
+    Adds Narwhal as an Animal Lord base-animal choice.
+
+    This intentionally references the existing community-pack Narwhal race
+    (ruNarwhal) rather than copying or replacing it. The source race is in the
+    Skull & Shackles community bestiary data.
+  -->
+  <thing
+    id="cdxALNarwh"
+    name="Narwhal"
+    description="Narwhal animal lords carry the endurance, deep-water senses, and spiraled tusk of the arctic whale. Narwhals are social cetaceans of frigid northern seas, gathering in pods beneath pack ice and surfacing through narrow breaks to breathe. A mature narwhal can reach 14 feet in length and weigh more than 3,000 pounds. Its famous spiraled tusk can grow to roughly 6 feet and becomes a devastating weapon when the animal charges.\n\n{b}Narwhal Statblock{/b}\n{b}CR{/b} 3; {b}XP{/b} 800\nN Large animal\n{b}Init{/b} +3; {b}Senses{/b} blindsight 120 ft., low-light vision; Perception +12\n\n{b}DEFENSE{/b}\n{b}AC{/b} 16, touch 12, flat-footed 13 (+3 Dex, +4 natural, -1 size)\n{b}hp{/b} 30 (4d8+12)\n{b}Fort{/b} +6, {b}Ref{/b} +7, {b}Will{/b} +3\n\n{b}OFFENSE{/b}\n{b}Speed{/b} swim 80 ft.\n{b}Melee{/b} bite +7 (1d8+7)\n{b}Space{/b} 10 ft.; {b}Reach{/b} 10 ft.\n{b}Special Attacks{/b} tusk\n\n{b}STATISTICS{/b}\n{b}Str{/b} 21, {b}Dex{/b} 17, {b}Con{/b} 14, {b}Int{/b} 2, {b}Wis{/b} 15, {b}Cha{/b} 6\n{b}Base Atk{/b} +3; {b}CMB{/b} +9; {b}CMD{/b} 22 (can't be tripped)\n{b}Feats{/b} Skill Focus (Swim), Toughness\n{b}Skills{/b} Perception +12, Swim +20; {b}Racial Modifiers{/b} +4 Perception\n{b}Special Qualities{/b} hold breath\n{b}Environment{/b} cold oceans; {b}Organization{/b} solitary, pair, or pod (3-18); {b}Treasure{/b} none\n\n{b}Hold Breath (Ex){/b} A narwhal can hold its breath for a number of minutes equal to twice its Constitution score before it risks drowning.\n\n{b}Tusk (Ex){/b} When a narwhal makes a charge, it can make a single gore attack with its tusk in place of its bite. If the attack hits, the gore deals 2d6+14 points of damage and has a x3 critical multiplier.\n\n{b}Animal Lord Adjusted Ability Scores{/b}\nThe Animal Lord template uses the higher of the base creature's score and the narwhal's score for each ability, then adds +4 to every ability. The narwhal-derived minimum adjusted scores are {b}Str 25, Dex 21, Con 18, Int 6, Wis 19, Cha 10{/b}. If the base creature has a higher score, use that higher score before applying the +4 template increase."
+    compset="RaceCustom"
+    summary="Dive beneath the ice as a keen-sensed narwhal with a deadly tusk.">
+
+    <!-- Base animal values: CR 3 and +4 natural armor. -->
+    <fieldval field="abValue" value="3"/>
+    <fieldval field="abValue2" value="4"/>
+    <fieldval field="abValue3" value="0"/>
+
+    <!-- Make this choice available to the Animal Lord template configurator. -->
+    <tag group="AllowRCust" tag="cfgAnimLor"/>
+    <tag group="Helper" tag="SpecUp"/>
+
+    <!-- Narwhal movement, senses, breath holding, and natural attacks. -->
+    <bootstrap thing="xSwim">
+      <autotag group="Value" tag="80"/>
+      </bootstrap>
+    <bootstrap thing="rBlindSi">
+      <autotag group="Value" tag="120"/>
+      </bootstrap>
+    <bootstrap thing="raHoldBrea">
+      <autotag group="Value" tag="2"/>
+      </bootstrap>
+    <bootstrap thing="xBonusPerc">
+      <autotag group="Value" tag="4"/>
+      </bootstrap>
+    <bootstrap thing="wBite">
+      <autotag group="Helper" tag="NatSizeDmg"/>
+      <autotag group="wMain" tag="1d8"/>
+      </bootstrap>
+    <bootstrap thing="rauNwTusk"></bootstrap>
+
+    <!-- Use the existing Narwhal race as the legal shapechange form. -->
+    <bootstrap thing="raChangeSh">
+      <autotag group="FormLimit" tag="ruNarwhal"/>
+      <autotag group="PolyEffect" tag="Shapechang"/>
+      <autotag group="SpInfo" tag="spShapech9"/>
+      </bootstrap>
+
+    <!--
+      Animal Lord CR and natural armor use the higher of the base creature or
+      base animal, matching the built-in Animal Lord selectors.
+    -->
+    <eval phase="First" priority="5000">~ Set the focus to the base race.
+      perform hero.findchild[BaseRace].setfocus
+
+      ~ If no race has been selected yet, there is nothing to adjust.
+      doneif (state.isfocus = 0)
+
+      var mincr as number
+      var natarmor as number
+
+      ~ Minimum CR is the higher of creature CR or animal CR, plus 2.
+      if (field[abValue].value &gt; focus.field[rCR].value) then
+        mincr = field[abValue].value
+      else
+        mincr = focus.field[rCR].value
+        endif
+      mincr += 2
+
+      ~ Increase natural armor only when the animal's value is higher.
+      if (field[abValue2].value &gt; focus.field[rAC].value) then
+        natarmor = field[abValue2].value - focus.field[rAC].value
+        endif
+
+      ~ Apply the adjustments to the Animal Lord base template.
+      perform hero.findchild[BaseTempl,"SpecSource.tmAnimLord"].setfocus
+      doneif (state.isfocus = 0)
+      focus.field[tmCRMin].value += mincr
+      focus.field[tmAC].value += natarmor</eval>
+  </thing>
+</document>

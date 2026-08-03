@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Steadfast Personality Charisma Will"/>
+
+  <!--
+    Campaign version of Steadfast Personality.
+
+    Unlike the published feat, this version makes Charisma the associated
+    ability score for every Will save. This is a true Hero Lab save-ability
+    substitution, not an untyped bonus and not a situational modifier.
+
+    Replace the published Steadfast Personality feat with this feat; do not
+    select both, since the published feat would still add its narrower
+    mind-affecting situational benefit.
+  -->
+  <thing
+    id="fCdxStfCha"
+    name="Steadfast Personality (Charismatic Will)"
+    description="{b}Prerequisite{/b}: Charisma 13.\n\n{b}Benefit{/b}: Your force of personality is the foundation of your mental resilience. You use your Charisma modifier instead of your Wisdom modifier when calculating all Will saving throws.\n\n{b}Campaign note{/b}: This campaign version replaces the published Steadfast Personality feat. Remove the published feat before selecting this one."
+    compset="Feat"
+    summary="Use Charisma instead of Wisdom for all Will saves"
+    uniqueness="useronce">
+
+    <tag group="Helper" tag="ShowSpec"/>
+
+    <eval phase="PreAttr" priority="10000"><![CDATA[
+      ~ If the feat is disabled, do nothing.
+      doneif (tagis[Helper.FtDisable] <> 0)
+
+      ~ Make Charisma the Will save's native associated ability score.
+      ~ This mirrors the working Saving Throw Ability Score adjustment,
+      ~ but fixes both selections in the feat itself.
+      perform hero.child[svWill].assign[SaveOver.aCHA]
+      ]]></eval>
+
+    <exprreq message="Charisma 13 required."><![CDATA[
+      #attrvalue[aCHA] >= 13
+      ]]></exprreq>
+  </thing>
+</document>

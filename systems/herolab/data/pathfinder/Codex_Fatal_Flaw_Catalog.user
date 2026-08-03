@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document signature="Hero Lab Data">
+  <fileinfo>
+    <info_author>Demidius Pathfinder Codex</info_author>
+    <info_history>2026-08-01 - Generated the 100 canonical Fatal Flaw choices and six persistent selection slots from Fatal-Flaw-Catalog.md. 2026-08-02 - Added display-only public-statblock output for Armidale Codex v3.18.</info_history>
+  </fileinfo>
+  <thing id="xCFF001" name="1. No Time for Book Learning" description="Cannot read." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF002" name="2. Unlucky" description="−1 to all saves." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF003" name="3. Unskilled" description="−2 to all skill checks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF004" name="4. Stiff" description="−3 to Reflex saves." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF005" name="5. Unfocused" description="−3 to Will saves." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF006" name="6. Sickly" description="−3 to Fortitude saves." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF007" name="7. Naive" description="−10 to Sense Motive." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF008" name="8. Honest" description="Will save to lie." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF009" name="9. Awkward" description="−10 to Diplomacy." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF010" name="10. Ignorant" description="−4 Intelligence." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF011" name="11. Martyr" description="Will save not to prioritize allies below 50% hit points." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF012" name="12. Mercy" description="Will save to deal lethal damage." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF013" name="13. Impatient" description="−10 to Stealth." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF014" name="14. Dragon Tongued" description="Can speak only Draconic." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF015" name="15. Arrow Magnet" description="−4 AC against ranged attacks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF016" name="16. Curious" description="Will save not to investigate." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF017" name="17. Trap-lover" description="Will save not to participate in disabling traps." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF018" name="18. Frail" description="−4 Constitution." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF019" name="19. Weak" description="−2 Strength; cannot be improved." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF020" name="20. Gambling Addict" description="Will save not to gamble, or must gamble once per day." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF021" name="21. Can't Back Down" description="Will save to end a conflict." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF022" name="22. Wrathful" description="Will save not to target someone who injures an ally." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF023" name="23. Alcoholic" description="Will save not to drink each day." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF024" name="24. Kleptomaniac" description="Will save not to steal a trinket each day." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF025" name="25. Secretive" description="Will save to share personal information." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF026" name="26. Can't Keep a Secret" description="Will save not to reveal a personal secret the first time you see that person each day." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF027" name="27. Narcissist" description="Will save not to be stunned for 1 round when seeing your reflection." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF028" name="28. Penny-pincher" description="Will save to spend more than 10% of wealth." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF029" name="29. Speak in Third Person" description="Must always speak in the third person." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF030" name="30. Thinks They Can Speak to Animals" description="Believes they can speak to animals, but cannot." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF031" name="31. Vengeful" description="Will save not to target the last creature to hit you in combat." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF032" name="32. Absent-minded" description="20% chance to forget to equip an item before conflict." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF033" name="33. Goblinphobia" description="Will save not to flee from goblinoids." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF034" name="34. Fear of the Dark" description="Must always have a light source; Will save against fear." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF035" name="35. Hemophilia" description="Slashing damage causes 1 bleed damage." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF036" name="36. Nudist" description="Cannot wear armor." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF037" name="37. Warrior of the Phalanx" description="−4 AC while not adjacent to an ally." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF038" name="38. Can't Save Money" description="Will save not to spend wealth." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF039" name="39. Beady Eyes" description="Darkvision becomes low-light vision; low-light vision becomes normal vision." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF040" name="40. Chivalrous" description="Will save to attack someone of the opposite gender." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF041" name="41. Code of Arms" description="−3 to attacks against someone using a worse weapon than yours." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF042" name="42. Coward" description="−5 on fear checks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF043" name="43. Lightweight" description="Carried gear counts as twice its normal weight." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF044" name="44. Glory-hound" description="−3 AC until you drop an opponent in combat." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF045" name="45. Honor the Duel" description="Will save to attack someone already attacked that round." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF046" name="46. Love of Nature" description="Will save to attack animals, plants, vermin, or magical beasts." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF047" name="47. Metal Intolerance" description="Cannot use metal weapons, armor, or magic items." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF048" name="48. Mysterious Illness" description="Roll twice and take the worse result on Fortitude saves against nausea and sickness." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF049" name="49. Weapon Bound" description="Proficient only with your deity's favored weapon." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF050" name="50. Partially Blind" description="Vision is limited to 30 feet." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF051" name="51. Blind" description="Permanently blind; gains Blind-Fight as a bonus feat." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF052" name="52. Chronic Disease" description="Cannot run." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF053" name="53. Callous" description="−4 Charisma." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF054" name="54. Fear of Starvation" description="Shaken while carrying fewer than 30 days of rations." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF055" name="55. Dark Prophecy" description="Fortitude save or be stunned for 1d6 rounds after a vision of a dark future." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF056" name="56. Dyslexia" description="−3 to literacy and Knowledge checks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF057" name="57. Hubris" description="−3 to all skills against someone who has slighted you." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF058" name="58. Easily Possessed" description="−4 against enchantment." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF059" name="59. Stubby Fingers" description="−2 to ranged attacks, Disable Device, and one-handed weapon attacks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF060" name="60. Low-pain Threshold" description="After losing at least half your HP from one hit, Fortitude save or fall unconscious until healed." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF061" name="61. Terrible Tumbler" description="−4 to Dexterity-based skills." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF062" name="62. Motion Sickness" description="−2 to Ride; failure causes nausea." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF063" name="63. Mimosphobia" description="Will save against fear near mimics and during treasure checks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF064" name="64. Urbanite" description="−5 to Knowledge (nature) and Survival." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF065" name="65. Giantophobia" description="Will save against fear near giants." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF066" name="66. Fear of the Gods" description="Will save or become shaken for 3 rounds when gods are mentioned." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF067" name="67. Fear of the Opposite Sex" description="Will save or become shaken." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF068" name="68. Fear of Fire" description="Will save or become shaken." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF069" name="69. Fear of Water" description="Will save or become shaken." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF070" name="70. Hot-blooded" description="−5 on saves against cold." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF071" name="71. Never Back Down" description="Will save to withdraw or retreat." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF072" name="72. Deep Scar" description="−4 to Strength-based skill checks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF073" name="73. Mute" description="Cannot speak." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF074" name="74. Lame" description="−10 feet to movement." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF075" name="75. Fear of Ghosts/Undead" description="Will save against fear near undead." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF076" name="76. Cacophobia" description="Will save against fear near aberrations." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF077" name="77. Monologue" description="Will save not to spend the first 1d3 rounds of combat explaining or monologuing." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF078" name="78. Unreactive" description="−5 initiative." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF079" name="79. Bravado" description="Cannot receive a dodge bonus to AC." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF080" name="80. Skinny-dipper" description="Will save to enter water while carrying gear." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF081" name="81. Slow-healing" description="Fortitude save or receive only half the normal healing." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF082" name="82. Insomniac" description="Fortitude save to sleep unless exhausted." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF083" name="83. Zoophobia" description="Will save or become shaken near animals." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF084" name="84. Catoptrophobia" description="Will save or become shaken near reflective surfaces." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF085" name="85. Misled" description="Once per session, the GM triggers doubts about the character's choices." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF086" name="86. Vulnerable" description="−2 AC." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF087" name="87. Comfort Object" description="−5 to all rolls while not holding the comfort object." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF088" name="88. Murky-eyed" description="Roll twice and take the worse result against concealment." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF089" name="89. Easily Distracted" description="−5 Perception." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF090" name="90. Acrophobia" description="Will save against fear while flying or near ledges." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF091" name="91. Weak Stomach" description="Fortitude save to keep down potions." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF092" name="92. Righteousness" description="Will save to allow the ends to justify the means." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF093" name="93. Believes They Have Magic" description="Must attempt to “use” nonexistent magic at least once per session." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF094" name="94. Flirt" description="Must spend the first combat round trying to talk or flirt out of combat." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF095" name="95. Klutz" description="−3 CMD against disarm and trip; −3 Acrobatics." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF096" name="96. Masochist" description="Will save not to become shaken after taking damage." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF097" name="97. Senile" description="−4 Wisdom." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF098" name="98. Smartest in the Room" description="May make Knowledge checks untrained and refuses others' combat advice derived from Knowledge checks." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF099" name="99. Zealot" description="Will save not to attack someone who insults your god or goddess." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF100" name="100. Player Choice" description="Choose a custom humorous flaw with the GM." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCdxFlw1" name="Fatal Flaw Slot 1" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
+    <fieldval field="usrCandid1" value="Custom.CdxFatal" />
+    <fieldval field="abValue" value="1" />
+    <tag group="Helper" tag="ShowSpec" />
+    <eval phase="Render" priority="50000"><![CDATA[
+      if (field[usrChosen1].ischosen = 0) then
+        perform delete[Helper.ShowSpec]
+      else
+        field[sbName].text = "Godling Fatal Flaw|Slot=1|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="xCdxFlw2" name="Fatal Flaw Slot 2" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
+    <fieldval field="usrCandid1" value="Custom.CdxFatal" />
+    <fieldval field="abValue" value="2" />
+    <tag group="Helper" tag="ShowSpec" />
+    <eval phase="Render" priority="50000"><![CDATA[
+      if (field[usrChosen1].ischosen = 0) then
+        perform delete[Helper.ShowSpec]
+      else
+        field[sbName].text = "Godling Fatal Flaw|Slot=2|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="xCdxFlw3" name="Fatal Flaw Slot 3" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
+    <fieldval field="usrCandid1" value="Custom.CdxFatal" />
+    <fieldval field="abValue" value="3" />
+    <tag group="Helper" tag="ShowSpec" />
+    <eval phase="Render" priority="50000"><![CDATA[
+      if (field[usrChosen1].ischosen = 0) then
+        perform delete[Helper.ShowSpec]
+      else
+        field[sbName].text = "Godling Fatal Flaw|Slot=3|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="xCdxFlw4" name="Fatal Flaw Slot 4" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
+    <fieldval field="usrCandid1" value="Custom.CdxFatal" />
+    <fieldval field="abValue" value="4" />
+    <tag group="Helper" tag="ShowSpec" />
+    <eval phase="Render" priority="50000"><![CDATA[
+      if (field[usrChosen1].ischosen = 0) then
+        perform delete[Helper.ShowSpec]
+      else
+        field[sbName].text = "Godling Fatal Flaw|Slot=4|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="xCdxFlw5" name="Fatal Flaw Slot 5" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
+    <fieldval field="usrCandid1" value="Custom.CdxFatal" />
+    <fieldval field="abValue" value="5" />
+    <tag group="Helper" tag="ShowSpec" />
+    <eval phase="Render" priority="50000"><![CDATA[
+      if (field[usrChosen1].ischosen = 0) then
+        perform delete[Helper.ShowSpec]
+      else
+        field[sbName].text = "Godling Fatal Flaw|Slot=5|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="xCdxFlw6" name="Fatal Flaw Slot 6" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
+    <fieldval field="usrCandid1" value="Custom.CdxFatal" />
+    <fieldval field="abValue" value="6" />
+    <tag group="Helper" tag="ShowSpec" />
+    <eval phase="Render" priority="50000"><![CDATA[
+      if (field[usrChosen1].ischosen = 0) then
+        perform delete[Helper.ShowSpec]
+      else
+        field[sbName].text = "Godling Fatal Flaw|Slot=6|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
+        endif
+    ]]></eval>
+  </thing>
+</document>

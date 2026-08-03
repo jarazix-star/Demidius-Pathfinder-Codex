@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Structure">
+  <group id="CdxGodStr" name="Bloodline Strength">
+    <value id="Active" name="Godly Powers Active"/>
+    <value id="Pure" name="Pure Mortal"/>
+    <value id="Eighth" name="1/8 Godling"/>
+    <value id="Quarter" name="1/4 Godling"/>
+    <value id="Demigod" name="Demigod"/>
+    <value id="MortGod" name="Mortal God"/>
+  </group>
+  <group id="CdxGodAnc" name="Godly Ancestor">
+    <value id="Option" name="Ancestor Option"/>
+  </group>
+</document>

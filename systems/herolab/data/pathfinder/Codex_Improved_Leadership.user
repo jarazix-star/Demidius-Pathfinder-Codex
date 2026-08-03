@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Improved Leadership"/>
+
+  <!--
+    Campaign feat: Improved Leadership
+    Benefit is descriptive only — Hero Lab does not auto-adjust cohort level.
+    Track cohort level manually on the cohort (character level - 1).
+
+    Prerequisite: Leadership (TEXT ONLY — not enforced by exprreq).
+    Enforcing HasFeat.fLeadersh failed compile: tag not defined / truncated.
+    Do not edit core Leadership data.
+  -->
+  <thing
+    id="fCdxImpLead"
+    name="Improved Leadership"
+    description="Your talent for commanding loyalty lets you attract a stronger personal cohort than most leaders manage.\n\n{b}Prerequisite{/b}: Leadership (campaign honor system — not auto-checked by Hero Lab).\n\n{b}Benefit{/b}: Your cohort may be up to one level lower than your character level (instead of the usual two levels lower from the Leadership feat). Followers, Leadership score, and all other Leadership rules are unchanged.\n\n{b}Hero Lab note{/b}: This feat does not automatically change cohort level fields. Set the cohort's level manually to (your level - 1) and keep it updated when you level up.\n\n{b}Special{/b}: This is a campaign/custom feat. It does not replace Epic Leadership or other published Leadership expansions unless the GM says so."
+    compset="Feat"
+    summary="Cohort may be 1 level behind you (text/manual; Leadership prereq text-only).">
+
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="fCategory" tag="General"/>
+  </thing>
+</document>

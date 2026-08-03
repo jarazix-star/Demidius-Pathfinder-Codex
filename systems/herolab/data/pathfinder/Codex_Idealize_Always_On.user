@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Idealize Always Active"/>
+
+  <!--
+    Aristea campaign version of Idealize.
+
+    Aristea is treated as continuously benefiting from her own augmented
+    mythic shapechange. Hero Lab cannot identify which ability-score changes
+    came from her own spell, so this feat applies Idealize's increase directly
+    to the three physical ability scores affected by shapechanging.
+
+    aPostMod is intentional: the increase must stack on top of the bonuses
+    already supplied by the active polymorph/shapechange effect instead of
+    competing with them as a second enhancement bonus.
+  -->
+  <thing
+    id="fCdxIdlOn"
+    name="Idealize (Always Active)"
+    description="{b}Prerequisite{/b}: Character level 10th.\n\n{b}Benefit{/b}: You are treated as continuously benefiting from Idealize while your permanent augmented mythic shapechange is active. Increase your Strength, Dexterity, and Constitution scores by 2. At 20th character level, increase those scores by 4 instead.\n\n{b}Campaign implementation{/b}: This feat is Aristea's always-active version of the Idealize arcane discovery. Hero Lab cannot determine whether an ability-score bonus came from your own spell, so the Idealize increase is applied directly and continuously to the physical ability scores governed by shapechange."
+    compset="Feat"
+    summary="+2 physical ability scores; +4 at level 20"
+    uniqueness="useronce">
+
+    <tag group="Helper" tag="ShowSpec"/>
+
+    <eval phase="Attr" priority="10000"><![CDATA[
+      var idealbonus as number
+
+      ~ If the feat is disabled, do nothing.
+      doneif (tagis[Helper.FtDisable] <> 0)
+
+      idealbonus = 2
+      if (#totallevelcount[] >= 20) then
+        idealbonus = 4
+        endif
+
+      ~ Apply during the attribute calculation phase through aPostMod. This
+      ~ stacks with the active shapechange effect while still being included
+      ~ when Hero Lab derives the final ability scores.
+      hero.child[aSTR].field[aPostMod].value += idealbonus
+      hero.child[aDEX].field[aPostMod].value += idealbonus
+      hero.child[aCON].field[aPostMod].value += idealbonus
+      ]]></eval>
+
+    <exprreq message="Character level 10th required."><![CDATA[
+      #totallevelcount[] >= 10
+      ]]></exprreq>
+  </thing>
+</document>

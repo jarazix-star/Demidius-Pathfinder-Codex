@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Structure">
+  <!-- Persistent user-entered name carried only by Godly Power picks. -->
+  <component id="CdxGodNm" name="Godly Power Name" autocompset="no">
+    <field id="cdxGPName" name="Custom Godly Power Name" type="user" maxlength="100"/>
+    <eval phase="First" priority="5000" index="1"><![CDATA[
+      ~ Every Godly Power added directly by the user spends one Godly Power slot.
+      if (isuser + origin.ishero >= 2) then
+        hero.child[resCdxGod].field[resSpent].value += 1
+        ~ Publish selected Godly Powers to Hero Lab's public statblock XML.
+        ~ Armidale Codex recognizes the stable sbName prefix below.
+        perform assign[Helper.ShowSpec]
+        endif
+    ]]></eval>
+    <eval phase="Render" priority="50000" index="2"><![CDATA[
+      doneif (isuser + origin.ishero < 2)
+      field[sbName].text = "Godling Power|Name=" & field[livename].text
+    ]]></eval>
+  </component>
+
+  <!-- A neutral Ability with a dedicated custom-name field. This avoids
+       class-special, item-specific, and mythic-path linkage. -->
+  <compset id="CdxGodPwr">
+    <compref component="Ability"/>
+    <compref component="UserSelect"/>
+    <compref component="CdxGodNm"/>
+  </compset>
+</document>

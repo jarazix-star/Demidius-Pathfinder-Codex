@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Hermes Deity"/>
+
+  <!--
+    Campaign Hermes.
+
+    The obedience and three boon mechanics match Hero Lab's existing Chaldira
+    Zuzaristan obedience package. Reusing that native package preserves the
+    working Fortune's Child luck-bonus behavior while the deity below provides
+    the campaign-specific identity, weapon, domains, and full rules text.
+  -->
+  <thing id="deiCdxHerm" name="Hermes" description="Hermes is the chaotic good god of luck, roads, travel, trade, liberation, communities, thieves, messengers, and clever action. His favored weapon is the rapier. His obedience uses a coin or button, a balanced weapon, and a called toss to bring another person good fortune. His three boons are Lucky Blessing, Fortune's Child, and Seven-Pipped Gem. The complete campaign text appears in the project handoff." compset="Deity" uniqueness="unique">
+    <fieldval field="deiEpithet" value="The Lucky Messenger"/>
+    <fieldval field="deiPortfol" value="Luck, roads, travel, trade, liberation, community, thieves, messengers, and clever action"/>
+    <fieldval field="deiSymbol" value="A winged staff or caduceus"/>
+
+    <tag group="AlignTemp" tag="ChaotGood"/>
+    <tag group="WepProf" tag="wRapier"/>
+    <tag group="AllowDom" tag="cdTrickery"/>
+    <tag group="AllowDom" tag="cdTravel"/>
+    <tag group="AllowDom" tag="cdCommun"/>
+    <tag group="AllowDom" tag="cdLiberat"/>
+    <tag group="AllowDom" tag="cdLuck"/>
+    <tag group="explicit" tag="10"/>
+
+    <bootstrap thing="abObeChaldira">
+      <containerreq phase="First" priority="500"><![CDATA[Custom.Obedience <> 0]]></containerreq>
+    </bootstrap>
+  </thing>
+</document>

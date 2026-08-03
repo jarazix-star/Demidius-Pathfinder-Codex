@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Gloves of Sense Vitals"/>
+
+  <!--
+    Demidius-project minor artifact.
+
+    The item bootstraps Hero Lab's existing racial sneak-attack accumulator
+    only while equipped. That accumulator is designed to combine with Rogue,
+    Ninja, and other existing sneak-attack class features.
+  -->
+  <thing
+    id="ioCdxSnVit"
+    name="Gloves of Sense Vitals"
+    description="These fitted gloves pulse with a faint awareness of heartbeat, breath, and the vulnerable currents of living bodies. While worn and equipped, the gloves grant the wearer +5d6 sneak attack damage. This bonus stacks with any sneak attack damage the wearer already possesses.\n\n{b}Aura{/b} strong divination; {b}CL{/b} 15th\n{b}Slot{/b} hands; {b}Price{/b} —; {b}Weight{/b} —\n\n{b}Minor Artifact{/b}"
+    compset="Wondrous"
+    summary="Grants +5d6 sneak attack damage while equipped."
+    uniqueness="unique">
+
+    <fieldval field="iCL" value="15"/>
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="ArtiMinor"/>
+    <tag group="Hero" tag="EqpHand"/>
+    <tag group="iSchool" tag="Divination"/>
+
+    <!-- Ensure the shared sneak-attack accumulator exists when equipped. -->
+    <bootstrap thing="raSneakAtt">
+      <containerreq phase="First" priority="500"><![CDATA[fieldval:gIsEquip <> 0]]></containerreq>
+      </bootstrap>
+
+    <!-- Add five dice only while the gloves are equipped. -->
+    <eval phase="PostAttr" priority="15000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      #value[raSneakAtt] += 5
+      perform hero.child[raSneakAtt].delete[Helper.SpcDisable]
+      ]]></eval>
+  </thing>
+</document>

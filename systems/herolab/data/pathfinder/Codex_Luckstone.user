@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Luckstone Fate Favored Fix"/>
+
+  <!--
+    Campaign fix: Stone of Good Luck (luckstone) + Fate's Favored
+
+    Stock HL luckstone applies a typed +1 luck bonus. Fortune's Child (Sentinel)
+    is applied automatically by HL to BonLuck fields. Fate's Favored is NOT
+    reliably applied to the stock item, so luckstone stops at +2 (base+FC)
+    instead of campaign +3 (base+FC+FF).
+
+    Same recipe as Codex_Eyebrow_Piercing_of_Confidence / Captain's Hat:
+    set base luck, then +1 if trFateFavo lives, then #applybonus[BonLuck,...].
+
+    RAW luckstone: +1 luck on saves, ability checks, skill checks.
+    Campaign (DO_NOT_FORGET §6.9): Fortune's Child AND Fate's Favored both improve it.
+
+    IMPORTANT: Unequip/delete the stock "Stone of good luck (Luckstone)" before
+    equipping this item, or bonuses may double-stack.
+  -->
+
+  <thing
+    id="ioCdxLuckSt"
+    name="Stone of Good Luck (Luckstone) [Codex]"
+    description="This small bit of agate grants a +1 luck bonus on saving throws, ability checks, and skill checks.\n\n{b}Campaign (Demidius){/b} Fortune's Child and Fate's Favored both improve this luck bonus. Hero Lab auto-applies Fortune's Child to typed luck bonuses; this Codex item also applies Fate's Favored (+1). With both, the total luck bonus from the stone is +3.\n\n{b}HL{/b} Equip this Codex item and remove the stock luckstone from the portfolio so the bonuses do not stack twice.\n\n{b}Slot{/b} none; {b}Price{/b} 20,000 gp; {b}Weight{/b} -\n\n{b}Wondrous Item{/b}"
+    compset="Wondrous"
+    summary="+1 luck to saves, skills, ability checks; +1 more if Fate's Favored (FC auto)."
+    uniqueness="unique">
+
+    <fieldval field="gCost" value="20000"/>
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+
+    <eval phase="Final" priority="10000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      var luckbonus as number
+      luckbonus = 1
+
+      ~ Stock HL applies Fortune's Child to BonLuck automatically.
+      ~ Fate's Favored must be added explicitly (campaign + same as piercing/hat).
+      if (hero.childlives[trFateFavo] <> 0) then
+        luckbonus += 1
+        endif
+
+      ~ Saving throws
+      #applybonus[BonLuck,hero.child[svAll],luckbonus]
+
+      ~ Ability checks (typed luck on each ability)
+      #applybonus[BonLuck,hero.child[aSTR],luckbonus]
+      #applybonus[BonLuck,hero.child[aDEX],luckbonus]
+      #applybonus[BonLuck,hero.child[aCON],luckbonus]
+      #applybonus[BonLuck,hero.child[aINT],luckbonus]
+      #applybonus[BonLuck,hero.child[aWIS],luckbonus]
+      #applybonus[BonLuck,hero.child[aCHA],luckbonus]
+
+      ~ Skill checks
+      foreach pick in hero where "component.BaseSkill"
+        #applybonus[BonLuck,eachpick,luckbonus]
+        nexteach
+
+      field[livename].text = field[thingname].text & " (+" & luckbonus & " base; FC may add +1)"
+      ]]></eval>
+  </thing>
+</document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Eyebrow Piercing of Confidence"/>
+
+  <!--
+    Demidius-project artifact and legendary item.
+
+    The base +4 bonuses use Hero Lab's typed luck-bonus fields. Hero Lab
+    automatically applies Fortune's Child to those fields. Fate's Favored is
+    checked directly so the piercing reaches +6 for Demidius without requiring
+    three separate adjustments.
+
+    Fatal Flaws and the twice-daily spell-DC activation are not represented by
+    Hero Lab components, so those portions remain descriptive and must be
+    tracked manually.
+  -->
+  <thing
+    id="ioCdxEbCon"
+    name="Eyebrow Piercing of Confidence"
+    description="This small, elegant eyebrow piercing glows with a steady purple light and sharpens the wearer's intellect, judgment, and force of personality. While worn and equipped, it grants a +4 luck bonus to Intelligence, Wisdom, and Charisma. Fortune's Child increases each of these luck bonuses by 1, and Fate's Favored increases each by 1; a wearer possessing both therefore receives a +6 luck bonus to all three mental ability scores.\n\nUnder the campaign's Fatal Flaw rules, the piercing also increases the DC of the wearer's Fatal Flaws by 5.\n\nTwice per day, as a swift action, the wearer may spend 1 Mythic Power. The next spell the wearer casts within 1 round gains a +5 bonus to its save DC.\n\nHero Lab automates the mental ability-score bonuses. It does not automate Fatal Flaws, Mythic Power expenditure, daily uses, or the temporary spell-DC bonus, so those effects must be tracked manually.\n\n{b}Slot{/b} eyes; {b}Price{/b} -; {b}Weight{/b} -\n\n{b}Artifact; Legendary Item{/b}"
+    compset="Wondrous"
+    summary="+4 luck to Int, Wis, and Cha; 2/day spend 1 Mythic Power for +5 DC to next spell within 1 round (manual)."
+    uniqueness="unique">
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="ArtiMajor"/>
+    <tag group="Hero" tag="EqpEyes"/>
+
+    <eval phase="PreAttr" priority="10000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      var luckbonus as number
+      luckbonus = 4
+
+      ~ Hero Lab automatically adds Fortune's Child to typed luck bonuses.
+      ~ This campaign also allows Fate's Favored to increase the bonus.
+      if (hero.childlives[trFateFavo] <> 0) then
+        luckbonus += 1
+        endif
+
+      #applybonus[BonLuck,hero.child[aINT],luckbonus]
+      #applybonus[BonLuck,hero.child[aWIS],luckbonus]
+      #applybonus[BonLuck,hero.child[aCHA],luckbonus]
+      ]]></eval>
+  </thing>
+</document>

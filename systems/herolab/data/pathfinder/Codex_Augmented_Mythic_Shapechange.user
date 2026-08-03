@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Augmented Mythic Shapechange"/>
+
+  <!--
+    Aristea campaign adjustment for augmented mythic shapechange.
+
+    This is intentionally a Spell Adjust item rather than a feat. It assumes
+    Hero Lab is already applying the selected base shapechange/polymorph form.
+    The adjustment adds only the augmented mythic improvements that can be
+    represented safely for Aristea's established always-on form:
+
+      +4 Strength, Dexterity, and Constitution
+      +1 natural armor
+
+    The augmented +4 replaces the ordinary mythic +2 increase; do not activate
+    a second Mythic Shapechange +2 adjustment at the same time. Idealize
+    (Always Active) remains a separate feat and stacks with this adjustment.
+
+    Expanded creature forms, touch/multiple targets, and a mythic target's
+    immediate-action form change are recorded in the rules text because they
+    are casting choices rather than persistent character-sheet modifiers.
+  -->
+  <thing
+    id="pCdxAugSh"
+    name="Augmented Mythic Shapechange"
+    description="{b}Augmented mythic shapechange (4th tier){/b}: When you expend two uses of mythic power, ability-score bonuses granted by the polymorph spell increase by 4 rather than 2. Ability-score penalties are reduced by 2, and the form's natural armor bonus increases by 1 (or becomes +1 if it normally grants none). You can also assume forms allowed by {i}monstrous physique IV{/i}, {i}undead anatomy IV{/i}, {i}vermin shape I{/i}, or the highest-level spell in another analogous series. The spell can be cast as a touch spell; an augmented casting can affect a number of creatures equal to your mythic tier. A mythic target can expend one use of mythic power to change into another permitted form as an immediate action.\n\n{b}Hero Lab automation{/b}: This adjustment assumes Aristea's chosen base shapechange form is already active. While enabled, it adds +4 to Strength, Dexterity, and Constitution and +1 natural armor. The +4 is the augmented replacement for the ordinary mythic +2, not an additional bonus. Do not combine this with a separate Mythic Shapechange +2 adjustment. Idealize (Always Active) is a separate effect and stacks normally.\n\n{b}Form caveat{/b}: This campaign adjustment is calibrated for Aristea's established permanent form. If a different form does not grant a positive polymorph bonus to one of the three physical ability scores, use a manual correction for that score."
+    compset="InPlay"
+    summary="+4 physical ability scores; +1 natural armor"
+    uniqueness="unique">
+
+    <tag group="Helper" tag="AdjSpell"/>
+    <tag group="Helper" tag="CoreCampOK"/>
+    <tag group="Helper" tag="AdjPerm"/>
+
+    <eval phase="Attr" priority="10000"><![CDATA[
+      ~ If the adjustment is not enabled, do nothing.
+      doneif (field[pIsOn].value = 0)
+
+      ~ Augmented mythic shapechange increases the relevant polymorph
+      ~ ability-score bonuses by 4 rather than the mythic version's +2.
+      ~ aPostMod keeps this increase additive to the active form.
+      hero.child[aSTR].field[aPostMod].value += 4
+      hero.child[aDEX].field[aPostMod].value += 4
+      hero.child[aCON].field[aPostMod].value += 4
+
+      ~ Mythic shapechange also improves natural armor by 1.
+      hero.child[ArmorClass].field[tACNatural].value += 1
+      ]]></eval>
+  </thing>
+</document>

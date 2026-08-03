@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <thing id="ioCdxRitKn" name="Ritual Knife"
+    description="This carefully balanced ceremonial knife is etched with precise circles, seals, and measured ritual markings. While carried and equipped, it grants a +15 competence bonus on Craft (Ritual) checks. The Ritual Knife is slotless and does not prevent its bearer from wearing or using any other magic item."
+    compset="Wondrous">
+    <fieldval field="gWeight" value="1"/>
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <eval phase="Final" priority="10000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+      #applybonus[BonComp,hero.childfound[skCdxCrRit],15]
+      ]]></eval>
+    </thing>
+  </document>

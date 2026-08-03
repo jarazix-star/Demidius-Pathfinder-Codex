@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Invoke Deity Luck Domain Spell Adjustment"/>
+
+  <!--
+    Invoke Deity (Luck domain option) as a Spell Adjustment.
+
+    RAW (Planar Adventures / d20PFSRD): while the Luck domain benefit is chosen,
+    +1 luck bonus to AC, attack rolls, ability checks, saving throws, and skill
+    checks. Initiative is a Dexterity check, so it is included (HL tracks
+    Initiative separately from aDEX). Optional immediate-action reroll on a
+    creature within 10 feet is NOT automated (duration cost / timing) — track
+    manually.
+
+    Campaign luck amplifiers (same recipe as Codex Luckstone / Eyebrow Piercing /
+    Captain's Hat):
+    - Fortune's Child: Hero Lab auto-applies to typed BonLuck fields.
+    - Fate's Favored (trFateFavo): +1 applied explicitly in this script.
+
+    Expected totals for the luck bonus FROM THIS ADJUSTMENT only:
+    - base only:           +1
+    - + Fate's Favored:    +2
+    - + Fortune's Child:   +2 (FC auto on BonLuck)
+    - + both FC and FF:    +3
+
+    Does not implement the full Invoke Deity spell (other domains, duration,
+    focus costs). Toggle this adjustment when the Luck domain benefit is active.
+  -->
+
+  <thing
+    id="pCdxInvDkL"
+    name="Invoke Deity (Luck)"
+    description="By holding aloft a holy symbol and calling your deity's name, you take on an aspect of that divinity. When the {b}Luck{/b} domain benefit is selected for {i}invoke deity{/i}, the faint sound of tinkling bells plays around you.\n\n{b}Luck domain benefit{/b} You gain a +1 luck bonus to Armor Class and on attack rolls, ability checks (including initiative), saving throws, and skill checks.\n\nAs an immediate action, you can force a single creature within 10 feet to reroll a single d20 it just rolled — you must use this ability before the results of the d20 roll are known. Each use reduces the remaining duration of {i}invoke deity{/i} by 10 minutes; you cannot use it if less than 10 minutes remain. {b}Hero Lab does not automate the reroll or duration cost; track those manually.{/b}\n\n{b}Campaign (Demidius){/b} Typed luck bonuses are improved by Fortune's Child (automatic in Hero Lab) and by Fate's Favored (this adjustment applies +1 when the trait is present). With both amplifiers, the luck bonus from this adjustment is +3.\n\n{b}Source{/b} Pathfinder RPG Planar Adventures; {b}Spell{/b} Invoke Deity (cleric/inquisitor/occultist/witch 6; paladin/ranger/antipaladin/medium 4).\n\n{b}HL{/b} Enable this on the {b}Spell Adjustments{/b} tab while the Luck domain option is active. Disable it when you leave Luck or when the spell ends."
+    compset="InPlay"
+    summary="+1 luck to AC, attacks, initiative, ability checks, saves, skills; +1 if Fate's Favored (FC auto). Luck domain of Invoke Deity."
+    uniqueness="unique">
+
+    <tag group="Helper" tag="AdjSpell"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="CoreCampOK"/>
+
+    <eval phase="Final" priority="10000"><![CDATA[
+      ~ Spell adjustments use pIsOn as the enable toggle
+      doneif (field[pIsOn].value = 0)
+
+      var luckbonus as number
+      luckbonus = 1
+
+      ~ Fortune's Child: applied automatically by HL to BonLuck fields.
+      ~ Fate's Favored: must be added explicitly (campaign recipe).
+      if (hero.childlives[trFateFavo] <> 0) then
+        luckbonus += 1
+        endif
+
+      ~ Armor Class
+      #applybonus[BonLuck,hero.child[ArmorClass],luckbonus]
+
+      ~ Attack rolls (melee/ranged aggregate Attack pick)
+      #applybonus[BonLuck,hero.child[Attack],luckbonus]
+
+      ~ Initiative (Dexterity check; HL does not inherit aDEX BonLuck into Init)
+      #applybonus[BonLuck,hero.child[Initiative],luckbonus]
+
+      ~ Saving throws
+      #applybonus[BonLuck,hero.child[svAll],luckbonus]
+
+      ~ Ability checks (typed luck on each ability score)
+      #applybonus[BonLuck,hero.child[aSTR],luckbonus]
+      #applybonus[BonLuck,hero.child[aDEX],luckbonus]
+      #applybonus[BonLuck,hero.child[aCON],luckbonus]
+      #applybonus[BonLuck,hero.child[aINT],luckbonus]
+      #applybonus[BonLuck,hero.child[aWIS],luckbonus]
+      #applybonus[BonLuck,hero.child[aCHA],luckbonus]
+
+      ~ Skill checks
+      foreach pick in hero where "component.BaseSkill"
+        #applybonus[BonLuck,eachpick,luckbonus]
+        nexteach
+
+      field[livename].text = "Invoke Deity (Luck) [+" & luckbonus & " luck base; FC may +1]"
+      ]]></eval>
+  </thing>
+</document>

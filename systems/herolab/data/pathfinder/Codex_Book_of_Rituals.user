@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <thing id="ioCdxBkRit" name="Book of Rituals"
+    description="This carefully annotated tome contains ritual circles, invocations, correspondences, and practical notes gathered from many magical traditions. While carried and equipped, it grants a +15 competence bonus on Ritual Lore checks. The Book of Rituals is slotless and does not prevent its bearer from wearing or using any other magic item."
+    compset="Wondrous">
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <eval phase="Final" priority="10000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+      #applybonus[BonComp,hero.childfound[skCdxRitLo],15]
+      ]]></eval>
+    </thing>
+  </document>

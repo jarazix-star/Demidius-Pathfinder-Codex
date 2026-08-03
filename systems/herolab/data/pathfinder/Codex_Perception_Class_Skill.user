@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <thing id="mCdxPercCS"
+         name="House Rule: Perception Is Always a Class Skill"
+         description="Campaign house rule: Perception is a class skill for every character, regardless of class, archetype, race, or multiclass combination."
+         compset="Mechanics"
+         uniqueness="unique">
+    <eval phase="First" priority="1000"><![CDATA[
+      perform hero.assign[ClassSkill.skPercep]
+    ]]></eval>
+  </thing>
+</document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <thing id="skCdxCrRit"
+         name="Craft (Ritual)"
+         description="You are skilled at constructing and preparing the material elements of magical rituals: ritual circles, inscribed seals, ceremonial implements, precisely arranged offerings, sympathetic links, binding diagrams, and other physical components required by complex rites. A Craft (Ritual) check can be used to create, repair, evaluate, or safely assemble such ritual work. It does not by itself supply the magical power, spellcasting, sacrifices, or special knowledge required to activate a ritual. The Game Master determines the DC, time, tools, materials, and consequences of failure for a particular ritual project. Craft (Ritual) otherwise follows the normal rules for the Craft skill."
+         summary="Create and prepare ritual circles, implements, seals, and other physical components of magical rites."
+         compset="Skill"
+         uniqueness="unique">
+    <fieldval field="skShortNm" value="Craft (Ritual)"/>
+    <fieldval field="skAbbrev" value="Craft Ritual"/>
+    <fieldval field="skToolTerm" value="Ritual implements"/>
+    <arrayval field="skUnlocks" index="4" value="When determining your weekly progress, double the result of your Craft check before multiplying the result by the project's DC."/>
+    <arrayval field="skUnlocks" index="9" value="You do not ruin any of your raw materials unless you fail a check by 10 or more."/>
+    <arrayval field="skUnlocks" index="14" value="When you determine your progress, the result of your check is how much work you complete each day in silver pieces."/>
+    <arrayval field="skUnlocks" index="19" value="You can craft magic items that fall within Craft (Ritual) using the normal Craft rules, subject to the Game Master's approval and all other prerequisites."/>
+    <tag group="Helper" tag="ToolsUses"/>
+    <tag group="Helper" tag="BackSkill"/>
+    <tag group="Helper" tag="ConsBack"/>
+    <tag group="Helper" tag="ExtraSkill"/>
+    <tag group="Helper" tag="SkCatCraft"/>
+    <tag group="ClassSkill" tag="Craft"/>
+    <link linkage="skillattr" thing="aINT"/>
+  </thing>
+</document>

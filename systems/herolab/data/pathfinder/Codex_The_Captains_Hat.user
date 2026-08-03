@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex The Captain's Hat"/>
+
+  <!--
+    Demidius-project major artifact.
+
+    Hero Lab can automate only the wearer's Profession (sailor) bonus. The
+    Dawnrunner-wide and fleet-wide effects remain descriptive because ships
+    and fleet members are not children of the wearer's Hero Lab portfolio.
+
+    The personal +15 competence bonus and base +10 luck bonus are separate,
+    typed bonuses and therefore stack. Hero Lab automatically applies Fortune's
+    Child to typed luck bonuses. The campaign also permits Fate's Favored to
+    increase the luck bonus, so that trait is handled explicitly in the same
+    way as the Eyebrow Piercing of Confidence.
+  -->
+  <thing
+    id="ioCdxCapHt"
+    name="The Captain's Hat"
+    description="This ornate tricorn marks its wearer as the commanding heart of a fleet. While worn and equipped, it grants the wearer a +15 competence bonus and a +10 luck bonus on Profession (sailor) checks. These are separate typed bonuses and stack. Effects that improve luck bonuses, including Fortune's Child and Fate's Favored, modify only the personal luck bonus.\n\n{b}Fleet Communications (Su){/b}: Five times per day, the wearer may use {i}sending{/i} as a free action. The message can contain up to 25 words, and its subject understands the message regardless of language. This ability recharges daily at dawn.\n\nWhile the captain wears the hat, the captain's own ship and all sailors serving aboard it gain a +10 luck bonus on Profession (sailor) checks. Every other ship belonging to the same fleet, including its sailors, instead gains a +5 luck bonus on Profession (sailor) checks. Hero Lab automates only the wearer's personal +15 competence and +10 luck bonuses; the ship-wide and fleet-wide bonuses and Fleet Communications uses must be tracked separately.\n\n{b}Slot{/b} head; {b}Price{/b} -; {b}Weight{/b} 1 lb.\n\n{b}Major Artifact{/b}"
+    compset="Wondrous"
+    summary="+15 competence and +10 luck to Profession (sailor); sending 5/day; ship +10 and fleet +5 luck (manual)."
+    uniqueness="unique">
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="ArtiMajor"/>
+    <tag group="Hero" tag="EqpHead"/>
+
+    <eval phase="Final" priority="10000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      var luckbonus as number
+      luckbonus = 10
+
+      ~ The personal competence bonus stacks with the separate luck bonus.
+      #applybonus[BonComp,hero.childfound[skProfSail],15]
+
+      ~ Hero Lab automatically applies Fortune's Child to BonLuck.
+      ~ Fate's Favored is added explicitly under the campaign ruling.
+      if (hero.childlives[trFateFavo] <> 0) then
+        luckbonus += 1
+        endif
+
+      #applybonus[BonLuck,hero.childfound[skProfSail],luckbonus]
+      ]]></eval>
+  </thing>
+</document>

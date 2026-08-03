@@ -1,5 +1,15 @@
 ﻿# Change Log
 
+## Back up project-authored Hero Lab Classic files - 2026-08-02
+
+- Added a recoverable `systems/herolab` mirror of all 36 active project-authored
+  `Codex_*` Pathfinder data files and the two-file Armidale Codex v3.18 custom
+  output.
+- Added restore instructions, exclusions, provenance boundaries, and a SHA-256
+  manifest covering all 38 runtime files.
+- Excluded portfolios, character extracts, portraits, temporary renders,
+  community packs, stock data, quarantined imports, and failed/retired backups.
+
 ## Replace Maarin's Third Dark Prophecy artwork - 2026-08-01
 
 - Added the canonical third-prophecy asset mirror at `docs/assets/events/maarins-third-dark-prophecy.png`.

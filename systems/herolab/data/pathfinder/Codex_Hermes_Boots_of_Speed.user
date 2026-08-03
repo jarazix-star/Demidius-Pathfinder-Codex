@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Hermes's Boots of Speed"/>
+
+  <!--
+    Demidius-project major artifact (Hermes gift).
+
+    Automates continuous boots of striding and springing:
+      +10 enhancement to land speed
+      +5 competence on Acrobatics (jump focus; applied to Acrobatics with a
+      situational note that the source rule is jump checks)
+
+    Winged Boots flight (3/day fly 60 ft average for up to 5 minutes per use),
+    free-action quickened haste CL 15 (3/day), and +5 spell DC (1/day) are
+    fully recorded in the description and exposed as equip-gated specials so
+    they appear on the character sheet. Daily uses must be tracked by the user.
+  -->
+  <thing
+    id="ioCdxHerBt"
+    name="Hermes's Boots of Speed"
+    description="These divine boots are a gift from Hermes. While worn and equipped, they function as boots of striding and springing and as winged boots, and they grant two additional scarce powers.\n\n{b}Boots of Striding and Springing{/b}: The wearer's base land speed increases by 10 feet (enhancement bonus). The wearer also gains a +5 competence bonus on Acrobatics checks made to jump.\n\n{b}Winged Boots{/b}: On command, the boots grow wings and grant a fly speed of 60 feet with average maneuverability. The wearer can fly three times per day for up to 5 minutes per flight.\n\n{b}Quickened Haste (Su){/b}: Three times per day, as a free action, the wearer may cast quickened {i}haste{/i} at caster level 15th. This does not consume the wearer's swift action.\n\n{b}+5 Spell DC (Su){/b}: Once per day, the wearer may add +5 to the saving-throw DC of one spell the wearer casts.\n\n{b}Slot{/b} feet; {b}Price{/b} —; {b}Weight{/b} 1 lb.\n\n{b}Major Artifact{/b}\n\n{b}HL note{/b}: Land speed and Acrobatics bonuses are automated while equipped. Flight uses, quickened haste uses, and the daily +5 DC must be tracked manually."
+    compset="Wondrous"
+    summary="+10 enhancement land speed; +5 jump; winged flight 3/day; free-action quickened haste CL 15 3/day; +5 spell DC 1/day."
+    uniqueness="unique">
+
+    <fieldval field="gWeight" value="1"/>
+    <fieldval field="iCL" value="15"/>
+
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="Helper" tag="ArtiMajor"/>
+    <tag group="Hero" tag="EqpFoot"/>
+    <tag group="iSchool" tag="Transmutat"/>
+
+    <!-- Limited-use abilities shown on the sheet while equipped. -->
+    <bootstrap thing="raCdxHerFly">
+      <containerreq phase="First" priority="500"><![CDATA[fieldval:gIsEquip <> 0]]></containerreq>
+    </bootstrap>
+    <bootstrap thing="raCdxHerHst">
+      <containerreq phase="First" priority="500"><![CDATA[fieldval:gIsEquip <> 0]]></containerreq>
+    </bootstrap>
+    <bootstrap thing="raCdxHerDC">
+      <containerreq phase="First" priority="500"><![CDATA[fieldval:gIsEquip <> 0]]></containerreq>
+    </bootstrap>
+
+    <eval phase="PreLevel" priority="5000"><![CDATA[
+      doneif (field[gIsEquip].value = 0)
+
+      ~ Boots of striding and springing: +10 enhancement to land speed.
+      #enhancementbonus[hero.child[Speed], 10]
+
+      ~ +5 competence on Acrobatics checks made to jump.
+      ~ Applied to Acrobatics with a situational note for jump focus.
+      if (hero.childlives[skAcrobat] <> 0) then
+        #applybonus[BonComp, hero.child[skAcrobat], 5]
+        #situational[hero.child[skAcrobat], "+5 competence on Acrobatics checks made to jump (Hermes's Boots of Speed / boots of striding and springing).", field[name].text]
+        endif
+      ]]></eval>
+  </thing>
+
+  <thing
+    id="raCdxHerFly"
+    name="Winged Flight (Hermes's Boots)"
+    description="While Hermes's Boots of Speed are equipped, the wearer can grow wings on command and fly at a speed of 60 feet (average maneuverability). This ability may be used three times per day for up to 5 minutes per flight. Track uses manually."
+    compset="RaceSpec"
+    uniqueness="useronce">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="abAction" tag="Free"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="SpecType" tag="Defense"/>
+  </thing>
+
+  <thing
+    id="raCdxHerHst"
+    name="Quickened Haste (Hermes's Boots)"
+    description="Three times per day, as a free action, cast quickened haste at caster level 15th. This does not consume the wearer's swift action. Track uses manually."
+    compset="RaceSpec"
+    uniqueness="useronce">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="abAction" tag="Free"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="SpecType" tag="Attack"/>
+  </thing>
+
+  <thing
+    id="raCdxHerDC"
+    name="+5 Spell DC (Hermes's Boots)"
+    description="Once per day, add +5 to the saving-throw DC of one spell the wearer casts. Track the daily use manually."
+    compset="RaceSpec"
+    uniqueness="useronce">
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="abAction" tag="Free"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="SpecType" tag="Attack"/>
+  </thing>
+</document>

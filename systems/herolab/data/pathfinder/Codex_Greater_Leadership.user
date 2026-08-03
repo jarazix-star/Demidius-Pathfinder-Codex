@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Greater Leadership"/>
+
+  <!--
+    Campaign feat: Greater Leadership
+    Benefit is descriptive only — Hero Lab does not auto-adjust cohort level.
+    Track cohort level manually on the cohort (same level as the leader).
+
+    Prerequisite: Improved Leadership (TEXT ONLY — not enforced by exprreq).
+    Matches Improved Leadership's text-only prereq style; avoids HasFeat tag issues.
+    Do not edit core Leadership data.
+  -->
+  <thing
+    id="fCdxGrtLead"
+    name="Greater Leadership"
+    description="Your personal cohort is bound to you as a true peer in rank among your followers.\n\n{b}Prerequisite{/b}: Improved Leadership (campaign honor system — not auto-checked by Hero Lab).\n\n{b}Benefit{/b}: Your cohort may be up to your full character level (instead of one level lower from Improved Leadership, or two levels lower from Leadership alone). Followers, Leadership score, and all other Leadership rules are unchanged.\n\n{b}Hero Lab note{/b}: This feat does not automatically change cohort level fields. Set the cohort's level manually to match your character level and keep it updated when you level up.\n\n{b}Special{/b}: This is a campaign/custom feat. It does not replace Epic Leadership or other published Leadership expansions unless the GM says so."
+    compset="Feat"
+    summary="Cohort may be your level (text/manual; Improved Leadership prereq text-only).">
+
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="fCategory" tag="General"/>
+  </thing>
+</document>

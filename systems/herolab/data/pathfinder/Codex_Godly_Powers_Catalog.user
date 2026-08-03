@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <fileinfo>
+    <info_author>Demidius Pathfinder Codex</info_author>
+    <info_history><![CDATA[
+      2026-08-02
+      - Added the canonical Godling bloodline power catalog from the campaign workbook.
+      - Automated direct ability bonuses, natural armor, flight, and energy resistance.
+      - Added prerequisite chains for Lesser/Greater/Master power families.
+      - Replaced the manual Major God Stats 2 entry with six automated
+        secondary-stat choices that also add +2 to the selected Stats 1 stat.
+      - Complex companion, template, spell, item, breath, immunity, and negotiated
+        effects remain selectable and fully documented for manual adjudication.
+    ]]></info_history>
+  </fileinfo>
+
+  <!-- Ability-score choices. Select only an ancestor-approved statistic. -->
+  <thing id="mCdxS1Str" name="Stats 1: Strength" description="Gain +4 Strength. Select this only when Strength is one of the favored statistics granted by the chosen ancestor. Hero Lab automation: adds +4 Strength." compset="CdxGodPwr" summary="+4 Strength" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[hero.child[aSTR].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS1Dex" name="Stats 1: Dexterity" description="Gain +4 Dexterity. Select this only when Dexterity is one of the favored statistics granted by the chosen ancestor. Hero Lab automation: adds +4 Dexterity." compset="CdxGodPwr" summary="+4 Dexterity" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[hero.child[aDEX].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS1Con" name="Stats 1: Constitution" description="Gain +4 Constitution. Select this only when Constitution is one of the favored statistics granted by the chosen ancestor. Hero Lab automation: adds +4 Constitution." compset="CdxGodPwr" summary="+4 Constitution" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[hero.child[aCON].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS1Int" name="Stats 1: Intelligence" description="Gain +4 Intelligence. Select this only when Intelligence is one of the favored statistics granted by the chosen ancestor. Hero Lab automation: adds +4 Intelligence." compset="CdxGodPwr" summary="+4 Intelligence" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[hero.child[aINT].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS1Wis" name="Stats 1: Wisdom" description="Gain +4 Wisdom. Select this only when Wisdom is one of the favored statistics granted by the chosen ancestor. Hero Lab automation: adds +4 Wisdom." compset="CdxGodPwr" summary="+4 Wisdom" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[hero.child[aWIS].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS1Cha" name="Stats 1: Charisma" description="Gain +4 Charisma. Fey ancestry uses Charisma. Other bloodlines may select this when Charisma is an ancestor-approved favored statistic. Hero Lab automation: adds +4 Charisma." compset="CdxGodPwr" summary="+4 Charisma" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[hero.child[aCHA].field[aPostMod].value += 4]]></eval>
+  </thing>
+
+  <thing id="mCdxS2Str" name="Stats 2: Strength" description="Gain +4 Strength as the second favored statistic. It must be different from the statistic selected for Stats 1. Hero Lab automation: adds +4 Strength." compset="CdxGodPwr" summary="Second favored stat: +4 Strength" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10001"><![CDATA[hero.child[aSTR].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS2Dex" name="Stats 2: Dexterity" description="Gain +4 Dexterity as the second favored statistic. It must be different from the statistic selected for Stats 1. Hero Lab automation: adds +4 Dexterity." compset="CdxGodPwr" summary="Second favored stat: +4 Dexterity" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10001"><![CDATA[hero.child[aDEX].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS2Con" name="Stats 2: Constitution" description="Gain +4 Constitution as the second favored statistic. It must be different from the statistic selected for Stats 1. Hero Lab automation: adds +4 Constitution." compset="CdxGodPwr" summary="Second favored stat: +4 Constitution" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10001"><![CDATA[hero.child[aCON].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS2Int" name="Stats 2: Intelligence" description="Gain +4 Intelligence as the second favored statistic. It must be different from the statistic selected for Stats 1. Hero Lab automation: adds +4 Intelligence." compset="CdxGodPwr" summary="Second favored stat: +4 Intelligence" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10001"><![CDATA[hero.child[aINT].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS2Wis" name="Stats 2: Wisdom" description="Gain +4 Wisdom as the second favored statistic. It must be different from the statistic selected for Stats 1. Hero Lab automation: adds +4 Wisdom." compset="CdxGodPwr" summary="Second favored stat: +4 Wisdom" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10001"><![CDATA[hero.child[aWIS].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <thing id="mCdxS2Cha" name="Stats 2: Charisma" description="Gain +4 Charisma as the second favored statistic. Fey ancestry may take this as its second +4 Charisma power. Hero Lab automation: adds +4 Charisma." compset="CdxGodPwr" summary="Second favored stat: +4 Charisma" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10001"><![CDATA[hero.child[aCHA].field[aPostMod].value += 4]]></eval>
+  </thing>
+  <!-- Major God Stats 2 choices. Each named choice is the secondary favored
+       statistic; the scripts also add +2 to whichever Stats 1 pick is live. -->
+  <thing id="mCdxS2Maj" name="Stats 2: STR (Major God)" description="Major God only: gain +4 Strength as the secondary favored statistic and add +2 to the statistic selected for Stats 1. Strength should be different from the Stats 1 statistic. Hero Lab automation: applies both bonuses." compset="CdxGodPwr" summary="Major God: +2 primary, +4 Strength" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10002"><![CDATA[
+      hero.child[aSTR].field[aPostMod].value += 4
+      if (hero.childlives[mCdxS1Str] <> 0) then
+        hero.child[aSTR].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Dex] <> 0) then
+        hero.child[aDEX].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Con] <> 0) then
+        hero.child[aCON].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Int] <> 0) then
+        hero.child[aINT].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Wis] <> 0) then
+        hero.child[aWIS].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Cha] <> 0) then
+        hero.child[aCHA].field[aPostMod].value += 2
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="mCdxMjDex" name="Stats 2: DEX (Major God)" description="Major God only: gain +4 Dexterity as the secondary favored statistic and add +2 to the statistic selected for Stats 1. Dexterity should be different from the Stats 1 statistic. Hero Lab automation: applies both bonuses." compset="CdxGodPwr" summary="Major God: +2 primary, +4 Dexterity" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10002"><![CDATA[
+      hero.child[aDEX].field[aPostMod].value += 4
+      if (hero.childlives[mCdxS1Str] <> 0) then
+        hero.child[aSTR].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Dex] <> 0) then
+        hero.child[aDEX].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Con] <> 0) then
+        hero.child[aCON].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Int] <> 0) then
+        hero.child[aINT].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Wis] <> 0) then
+        hero.child[aWIS].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Cha] <> 0) then
+        hero.child[aCHA].field[aPostMod].value += 2
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="mCdxMjCon" name="Stats 2: CON (Major God)" description="Major God only: gain +4 Constitution as the secondary favored statistic and add +2 to the statistic selected for Stats 1. Constitution should be different from the Stats 1 statistic. Hero Lab automation: applies both bonuses." compset="CdxGodPwr" summary="Major God: +2 primary, +4 Constitution" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10002"><![CDATA[
+      hero.child[aCON].field[aPostMod].value += 4
+      if (hero.childlives[mCdxS1Str] <> 0) then
+        hero.child[aSTR].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Dex] <> 0) then
+        hero.child[aDEX].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Con] <> 0) then
+        hero.child[aCON].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Int] <> 0) then
+        hero.child[aINT].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Wis] <> 0) then
+        hero.child[aWIS].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Cha] <> 0) then
+        hero.child[aCHA].field[aPostMod].value += 2
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="mCdxMjInt" name="Stats 2: INT (Major God)" description="Major God only: gain +4 Intelligence as the secondary favored statistic and add +2 to the statistic selected for Stats 1. Intelligence should be different from the Stats 1 statistic. Hero Lab automation: applies both bonuses." compset="CdxGodPwr" summary="Major God: +2 primary, +4 Intelligence" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10002"><![CDATA[
+      hero.child[aINT].field[aPostMod].value += 4
+      if (hero.childlives[mCdxS1Str] <> 0) then
+        hero.child[aSTR].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Dex] <> 0) then
+        hero.child[aDEX].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Con] <> 0) then
+        hero.child[aCON].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Int] <> 0) then
+        hero.child[aINT].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Wis] <> 0) then
+        hero.child[aWIS].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Cha] <> 0) then
+        hero.child[aCHA].field[aPostMod].value += 2
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="mCdxMjWis" name="Stats 2: WIS (Major God)" description="Major God only: gain +4 Wisdom as the secondary favored statistic and add +2 to the statistic selected for Stats 1. Wisdom should be different from the Stats 1 statistic. Hero Lab automation: applies both bonuses." compset="CdxGodPwr" summary="Major God: +2 primary, +4 Wisdom" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10002"><![CDATA[
+      hero.child[aWIS].field[aPostMod].value += 4
+      if (hero.childlives[mCdxS1Str] <> 0) then
+        hero.child[aSTR].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Dex] <> 0) then
+        hero.child[aDEX].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Con] <> 0) then
+        hero.child[aCON].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Int] <> 0) then
+        hero.child[aINT].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Wis] <> 0) then
+        hero.child[aWIS].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Cha] <> 0) then
+        hero.child[aCHA].field[aPostMod].value += 2
+        endif
+    ]]></eval>
+  </thing>
+  <thing id="mCdxMjCha" name="Stats 2: CHA (Major God)" description="Major God only: gain +4 Charisma as the secondary favored statistic and add +2 to the statistic selected for Stats 1. Charisma should be different from the Stats 1 statistic. Hero Lab automation: applies both bonuses." compset="CdxGodPwr" summary="Major God: +2 primary, +4 Charisma" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10002"><![CDATA[
+      hero.child[aCHA].field[aPostMod].value += 4
+      if (hero.childlives[mCdxS1Str] <> 0) then
+        hero.child[aSTR].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Dex] <> 0) then
+        hero.child[aDEX].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Con] <> 0) then
+        hero.child[aCON].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Int] <> 0) then
+        hero.child[aINT].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Wis] <> 0) then
+        hero.child[aWIS].field[aPostMod].value += 2
+        endif
+      if (hero.childlives[mCdxS1Cha] <> 0) then
+        hero.child[aCHA].field[aPostMod].value += 2
+        endif
+    ]]></eval>
+  </thing>
+
+  <!-- God, outsider, and fey spell-like powers. -->
+  <thing id="mCdxSLALes" name="Lesser Spell-Like Ability" description="Gain a spell related to the ancestor's domain twice per day; maximum spell level 3. Select the actual spell with the GM and record it in the portfolio notes." compset="CdxGodPwr" summary="Ancestor-domain spell 2/day, max 3rd" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxSLAGtr" name="Greater Spell-Like Ability" description="Gain one additional daily use of the Lesser Spell-Like Ability and a second ancestor-domain spell twice per day; maximum spell level 6." compset="CdxGodPwr" summary="Upgrade Lesser; new spell 2/day, max 6th" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxSLALes"/>
+  </thing>
+  <thing id="mCdxSLAMas" name="Master Spell-Like Ability" description="Gain one additional daily use of the Lesser and Greater spells and a third ancestor-domain spell twice per day; maximum spell level 9." compset="CdxGodPwr" summary="Upgrade Lesser/Greater; new spell 2/day, max 9th" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxSLAGtr"/>
+  </thing>
+  <thing id="mCdxSpAbil" name="Special Ability" description="Gain a special ability related to the ancestor's domains. This power may be taken multiple times; each instance is negotiated with the GM. Use Custom Godly Power when a unique canonical name is needed." compset="CdxGodPwr" summary="GM-negotiated domain ability"><tag group="Custom" tag="CdxGodPow"/></thing>
+
+  <!-- Shared dragon/outsider physical powers. -->
+  <thing id="mCdxWings" name="Dragon/Outsider: Wings" description="Gain a fly speed of 30 feet with poor maneuverability. Hero Lab automation: adds a natural 30-foot fly speed with poor maneuverability." compset="CdxGodPwr" summary="Fly 30 ft. (poor)" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><bootstrap thing="xFly"/>
+    <eval phase="First" priority="20000"><![CDATA[#applyvalue[xFly,30]
+perform hero.child[xFly].delete[Maneuver.Average]
+perform hero.child[xFly].delete[Maneuver.Good]
+perform hero.child[xFly].delete[Maneuver.Perfect]
+perform hero.child[xFly].delete[Maneuver.Clumsy]
+perform hero.child[xFly].assign[Maneuver.Poor]]]></eval>
+  </thing>
+  <thing id="mCdxClaws" name="Dragon/Evil Outsider: Claws" description="Gain claws as the appropriate sorcerer bloodline ability for 1 minute per character level. This selection records the power; activate and resolve the temporary natural attacks manually." compset="CdxGodPwr" summary="Temporary bloodline claws, 1 minute/level" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxNatArm" name="Dragon/Outsider: Natural Armor" description="Gain +1 natural armor, plus another +1 for every 5 character levels. Hero Lab automation: applies the full level-scaled natural armor bonus." compset="CdxGodPwr" summary="Natural armor +1, +1/5 levels" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/>
+    <eval phase="Attr" priority="10000"><![CDATA[var armbonus as number
+armbonus = 1 + round(#totallevelcount[] / 5,0,-1)
+hero.child[ArmorClass].field[tACNatural].value += armbonus]]></eval>
+  </thing>
+
+  <!-- Energy resistance variants make the element choice explicit and automate it. -->
+  <thing id="mCdxRstAcd" name="Dragon/Outsider Resistance: Acid" description="Gain acid resistance 5, increasing by 5 for every 5 character levels. Dragon ancestry must match its breath element. Hero Lab automation: applies the level-scaled acid resistance." compset="CdxGodPwr" summary="Acid resistance 5, +5/5 levels" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><eval phase="PreLevel" priority="10000"><![CDATA[field[abValue].value = 5 + (5 * round(#totallevelcount[] / 5,0,-1))
+#applyresist[xDamRsAcid,field[abValue].value]]]></eval>
+  </thing>
+  <thing id="mCdxRstCld" name="Dragon/Outsider Resistance: Cold" description="Gain cold resistance 5, increasing by 5 for every 5 character levels. Dragon ancestry must match its breath element. Hero Lab automation: applies the level-scaled cold resistance." compset="CdxGodPwr" summary="Cold resistance 5, +5/5 levels" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><eval phase="PreLevel" priority="10000"><![CDATA[field[abValue].value = 5 + (5 * round(#totallevelcount[] / 5,0,-1))
+#applyresist[xDamRsCold,field[abValue].value]]]></eval>
+  </thing>
+  <thing id="mCdxRstElc" name="Dragon/Outsider Resistance: Electricity" description="Gain electricity resistance 5, increasing by 5 for every 5 character levels. Dragon ancestry must match its breath element. Hero Lab automation: applies the level-scaled electricity resistance." compset="CdxGodPwr" summary="Electricity resistance 5, +5/5 levels" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><eval phase="PreLevel" priority="10000"><![CDATA[field[abValue].value = 5 + (5 * round(#totallevelcount[] / 5,0,-1))
+#applyresist[xDamRsElec,field[abValue].value]]]></eval>
+  </thing>
+  <thing id="mCdxRstFir" name="Dragon/Outsider Resistance: Fire" description="Gain fire resistance 5, increasing by 5 for every 5 character levels. Dragon ancestry must match its breath element. Hero Lab automation: applies the level-scaled fire resistance." compset="CdxGodPwr" summary="Fire resistance 5, +5/5 levels" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><eval phase="PreLevel" priority="10000"><![CDATA[field[abValue].value = 5 + (5 * round(#totallevelcount[] / 5,0,-1))
+#applyresist[xDamRsFire,field[abValue].value]]]></eval>
+  </thing>
+  <thing id="mCdxRst2" name="Dragon/Outsider: Resistance 2" description="Gain damage reduction/epic equal to character level. Requires a Resistance power. This catalog records the selection; apply the campaign DR manually." compset="CdxGodPwr" summary="DR/epic equal to character level" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxORst3" name="Outsider: Resistance 3" description="Become immune to the element selected for Resistance and gain resistance 30 to two other elements. Requires Resistance 2. Record the two secondary elements in portfolio notes." compset="CdxGodPwr" summary="One immunity; resistance 30 to two others" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxRst2"/>
+  </thing>
+  <thing id="mCdxDRst3" name="Dragon: Resistance 3" description="Gain immunity to paralysis, immunity to the breath-weapon element, and spell resistance equal to 10 + character level. Requires Resistance 2. This compound defensive package is recorded for manual adjudication." compset="CdxGodPwr" summary="Paralysis/element immunity; SR 10 + level" uniqueness="useronce">
+    <tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxRst2"/>
+  </thing>
+  <thing id="mCdxDrBody" name="Dragon Body" description="If at least three of Claws, Wings, Resistance 2, Resistance 3, and Natural Armor are known, use Form of the Dragon II for 10 minutes per character level per day. The duration may be divided. Record and validate the qualifying powers manually." compset="CdxGodPwr" summary="Form of the Dragon II, 10 min/level/day" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+
+  <!-- Dragon breath progression. -->
+  <thing id="mCdxBrth1" name="Dragon: Breath Attack 1" description="Twice per day, breathe in the ancestor dragon's shape: 30-foot cone or 60-foot line, dealing 1d4 damage per character level of the ancestor's energy type. Record the dragon type and save DC in notes." compset="CdxGodPwr" summary="2/day; 30-ft cone or 60-ft line; 1d4/level" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxBrth2" name="Dragon: Breath Attack 2" description="Three times per day, breathe a 60-foot cone or 120-foot line dealing 1d8 damage per character level of the ancestor's energy type. Requires Breath Attack 1." compset="CdxGodPwr" summary="3/day; 60-ft cone or 120-ft line; 1d8/level" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxBrth1"/></thing>
+  <thing id="mCdxBrth3" name="Dragon: Breath Attack 3" description="Five times per day, breathe a 90-foot cone or 180-foot line dealing 1d12 damage per character level of the ancestor's energy type. Requires Breath Attack 2." compset="CdxGodPwr" summary="5/day; 90-ft cone or 180-ft line; 1d12/level" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxBrth2"/></thing>
+
+  <!-- Fey enchantment progression. -->
+  <thing id="mCdxFEnL" name="Fey: Lesser Enhance Enchantment" description="Increase the save DC of Enchantment spells by 1. This selection records the focused spell-school bonus; confirm the bonus when casting." compset="CdxGodPwr" summary="Enchantment spell DC +1" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxFEnG" name="Fey: Greater Enhance Enchantment" description="Enchantment spells can affect creatures normally immune to them; such creatures receive a +4 bonus on the save (equivalent to spell DC -4). Requires Lesser Enhance Enchantment." compset="CdxGodPwr" summary="Enchantment can affect normally immune creatures" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxFEnL"/></thing>
+  <thing id="mCdxFEnM" name="Fey: Master Enhance Enchantment" description="Gain an additional +1 to Enchantment spell save DCs for every 5 character levels. Requires Greater Enhance Enchantment. Confirm the level-scaled DC bonus when casting." compset="CdxGodPwr" summary="Enchantment DC +1/5 levels" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxFEnG"/></thing>
+
+  <!-- Elemental powers. Element-specific choices are resolved in names/notes. -->
+  <thing id="mCdxELRes" name="Elemental: Lesser Resistance" description="Gain resistance 20 to the ancestor's element. This ancestor-linked value is recorded for manual adjudication; do not select a separate Energy Resistance power unless it is independently earned." compset="CdxGodPwr" summary="Resistance 20 to ancestor element" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxEGRes" name="Elemental: Greater Resistance" description="Become immune to the ancestor's element and vulnerable to its opposite element. Requires Lesser Resistance. This compound immunity/vulnerability package is recorded for manual adjudication." compset="CdxGodPwr" summary="Element immunity; opposite vulnerability" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxELRes"/></thing>
+  <thing id="mCdxEMRes" name="Elemental: Master Resistance" description="When damaged by the ancestor's element, instead heal an amount equal to half the damage. Requires Greater Resistance. Resolve this campaign healing rule manually." compset="CdxGodPwr" summary="Heal half damage from ancestor element" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxEGRes"/></thing>
+
+  <thing id="mCdxELSpl" name="Elemental: Lesser Spell Ability" description="Use an elemental version of Fireball twice per day with no caster-level cap. Record the ancestor element and save DC in notes." compset="CdxGodPwr" summary="Elemental Fireball 2/day, no level cap" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxEGSpl" name="Elemental: Greater Spell Ability" description="Gain one additional daily use of the Lesser elemental Fireball and an elemental Cone of Cold twice per day with no caster-level cap. Requires Lesser Spell Ability." compset="CdxGodPwr" summary="Upgrade Fireball; elemental Cone of Cold 2/day" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxELSpl"/></thing>
+  <thing id="mCdxEMSpl" name="Elemental: Master Spell Ability" description="Use an elemental Fire Storm twice per day as the Oracle spell. Requires Greater Spell Ability." compset="CdxGodPwr" summary="Elemental Fire Storm 2/day" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxEGSpl"/></thing>
+
+  <thing id="mCdxELBdy" name="Elemental: Lesser Elemental Body" description="Use Elemental Body I once per day, matching the ancestor element." compset="CdxGodPwr" summary="Elemental Body I 1/day" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxEGBdy" name="Elemental: Greater Elemental Body" description="Use Elemental Body III once per day, matching the ancestor element. Requires Lesser Elemental Body." compset="CdxGodPwr" summary="Elemental Body III 1/day" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxELBdy"/></thing>
+  <thing id="mCdxEMBdy" name="Elemental: Master Elemental Body" description="Use Elemental Body IV for 10 minutes per character level per day; duration need not be consecutive. Requires Greater Elemental Body." compset="CdxGodPwr" summary="Elemental Body IV, 10 min/level/day" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxEGBdy"/></thing>
+
+  <thing id="mCdxELNSt" name="Elemental: Lesser Non-standard Body" description="Gain light fortification. Resolve the campaign fortification roll manually." compset="CdxGodPwr" summary="Light fortification" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxEGNSt" name="Elemental: Greater Non-standard Body" description="Upgrade to moderate fortification. Requires Lesser Non-standard Body. Resolve the campaign fortification roll manually." compset="CdxGodPwr" summary="Moderate fortification" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxELNSt"/></thing>
+  <thing id="mCdxEMNSt" name="Elemental: Master Non-standard Body" description="Gain the Elemental Body effect equivalent to the 15th-level Sorcerer elemental bloodline power. Requires Greater Non-standard Body." compset="CdxGodPwr" summary="15th-level elemental bloodline body" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxEGNSt"/></thing>
+
+  <!-- Powers available to every bloodline. -->
+  <thing id="mCdxULegIt" name="Universal: Lesser Mythic Legendary Item" description="Grant a legendary item 2 Legendary Item powers. Select and track the item powers through Hero Lab's normal mythic item workflow where available." compset="CdxGodPwr" summary="Legendary item: 2 powers" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxUGLeg" name="Universal: Greater Mythic Legendary Item" description="Add 3 Legendary Item powers. Requires Lesser Mythic Legendary Item." compset="CdxGodPwr" summary="Add 3 legendary item powers" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxULegIt"/></thing>
+  <thing id="mCdxUMLeg" name="Universal: Master Mythic Legendary Item" description="Add 5 Legendary Item powers. Requires Greater Mythic Legendary Item." compset="CdxGodPwr" summary="Add 5 legendary item powers" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxUGLeg"/></thing>
+
+  <thing id="mCdxULAni" name="Universal: Lesser Animal Companion" description="Gain an animal companion as a druid of one-half character level. Create or adjust the companion through Hero Lab's companion workflow." compset="CdxGodPwr" summary="Animal companion at half character level" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxUGAni" name="Universal: Greater Animal Companion" description="Upgrade the animal companion to progress as a ranger. Requires Lesser Animal Companion." compset="CdxGodPwr" summary="Animal companion as ranger" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxULAni"/></thing>
+  <thing id="mCdxUMAni" name="Universal: Master Animal Companion" description="Upgrade the animal companion to progress as a druid and add a +1 template to the companion. Requires Greater Animal Companion." compset="CdxGodPwr" summary="Animal companion as druid; +1 template" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxUGAni"/></thing>
+
+  <thing id="mCdxULTmp" name="Universal: Lesser Template" description="Add a +1 CR template to the PC, animal companion, or cohort. Add the chosen template separately in Hero Lab; this power records entitlement." compset="CdxGodPwr" summary="Add a +1 CR template" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+  <thing id="mCdxUGTmp" name="Universal: Greater Template" description="Upgrade the selected template to +2 CR. Requires Lesser Template." compset="CdxGodPwr" summary="Upgrade to a +2 CR template" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxULTmp"/></thing>
+  <thing id="mCdxUMTmp" name="Universal: Master Template" description="Upgrade the selected template to +3 CR. Requires Greater Template." compset="CdxGodPwr" summary="Upgrade to a +3 CR template" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/><pickreq thing="mCdxUGTmp"/></thing>
+  <thing id="mCdxUBoon" name="Universal: Boon to City or Holding" description="Grant a boon to a city or holding. The exact benefit is negotiated with the GM and recorded in campaign notes." compset="CdxGodPwr" summary="GM-negotiated holding boon" uniqueness="useronce"><tag group="Custom" tag="CdxGodPow"/></thing>
+</document>

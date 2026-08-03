@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Strange Revelation"/>
+
+  <!--
+    Demidius-project implementation of Strange Revelation.
+
+    Legendary Games' mythic Extra Hex feat demonstrates Hero Lab's native
+    cross-mystery Oracle-revelation selector:
+
+      bootstrap cfgLGAddC1
+      hero.childfound[cfgLGAddC1].field[cfgMax3].value += 1
+
+    cfgLGAddC1 is Added Class Ability (1) (Configure), and cfgMax3 is its
+    Oracle-revelation allowance. Reusing that proven selector preserves Hero
+    Lab's native prerequisite filtering and excludes final revelations from
+    the ordinary revelation choice pool.
+  -->
+  <thing
+    id="fCdxStrRev"
+    name="Strange Revelation"
+    description="{b}Prerequisites{/b}: Mystery class feature, Knowledge (religion) 5 ranks.\n\n{b}Benefit{/b}: The next time you select a revelation or take the Extra Revelation feat (including if chosen at the same level you take Strange Revelation), you may select a revelation from another mystery instead of your own.\n\nIn Hero Lab, this feat immediately grants one qualifying Oracle revelation choice through the Added Class Ability panel. The choice may come from a mystery other than your own, but you must meet the revelation's prerequisites.\n\n{b}Special{/b}: This feat cannot be used with final revelations."
+    compset="Feat"
+    uniqueness="useronce">
+
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="fCategory" tag="General"/>
+
+    <bootstrap thing="cfgLGAddC1"/>
+
+    <eval phase="First" priority="1000"><![CDATA[
+      ~ Legendary Games' proven Added Class Ability selector uses cfgMax3
+      ~ specifically for Oracle revelations.
+      hero.childfound[cfgLGAddC1].field[cfgMax3].value += 1
+      ]]></eval>
+
+    <exprreq message="Mystery class feature required."><![CDATA[
+      hero.childlives[cHelpOra] <> 0
+      ]]></exprreq>
+
+    <exprreq message="Knowledge (religion) 5 ranks required."><![CDATA[
+      #skillranks[skKnowRel] >= 5
+      ]]></exprreq>
+  </thing>
+</document>

@@ -2,3 +2,5 @@
 *.png binary
 *.jpg binary
 *.jpeg binary
+systems/herolab/data/pathfinder/* text eol=lf
+systems/herolab/customoutput/pathfinder/ArmidaleCodex/* text eol=lf

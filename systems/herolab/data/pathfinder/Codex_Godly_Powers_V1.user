@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <fileinfo>
+    <info_author>Demidius Pathfinder Codex</info_author>
+    <info_history><![CDATA[
+      2026-08-01
+      - Added Godly Powers v1 templates and tracking helpers.
+      - V1 deliberately does not grant or select Godly Powers.
+      - Mythic Tier now sets a native player-character Mythic Path tier.
+      - Selecting any Godling Bloodline template makes the hero mythic.
+      - Fatal Flaws Earned now follows the cumulative Godling Bloodlines table.
+      - Godlings may select mythic abilities from every published path while
+        retaining native tier prerequisites and slot limits.
+      2026-08-02
+      - Corrected tier prerequisite timing so native MythicTier tags match the
+        Godly Powers dropdown before ability validation.
+      - Added path-neutral mythic selectors and a 1-10 tier dropdown.
+      - Added a provisional custom Godly Power choice with editable campaign
+        name and details fields for end-to-end selector validation.
+      - Implemented CR-26 Mythic Power points: 2 per selected Godly Power,
+        2 per selected Mythic ability, and 1 per selected Mythic feat.
+      - Added God's Champion and God's Blessed acquired templates as part of
+        the Godling rules package.
+      - Added display-only public-statblock output for Armidale Codex v3.18.
+    ]]></info_history>
+  </fileinfo>
+
+  <thing id="xCdxGodCfg" name="Godly Powers Configuration" description="Tracks the campaign's Godling Bloodline strength, native Hero Lab Mythic Tier, ancestor type, Fatal Flaws earned, and Fatal Flaw save DC. Fatal Flaws earned follow the cumulative character-level progression on the Godling Bloodlines wiki page. Godly Power selections are reserved for v2." compset="Ability" uniqueness="unique">
+    <fieldval field="actUser" value="1"/>
+    <fieldval field="actUserMin" value="1"/>
+    <fieldval field="actUserMax" value="10"/>
+    <fieldval field="usrCandid1" value="CdxGodAnc.Option"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <bootstrap thing="mypCdxGod"/>
+    <bootstrap thing="resCdxGod"/>
+    <eval phase="First" priority="100" index="1"><![CDATA[
+      perform hero.assign[CdxGodStr.Active]
+    ]]></eval>
+    <eval phase="First" priority="99" index="2"><![CDATA[
+      ~ Drive Hero Lab's native player-character mythic tier from the
+      ~ Godly Powers selector. The bootstrapped Godling MythPath creates
+      ~ MythHelper; mhTierVal is Hero Lab's derived native tier value.
+      ~ This must run after its native calculation at First/95 but before
+      ~ MythicTier tags are forwarded at First/100, because ability
+      ~ prerequisites validate those tags rather than the display field.
+      hero.childfound[MythHelper].field[mhTierVal].value = field[actUser].value
+    ]]></eval>
+    <eval phase="PostLevel" priority="10000" index="3"><![CDATA[
+      ~ Echo the selected tier for visible verification.
+      field[abValue4].value = field[actUser].value
+
+      ~ Resolve the bloodline modifier assigned by the selected template.
+      field[abValue2].value = 0
+      if (tagis[CdxGodStr.Eighth] <> 0) then
+        field[abValue2].value = 10
+      elseif (tagis[CdxGodStr.Quarter] <> 0) then
+        field[abValue2].value = 15
+      elseif (tagis[CdxGodStr.Demigod] <> 0) then
+        field[abValue2].value = 20
+      elseif (tagis[CdxGodStr.MortGod] <> 0) then
+        field[abValue2].value = 25
+        endif
+
+      ~ Count cumulative Fatal Flaws earned from the campaign progression
+      ~ table. Its milestones are character levels; Mythic Tier is tracked
+      ~ separately above using Hero Lab's native MythicTier tags.
+      var nLevel as number
+      nLevel = #totallevelcount[]
+      field[abValue3].value = 0
+
+      if (tagis[CdxGodStr.Eighth] <> 0) then
+        if (nLevel >= 10) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 15) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 20) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 25) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 35) then
+          field[abValue3].value += 1
+          endif
+      elseif (tagis[CdxGodStr.Quarter] <> 0) then
+        if (nLevel >= 5) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 10) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 15) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 20) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 25) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 35) then
+          field[abValue3].value += 1
+          endif
+      elseif (tagis[CdxGodStr.Demigod] <> 0) then
+        if (nLevel >= 1) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 5) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 10) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 15) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 20) then
+          field[abValue3].value += 1
+          endif
+      elseif (tagis[CdxGodStr.MortGod] <> 0) then
+        if (nLevel >= 1) then
+          field[abValue3].value += 2
+          endif
+        if (nLevel >= 5) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 10) then
+          field[abValue3].value += 1
+          endif
+        if (nLevel >= 15) then
+          field[abValue3].value += 1
+          endif
+        endif
+
+      ~ Pure Mortals always have Fatal Flaw DC 0. Other strengths use
+      ~ character level + bloodline modifier + the campaign adjustment.
+      if (tagis[CdxGodStr.Pure] <> 0) then
+        field[abValue].value = 0
+      else
+        field[abValue].value = #totallevelcount[] + field[abValue2].value + hero.child[xCdxGodAdj].field[actUser].value
+        endif
+    ]]></eval>
+    <eval phase="Final" priority="11000000" index="4"><![CDATA[
+      ~ A Godling has no mythic path. Replace Hero Lab's generated path-specific
+      ~ chooser expressions with the complete mythic ability pools. Individual
+      ~ abilities still validate their own Mythic Tier prerequisites against the
+      ~ native mhTierVal value driven above.
+      hero.childfound[MythHelper].field[mhPathExpr].text = "component.BaseCustSp & (Helper.Mythic & !Helper.Secondary & !Helper.Tertiary & !Helper.Quaternary & !Helper.Quintenary)"
+      hero.childfound[MythHelper].field[mhOthExpr].text = "component.BaseCustSp & (Helper.Mythic & Helper.Secondary)"
+    ]]></eval>
+    <eval phase="PostLevel" priority="11000" index="5"><![CDATA[
+      ~ Godly Power slots follow the cumulative campaign bloodline table.
+      ~ Capstones are separate bloodline features and do not spend these slots.
+      var nPowerLevel as number
+      nPowerLevel = #totallevelcount[]
+      hero.child[resCdxGod].field[resMax].value = 0
+
+      if (tagis[CdxGodStr.Pure] <> 0) then
+        hero.child[resCdxGod].field[resMax].value = 0
+      elseif (tagis[CdxGodStr.Eighth] <> 0) then
+        if (nPowerLevel >= 15) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 20) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 25) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 30) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 35) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 40) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+      elseif (tagis[CdxGodStr.Quarter] <> 0) then
+        if (nPowerLevel >= 10) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 15) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 20) then
+          hero.child[resCdxGod].field[resMax].value += 2
+          endif
+        if (nPowerLevel >= 25) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 30) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+      elseif (tagis[CdxGodStr.Demigod] <> 0) then
+        if (nPowerLevel >= 5) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 10) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 15) then
+          hero.child[resCdxGod].field[resMax].value += 2
+          endif
+        if (nPowerLevel >= 20) then
+          hero.child[resCdxGod].field[resMax].value += 2
+          endif
+      elseif (tagis[CdxGodStr.MortGod] <> 0) then
+        if (nPowerLevel >= 1) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 5) then
+          hero.child[resCdxGod].field[resMax].value += 1
+          endif
+        if (nPowerLevel >= 10) then
+          hero.child[resCdxGod].field[resMax].value += 2
+          endif
+        if (nPowerLevel >= 15) then
+          hero.child[resCdxGod].field[resMax].value += 2
+          endif
+        endif
+    ]]></eval>
+    <eval phase="Final" priority="750" index="6"><![CDATA[
+      ~ CR-26: Mythic Power points = 2 x selected Godly Powers
+      ~ + 2 x selected Mythic path powers + selected Mythic feats.
+      ~ Optional Mythic Other Abilities are Mythic abilities and therefore
+      ~ count as path powers for this campaign formula.
+      var nGodlyPowers as number
+      var nPathPowers as number
+      var nMythicFeats as number
+
+      nGodlyPowers = hero.child[resCdxGod].field[resSpent].value
+      nPathPowers = hero.child[resMyPath].field[resSpent].value
+      nPathPowers += hero.child[resMyOther].field[resSpent].value
+      nMythicFeats = hero.child[resMyFeat].field[resSpent].value
+
+      ~ Replace the normal tier-derived pool with the verified campaign pool.
+      ~ This runs after Mythic selection resources calculate at Final/500 and
+      ~ before trkLeft is derived at Final/1000.
+      hero.child[trkMythic].field[trkMax].value = (2 * nGodlyPowers) + (2 * nPathPowers) + nMythicFeats
+    ]]></eval>
+    <eval phase="Render" priority="50000" index="7"><![CDATA[
+      ~ Stable, machine-readable bridge for custom character-sheet output.
+      ~ This publishes display values only and does not alter calculations.
+      var sStrength as string
+      var sAncestor as string
+
+      sStrength = "Pure Mortal"
+      if (tagis[CdxGodStr.Eighth] <> 0) then
+        sStrength = "1/8 Godling"
+      elseif (tagis[CdxGodStr.Quarter] <> 0) then
+        sStrength = "1/4 Godling"
+      elseif (tagis[CdxGodStr.Demigod] <> 0) then
+        sStrength = "Demigod"
+      elseif (tagis[CdxGodStr.MortGod] <> 0) then
+        sStrength = "Mortal God"
+        endif
+
+      sAncestor = "Unselected"
+      if (field[usrChosen1].ischosen <> 0) then
+        sAncestor = field[usrChosen1].chosen.field[name].text
+        endif
+
+      field[sbName].text = "Godling Output|Bloodline=" & sStrength
+      field[sbName].text &= "|Ancestor=" & sAncestor
+      field[sbName].text &= "|Tier=" & field[abValue4].value
+      field[sbName].text &= "|FatalEarned=" & field[abValue3].value
+      field[sbName].text &= "|FatalAdj=" & hero.child[xCdxGodAdj].field[actUser].value
+      field[sbName].text &= "|FatalDC=" & field[abValue].value
+      field[sbName].text &= "|Godly=" & hero.child[resCdxGod].field[resSpent].value & "/" & hero.child[resCdxGod].field[resMax].value
+      field[sbName].text &= "|MythicPower=" & hero.child[trkMythic].field[trkLeft].value & "/" & hero.child[trkMythic].field[trkMax].value
+    ]]></eval>
+  </thing>
+
+  <thing id="resCdxGod" name="Godly Power Selections" description="Tracks the independent Godly Power selections on the Godly Powers tab." compset="Resource" uniqueness="unique">
+    <fieldval field="resObject" value="Godly Power"/>
+  </thing>
+
+  <thing id="mypCdxGod" name="Godling" description="The campaign's neutral mythic path used by Godling Bloodline templates. Its tier is controlled on the Godly Powers tab. It activates Hero Lab's native player-character mythic rules without imposing an unrelated published path; Godly Power selections are reserved for v2." compset="MythPath" uniqueness="useronce">
+    <fieldval field="mpTierHp" value="0"/>
+    <fieldval field="mpOthAbNm" value="Optional Mythic Other Ability"/>
+    <arrayval field="mpOthArr" index="0" value="1"/>
+    <arrayval field="mpPathArr" index="0" value="1"/>
+    <arrayval field="mpPathArr" index="1" value="2"/>
+    <arrayval field="mpPathArr" index="2" value="3"/>
+    <arrayval field="mpPathArr" index="3" value="4"/>
+    <arrayval field="mpPathArr" index="4" value="5"/>
+    <arrayval field="mpPathArr" index="5" value="6"/>
+    <arrayval field="mpPathArr" index="6" value="7"/>
+    <arrayval field="mpPathArr" index="7" value="8"/>
+    <arrayval field="mpPathArr" index="8" value="9"/>
+    <arrayval field="mpPathArr" index="9" value="10"/>
+    <arrayval field="mpFeatArr" index="0" value="1"/>
+    <arrayval field="mpFeatArr" index="2" value="2"/>
+    <arrayval field="mpFeatArr" index="4" value="3"/>
+    <arrayval field="mpFeatArr" index="6" value="4"/>
+    <arrayval field="mpFeatArr" index="8" value="5"/>
+    <arrayval field="mpAbilArr" index="1" value="1"/>
+    <arrayval field="mpAbilArr" index="3" value="2"/>
+    <arrayval field="mpAbilArr" index="5" value="3"/>
+    <arrayval field="mpAbilArr" index="7" value="4"/>
+    <arrayval field="mpAbilArr" index="9" value="5"/>
+  </thing>
+
+  <thing id="mCdxGodCus" name="Custom Godly Power" description="Choose this when the character's Godly Power is unique to the campaign. After adding it, enter its canonical name directly in the Godly Powers row. This provisional choice records the power by name; mechanical automation can be added when the power is formalized." compset="CdxGodPwr">
+    <fieldval field="cdxGPName" value="Enter Custom Godly Power Name"/>
+    <tag group="Custom" tag="CdxGodPow"/>
+    <tag group="Custom" tag="CdxGodName"/>
+    <eval phase="Render" priority="10000" index="1"><![CDATA[
+      ~ Use this individual pick's editable custom name.
+      field[livename].text = field[cdxGPName].text
+    ]]></eval>
+  </thing>
+
+  <thing id="xCdxAncEle" name="Elemental" description="An elemental ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncFey" name="Fey" description="A fey ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncEvl" name="Evil Outsider" description="An evil outsider ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncGdO" name="Good Outsider" description="A good outsider ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncDra" name="Dragon" description="A dragon ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncMin" name="Minor God" description="A minor god ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncMaj" name="Major God" description="A major god ancestor." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+  <thing id="xCdxAncOth" name="Other / Player Choice" description="Another campaign-approved ancestor type." compset="Ability" uniqueness="unique">
+    <tag group="CdxGodAnc" tag="Option"/>
+    <tag group="Helper" tag="Helper"/>
+  </thing>
+
+  <thing id="xCdxGodAdj" name="Fatal Flaw DC Adjustment" description="Optional campaign adjustment to the calculated Fatal Flaw save DC. Leave this at 0 for the standard formula. Pure Mortal always remains DC 0." compset="Ability" uniqueness="unique">
+    <fieldval field="actUserMin" value="-50"/>
+    <fieldval field="actUserMax" value="50"/>
+  </thing>
+
+  <thing id="tmCdxGPMor" name="Godling Bloodline: Pure Mortal" description="Pure Mortal bloodline strength. Activates the Godly Powers tab. Fatal Flaw save DC and Fatal Flaws earned are always 0, and this template grants no Godly Powers. Mythic Tier and native Mythic powers remain available." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <bootstrap thing="xCdxGodCfg"><autotag group="CdxGodStr" tag="Pure"/></bootstrap>
+    <bootstrap thing="xCdxGodAdj"/>
+    <bootstrap thing="xCdxFlw1"/><bootstrap thing="xCdxFlw2"/><bootstrap thing="xCdxFlw3"/>
+    <bootstrap thing="xCdxFlw4"/><bootstrap thing="xCdxFlw5"/><bootstrap thing="xCdxFlw6"/>
+    <exprreq message="Choose only one Godling Bloodline strength."><![CDATA[
+      hero.childlives[tmCdxGP18] + hero.childlives[tmCdxGP14] + hero.childlives[tmCdxGPDem] + hero.childlives[tmCdxGPMGo] = 0
+    ]]></exprreq>
+  </thing>
+
+  <thing id="tmCdxGP18" name="Godling Bloodline: 1/8 Godling" description="One-eighth Godling bloodline strength. Fatal Flaw save DC equals character level + 10, plus any campaign adjustment. Godly Power selections are reserved for v2." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <bootstrap thing="xCdxGodCfg"><autotag group="CdxGodStr" tag="Eighth"/></bootstrap>
+    <bootstrap thing="xCdxGodAdj"/>
+    <bootstrap thing="xCdxFlw1"/><bootstrap thing="xCdxFlw2"/><bootstrap thing="xCdxFlw3"/>
+    <bootstrap thing="xCdxFlw4"/><bootstrap thing="xCdxFlw5"/><bootstrap thing="xCdxFlw6"/>
+    <exprreq message="Choose only one Godling Bloodline strength."><![CDATA[
+      hero.childlives[tmCdxGPMor] + hero.childlives[tmCdxGP14] + hero.childlives[tmCdxGPDem] + hero.childlives[tmCdxGPMGo] = 0
+    ]]></exprreq>
+  </thing>
+
+  <thing id="tmCdxGP14" name="Godling Bloodline: 1/4 Godling" description="One-quarter Godling bloodline strength. Fatal Flaw save DC equals character level + 15, plus any campaign adjustment. Godly Power selections are reserved for v2." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <bootstrap thing="xCdxGodCfg"><autotag group="CdxGodStr" tag="Quarter"/></bootstrap>
+    <bootstrap thing="xCdxGodAdj"/>
+    <bootstrap thing="xCdxFlw1"/><bootstrap thing="xCdxFlw2"/><bootstrap thing="xCdxFlw3"/>
+    <bootstrap thing="xCdxFlw4"/><bootstrap thing="xCdxFlw5"/><bootstrap thing="xCdxFlw6"/>
+    <exprreq message="Choose only one Godling Bloodline strength."><![CDATA[
+      hero.childlives[tmCdxGPMor] + hero.childlives[tmCdxGP18] + hero.childlives[tmCdxGPDem] + hero.childlives[tmCdxGPMGo] = 0
+    ]]></exprreq>
+  </thing>
+
+  <thing id="tmCdxGPDem" name="Godling Bloodline: Demigod" description="Demigod bloodline strength. Fatal Flaw save DC equals character level + 20, plus any campaign adjustment. Godly Power selections are reserved for v2." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <bootstrap thing="xCdxGodCfg"><autotag group="CdxGodStr" tag="Demigod"/></bootstrap>
+    <bootstrap thing="xCdxGodAdj"/>
+    <bootstrap thing="xCdxFlw1"/><bootstrap thing="xCdxFlw2"/><bootstrap thing="xCdxFlw3"/>
+    <bootstrap thing="xCdxFlw4"/><bootstrap thing="xCdxFlw5"/><bootstrap thing="xCdxFlw6"/>
+    <exprreq message="Choose only one Godling Bloodline strength."><![CDATA[
+      hero.childlives[tmCdxGPMor] + hero.childlives[tmCdxGP18] + hero.childlives[tmCdxGP14] + hero.childlives[tmCdxGPMGo] = 0
+    ]]></exprreq>
+  </thing>
+
+  <thing id="tmCdxGPMGo" name="Godling Bloodline: Mortal God" description="Mortal God bloodline strength. Fatal Flaw save DC equals character level + 25, plus any campaign adjustment. Godly Power selections are reserved for v2." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <bootstrap thing="xCdxGodCfg"><autotag group="CdxGodStr" tag="MortGod"/></bootstrap>
+    <bootstrap thing="xCdxGodAdj"/>
+    <bootstrap thing="xCdxFlw1"/><bootstrap thing="xCdxFlw2"/><bootstrap thing="xCdxFlw3"/>
+    <bootstrap thing="xCdxFlw4"/><bootstrap thing="xCdxFlw5"/><bootstrap thing="xCdxFlw6"/>
+    <exprreq message="Choose only one Godling Bloodline strength."><![CDATA[
+      hero.childlives[tmCdxGPMor] + hero.childlives[tmCdxGP18] + hero.childlives[tmCdxGP14] + hero.childlives[tmCdxGPDem] = 0
+    ]]></exprreq>
+  </thing>
+
+  <!-- Deity-granted templates from the Godling ruleset. -->
+  <thing id="tmCdxGodCh" name="God's Champion" description="A deity has elevated this character as a chosen champion. The template grants a +2 increase to natural armor, +4 to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, and two additional Godly Power selections. Requires an active non-Pure Mortal Godling Bloodline." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <eval phase="Attr" priority="10000" index="1"><![CDATA[
+      hero.child[aSTR].field[aPostMod].value += 4
+      hero.child[aDEX].field[aPostMod].value += 4
+      hero.child[aCON].field[aPostMod].value += 4
+      hero.child[aINT].field[aPostMod].value += 4
+      hero.child[aWIS].field[aPostMod].value += 4
+      hero.child[aCHA].field[aPostMod].value += 4
+      hero.child[ArmorClass].field[tACNatural].value += 2
+    ]]></eval>
+    <eval phase="PostLevel" priority="12000" index="2"><![CDATA[
+      hero.child[resCdxGod].field[resMax].value += 2
+    ]]></eval>
+    <exprreq message="God's Champion requires an active non-Pure Mortal Godling Bloodline."><![CDATA[
+      hero.childlives[xCdxGodCfg] + hero.tagis[CdxGodStr.Pure] = 1
+    ]]></exprreq>
+  </thing>
+
+  <thing id="tmCdxGodBl" name="God's Blessed" description="A deity has bestowed an enduring blessing on this character. The template grants a +2 increase to natural armor and +4 to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma." compset="Template" uniqueness="unique">
+    <arrayval field="tmCRArray" index="0" value="0"/>
+    <tag group="TemplHelp" tag="Acquired"/>
+    <eval phase="Attr" priority="10000" index="1"><![CDATA[
+      hero.child[aSTR].field[aPostMod].value += 4
+      hero.child[aDEX].field[aPostMod].value += 4
+      hero.child[aCON].field[aPostMod].value += 4
+      hero.child[aINT].field[aPostMod].value += 4
+      hero.child[aWIS].field[aPostMod].value += 4
+      hero.child[aCHA].field[aPostMod].value += 4
+      hero.child[ArmorClass].field[tACNatural].value += 2
+    ]]></eval>
+  </thing>
+</document>

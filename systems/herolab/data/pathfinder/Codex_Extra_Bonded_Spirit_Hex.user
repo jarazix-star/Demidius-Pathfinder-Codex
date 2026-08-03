@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Extra Bonded Spirit Hex"/>
+
+  <!--
+    Demidius-project general feat for the Oracle Spirit Guide archetype.
+
+    Hero Lab implements the Spirit Guide's bonded-spirit hex choices through
+    the Oracle helper's quinary custom-ability pool. Portfolio XML identifies
+    selected bonded-spirit hexes with source ClsQuiAbil; timing.xml maps the
+    quinary allowance to cGiveSp5th. Increasing cGiveSp5th therefore creates
+    a real additional choice in the Oracle panel's "Bonded Spirit Hexes"
+    section rather than a generic Witch Hex or ordinary revelation.
+  -->
+  <thing
+    id="fCdxExBSH"
+    name="Extra Bonded Spirit Hex"
+    description="Your bond with the spirit world has taught you another of your bonded spirit's secrets.\n\n{b}Prerequisite{/b}: Oracle with the spirit guide archetype and the bonded spirit class feature.\n\n{b}Benefit{/b}: You gain one additional bonded spirit hex. You must meet all prerequisites for the selected hex, and the hex must be available through your spirit guide's bonded spirit.\n\n{b}Special{/b}: You can select this feat multiple times. Each time you do, you gain one additional bonded spirit hex."
+    compset="Feat">
+
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="fCategory" tag="General"/>
+
+    <eval phase="PreLevel" priority="10000"><![CDATA[
+      ~ If this feat is disabled, do nothing.
+      doneif (tagis[Helper.FtDisable] <> 0)
+
+      ~ Spirit Guide exposes bonded-spirit hexes through the Oracle's
+      ~ quinary custom-ability selection pool (source ClsQuiAbil).
+      hero.childfound[cHelpOra].field[cGiveSp5th].value += 1
+      ]]></eval>
+
+    <exprreq message="Oracle with the Spirit Guide archetype required."><![CDATA[
+      hero.childlives[arOraSpiGu] <> 0
+      ]]></exprreq>
+  </thing>
+</document>

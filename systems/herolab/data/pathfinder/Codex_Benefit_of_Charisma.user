@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Data">
+  <loadonce key="Codex Benefit of Charisma Lore Hex"/>
+
+  <!--
+    Campaign alternate of the Lore spirit hex Benefit of Wisdom (ACG / cShaBenWis).
+
+    Official Benefit of Wisdom (cShaBenWis) assigns SkillOpt.aWIS during
+    PostLevel at priority 10000. This campaign alternate mirrors that timing and
+    assigns SkillOpt.aCHA. The early optional-ability tag lets Hero Lab's skill
+    engine select and display Charisma natively; a later direct Bonus adjustment
+    produces the right total but is incorrectly reported as an untyped bonus.
+
+    Wired as a real Lore bonded-spirit hex so it appears in:
+      - Shaman spirit-hex tables when Lore is the spirit
+      - Oracle Spirit Guide → Bonded Spirit Hexes when Lore is the bonded spirit
+
+    Tags mirror official Lore hexes:
+      SpecSource.cHelpSha  + Helper.Tertiary  + abCategory.ShaSpLore
+  -->
+  <thing
+    id="hxCdxBenCha"
+    name="Benefit of Charisma"
+    description="You rely on force of personality rather than pure intellect to grasp and retain knowledge.\n\n{b}Benefit of Charisma (Ex){/b}: You can use your Charisma modifier instead of your Intelligence modifier on all Intelligence-based skill checks.\n\n{b}Campaign note{/b}: Lore spirit bonded-spirit hex; campaign alternate of Benefit of Wisdom (which uses Wisdom instead of Intelligence). Does not replace or remove official Benefit of Wisdom.\n\n{b}Selection{/b}: Choose this from Bonded Spirit Hexes (Spirit Guide) or shaman Lore spirit hexes when your spirit is Lore."
+    compset="CustomSpec"
+    uniqueness="useronce"
+    summary="Lore hex: use Cha instead of Int on all Int-based skill checks.">
+
+    <!-- CustomSpec already provides Helper.ShowSpec; do not re-assign it. -->
+    <tag group="Helper" tag="Tertiary"/>
+    <tag group="AbilType" tag="Extra"/>
+    <tag group="SpecSource" tag="cHelpSha"/>
+    <tag group="abCategory" tag="ShaSpLore"/>
+
+    <eval phase="PostLevel" priority="10000"><![CDATA[
+      ~ Mirror cShaBenWis at its native timing, substituting Charisma.
+      ~ Do not gate on Helper.SpcDisable: the Spirit Guide borrowed-hex wrapper
+      ~ can retain that tag on a live selected bonded-spirit hex.
+      foreach pick in hero from BaseSkill where "SkillAbil.aINT"
+        perform eachpick.assign[SkillOpt.aCHA]
+        nexteach
+      ]]></eval>
+  </thing>
+</document>

@@ -21,7 +21,7 @@ After entering a fight, Demidius must save to voluntarily stop. Establish party 
 
 ## FF-03 — Misjudging Intentions
 
-Demidius takes -20 when judging the intentions of women or effeminate men. Important conclusions require independent verification.
+Demidius takes -20 on Sense Motive checks when the subject is a woman. Important conclusions require independent verification.
 
 ## FF-04 — Paranoia
 

@@ -1,5 +1,36 @@
 ﻿# Change Log
 
+## Expand party-adjacent NPC and artifact artwork - 2026-08-03
+
+- Rebuilt Achilles as a mythic, painterly Dogs of War champion at Misthold.
+- Added Queen Lidda Beaumont's decisive victory over Ares as a separate event
+  illustration while retaining her established identity reference.
+- Added production character-reference sheets for Alley and Tulip, preserving
+  Alley's design and refining Tulip into a slimmer, more handsome adult gnome.
+- Upgraded Queen Beaumont's red-tasseled longsword to the established
+  standalone artifact-reliquary presentation.
+- Synchronized Wiki art into the main repository's people, events, characters,
+  and artifacts mirrors.
+
+## Add Paranoia and Misjudging Intentions to Hero Lab - 2026-08-03
+
+- Extended the recoverable Godling Fatal Flaw chooser from 100 to 102 choices.
+- Added `Paranoia`, using its confirmed failed-save behavior, and `Misjudging
+  Intentions`, which applies a -20 penalty to Sense Motive when the subject is
+  a woman.
+- Updated the Hero Lab recovery manifest for the synchronized catalog.
+- Added the path-neutral repository generator and documented the regeneration,
+  synchronization, Quick Reload, and validation workflow.
+
+## Replace Smokey Roberts's canonical portrait - 2026-08-03
+
+- Replaced the generic realistic war-table portrait with the user-directed
+  canonical design: an older, bearded paternal likeness of Demidius rendered
+  as a formidable Pirate King in a Hades-inspired graphic-painterly style.
+- Added the canonical appearance to the Wiki page and synchronized the
+  main-repository mirror. The former interpretive local master remains
+  preserved as a versioned backup outside Git.
+
 ## Complete Perlot's deity portrait treatment - 2026-08-03
 
 - Added the omitted Perlot portrait to the deterministic deity title-card

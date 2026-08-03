@@ -19,4 +19,4 @@ Influence combines Charisma, diplomacy, leadership, divine reputation, social ma
 
 ## Safeguard doctrine
 
-Demidius's -20 vulnerability when judging the intentions of women or effeminate men requires independent review of important social conclusions. Major commitments should be checked by trusted allies, divinations, or objective evidence.
+Demidius's Misjudging Intentions Fatal Flaw imposes -20 on Sense Motive checks when the subject is a woman. Important social conclusions require independent review through trusted allies, divinations, or objective evidence.

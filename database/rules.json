@@ -99,7 +99,7 @@
     "id": "CR-17",
     "title": "Demidius's Fatal Flaws",
     "status": "Verified Campaign Rule",
-    "text": "- **Status:** Verified Campaign Rule - **Daily gambling:** Demidius must gamble each day. - **Battle commitment:** After becoming engaged in a fight, Demidius must succeed at the Fatal Flaw save to voluntarily stop fighting. - **Misjudging intentions:** Demidius takes a **-20 penalty** when judging the intentions of women or effeminate men. - **Paranoia:** After using the Key of Daedalus, Demidius permanently gains Paranoia. On a failed Fatal Flaw save, he must act on paranoid impulses, such as spying on people or taking excessive precautions."
+    "text": "- **Status:** Verified Campaign Rule - **Daily gambling:** Demidius must gamble each day. - **Battle commitment:** After becoming engaged in a fight, Demidius must succeed at the Fatal Flaw save to voluntarily stop fighting. - **Misjudging intentions:** Demidius takes a **-20 penalty on Sense Motive checks** when the subject is a woman. - **Paranoia:** After using the Key of Daedalus, Demidius permanently gains Paranoia. On a failed Fatal Flaw save, he must act on paranoid impulses, such as spying on people or taking excessive precautions."
   },
   {
     "id": "CR-18",

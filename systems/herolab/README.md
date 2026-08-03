@@ -15,6 +15,9 @@ project-authored Hero Lab Classic Pathfinder extensions.
   adding the Godling/Mythic page, lower full-color portrait watermark, Race
   truncation, and product-logo removal.
 - `MANIFEST.sha256`: hashes for all 40 backed-up runtime files.
+- `scripts/generate_fatal_flaw_catalog.ps1`: path-neutral, recoverable generator
+  for the 100 workbook choices plus campaign-specific Paranoia and Misjudging
+  Intentions.
 
 The snapshot intentionally excludes portfolios (`.por`), extracted character
 data, portraits, temporary renders, stock Hero Lab files, community packs,
@@ -34,6 +37,23 @@ ShadowChemosh imports, failed experiments, and retired/duplicate files.
 The Godly Powers feature requires its complete family of structural files and
 catalogs; restore the entire `data/pathfinder` directory rather than selecting
 only `Codex_Godly_Powers_V1.user`.
+
+## Fatal Flaw catalog workflow
+
+1. Update the authoritative 100-row workbook table through the Wiki page
+   `Fatal-Flaw-Catalog.md`; keep campaign-specific additions in the generator.
+2. From the main repository, run:
+   `& .\systems\herolab\scripts\generate_fatal_flaw_catalog.ps1`.
+3. Confirm 102 `xCFF` choices, six `xCdxFlw` helpers, unique Thing IDs, and
+   valid XML.
+4. Synchronize the generated file to the Project staging folder and
+   `C:\ProgramData\Hero Lab\data\pathfinder`.
+5. Use **Develop -> Quick Reload Data Files**, test without saving a live
+   portfolio, and update `MANIFEST.sha256` with the final digest.
+
+The supplemental choices are `xCFF101` Paranoia and `xCFF102` Misjudging
+Intentions. Misjudging Intentions applies -20 to Sense Motive checks when the
+subject is a woman.
 
 ## Integrity
 

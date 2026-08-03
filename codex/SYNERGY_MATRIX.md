@@ -74,7 +74,7 @@
 |---|---|---|
 | Daily gambling | Mandatory daily behavior | Controlled scheduled wager |
 | Battle commitment | Save required to stop fighting | Preplanned extraction and ally authority |
-| Misjudging intentions | -20 against women or effeminate men | Independent verification and divination |
+| Misjudging intentions | -20 Sense Motive when the subject is a woman | Independent verification and divination |
 | Paranoia | Spying/excessive precautions on failed save | Trusted-officer review and decision protocol |
 
 

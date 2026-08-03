@@ -2,7 +2,7 @@
 <document signature="Hero Lab Data">
   <fileinfo>
     <info_author>Demidius Pathfinder Codex</info_author>
-    <info_history>2026-08-01 - Generated the 100 canonical Fatal Flaw choices and six persistent selection slots from Fatal-Flaw-Catalog.md. 2026-08-02 - Added display-only public-statblock output for Armidale Codex v3.18.</info_history>
+    <info_history>2026-08-03 - Generated the 100 canonical Fatal Flaw choices, added campaign-specific Paranoia and Misjudging Intentions, and retained six persistent selection slots.</info_history>
   </fileinfo>
   <thing id="xCFF001" name="1. No Time for Book Learning" description="Cannot read." compset="Ability" uniqueness="unique">
     <tag group="Custom" tag="CdxFatal" />
@@ -404,12 +404,19 @@
     <tag group="Custom" tag="CdxFatal" />
     <tag group="Helper" tag="Helper" />
   </thing>
+  <thing id="xCFF101" name="101. Paranoia" description="On a failed Fatal Flaw save, must act on paranoid impulses, such as spying on people or taking excessive precautions." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
+  <thing id="xCFF102" name="102. Misjudging Intentions" description="-20 to Sense Motive checks when the subject is a woman." compset="Ability" uniqueness="unique">
+    <tag group="Custom" tag="CdxFatal" />
+    <tag group="Helper" tag="Helper" />
+  </thing>
   <thing id="xCdxFlw1" name="Fatal Flaw Slot 1" description="Choose one Fatal Flaw from the canonical campaign catalog." compset="Ability" uniqueness="unique">
     <fieldval field="usrCandid1" value="Custom.CdxFatal" />
     <fieldval field="abValue" value="1" />
     <tag group="Helper" tag="ShowSpec" />
-    <eval phase="Render" priority="50000"><![CDATA[
-      if (field[usrChosen1].ischosen = 0) then
+    <eval phase="Render" priority="50000"><![CDATA[      if (field[usrChosen1].ischosen = 0) then
         perform delete[Helper.ShowSpec]
       else
         field[sbName].text = "Godling Fatal Flaw|Slot=1|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
@@ -420,8 +427,7 @@
     <fieldval field="usrCandid1" value="Custom.CdxFatal" />
     <fieldval field="abValue" value="2" />
     <tag group="Helper" tag="ShowSpec" />
-    <eval phase="Render" priority="50000"><![CDATA[
-      if (field[usrChosen1].ischosen = 0) then
+    <eval phase="Render" priority="50000"><![CDATA[      if (field[usrChosen1].ischosen = 0) then
         perform delete[Helper.ShowSpec]
       else
         field[sbName].text = "Godling Fatal Flaw|Slot=2|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
@@ -432,8 +438,7 @@
     <fieldval field="usrCandid1" value="Custom.CdxFatal" />
     <fieldval field="abValue" value="3" />
     <tag group="Helper" tag="ShowSpec" />
-    <eval phase="Render" priority="50000"><![CDATA[
-      if (field[usrChosen1].ischosen = 0) then
+    <eval phase="Render" priority="50000"><![CDATA[      if (field[usrChosen1].ischosen = 0) then
         perform delete[Helper.ShowSpec]
       else
         field[sbName].text = "Godling Fatal Flaw|Slot=3|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
@@ -444,8 +449,7 @@
     <fieldval field="usrCandid1" value="Custom.CdxFatal" />
     <fieldval field="abValue" value="4" />
     <tag group="Helper" tag="ShowSpec" />
-    <eval phase="Render" priority="50000"><![CDATA[
-      if (field[usrChosen1].ischosen = 0) then
+    <eval phase="Render" priority="50000"><![CDATA[      if (field[usrChosen1].ischosen = 0) then
         perform delete[Helper.ShowSpec]
       else
         field[sbName].text = "Godling Fatal Flaw|Slot=4|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
@@ -456,8 +460,7 @@
     <fieldval field="usrCandid1" value="Custom.CdxFatal" />
     <fieldval field="abValue" value="5" />
     <tag group="Helper" tag="ShowSpec" />
-    <eval phase="Render" priority="50000"><![CDATA[
-      if (field[usrChosen1].ischosen = 0) then
+    <eval phase="Render" priority="50000"><![CDATA[      if (field[usrChosen1].ischosen = 0) then
         perform delete[Helper.ShowSpec]
       else
         field[sbName].text = "Godling Fatal Flaw|Slot=5|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value
@@ -468,8 +471,7 @@
     <fieldval field="usrCandid1" value="Custom.CdxFatal" />
     <fieldval field="abValue" value="6" />
     <tag group="Helper" tag="ShowSpec" />
-    <eval phase="Render" priority="50000"><![CDATA[
-      if (field[usrChosen1].ischosen = 0) then
+    <eval phase="Render" priority="50000"><![CDATA[      if (field[usrChosen1].ischosen = 0) then
         perform delete[Helper.ShowSpec]
       else
         field[sbName].text = "Godling Fatal Flaw|Slot=6|Name=" & field[usrChosen1].chosen.field[name].text & "|DC=" & hero.child[xCdxGodCfg].field[abValue].value

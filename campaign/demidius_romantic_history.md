@@ -39,7 +39,7 @@ Demidius has never met Pirate Queen Rosalind Galeheart. Aphrodite nevertheless c
 - Aristea's preexisting love is not established by the demiplane's Loyalty effect, and the effect's later influence remains unresolved.
 - Nyssa's rejection and subsequent betrayal are separate facts; no causal connection is confirmed.
 - The Rosalind episode illustrates divine intrusion into consent and judgment rather than a mutual romance.
-- Demidius's romantic-intentions Fatal Flaw may impair his judgment, but it does not explain or excuse other characters' choices.
+- Demidius's Misjudging Intentions Fatal Flaw may impair his Sense Motive when the subject is a woman, but it does not explain or excuse other characters' choices.
 
 ## Related records
 

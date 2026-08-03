@@ -27,7 +27,7 @@ depends:
 |---|---|---|---|
 | Daily gambling | Must gamble each day | Low if scheduled | Resolve a controlled wager early each day |
 | Battle commitment | Must save to stop once engaged in a fight | High | Preauthorized extraction plan; contingency and ally intervention |
-| Misjudging intentions | -20 judging women or effeminate men's intentions | Very high in diplomacy | Independent Sense Motive, divination, written review protocol |
+| Misjudging intentions | -20 Sense Motive when the subject is a woman | Very high in diplomacy | Independent Sense Motive, divination, written review protocol |
 | Paranoia | On failed save, spy or take excessive precautions | High at campaign scale | Trusted-officer review, decision deadlines, objective evidence standards |
 
 ## Party procedures

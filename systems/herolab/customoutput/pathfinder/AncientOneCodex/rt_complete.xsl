@@ -117,6 +117,14 @@
                       return match ? match[1] : '';
                    }
 
+                   function resourceSpent(validationReport, resourceName) {
+                      var marker = resourceName + ': Resource ';
+                      var start = (validationReport || '').indexOf(marker);
+                      if (start < 0) return null;
+                      var match = /(?:Under|Over)spent:\s*(\d+)\s+of\s+\d+/.exec(validationReport.substring(start + marker.length));
+                      return match ? parseInt(match[1], 10) : null;
+                   }
+
                    function isBridgeAbility(ability) {
                       var name = ability ? ability.specialAbilityName : '';
                       return beginsWith(name, 'Godling Output|') ||
@@ -135,6 +143,7 @@
                       characterObj.fatalFlaws = [];
                       characterObj.mythicAbilities = [];
                       characterObj.mythicFeats = [];
+                      var validationReport = characterSrc.children('validation').children('report').text() || '';
 
                       var sourceByName = {};
                       characterSrc.find('special').each(function() {
@@ -181,6 +190,22 @@
                             mythicPower = characterObj.trackedResources[r].left + '/' + characterObj.trackedResources[r].max;
                             break;
                          }
+                      }
+
+                      // Some Hero Lab custom-output exports omit the Godling
+                      // Mythic Power tracker even though the Godly Powers tab has
+                      // calculated it. Recover the verified campaign formula from
+                      // the exported selection counts; a real tracker or bridge
+                      // value still takes priority so spent points remain exact.
+                      if (!mythicPower && (characterObj.templatesSummary || '').indexOf('Godling Bloodline:') >= 0) {
+                         var selectedGodly = resourceSpent(validationReport, 'Godly Power Selections');
+                         var selectedPath = resourceSpent(validationReport, 'Mythic Path Abilities');
+                         var selectedOther = resourceSpent(validationReport, 'Mythic Other Abilities');
+                         if (selectedGodly === null) selectedGodly = characterObj.godlyPowers.length;
+                         if (selectedPath === null) selectedPath = 0;
+                         if (selectedOther === null) selectedOther = 0;
+                         var derivedMythicPower = (2 * selectedGodly) + (2 * (selectedPath + selectedOther)) + characterObj.mythicFeats.length;
+                         mythicPower = derivedMythicPower + '/' + derivedMythicPower;
                       }
 
                       characterObj.godling = {

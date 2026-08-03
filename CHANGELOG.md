@@ -2,6 +2,9 @@
 
 ## Add AncientOne Codex Hero Lab sheet v4.15 - 2026-08-02
 
+- Fixed missing Mythic Power output when Hero Lab suppresses the Godling
+  tracker/bridge from custom-output XML. The renderer now falls back to the
+  campaign formula from exported selection counts; Aristea verifies at `9/9`.
 - Changed the portrait watermark from grayscale to full color while retaining
   its 30% opacity and approved lower-page placement.
 - Added the intended AncientOne v4.15 custom-output derivative alongside the

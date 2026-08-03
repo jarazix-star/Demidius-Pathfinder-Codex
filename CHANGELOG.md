@@ -1,5 +1,25 @@
 ﻿# Change Log
 
+## Replace Ena's canonical deity portrait - 2026-08-03
+
+- Replaced the existing Ena mirror with the user-supplied half-orc
+  spellcaster and phoenix composition.
+- Retained the established lower-center identity treatment: Ena's name,
+  unrecorded paternal lineage, divine portfolio, and gold phoenix sigil.
+- No character, costume, lighting, setting, crop, or dimensions were altered
+  by the title-card pass.
+- Added `docs/DEITY_ART_WORKFLOW.md` and the portable deterministic compositor
+  at `scripts/add_deity_title_cards.py` so the treatment, metadata, QA gates,
+  and two-repository publishing procedure are recoverable from Git.
+
+## Synchronize deity portrait title treatments - 2026-08-02
+
+- Synchronized the existing main-repository deity mirrors for Aphrodite,
+  Cleomenes, Ena, Harmonia, and Nereus with their new individualized
+  lower-center name, lineage, portfolio, and sigil treatments.
+- No page prose, portrait composition, crop, dimensions, or unrelated artwork
+  changed.
+
 ## Add AncientOne Codex Hero Lab sheet v4.15 - 2026-08-02
 
 - Fixed missing Mythic Power output when Hero Lab suppresses the Godling

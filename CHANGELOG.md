@@ -1,5 +1,15 @@
 ﻿# Change Log
 
+## Complete Perlot's deity portrait treatment - 2026-08-03
+
+- Added the omitted Perlot portrait to the deterministic deity title-card
+  series with `LINEAGE UNRECORDED`, `GOD OF LAW, WAR, AND COMMUNITY`, and a
+  gold longsword sigil.
+- Updated the compositor and workflow count to 78 managed portraits plus the
+  unchanged Aetherion reference, covering all 79 active deity portraits.
+- Synchronized the matching main-repository mirror without changing the
+  portrait's character, scene, crop, or dimensions.
+
 ## Replace Ena's canonical deity portrait - 2026-08-03
 
 - Replaced the existing Ena mirror with the user-supplied half-orc

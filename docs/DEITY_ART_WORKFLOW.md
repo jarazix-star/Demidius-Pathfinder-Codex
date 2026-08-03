@@ -71,8 +71,8 @@ Before publishing:
    scene, crop, and dimensions are unchanged outside the lower title region.
 2. Confirm the clean-master hash before and after compositing.
 3. Confirm the Wiki image and any main-repository mirror have identical hashes.
-4. Confirm the apply manifest still contains all 77 compositor-managed gods;
-   with unchanged Aetherion, this covers 78 active deity portraits.
+4. Confirm the apply manifest still contains all 78 compositor-managed gods;
+   with unchanged Aetherion, this covers 79 active deity portraits.
 5. Run `git diff --check` in both repositories.
 6. From the main repository, run:
 

@@ -34,7 +34,7 @@ TARGETS = [
     "Chronos", "Ananke", "Erebus", "Eros (Primordial)", "Hydros", "Phusis",
     "Pontus", "Tethys", "Nereus", "Thanatos", "Morpheus", "The Fates",
     "Dionysus", "Asclepius", "Muses", "Harpocrates", "The Furies",
-    "Cleomenes", "Galatea", "Peitho", "Ena", "Keto", "Echidna",
+    "Cleomenes", "Perlot", "Galatea", "Peitho", "Ena", "Keto", "Echidna",
 ]
 
 SLUGS = {
@@ -70,6 +70,7 @@ LINEAGE = {
     "Morpheus": "SON OF HYPNOS", "The Fates": "DAUGHTERS OF ZEUS", "Dionysus": "SON OF ZEUS",
     "Asclepius": "SON OF APOLLO", "Muses": "DAUGHTERS OF ZEUS", "Harpocrates": "SON OF OSIRIS",
     "The Furies": "BORN OF OURANOS", "Cleomenes": "LINEAGE UNRECORDED",
+    "Perlot": "LINEAGE UNRECORDED",
     "Galatea": "DAUGHTER OF NEREUS", "Peitho": "DAUGHTER OF OCEANUS",
     "Ena": "PATERNAL LINEAGE UNRECORDED", "Keto": "DAUGHTER OF PONTUS",
     "Echidna": "DAUGHTER OF PHORCYS",
@@ -117,7 +118,8 @@ PORTFOLIO = {
     "The Fates": "LEGEND, FATE, TRUTH, AND REVELATION", "Dionysus": "MADNESS, CHAOS, PLANTS, AND TRAVEL",
     "Asclepius": "HEALING AND EDUCATION", "Muses": "ARTIFICE, KNOWLEDGE, LUCK, AND CHARM",
     "Harpocrates": "SOLITUDE, PURITY, AND KNOWLEDGE", "The Furies": "FAMILY, JUDGMENT, FEROCITY, AND BLOOD",
-    "Cleomenes": "SCALYKIND, FIRE, AND SURVIVAL", "Galatea": "WATER, CAPTIVATION, AND LOVE",
+    "Cleomenes": "SCALYKIND, FIRE, AND SURVIVAL", "Perlot": "LAW, WAR, AND COMMUNITY",
+    "Galatea": "WATER, CAPTIVATION, AND LOVE",
     "Peitho": "CHARM", "Ena": "HEALING, PHOENIX, INDUSTRY, HOME, COOPERATION, AND LIBERATION",
     "Keto": "SEA MONSTERS AND THE OCEAN DEPTHS", "Echidna": "MONSTERS, SERPENTS, AND WILD PLACES",
 }
@@ -143,7 +145,7 @@ MOTIF = {
     "Erebus":"eclipse", "Eros (Primordial)":"spiral", "Hydros":"wave", "Phusis":"leaf", "Pontus":"wave",
     "Tethys":"river", "Nereus":"trident", "Thanatos":"torch", "Morpheus":"wing", "The Fates":"spindle",
     "Dionysus":"grapes", "Asclepius":"healing", "Muses":"lyre", "Harpocrates":"eye", "The Furies":"serpent",
-    "Cleomenes":"dragon", "Galatea":"shell", "Peitho":"heart", "Ena":"phoenix", "Keto":"serpent", "Echidna":"serpent",
+    "Cleomenes":"dragon", "Perlot":"sword", "Galatea":"shell", "Peitho":"heart", "Ena":"phoenix", "Keto":"serpent", "Echidna":"serpent",
 }
 
 

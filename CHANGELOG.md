@@ -8,6 +8,10 @@
 - Corrected the Oros record: Fel's kobold mortal-god minion impersonated Oros;
   the party later found and resurrected the real Oros, whom Maarin serves as
   second.
+- Reconciled the Sunlit Chain succession across the campaign records: Aelwyn
+  was the initial nominee for Dame Mathilda's second, but Demidius persuaded
+  Mathilda to appoint him instead. Also corrected the Filius vision to Maarin's
+  third confirmed Dark Prophecy; her actual first remains unrecorded.
 
 ## Expand party-adjacent NPC and artifact artwork - 2026-08-03
 

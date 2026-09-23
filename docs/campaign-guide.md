@@ -43,7 +43,7 @@ The Dawnrunner is a galleon and the center of an expanding organization. It serv
 
 Maarin killed Sea Serpent Declan during the Battle for Tradegulf, and the heroes now hold his Wayfinder. His death reduced the Council of Seven to six and left the Sunlit Chain without a lord. Maarin believes the party has the strongest succession claim but cannot survive a direct contest with the remaining Pirate Kings or the separate Storm King.
 
-Her proposed solution is to transfer the claim and Wayfinder to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second and provide regional legitimacy. The plan remains unapproved and Mathilda has not accepted.
+Her proposed solution was to transfer the claim and Wayfinder to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Mathilda accepted. Aelwyn was initially proposed as her second to provide regional legitimacy, but Demidius later persuaded Mathilda to appoint him instead. The formal transfer and installation remain pending or unrecorded.
 
 Aristea served as navigator before her death, Lilly runs logistics as bosun, Bix is an officer, and the named crew includes healers, engineers, musicians, security, a cook, and counter-piracy specialists. The current navigator, succession plan, and coverage after Aristea's death remain important open questions.
 

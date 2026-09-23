@@ -35,7 +35,7 @@ Queen of Nysia, Slayer of War, and Minor Goddess of Dueling. She killed Ares at 
 
 ### Dame Mathilda
 
-A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely tie her to the Sunlit Chain. Maarin and the party proposed installing Mathilda as Declan's successor, with Aelwyn as her second, and Mathilda agreed. The formal transfer and installation remain pending or unrecorded.
+A level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Her blood and abilities uniquely tie her to the Sunlit Chain. Maarin and the party proposed installing Mathilda as Declan's successor, and Mathilda agreed. Aelwyn was initially proposed as Mathilda's second, but Demidius later persuaded her to appoint him instead. The formal transfer and installation remain pending or unrecorded.
 
 ### Fel
 
@@ -99,9 +99,9 @@ Declan's second-in-command. Eris killed Sly with *death knell* during the Battle
 
 A level 15 male mortal god, sorcerer, Dragon Disciple, child of Echidna, and one of the group's major damage specialists. The party rescued his egg from the hidden temple at Lavawyn Point after Maarin received a dark prophecy of his coming birth. Maarin took him as her cohort; he now worships her and regards her as his sister. See his illustrated page in the GitHub wiki.
 
-### Filius and Maarin's first Dark Prophecy
+### Filius and Maarin's third Dark Prophecy
 
-Filius is the stone-covered man shown in Maarin's first vision from the Dark Prophecy Fatal Flaw. The vision showed a cloaked golden-scythe wielder killing him roughly ten years into a possible future, followed by Gaia's awakening, a primordial war, collapse of the Material Plane, and a cosmic reset. It led the party to Filius, who is presently alive and serving aboard the *Matcha Frappuccino*. The warned catastrophe has not occurred.
+Filius is the stone-covered man shown in Maarin's third confirmed vision from the Dark Prophecy Fatal Flaw. The vision showed a cloaked golden-scythe wielder killing him roughly ten years into a possible future, followed by Gaia's awakening, a primordial war, collapse of the Material Plane, and a cosmic reset. It led the party to Filius, who is presently alive and serving aboard the *Matcha Frappuccino*. The warned catastrophe has not occurred. Maarin's actual first Dark Prophecy has not yet been recorded.
 
 ### Perlot
 

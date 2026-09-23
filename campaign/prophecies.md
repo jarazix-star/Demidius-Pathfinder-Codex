@@ -1,16 +1,16 @@
 ---
 title: Campaign Prophecies
 status: canonical
-last_updated: 2026-07-21
+last_updated: 2026-09-23
 ---
 
 # Campaign Prophecies
 
 Prophecies record visions and warnings, not automatically inevitable future events. Each entry distinguishes the witnessed vision, its interpretation, the party's response, and what has actually occurred.
 
-## Maarin's first Dark Prophecy: the death of Filius
+## Maarin's third Dark Prophecy: the death of Filius
 
-Maarin rolled **Dark Prophecy** as a Fatal Flaw and received her first vision shortly after returning from Yuletown.
+Maarin rolled **Dark Prophecy** as a Fatal Flaw and received this third confirmed vision shortly after returning from Yuletown. Her actual first Dark Prophecy has not yet been recorded.
 
 ### Vision sequence
 

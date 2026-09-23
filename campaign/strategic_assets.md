@@ -87,7 +87,7 @@ Hidden Cove, Village Ruins, and an offshore shipwreck. The base still requires
 confirmed anchorage, docks, housing, supplies, repair capacity, governance,
 defenses, and repeatable routes through the Shipbreaker Sea.
 
-Declan's death left the Chain without a formally installed lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin and the party proposed transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios, with Aelwyn as her locally credible second. Mathilda has agreed to the proposal, but the formal transfer, installation, and Aelwyn's appointment remain pending or unrecorded.
+Declan's death left the Chain without a formally installed lord. The heroes hold his Wayfinder and have the strongest known succession claim. Maarin and the party proposed transferring the instrument and claim to Dame Mathilda, a level-50 paladin of Apollo who refused godhood and bears the Sword of Helios. Aelwyn was initially proposed as Mathilda's locally credible second, but Demidius later persuaded Mathilda to appoint him instead. Mathilda has agreed to the succession proposal; the formal transfer and installation remain pending or unrecorded.
 
 Immediately after Declan's death, six Pirate Kings and Queens remained. Bloody Anne has since died during the Culling. The five named living rulers are Smokey Roberts, Bluebeard the Valiant, Rosalind Galeheart, Wavelord Santiago, and Morrigan â€œthe Burnerâ€ Crossfire; succession to Declan's and Bloody Anne's seats remains unresolved. The Storm King is a separate storm giant rather than a council member.
 
@@ -142,7 +142,7 @@ The Deck is deliberately not part of normal operating procedure. It remains unto
 - Keep the Deck untouched unless the campaign situation justifies irreducible risk.
 - Secure Declan's Wayfinder and determine who controls the Wayfinder associated with Sly, his deceased second-in-command.
 - Define Sounon's anchorage, defenses, governance, and supply routes before treating it as a secure base.
-- Formalize the accepted transfer of the Sunlit Chain claim and Declan's Wayfinder to Dame Mathilda; establish whether and when Aelwyn is appointed as her second.
+- Formalize the accepted transfer of the Sunlit Chain claim and Declan's Wayfinder to Dame Mathilda, and record the implementation of Demidius's appointment as her second.
 
 ## Canonical detail
 

@@ -68,7 +68,7 @@ Maarin's vision pointed to the **Claw of Keto**—one of three parts of the **Sc
 
 The Chain's solar geography includes Helios' Gift, the Sunspike, Sunspike Cove, Heliospire, Solaris, and Sunhaven Isle. These names support Maarin's belief that Dame Mathilda—a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios—is uniquely suited to succeed Declan.
 
-Maarin proposes that the heroes abdicate their claim, give Declan's Wayfinder to Mathilda, and appoint Aelwyn as her second. Aelwyn is a recognized regional folk hero. The transfer and appointment remain proposals.
+Maarin proposed that the heroes abdicate their claim and give Declan's Wayfinder to Mathilda. Aelwyn, a recognized regional folk hero, was initially proposed as Mathilda's second; Demidius later persuaded Mathilda to appoint him instead. The formal transfer and installation remain pending or unrecorded.
 
 ## Old Nysia and Tradegulf
 

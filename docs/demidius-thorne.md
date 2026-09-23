@@ -88,7 +88,8 @@ two additional godly powers drawn from Hermes's domains. Those powers have not
 yet been identified. Under the campaign's mythic formula, the two powers add
 two Mythic Tiers and four Mythic Power relative to his pre-Champion state.
 
-The false Oros's personal name and the real Oros's fate remain unknown. This
+The false Oros's personal name remains unknown. The party later found and
+resurrected the real Oros; Maarin subsequently agreed to serve as his second. This
 status is separate from Demidius's Aphrodite bloodline, demigod rank, and the
 individual gifts he has received through Hermes's custom divine progression.
 

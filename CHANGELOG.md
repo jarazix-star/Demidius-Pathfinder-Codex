@@ -1,5 +1,14 @@
 ﻿# Change Log
 
+## Consolidate the canonical campaign timeline - 2026-09-23
+
+- Made `campaign/timeline.md` the single canonical chronology, added the
+  corrected eleven-arc order and current War in the Isles endpoint, and
+  retained `campaign/events-and-timeline.md` as a compatibility pointer.
+- Corrected the Oros record: Fel's kobold mortal-god minion impersonated Oros;
+  the party later found and resurrected the real Oros, whom Maarin serves as
+  second.
+
 ## Expand party-adjacent NPC and artifact artwork - 2026-08-03
 
 - Rebuilt Achilles as a mythic, painterly Dogs of War champion at Misthold.

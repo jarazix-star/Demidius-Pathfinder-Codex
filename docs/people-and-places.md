@@ -192,8 +192,8 @@ and the ferry route between Tradegulf and Glistria.
 During the [Battle Beneath the Champions' Garrison](events/battle-beneath-the-champions-garrison.md),
 the party exposed the apparent Oros as an unnamed kobold mortal god of Fel.
 The infiltrator was defeated, completing Demidius's third Hermes trial and
-Amparo's third Hestia trial. The real Oros's fate and the faction's successor
-leadership remain unknown.
+Amparo's third Hestia trial. The party later found and resurrected the real
+Oros, and Maarin subsequently agreed to serve as his second.
 
 ### The Crafter's Bow
 

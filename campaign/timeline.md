@@ -1,19 +1,66 @@
 ---
 title: The Arrival — Campaign Timeline
-version: 1.1.0
+version: 2.0.0
 status: canonical
-last_updated: 2026-07-15
+last_updated: 2026-09-23
 ---
 
 # The Arrival — Campaign Timeline
 
-This chronology separates dated events from verified milestones whose exact campaign dates have not yet been recorded. Dates use the research record's calendar notation.
+This is the canonical campaign chronology. The player's September 2026 master
+arc outline controls event placement; older repository and wiki records supply
+detail but do not override this sequence. Exact dates remain open where the
+campaign record supplies only relative order.
 
-## Dated events
+## Canonical arc order
 
-### 0 P.A. — The disputed Arrival
+1. **The Beginning — Sounon Isles:** awakening after ten years of magical
+   stasis; liberation of the enslaved grippli; the first Scepter of Keto
+   sequence; the stone-man/Filius prophecy; loss of Paradox.
+2. **Volcaris:** the Destroyer prophecy; meetings with Tenor and Nyssa;
+   recovery and hatching of Okeanikos; *The Mother's Lament*.
+3. **Temple of Sarpedon:** the Scepter connector piece; Filius enters the
+   active story; Nyssa's betrayal.
+4. **Portal to Old Nysia:** Terra Obscura; the Maker's Knot; the raid and
+   expedition into the Necropolis; Aurellion and the Silent Court aftermath;
+   acquisition of the Key of Daedalus. The Necropolis expedition belongs here,
+   before Queen Beaumont's mission and Misthold.
+5. **Queen Beaumont's mission:** the new *Dawnrunner* and *Matcha Frappuccino*;
+   the commission to recover Odysseus; Tulip and Alley's wedding immediately
+   before the mission.
+6. **Misthold:** the great games; Odysseus and the divine prisoners; the battle
+   among Smokey Roberts's children; Maarin's wave; Gideon's Sunshot.
+7. **Stormspire:** the wayfinding crisis; trade and the festival diversion;
+   final Scepter component; Odysseus's sabotage; Maarin saves the settlement.
+8. **Return to Nysia:** the ships are parked in Volcaris and the party returns
+   to Nysia by teleportation.
+9. **Declan invades Nysia:** the Underworld/Crossroads approach; defense of
+   Tradegulf; Eris triggers the Culling early, kills Aristea, and claims Amparo;
+   Tenor dies; Queen Beaumont kills Ares.
+10. **Aftermath and rebuilding Tradegulf:** the Grand Artifact Auction;
+    Demidius's Crafter's Bow address, relief work, and selection as mayor;
+    defeat of the false Oros; Demidius and Amparo become Champions; Aristea
+    returns; Dame Mathilda accepts the Sunlit Chain. Aelwyn was proposed as
+    Mathilda's second before Demidius persuaded her to appoint him instead.
+    The party then found and resurrected the real Oros. Maarin's agreement to
+    become Oros's second refers to the restored true Oros and begins the next
+    campaign movement.
+11. **War in the Isles:** Pyros nearly destroys the expedition and both ships;
+    the invasion enters the Obsidian Key in the Burner's former territory;
+    Demidius helps take the Temple of Pyros; Dom joins Demidius as a son; the
+    Ash Prophet is exposed as an ally of Fel.
 
-P.A. means Post-Arrival. The event defining year 0 may be Fel's arrival in Zatera from the Outer Realms or Cronus's release from the Underworld. Cronus's release caused the divine schism, but the record does not establish that the release and calendar epoch are the same event.
+**Current endpoint:** the Temple of Pyros has been taken in the Obsidian Key,
+Dom has attached himself to Demidius as a father figure, and the party has
+learned that the Ash Prophet was working with Fel.
+
+## Dated anchors
+
+### 0 P.A. — The Arrival
+
+P.A. means Post-Arrival. Year 0 is defined by Fel's arrival in Zatera from the
+Outer Realms. Cronus's release caused the divine schism in the same broad span
+but is not the calendar's namesake.
 
 ### 150 P.A. — The campaign begins on Sounon
 
@@ -38,7 +85,10 @@ The heavens proclaimed Lidda Beaumont **Queen of Nysia, Slayer of War, and Minor
 - A change in the divine order became a witnessed campaign fact, not a distant prophecy.
 - Beaumont later gave Demidius the Glasses of Beaumont, establishing a continuing alliance or relationship.
 
-## Verified milestones — date not yet recorded
+## Expanded event records
+
+These records preserve established detail but do not supersede the canonical
+arc order above.
 
 ### Philomela escapes Lodingen with Demidius
 
@@ -80,11 +130,14 @@ Odysseus deliberately sabotaged Stormspire's flight so the city would crash into
 
 The party recovered Odysseus after he had been missing for twenty years. He is a level-30 rogue of an unspecified specialization and a tactical genius. His commitment to the greater good is ruthlessly utilitarian: he is willing to sacrifice people without their consent to achieve strategic goals.
 
-### Maarin proposes Dame Mathilda for the Sunlit Chain
+### Dame Mathilda accepts the Sunlit Chain
 
 Maarin believes the party has the strongest succession claim through her killing blow, possession of Declan's Wayfinder, and the party's Berresian origin. She also believes the heroes cannot hold the domain against the surviving Pirate Kings, particularly Wavelord Santiago and Smokey Roberts, or the separate storm-giant power called the Storm King.
 
-Maarin proposes abdicating in favor of Dame Mathilda, a level-50 paladin of Apollo who refused godhood and possesses the Sword of Helios. Aelwyn would serve as Mathilda's second. The proposal, Wayfinder transfer, appointment, and future invasion of Nysia remain pending.
+Maarin proposed abdicating in favor of Dame Mathilda, a level-50 paladin of
+Apollo who refused godhood and possesses the Sword of Helios. Mathilda accepted.
+Aelwyn was initially proposed as her second; Demidius later persuaded Mathilda
+to appoint him instead.
 
 ### Demidius inherits his brother's demiplane
 
@@ -122,6 +175,14 @@ Queen Lidda Beaumont gifted Demidius an artifact capable of unerring alignment r
 
 Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouched; no draw has been made.
 
+### The false Oros falls and the true Oros returns
+
+The apparent Oros of the Blossom was an unnamed kobold mortal god and minion of
+Fel who had shapechanged into Oros. The party exposed and defeated the impostor
+beneath the Champions' garrison. The party later found the real Oros and
+resurrected him. Maarin's later agreement to become Oros's second therefore
+refers to the restored true Oros.
+
 ## Open chronology questions
 
 - When did Demidius's brother die, and when did the inheritance occur?
@@ -129,8 +190,6 @@ Demidius possesses a standard Pathfinder Deck of Many Things. It remains untouch
 - Was the Key of Daedalus acquired before or after the demiplane?
 - When did Hermes grant each divine gift?
 - When and why did Beaumont present the glasses?
-- When was the Dawnrunner acquired or commissioned?
 - When and where did Poseidon's storm kill Maarin's family?
-- Which event defines the Post-Arrival calendar: Fel's arrival or Cronus's release?
 - When exactly did the Battle for Tradegulf occur?
-- Will Dame Mathilda accept the Sunlit Chain lordship?
+- What was the personal name of the kobold mortal god of Fel who impersonated Oros?

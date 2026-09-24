@@ -44,3 +44,16 @@ Filius is presently alive and serving as a healer aboard the *Matcha Frappuccino
 ## Okeanikos prophecy
 
 Maarin later received a prophecy of Okeanikos's coming birth. Whoever recovered his egg would have great influence over what he became. The party rescued him, and Maarin took him as her cohort. Its exact wording and relationship to the Dark Prophecy Fatal Flaw remain unrecorded.
+
+## Post-Culling prismatic-bullet prophecy
+
+Maarin saw Smokey Roberts directing suited miners who extracted lethal
+prismatic ore from a small island. A suit puncture caused boils, lesions, and
+catastrophic skin loss within about sixty seconds. Smokey later smelted the ore,
+aged and sickened visibly, and forged thirteen bullets glowing with ominous
+green light.
+
+This vision occurred after the recorded second-through-fourth visions. Because
+the source did not assign it an ordinal and Maarin's actual first remains
+unrecorded, the canonical record uses a descriptive title rather than silently
+numbering it fifth.

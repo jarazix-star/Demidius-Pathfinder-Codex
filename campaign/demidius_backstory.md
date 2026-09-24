@@ -8,17 +8,17 @@ last_updated: 2026-07-23
 
 ## Lodingen
 
-Demidius Thorne was born in Lodingen to Philomela Thorne and Smokey Roberts. His memories of that period are faint and fragmented. He remembers stern figures in ornate armor observing his meals, moods, and dreams and subjecting him to continual tests as though he were a rare specimen.
+Demidius Thorne was born in Lodingen; Smokey Roberts is his father. Philomela Thorne raised him, but was not his biological mother. His memories of that period are faint and fragmented. He remembers stern figures in ornate armor observing his meals, moods, and dreams and subjecting him to continual tests as though he were a rare specimen.
 
 Philomela seemed distant during that period until she spirited him away. Demidius remembers the fear on her face during their escape. She later identified their pursuers as the Hellknight Order of the Godclaw.
 
-The Godclaw was attempting to raise a demigod descended from Athena into a new god of war loyal to the order. It targeted Smokey Roberts because he is a demigod of Athena and used attractive women to draw him into producing children the order could exploit as candidates or subjects in that project. Demidius and Paradox were both results of this operation. The record does not establish whether Smokey, Philomela, the other women involved, or Athena knew the Godclaw's true purpose.
+The Godclaw was attempting to raise a demigod descended from Athena into a new god of war loyal to the order. It targeted Smokey Roberts because he is a demigod of Athena and used attractive women to draw him into producing children the order could exploit as candidates or subjects in that project. Demidius and Paradox were both results of this operation. The record does not establish whether Smokey, the other women involved, or Athena knew the Godclaw's true purpose.
 
 ## Motu Leilani
 
-Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. Its lush shores and endless skies were home to the kobold Tagata Fetu, the People of the Stars. Demidius and Philomela were the community's only known non-kobold residents, and mother and son became close there.
+Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. Its lush shores and endless skies were home to the kobold Tagata Fetu, the People of the Stars. Demidius and Philomela were the community's only known non-kobold residents, and Philomela and Demidius became close there.
 
-Philomela revealed that Aphrodite was Demidius's great-grandmother and that her divine blood flowed through him. Among the Tagata Fetu, Demidius learned spirit and tribal magic through juju chants and dances. His natural aptitude led many to expect that he would inherit the mantle of oracle from Fetu’mana, the tribe's kobold lorekeeper and Star Spirit.
+Philomela revealed that Aphrodite was Demidius's grandmother and that her divine blood flowed through him. Among the Tagata Fetu, Demidius learned spirit and tribal magic through juju chants and dances. His natural aptitude led many to expect that he would inherit the mantle of oracle from Fetu’mana, the tribe's kobold lorekeeper and Star Spirit.
 
 ## The vision and departure
 
@@ -32,14 +32,22 @@ Demidius recently recovered a long-lost vessel that had vanished at sea a decade
 
 ## Confirmed relationships
 
-- **Philomela Thorne:** mother; a beautiful but simply garbed islander, musetouched aasimar, demigod of Aphrodite, and fiercely protective refugee from the Godclaw.
+- **Philomela Thorne:** presumed mother and caregiver, later revealed as a Hellknight assassin; a beautiful but simply garbed islander, musetouched aasimar, demigod of Aphrodite, and fiercely protective refugee from the Godclaw.
 - **Smokey Roberts:** father; distant and mysterious; a demigod of Athena whom the Godclaw targeted as the paternal source for its attempted new god of war.
 - **Siopi:** deceased nonbinary half-sibling, child of Smokey Roberts, and former party mate of Paradox; presented femininely and helped decipher the map in *The Mother's Lament*.
 - **Paradox:** deceased half-brother and child of Smokey Roberts; visually marked by paired red-and-blue hair and eyes; husband to seven reported wives and father to six reported biological children.
 - **Aelwyn:** paternal half-sister through Smokey Roberts.
 - **Tulip:** half-brother and fellow demigod of Aphrodite.
 - **Fetu’mana:** Tagata Fetu lorekeeper whose vision sent Demidius away.
-- **Aphrodite:** great-grandmother and source of Demidius's divine bloodline.
+- **Aphrodite:** grandmother and source of Demidius's divine bloodline.
+
+## Revelation after Aphrodite's death
+
+Philomela was the woman who raised Demidius and whom he believed to be his mother. She was actually a Hellknight assassin assigned to kill him if he became too powerful. Aphrodite enchanted her to free Demidius and care for him. When Aphrodite died, that control ended and Philomela moved to kill him. The attack would have killed Demidius, but his *heal* contingency saved him. Aristea then killed Philomela with a bloody sneak attack. Demidius's biological mother remains unidentified.
+
+The earlier childhood scenes preserve what Demidius experienced and believed.
+His supposed maternal relationship and bloodline transmission through Philomela
+are superseded by this revelation.
 
 ## Continuing threats and objectives
 

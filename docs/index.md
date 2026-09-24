@@ -62,6 +62,7 @@ mechanics, memories, enlargement, and duties.
 - [Demidius's Speech to the Crafter's Bow](events/demidius-speech-to-the-crafters-bow.md) — the post-auction appeal to replace looting with civic guardianship.
 - [Battle Beneath the Champions' Garrison](events/battle-beneath-the-champions-garrison.md) — the exposure of the false Oros and the trials that made Demidius and Amparo Champions.
 - [Campaign Timeline](../campaign/timeline.md) — canonical event order and current campaign endpoint.
+- [Post-Culling Intelligence and Rumors](../campaign/post-culling-intelligence.md) — unordered current-era artifacts, politics, wars, prophecy, locations, and Hamlet's debrief, separated by evidence type.
 - [Notable Figures](../campaign/notable_figures.md) — confirmed identities and relationships.
 - [Strategic Assets](../campaign/strategic_assets.md) — operational value, limits, and risks.
 - [Dawnrunner](dawnrunner.md) — vessel statistics, officers, specialists, and crew stories.

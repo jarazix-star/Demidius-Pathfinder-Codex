@@ -34,7 +34,7 @@ The rapier remains a thematic backup weapon. Personal weapon damage is not the s
 | Class identity | Oracle and divine spellcaster |
 | Campaign role | Captain, face, controller, and party enabler |
 | Divine relationship | Champion of Hermes after completing three Hermes trials; unique leader among Hermes's followers |
-| Family | Philomela Thorne, mother; Smokey Roberts, father; Siopi, Paradox, Aelwyn, Tulip, a deceased brother, and other scattered siblings |
+| Family | Philomela Thorne, presumed mother and caregiver; Smokey Roberts, father; Siopi, Paradox, Aelwyn, Tulip, a deceased brother, and other scattered siblings |
 | Birthplace | Lodingen |
 | Childhood home | Motu Leilani in the Isles of Berres |
 | Strategic base | The Dawnrunner, inherited demiplane, and Kiss from a Rose hostel |
@@ -95,11 +95,11 @@ individual gifts he has received through Hermes's custom divine progression.
 
 ## Early life
 
-Demidius was born in Lodingen. His memories of that period are faint and fragmented: stern figures in ornate armor watched his meals, moods, and dreams and subjected him to repeated tests as though he were a rare specimen. His mother, Philomela Thorne, was distant during this captivity until she fled with him. She later identified their pursuers as the Hellknight Order of the Godclaw.
+Demidius was born in Lodingen. His memories of that period are faint and fragmented: stern figures in ornate armor watched his meals, moods, and dreams and subjected him to repeated tests as though he were a rare specimen. The woman he believed was his mother, Philomela Thorne, was distant during this captivity until she fled with him. She later identified their pursuers as the Hellknight Order of the Godclaw.
 
-The Godclaw was attempting to create a new god of war loyal to the order from the bloodline of Athena. It targeted Demidius's father, Smokey Roberts, because he is a demigod of Athena, and used attractive women to produce children through him for the project. Demidius and Paradox were confirmed results. Whether Smokey, Philomela, the other women, or Athena knew the program's true purpose remains unrecorded.
+The Godclaw was attempting to create a new god of war loyal to the order from the bloodline of Athena. It targeted Demidius's father, Smokey Roberts, because he is a demigod of Athena, and used attractive women to produce children through him for the project. Demidius and Paradox were confirmed results. Whether Smokey, the other women, or Athena knew the program's true purpose remains unrecorded.
 
-Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. They lived among the kobold Tagata Fetu, the People of the Stars, as the community's only known non-kobold residents, and at last became close. Philomela told him that Aphrodite was his great-grandmother and that her divine blood ran through him.
+Philomela carried Demidius deep into the Isles of Berres and found sanctuary on Motu Leilani, the Heavenly Island. They lived among the kobold Tagata Fetu, the People of the Stars, as the community's only known non-kobold residents, and at last became close. Philomela told him that Aphrodite was his grandmother and that her divine blood ran through him.
 
 Among the Tagata Fetu, Demidius learned spirit and tribal magic through their juju chants and dances. His aptitude led many to believe he would succeed Fetu’mana, the tribe's kobold lorekeeper, as oracle. Fetu’mana instead received a vision that Demidius's destiny required him to leave Motu Leilani and find his scattered siblings.
 
@@ -111,9 +111,11 @@ Published Order of the Godclaw oracles can draw obedience benefits from several 
 
 ## Family
 
+Philomela was the woman who raised Demidius and whom he believed to be his mother. She was actually a Hellknight assassin assigned to kill him if he became too powerful. Aphrodite enchanted her to free Demidius and care for him. When Aphrodite died, that control ended and Philomela moved to kill him. The attack would have killed Demidius, but his *heal* contingency saved him. Aristea then killed Philomela with a bloody sneak attack. Demidius's biological mother remains unidentified.
+
 Aelwyn, a platinum-skinned female paladin and officer aboard the *Matcha Frappuccino*, is Demidius's paternal half-sister: both are children of Pirate King Smokey Roberts. The history of their relationship has not yet been recorded.
 
-Philomela Thorne is Demidius's mother, a musetouched aasimar islander, and a demigod of Aphrodite, while Smokey Roberts is his distant and mysterious father and a demigod of Athena. Siopi and Paradox were both children of Smokey Roberts and former party members; Siopi was Demidius's nonbinary half-sibling and Paradox his half-brother. Demidius and Paradox, but not presently Siopi or Smokey's other children, are confirmed products of the Godclaw's war-god project. Both Siopi and Paradox are now deceased, with the circumstances of their deaths unrecorded. Paradox had seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
+Philomela Thorne is the woman Demidius believed to be his mother, a musetouched aasimar islander, and a demigod of Aphrodite, while Smokey Roberts is his distant and mysterious father and a demigod of Athena. Siopi and Paradox were both children of Smokey Roberts and former party members; Siopi was Demidius's nonbinary half-sibling and Paradox his half-brother. Demidius and Paradox, but not presently Siopi or Smokey's other children, are confirmed products of the Godclaw's war-god project. Both Siopi and Paradox are now deceased, with the circumstances of their deaths unrecorded. Paradox had seven reported wives and six reported biological children across the Isles. Tulip is another half-brother. Demidius's deceased brother, whose demiplane he inherited, is a separate sibling and may have been reincarnated as Bix. Other siblings remain unknown and are the object of Demidius's continuing search.
 
 Siopi also donated half of the money required to open [Kiss from a Rose](kiss-from-a-rose.md), Demidius's hostel in a suburb of Glistria. Simulacra of Demidius and Aristea now operate it in humble clothing.
 

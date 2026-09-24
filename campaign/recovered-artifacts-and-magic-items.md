@@ -112,11 +112,33 @@ Unstated mechanics remain unknown.
 - **Tiara of the Ancients:** combines wisdom, knowledge, and the power of love.
   Its magical-girl transformation grants immunity to mind-affecting effects
   and additional powers requiring a catchphrase. Maarin claimed it.
+- **Sapphire of Stubbornness:** substitutes the wearer's Will save for all other
+  saving throws, permits running in heavy armor, and ignores armor-based speed
+  reductions. It also imposes -10 feet to every movement speed and -10 on all
+  physical skill checks.
+- **Gamester's Coin:** must be flipped on every skill check. Heads grants a +25
+  untyped bonus; tails imposes a -25 penalty.
+- **Nebula's Embrace:** ancient wand that grants a catchphrase-powered
+  magical-girl transformation and augments protection and healing spells. The
+  owner gains the Merciful Fatal Flaw and loses access for one week if the
+  augmented magic damages a living humanoid enemy; undead, outsiders, oozes,
+  and dragons are excluded.
 - **Ring of Embers:** adds +3 damage per die of fire damage. Elemental spell
   damage becomes fire-only; force, sonic, and non-elemental magic remain
   available.
 - **Halfhead's Halfblade:** exceptionally powerful dogslicer feared by canines,
   though not by horses.
+
+### Artifacts recovered from named combatants
+
+| Former holder | Recovered item | Supplied properties |
+|---|---|---|
+| Declan | Heart of Echidna | Major artifact; complete mechanics unrecorded |
+| Declan | Heart of the Damned | Major artifact; -5 on saves against curses; doubles maximum hit points |
+| Sly | Sword of Eris | +5 transforming major artifact; Mythic Bane, Bane (living), Bane (outsider), Unholy; Unbreakable, Foe-Biting, and Extra Legendary Power twice |
+| Sly | Wanderer's Scarf | Head-slot minor artifact; Mythic Dodge, Mobility, Spring Attack, +10 feet movement, and walking on air and water |
+| Tremble | Focusing Wand | Major artifact; +1 damage per spell-damage die and one additional prepared spell or spell cast per spell level |
+| Olive | The Iron Tyrant | Cursed adamantine plate major artifact; further mechanics unrecorded |
 
 ## 9. Other preserved item leads
 

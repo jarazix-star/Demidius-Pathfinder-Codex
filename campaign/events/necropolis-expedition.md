@@ -13,7 +13,7 @@ remain unrecorded.
 | Persephone's force | approximately 1,000 | approximately 400 survived | Kamryn died and was resurrected |
 | Hades's force | approximately 1,000 | approximately 500 survived | Ezra died and refused resurrection |
 | Hermes's force | approximately 250 | approximately 100 remained as ghouls | Leo died and could not be resurrected |
-| Prince Luis's force | approximately 500 | approximately 100 survived | Prince Luis died and could not be resurrected |
+| Prince Luis's force | approximately 500 | approximately 100 survived | Prince Luis died and was later restored through Demidius's expensive ritual |
 | Party-aligned force | approximately 250 | approximately 200 survived | Pete died but Hermes restored him away from the field; Alley died and passed her God save |
 
 The other named petty officers present survived. “Remained as ghouls” is

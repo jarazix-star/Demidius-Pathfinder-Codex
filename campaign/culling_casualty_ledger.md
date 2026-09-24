@@ -33,7 +33,7 @@ resurrection failure, and Culling eligibility.
 | Persephone's force | About 400 of 1,000 survived; Kamryn died and was resurrected |
 | Hades's force | About 500 of 1,000 survived; Ezra died and refused resurrection |
 | Hermes's force | About 100 of 250 remained as ghouls; Leo died and could not be resurrected |
-| Prince Luis's force | About 100 of 500 survived; Prince Luis died and could not be resurrected |
+| Prince Luis's force | About 100 of 500 survived; Prince Luis died and was later restored through Demidius's expensive ritual |
 | Party force | About 200 of 250 survived |
 
 Pete died and Hermes restored him away from the battlefield. Alley died but

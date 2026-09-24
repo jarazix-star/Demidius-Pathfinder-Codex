@@ -1,5 +1,126 @@
 ﻿# Change Log
 
+## 2026-09-23 - Campaign and artwork publication
+
+- Prepared the completed campaign corrections, new pages, and artwork for
+  user-authorized publication to the main repository and wiki.
+- Earlier unpublished checkpoints below describe the history of this release.
+
+## 2026-09-23 - New-page art complete
+
+- Installed approved Wanderer's Scarf and completed Focusing Wand, Iron Tyrant
+  armor, and Singular Godly Immunity amulet under delegated item-art approval.
+- All 25 generated-art tasks complete; both supplied-art pages preserved.
+- Person approval remains required. Original portraits retained. Nothing pushed.
+
+## 2026-09-23 - Hades-style character revisions
+
+- Installed approved Sword of Eris artifact portrait; nothing published.
+- Installed approved physical Heart of the Damned artwork; nothing published.
+- Installed approved Heart of Echidna artwork and recorded its approved
+  gem-organ appearance without inferring mechanics or biological provenance.
+- Installed approved Nebula's Embrace wand artwork; nothing published.
+- Installed approved Gamester's Coin artifact portrait; nothing published.
+- Installed approved Sapphire of Stubbornness ring artwork; nothing published.
+- Installed approved shipboard intelligence-dossier illustration; nothing published.
+- Installed approved Smokey/thirteen-bullets prophecy illustration; nothing published.
+- Installed approved symbolic Aevum succession illustration; nothing published.
+- Installed approved Nysian succession protest illustration; nothing published.
+- Installed approved Trazac barrier-collapse illustration, leaving disputed
+  causes unresolved. Nothing published.
+- Installed approved Children of Nysia relief-work illustration. Nothing published.
+- Installed approved Ash Prophet aftermath scene with corrected single-tail
+  Aristea anatomy. Continuing to Children of Nysia artwork; nothing published.
+- Recorded the Ash Prophet battle-room layout and four present adventurers;
+  prepared a reference-guided aftermath illustration for approval.
+- Installed approved Temple of Pyroth art and recorded its fortified char-black
+  appearance and abundant lit braziers. Nothing published.
+- Installed the approved lively Magorga landscape for Obsidian Key. The next
+  art subject is the Temple of Pyroth; its architecture remains unrecorded.
+- Hamlet's jeweled Hades-style revision approved and installed; original retained.
+- Theseus's Hades-style revision approved and installed; original retained.
+- Dom's Hades-style revision approved and installed; original retained.
+- Installed the selected Hades-style Oros portrait, retaining his original.
+- User requested matching revisions for Dom, Theseus, and Hamlet, individually
+  reviewed. Dom draft prepared; remaining revisions pending. Nothing published.
+
+## 2026-09-23 - Plane of the Apocalypse art approved
+
+- Saved and installed the approved elemental landscape. Recorded an optional
+  Hades-style Oros comparison draft without replacing his approved original.
+- Nothing published.
+
+## 2026-09-23 - Theseus portrait approved
+
+- Saved and installed Theseus's approved fleet-commander portrait. Continuing
+  sequential art review with the Plane of the Apocalypse; nothing published.
+
+## 2026-09-23 - Theseus clarification and art draft
+
+- Recorded Theseus as a mortal god of Aphrodite and champion of Poseidon;
+  human species remains tentative. Prepared a portrait for user review.
+
+## 2026-09-23 - Oros portrait approved
+
+- Saved and installed Oros's approved stealth-focused fey portrait. Recorded
+  his fey appearance and exceptional stealth without assigning a species or
+  treating the tentative level-30 recollection as a confirmed statistic.
+- Theseus is next for sequential art review. Nothing published.
+
+## 2026-09-23 - Hamlet portrait approved
+
+- Saved the approved portrait of the exceptionally fit, older human mercenary
+  Hamlet Boarsk and installed it on his wiki page. Art remains unpublished.
+
+## 2026-09-23 - Philomela's identity and attack revealed
+
+### Approved Pyroth art
+
+- Dom's portrait is now also approved and installed: reflective blue and red
+  scales, jewel-red eyes, and a smile showing pointed dragon teeth.
+
+- Installed the user-approved red Great Wyrm portrait with molten light beneath
+  his scales. Replaced the borrowed Ash Prophet illustration on Pyroth's page.
+- Art review remains sequential; Dom is next, pending appearance details.
+
+- Added the subsequent aftermath: hours of horrified screaming and laughter,
+  then odd calm; the portrait of Aphrodite prominently displayed with both
+  Demidius's and Philomela's blood; and his obsessive attention to teaching
+  Dom and showing Aristea his love. Updated the previously unknown disposition
+  of the painting. These observations establish no additional diagnosis or
+  game mechanic. Changes remain local.
+
+- Outcome confirmed: Demidius's *heal* contingency saved him from the otherwise
+  fatal attack; Aristea killed Philomela with a bloody sneak attack. Integrated
+  the supplied aftermath illustration and resolved the previously open outcome.
+
+- Recorded Philomela as a Hellknight assassin assigned to kill Demidius if he
+  became too powerful. Aphrodite enchanted her to free and care for him; after
+  Aphrodite's death ended that control, she moved to kill him.
+- Corrected claims of biological motherhood and bloodline transmission through
+  Philomela, preserved the childhood history, and left the attack's outcome open.
+- Added the dedicated event page and the supplied attack illustration.
+
+## Add the post-Culling intelligence dossier - 2026-09-23
+
+- Preserved the user's unordered current-era notes in a source-of-truth dossier
+  that separates witnessed facts, official assignments, attributed intelligence,
+  and public rumor without inventing a chronology.
+- Added the newly supplied artifact mechanics, corrected Pyroth's name, recorded
+  the party-wide immunity ritual, and expanded the Ash Prophet aftermath with
+  Dom, Hamlet Boarsk, the escaped clone, and the two experiments.
+- Corrected the main Necropolis records to reflect Prince Luis's later
+  restoration through Demidius's expensive ritual.
+- Extended the ordered endpoint through Pyroth's defeat, Apollo's resurrection
+  with the Horn of Resnik, Theseus's pursuit, the boon-assisted recovery of the
+  lost *Dawnrunner* and its captured tow, and the island confrontation in which
+  Poseidon fled wounded and Aphrodite was permanently destroyed.
+- Added the supplied canonical scene of Demidius painting the gods' battle,
+  falling into rapture when Aphrodite appeared, painting her, and collapsing
+  in horror at his grandmother's death. Preserved the supplied illustration in
+  the main and Wiki event-art collections and corrected older
+  “great-grandmother” references to **grandmother**.
+
 ## Consolidate the canonical campaign timeline - 2026-09-23
 
 - Made `campaign/timeline.md` the single canonical chronology, added the

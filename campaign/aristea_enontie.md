@@ -6,6 +6,10 @@ last_updated: 2026-07-24
 
 # Aristea Enontië
 
+After Aphrodite's death, Philomela attacked Demidius. His *heal* contingency
+saved him from the otherwise fatal attack, and Aristea killed Philomela with
+a bloody sneak attack. The exact spell or weapon used remains unrecorded.
+
 ![Definitive appearance of Aristea Enontië](../docs/assets/characters/aristea-enontie-definitive-reference.png)
 
 The appearance is definitive. Any lower-panel wording that calls Aristea

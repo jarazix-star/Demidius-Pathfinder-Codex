@@ -1,6 +1,6 @@
 ---
 title: The Arrival — Campaign Timeline
-version: 2.0.0
+version: 2.2.0
 status: canonical
 last_updated: 2026-09-23
 ---
@@ -45,14 +45,42 @@ campaign record supplies only relative order.
     The party then found and resurrected the real Oros. Maarin's agreement to
     become Oros's second refers to the restored true Oros and begins the next
     campaign movement.
-11. **War in the Isles:** Pyros nearly destroys the expedition and both ships;
+11. **War in the Isles:** Pyroth nearly destroys the expedition and both ships;
     the invasion enters the Obsidian Key in the Burner's former territory;
-    Demidius helps take the Temple of Pyros; Dom joins Demidius as a son; the
-    Ash Prophet is exposed as an ally of Fel.
+    Demidius helps take the Temple of Pyroth; the party defeats Pyroth; Dom
+    joins Demidius as a son; the Ash Prophet is exposed as an ally of Fel.
+    Before departing, Demidius uses the Horn of Resnik to resurrect Apollo.
+12. **Flight from Theseus and the island clash:** Theseus and his fleet pursue
+    the party. The party spends boons to escape and recover the lost
+    *Dawnrunner* together with a captured ship it is towing. Oros directs them
+    to safety, warns the New Gods about nearby Culling-eligible demigods, and
+    the resulting confrontation ends with Poseidon wounded and fleeing and
+    Aphrodite smote from existence permanently. While the gods fight, Demidius
+    paints the battle. Aphrodite's arrival fills him with rapture and he turns
+    to painting her; when she dies, he collapses in horror and grief for his
+    grandmother.
 
-**Current endpoint:** the Temple of Pyros has been taken in the Obsidian Key,
-Dom has attached himself to Demidius as a father figure, and the party has
-learned that the Ash Prophet was working with Fel.
+**Current endpoint:** after Pyroth's defeat, Apollo's resurrection, and the
+escape from Theseus, the party has beached on an island. The New Gods'
+intervention against Theseus's Culling-eligible demigod allies ended with
+Poseidon fleeing wounded and Aphrodite permanently destroyed.
+
+Immediately afterward, Philomela was revealed as a Hellknight assassin rather
+than Demidius's mother. Aphrodite's enchantment had compelled her to free and
+care for him; with that control ended, she moved to kill him. His *heal*
+contingency saved him from the otherwise fatal attack. Aristea then killed
+Philomela with a bloody sneak attack. Demidius screamed and laughed in horror
+for hours before becoming oddly calm. He displayed his portrait of Aphrodite,
+stained with his and Philomela's blood, prominently aboard ship. He now spends
+extra time obsessively teaching Dom and showing Aristea his love.
+
+The supplied post-Culling notes also record recovered artifacts, the partially
+claimed Plane of the Apocalypse, Pyroth, the Obsidian Key and Magorga, political
+violence and a special election in Old Nysia, Demidius's order to eliminate the
+Children of Nysia, the fall of Trazac's barrier, widening international wars,
+Maarin's newest Dark Prophecy concerning Smokey Roberts and thirteen prismatic
+bullets, and Hamlet Boarsk's debrief. Their exact relative order is not supplied;
+see [Post-Culling Intelligence and Rumors](post-culling-intelligence.md).
 
 ## Dated anchors
 
@@ -92,7 +120,7 @@ arc order above.
 
 ### Philomela escapes Lodingen with Demidius
 
-During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with her son and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the Tagata Fetu on Motu Leilani.
+During Demidius's childhood, armored figures monitored and tested him in Lodingen. Philomela Thorne fled with Demidius and later identified their pursuers as the Hellknight Order of the Godclaw, without explaining why the order wanted his bloodline. They found refuge among the Tagata Fetu on Motu Leilani.
 
 ### Demidius leaves Motu Leilani
 

@@ -1,55 +1,80 @@
 ---
 title: The Arrival — Campaign Timeline
-version: 2.2.0
+version: 2.3.0
 status: canonical
-last_updated: 2026-09-23
+last_updated: 2026-09-25
 ---
 
 # The Arrival — Campaign Timeline
 
-This is the canonical campaign chronology. The player's September 2026 master
-arc outline controls event placement; older repository and wiki records supply
-detail but do not override this sequence. Exact dates remain open where the
-campaign record supplies only relative order.
+This is the canonical campaign chronology, revised from the player's September
+2026 reordered outline. Exact dates and any disputed placements remain open.
+
+## Backstory before 150 P.A.
+
+- Poseidon's storm kills Maarin's family; its exact date is unrecorded.
+- The Olympian Council bans *The Mother's Lament* after the fall of the Titans.
+- Demidius leaves Motu Leilani to seek his siblings.
+- Paradox escapes the Godclaw and later has seven reported wives.
+- Paradox and Siopi's vessel is lost to a kraken before the Sounon awakening.
+- **150 P.A.:** the campaign begins on Sounon.
 
 ## Canonical arc order
 
 1. **The Beginning — Sounon Isles:** awakening after ten years of magical
-   stasis; liberation of the enslaved grippli; the first Scepter of Keto
-   sequence; the stone-man/Filius prophecy; loss of Paradox.
-2. **Volcaris:** the Destroyer prophecy; meetings with Tenor and Nyssa;
-   recovery and hatching of Okeanikos; *The Mother's Lament*.
+   stasis; liberation of the enslaved grippli; Scepter of Keto Part I; the
+   stone-man/Filius vision (Maarin's third Dark Prophecy); loss of Paradox.
+2. **Volcaris:** the Okeanikos/Destroyer prophecy; meetings with Tenor and
+   Nyssa; recovery of Okeanikos's egg; *The Mother's Lament*; Okeanikos hatches
+   and Maarin later petitions Nereus.
 3. **Temple of Sarpedon:** the Scepter connector piece; Filius enters the
    active story; Nyssa's betrayal.
-4. **Portal to Old Nysia:** Terra Obscura; the Maker's Knot; the raid and
-   expedition into the Necropolis; Aurellion and the Silent Court aftermath;
-   acquisition of the Key of Daedalus. The Necropolis expedition belongs here,
-   before Queen Beaumont's mission and Misthold.
-5. **Queen Beaumont's mission:** the new *Dawnrunner* and *Matcha Frappuccino*;
-   the commission to recover Odysseus; Tulip and Alley's wedding immediately
-   before the mission.
-6. **Misthold:** the great games; Odysseus and the divine prisoners; the battle
-   among Smokey Roberts's children; Maarin's wave; Gideon's Sunshot.
-7. **Stormspire:** the wayfinding crisis; trade and the festival diversion;
-   final Scepter component; Odysseus's sabotage; Maarin saves the settlement.
+4. **Portal to Old Nysia:** the Journey to Nysia, Tradegulf, and commissioning
+   the new ships; Court of Roses and Terra Obscura; the Maker's Knot and
+   Necropolis raid; Demidius inherits his brother's demiplane, takes custody
+   of the Deck of Many Things, and shares the demiplane's blessing with Aristea.
+5. **Key of Daedalus and Beaumont's commission:** the Key is acquired and first
+   used; Demidius receives Hermes's gifts. Siopi dies on a date not recorded,
+   before the Misthold tournament. Queen Beaumont commissions the party to
+   recover Odysseus; Tulip and Alley marry immediately before the mission.
+   The exact order among the Key, gifts, and Siopi's death remains unconfirmed.
+6. **Misthold:** the festival and tournament; contact with an agent to find
+   Odysseus; battle among Smokey Roberts's children; rescue of Odysseus and
+   other prisoners; Maarin's wave; Gideon's Sunshot.
+7. **Stormspire:** Roberts intensifies the Isles' curse; the Stormspire
+   operation, trade with the giants, and cookoff; Odysseus obtains Scepter of
+   Keto Part III and sabotages the city; Maarin saves the settlement.
 8. **Return to Nysia:** the ships are parked in Volcaris and the party returns
-   to Nysia by teleportation.
-9. **Declan invades Nysia:** the Underworld/Crossroads approach; defense of
-   Tradegulf; Eris triggers the Culling early, kills Aristea, and claims Amparo;
-   Tenor dies; Queen Beaumont kills Ares.
-10. **Aftermath and rebuilding Tradegulf:** the Grand Artifact Auction;
-    Demidius's Crafter's Bow address, relief work, and selection as mayor;
-    defeat of the false Oros; Demidius and Amparo become Champions; Aristea
-    returns; Dame Mathilda accepts the Sunlit Chain. Aelwyn was proposed as
-    Mathilda's second before Demidius persuaded her to appoint him instead.
-    The party then found and resurrected the real Oros. Maarin's agreement to
-    become Oros's second refers to the restored true Oros and begins the next
-    campaign movement.
-11. **War in the Isles:** Pyroth nearly destroys the expedition and both ships;
-    the invasion enters the Obsidian Key in the Burner's former territory;
-    Demidius helps take the Temple of Pyroth; the party defeats Pyroth; Dom
-    joins Demidius as a son; the Ash Prophet is exposed as an ally of Fel.
-    Before departing, Demidius uses the Horn of Resnik to resurrect Apollo.
+   to Nysia by teleportation. Demidius receives the Glasses of Beaumont.
+9. **Declan's invasion and the Battle for Tradegulf:** the
+   Underworld/Crossroads attack reaches Tradegulf; Eris manipulates the death
+   limit, triggering the Culling early. Gideon and Crystal are kidnapped
+   during the Culling.
+   Aristea and Tenor die, Aristea's soul is taken to Tartarus, Eris claims
+   Amparo, and Declan falls. The exact order of the abductions and battle is
+   unrecorded. Beaumont kills Ares as the Culling opens.
+10. **Aftermath and rebuilding Tradegulf:** the Grand Artifact Auction,
+    Demidius's address to the Crafter's Bow, his selection as mayor, and
+    Aristea's return in a kobold body. Demidius retrieves Philomela from
+    Lodingen; she and Aristea reunite with him in Tradegulf. The false Oros
+    falls a few days after the address, and the party later resurrects the
+    true Oros. Mathilda accepts the Sunlit Chain and appoints Demidius her
+    second. She gives him 250,000 gp for recruitment: he hires 60 officer-level
+    adventurers, takes around 30 through the Apocalypse domain, and directs
+    most of the fund to Mathilda's rank-and-file army while retaining Hamlet.
+    Demidius is building his personal guard, “the 100”; its current strength
+    and overlap with the recruits are unknown. Maarin agrees to be the true
+    Oros's second and brings the war to the Isles.
+11. **War in the Isles:** Maarin, Roy, and Amparo travel toward Volcaris and
+    encounter claimants to Okeanikos's domain. Pyroth nearly kills them and
+    almost destroys the *Dawnrunner* and *Matcha Frappuccino*. Maarin's invasion
+    reaches the Isles; the specific island remains unconfirmed. Demidius helps
+    take the Temple of Pyroth. The Ash Prophet is defeated, a clone escapes,
+    one experiment dies, and Demidius saves and names Dom. The Prophet, high
+    priest and son of Pyroth, was working with Fel. The group uses Hamlet's
+    amulet to gain immunity to
+    Pyroth's power, then defeats Pyroth. Before departing, Demidius uses the
+    Horn of Resnik to resurrect Apollo.
 12. **Flight from Theseus and the island clash:** Theseus and his fleet pursue
     the party. The party spends boons to escape and recover the lost
     *Dawnrunner* together with a captured ship it is towing. Oros directs them
@@ -213,11 +238,13 @@ refers to the restored true Oros.
 
 ## Open chronology questions
 
-- When did Demidius's brother die, and when did the inheritance occur?
+- When did Demidius's brother die, and when exactly did the inheritance occur
+  within the Old Nysian arc?
 - When did Maarin receive the prophecy, where was Okeanikos's egg found, and who else sought it?
-- Was the Key of Daedalus acquired before or after the demiplane?
+- The reordered outline places the Key after the Necropolis and demiplane
+  inheritance; what were the exact acquisition and first-use dates?
 - When did Hermes grant each divine gift?
-- When and why did Beaumont present the glasses?
+- Why did Beaumont present the glasses during the return to Nysia?
 - When and where did Poseidon's storm kill Maarin's family?
 - When exactly did the Battle for Tradegulf occur?
 - What was the personal name of the kobold mortal god of Fel who impersonated Oros?

@@ -13,6 +13,14 @@ identity reference and dedicated details of his earrings and eyebrow piercing.
 
 Demidius Thorne is a 17th-level Charisma-centered oracle, mythic controller, captain of the Dawnrunner, party face, demigod, and Champion of Hermes. His build is designed around **certainty and leverage**. Where another character may end an encounter with damage, Demidius makes sure that character gets the opportunity to do so.
 
+## The 100 — personal guard in formation
+
+Demidius is building a personal guard called **"the 100"**. The name is
+confirmed, but its current membership and strength are not yet recorded.
+Its relationship to the 60 officer-level adventurers recruited with
+Mathilda's funding, the Dawnrunner crew, and the Thorne Knights has not yet
+been specified.
+
 ## Role in the party
 
 Demidius's preferred sequence is deliberate:

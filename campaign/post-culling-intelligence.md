@@ -135,6 +135,20 @@ circumstances.
 
 ## Oros, Mathilda, and recruitment for the war
 
+Demidius is building a personal guard called **"the 100"**. The name is
+confirmed, but its current membership and strength are not yet recorded.
+Its relationship to the 60 officer-level adventurers recruited with
+Mathilda's funding, the Dawnrunner crew, and the Thorne Knights has not yet
+been specified.
+
+After Demidius persuaded Dame Mathilda to appoint him as her second, she gave
+him **250,000 gp** to help recruit. With this funding he hired **60 officer-level
+adventurers**, around **30** of whom he brought through the Apocalypse domain.
+Most of the money went toward hiring rank-and-file soldiers for Mathilda's
+army; Demidius is also using the fund to keep Hamlet Boarsk on the payroll.
+The exact spending breakdown, remaining balance, and Hamlet's pay rate are
+not yet recorded.
+
 Public reports say Oros of the Blossom has “bloomed again.” His Aevum bounty
 was first reported to have risen from 500,000 gp to 2,000,000 gp and later to
 3,000,000 gp. Rumor attributes the increase to his attacks on evil nobles, but
@@ -224,7 +238,8 @@ explicit confirmation rather than being inferred here.
 
 ## Hamlet Boarsk debrief
 
-After defeating the Ash Prophet, the party hired his follower Hamlet Boarsk.
+After defeating the Ash Prophet, Pyroth's son and high priest, the party hired
+his follower Hamlet Boarsk.
 The following claims are attributed to Hamlet after the party ordered him to
 tell them everything and filtered out irrelevant material.
 

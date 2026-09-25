@@ -1,5 +1,21 @@
 ﻿# Change Log
 
+## 2026-09-25 - Reconcile revised campaign arc order
+
+- Reordered the canonical timeline from the player's revised outline, adding
+  pre-campaign backstory and detailed Old Nysia, Misthold, Tradegulf, and Isles
+  transitions. Kept the confirmed pre-Misthold wedding and third Filius vision.
+- Recorded the Ash Prophet as Pyroth's son and high priest; retained the
+  previously corrected spelling Pyroth.
+
+## 2026-09-23 - Mathilda's recruitment funding
+
+- Recorded "the 100" as Demidius's personal guard in formation, without
+  assuming a current strength or membership overlap with other forces.
+- Recorded the 250,000 gp fund, 60 officer-level recruits, approximately 30
+  brought through the Apocalypse domain, rank-and-file spending, and Hamlet's
+  ongoing payroll. Exact costs and remaining balance remain unknown.
+
 ## 2026-09-23 - Campaign and artwork publication
 
 - Prepared the completed campaign corrections, new pages, and artwork for

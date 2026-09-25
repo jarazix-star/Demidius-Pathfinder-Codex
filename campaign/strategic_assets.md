@@ -43,6 +43,14 @@ The Key can bypass ordinary and magical locks, create three planar corridors per
 
 **Standing procedure:** Treat each corridor as a temporary border. Record both endpoints and expiration, establish watches or wards on both sides, and avoid opening a route that cannot be secured for its full duration.
 
+## The 100 — personal guard in formation
+
+Demidius is building a personal guard called **"the 100"**. The name is
+confirmed, but its current membership and strength are not yet recorded.
+Its relationship to the 60 officer-level adventurers recruited with
+Mathilda's funding, the Dawnrunner crew, and the Thorne Knights has not yet
+been specified.
+
 ## Dawnrunner
 
 The Dawnrunner is a galleon that combines transport, headquarters, symbol of authority, and organizational center. It is the platform through which Epic Leadership becomes a functioning crew, **Thorne Knight** force, and officer corps. All soldiers aboard the ship bear the title Thorne Knights. The roster and an explicitly outdated workbook statistics snapshot are summarized in the [Dawnrunner vessel and crew record](../docs/dawnrunner.md).

@@ -146,8 +146,8 @@ him **250,000 gp** to help recruit. With this funding he hired **60 officer-leve
 adventurers**, around **30** of whom he brought through the Apocalypse domain.
 Most of the money went toward hiring rank-and-file soldiers for Mathilda's
 army; Demidius is also using the fund to keep Hamlet Boarsk on the payroll.
-The exact spending breakdown, remaining balance, and Hamlet's pay rate are
-not yet recorded.
+Hamlet has received a recorded **15,000 gp** payment. The period covered,
+remaining grant balance, and other recruitment costs are not yet recorded.
 
 Public reports say Oros of the Blossom has “bloomed again.” His Aevum bounty
 was first reported to have risen from 500,000 gp to 2,000,000 gp and later to

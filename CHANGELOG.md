@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## 2026-09-25 - Record Hamlet payroll in campaign dossier
+
+- Updated the post-Culling dossier with the 15,000 gp payment to Hamlet;
+  payment period and other recruitment spending remain unrecorded.
+
 ## 2026-09-25 - Reconcile revised campaign arc order
 
 - Reordered the canonical timeline from the player's revised outline, adding

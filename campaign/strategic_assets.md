@@ -51,9 +51,9 @@ feed and arm them, but no cost or payment for those needs has been set or
 recorded. Current strength and any overlap with the 60 hired officer-level
 adventurers, the Dawnrunner crew, or the Thorne Knights remain unrecorded.
 
-The chosen visual design uses blackened bronze hoplite armor, open-faced helms,
-crimson cloaks, round shields with Demidius's personal heraldry, and silver
-wing details. Armor statistics, equipment assignments, and costs remain open.
+The chosen silhouette uses hoplite-inspired armor, open-faced helmets with
+silver wing designs, crimson cloaks, and round shields. Armor colors and shield
+symbols are under review. Statistics, equipment assignments, and costs remain open.
 
 ## Dawnrunner
 

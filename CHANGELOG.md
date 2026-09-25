@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## 2026-09-25 - Refine Hekaton armor direction
+
+- Confirmed the open-faced winged helmet design. Armor colors and shield
+  symbols are under review through visual mockups; blackened bronze is not final.
+
 ## 2026-09-25 - Name Demidius's personal guard Hekaton
 
 - Adopted the user-selected name Hekaton, retaining “the 100” as its former

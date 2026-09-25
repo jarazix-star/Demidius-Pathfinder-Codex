@@ -135,11 +135,11 @@ circumstances.
 
 ## Oros, Mathilda, and recruitment for the war
 
-Demidius is building a personal guard called **"the 100"**. The name is
-confirmed, but its current membership and strength are not yet recorded.
-Its relationship to the 60 officer-level adventurers recruited with
-Mathilda's funding, the Dawnrunner crew, and the Thorne Knights has not yet
-been specified.
+Demidius is building a personal guard called **"the 100"**. Its members
+are followers, so joining the guard has no hiring cost. Demidius must still
+feed and arm them, but no cost or payment for those needs has been set or
+recorded. Current strength and any overlap with the 60 hired officer-level
+adventurers, the Dawnrunner crew, or the Thorne Knights remain unrecorded.
 
 After Demidius persuaded Dame Mathilda to appoint him as her second, she gave
 him **250,000 gp** to help recruit. With this funding he hired **60 officer-level

@@ -62,8 +62,10 @@ This is the canonical campaign chronology, revised from the player's September
     second. She gives him 250,000 gp for recruitment: he hires 60 officer-level
     adventurers, takes around 30 through the Apocalypse domain, and directs
     most of the fund to Mathilda's rank-and-file army while retaining Hamlet.
-    Demidius is building his personal guard, “the 100”; its current strength
-    and overlap with the recruits are unknown. Maarin agrees to be the true
+    Demidius is building his personal guard, “the 100,” from followers who
+    require no hiring payment. Food and arms will cost money, but no amount
+    has been set. Its current strength and overlap with the recruits are
+    unknown. Maarin agrees to be the true
     Oros's second and brings the war to the Isles.
 11. **War in the Isles:** Maarin, Roy, and Amparo travel toward Volcaris and
     encounter claimants to Okeanikos's domain. Pyroth nearly kills them and

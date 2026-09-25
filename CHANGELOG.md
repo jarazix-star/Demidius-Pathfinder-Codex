@@ -1,5 +1,10 @@
 ﻿# Change Log
 
+## 2026-09-25 - Clarify the 100 as followers
+
+- Recorded that the 100 require no hiring payment; food and equipment costs
+  remain unset. No invented expense was added to the ledger.
+
 ## 2026-09-25 - Record Hamlet payroll in campaign dossier
 
 - Updated the post-Culling dossier with the 15,000 gp payment to Hamlet;

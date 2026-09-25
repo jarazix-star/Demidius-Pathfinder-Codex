@@ -1,5 +1,11 @@
 ﻿# Change Log
 
+## 2026-09-25 - Name Demidius's personal guard Hekaton
+
+- Adopted the user-selected name Hekaton, retaining “the 100” as its former
+  name. Recorded the chosen blackened bronze hoplite armor direction without
+  assigning game statistics or costs.
+
 ## 2026-09-25 - Clarify the 100 as followers
 
 - Recorded that the 100 require no hiring payment; food and equipment costs

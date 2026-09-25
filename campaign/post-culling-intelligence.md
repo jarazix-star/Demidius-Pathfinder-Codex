@@ -135,7 +135,7 @@ circumstances.
 
 ## Oros, Mathilda, and recruitment for the war
 
-Demidius is building a personal guard called **"the 100"**. Its members
+Demidius is building a personal guard called **Hekaton**, formerly “the 100.” Its members
 are followers, so joining the guard has no hiring cost. Demidius must still
 feed and arm them, but no cost or payment for those needs has been set or
 recorded. Current strength and any overlap with the 60 hired officer-level

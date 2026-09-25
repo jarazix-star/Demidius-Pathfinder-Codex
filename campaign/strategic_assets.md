@@ -43,13 +43,17 @@ The Key can bypass ordinary and magical locks, create three planar corridors per
 
 **Standing procedure:** Treat each corridor as a temporary border. Record both endpoints and expiration, establish watches or wards on both sides, and avoid opening a route that cannot be secured for its full duration.
 
-## The 100 — personal guard in formation
+## Hekaton — personal guard in formation
 
-Demidius is building a personal guard called **"the 100"**. Its members
+Demidius is building a personal guard called **Hekaton**, formerly “the 100.” Its members
 are followers, so joining the guard has no hiring cost. Demidius must still
 feed and arm them, but no cost or payment for those needs has been set or
 recorded. Current strength and any overlap with the 60 hired officer-level
 adventurers, the Dawnrunner crew, or the Thorne Knights remain unrecorded.
+
+The chosen visual design uses blackened bronze hoplite armor, open-faced helms,
+crimson cloaks, round shields with Demidius's personal heraldry, and silver
+wing details. Armor statistics, equipment assignments, and costs remain open.
 
 ## Dawnrunner
 

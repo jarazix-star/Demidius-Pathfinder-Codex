@@ -319,8 +319,10 @@ Unlike most reports in this dossier, the following order was supplied
 explicitly:
 
 1. The party defeated Pyroth.
-2. Before departing, Demidius used his Horn of Resnik artifact to resurrect
-   the dead Apollo.
+2. Before departing, Demidius blew his Horn of Resnik artifact to resurrect
+   the dead Apollo. Hermes rewarded him with three boons for the deed. Their
+   effects and subsequent use are unrecorded; their connection to the boons
+   spent during the following escape is unconfirmed.
 3. Theseus and his fleet found the party and pursued them.
 4. The party used boons to escape and to bring away the lost *Dawnrunner* and
    a captured ship it was towing.

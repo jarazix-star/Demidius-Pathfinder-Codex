@@ -75,8 +75,9 @@ This is the canonical campaign chronology, revised from the player's September
     one experiment dies, and Demidius saves and names Dom. The Prophet, high
     priest and son of Pyroth, was working with Fel. The group uses Hamlet's
     amulet to gain immunity to
-    Pyroth's power, then defeats Pyroth. Before departing, Demidius uses the
-    Horn of Resnik to resurrect Apollo.
+    Pyroth's power, then defeats Pyroth. Before departing, Demidius blows the
+    Horn of Resnik to resurrect Apollo. Hermes rewards him with three boons
+    for the deed; their effects and subsequent use remain unrecorded.
 12. **Flight from Theseus and the island clash:** Theseus and his fleet pursue
     the party. The party spends boons to escape and recover the lost
     *Dawnrunner* together with a captured ship it is towing. Oros directs them

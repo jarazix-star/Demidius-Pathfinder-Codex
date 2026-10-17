@@ -1,5 +1,12 @@
 ﻿# Change Log
 
+## 2026-09-26 - Apollo's resurrection and Hermes's reward
+
+- Recorded that Demidius blew the Horn of Resnik to bring Apollo back from
+  the dead and received three boons from Hermes for the deed. Boon effects
+  and subsequent expenditure remain unrecorded.
+- Preserved the event illustration in the Wiki asset mirror.
+
 ## 2026-09-25 - Refine Hekaton armor direction
 
 - Confirmed the open-faced winged helmet design. Armor colors and shield
